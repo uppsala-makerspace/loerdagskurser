@@ -54,6 +54,14 @@ Om du vet när du kommer är det trevligt om du berättar det för Richel: `rich
 
 Har du en annan fråga? Se [vanliga frågor](faq.md).
 
+## Böcker
+
+Kurs         |Bok
+-------------|-------------------------------------------------------------
+Arduino      |![](pics/CC-BY-NC-SA.png)[Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar) 
+Blender      | -
+Programmering|![](pics/CC-BY-NC-SA.png)[Processing för ungdomar'](https://github.com/richelbilderbeek/processing_foer_ungdomar) och ![](pics/CC-BY-NC-SA.png)[git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+
 ## Betalning
 
 Kursen kostar 400 kr för Uppsala Makerspace medlemmar
@@ -102,10 +110,4 @@ har fina bilder.
    * Blenderkurs hemsida :construction:
    * ['Programmeringskurs' hemsida](https://github.com/richelbilderbeek/programmeringskurs)
    * [Programmeringslag 'tresinformal'](https://github.com/tresinformal/game) för 13-88 åriga
- * Böcker (alfapetiskt)
-   * [Kursbok: 'Arduino för ungdomar'](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
-   * Kursbok Blender :construction:
-   * [Kursbok 'git for youngsters'](https://codeberg.org/richelbilderbeek/git_for_youngsters)
-   * [Kursbok: 'Processing för ungdomar'](https://github.com/richelbilderbeek/processing_foer_ungdomar)
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
-
