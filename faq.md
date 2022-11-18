@@ -301,13 +301,29 @@ From poll on UMS Slack:
 ### Vem är volontärer?
 
  * Björn
+ * Christoffer
+ * Janne
  * Richel
 
 ### Vem är Björn?
 
 Björn är volontär på kursen. 
 
+Han är bäst med Arduino och Blender.
+
 Han skapar allt som helst och ger Blender kurser också.
+
+### Vem är Christoffer?
+
+Christoffer är volontär på kursen. 
+
+Han är bäst med programmering.
+
+### Vem är Janne
+
+Janne är volontär på kursen. 
+
+Han är bäst med programmering.
 
 ### Vem är [Richel](https://github.com/richelbilderbeek)?
 
@@ -326,11 +342,8 @@ Hans arbete kan ses på
 och [mer än 1200 GitHub-arkiv](https://github.com/richelbilderbeek?tab=repositories).
 Självklart har han gjört [många datorspelar](https://github.com/richelbilderbeek/games).
 
-På dagtid jobbar Richel som [forskare på Uppsala Universitet](https://katalog.uu.se/empinfo/?id=N21-617).
-
 ## 🇬🇧🇺🇦 Frequently asked questions
 
 In short: you are always welcome, just show up between 10:00-12:00. 
 There is coffee and tea for parents and laptops and programming exercise
 for the kids :-)
-
