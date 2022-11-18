@@ -58,6 +58,14 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
+46   |2022-11-19|12. [Efterfarsdag](activities/20221119_efterfarsdag/20221119_efterfarsdag/README.md) (också farfar, morfar, osv)
+47   |2022-11-26|13. Förbereda slutpresentation, 3/4
+48   |2022-12-03|14. Förbereda och öva slutpresentation, 4/4
+49   |2022-12-10|15. [Slutpresentation och utvärdering](activities/20221210_slutpresentation/README.md) (varje en är välkomna)
+50   |2022-12-17|16. Sista dag
+51   |2022-12-24|Jullov
+52   |2022-12-31|Jullov
+52   |2022-12-30|Jullov
  1   |2023-01-07| 1. Kurser förtsätter igen
  2   |2023-01-14| 2.
  3   |2023-01-21| 3. 
@@ -82,6 +90,16 @@ Vecka| Dag      |Vad
 21   |2023-05-27| 18. Öva slutpresentation
 22   |2023-06-03| 19. Slutpresentation
 23   |2023-06-10| 20. Sista kursdag
+24   |2023-06-17| Sommarlov, ej kurs
+25   |2023-06-24| Sommarlov, ej kurs
+26   |2023-07-01| Sommarlov, ej kurs
+27   |2023-07-08| Sommarlov, ej kurs
+28   |2023-07-15| Sommarlov, ej kurs
+29   |2023-07-22| Sommarlov, ej kurs
+30   |2023-07-29| Sommarlov, ej kurs
+31   |2023-08-05| Sommarlov, ej kurs
+32   |2023-08-12| Sommarlov, ej kurs
+33   |2023-08-19| Sommarlov, ej kurs
 34   |2023-08-26| 1. Kurs förtsätter igen
 
  * [1] Morsdag är den 28:e maj
