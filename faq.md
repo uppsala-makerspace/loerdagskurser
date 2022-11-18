@@ -12,9 +12,9 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
  * Komma igång
  * Ålder på deltagare
  * Kursmaterial
- * Programmeringsspråk - Arduino (C++)
+ * Programmeringsspråk - Arduino (C++): se [FAQ om Arduino](faq_arduino.md)
  * Blender :construction:
- * Programmeringsspråk - Processing (Java) :construction:
+ * Programmeringsspråk - Processing (Java): se [FAQ om Processing](faq_processing.md)
  * Förväntningar på deltagande (barn)
  * Förväntningar på föräldrar
  * Förväntningar på volontärer / frivilliga
@@ -90,10 +90,15 @@ Också, du får ädrar texten, så långe du skriver också original version (`B
 
 ## Arduino (programmeringsspråket)
 
-### Är Arduino en programmeringsspråket?
+se [FAQ om Arduino](faq_arduino.md).
 
-Programmeringsspråket används för att programmerar
-en Arduino är en dialekt av C++.
+## Blender
+
+:construction:
+
+## Processing (programmeringsspråket)
+
+se [FAQ om Processing](faq_processing.md)
 
 ## Förväntningar på deltagande (barn)
 
