@@ -10,7 +10,7 @@ På lördag gör vi coola grejer i Uppsala Makerspace för elever i ålder 8 til
 
 Kurs                                                       |Vad                                                                      |Bok
 -----------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------
-![Arduino logo](pics/arduino_logo.png) Arduino             |En kretskort som programmeras för att bygga maskiner                     | ![](pics/CC-BY-NC-SA.png)[Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar) 
+![Arduino logo](pics/arduino_community_logo_65x32.png) Arduino             |En kretskort som programmeras för att bygga maskiner                     | ![](pics/CC-BY-NC-SA.png)[Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar) 
 ![Blender logo](pics/blender_logo.png) Blender             |En 3D ritnings program för att, t.ex. 3D schrivning                      | :construction:
 ![Processing logo](pics/processing_logo.png) Programmering |Skapar datorspel, med, bland annat, programmerspråket Processing         |![](pics/CC-BY-NC-SA.png)[Processing för ungdomar'](https://github.com/richelbilderbeek/processing_foer_ungdomar) och ![](pics/CC-BY-NC-SA.png)[git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
 
