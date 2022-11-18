@@ -1,6 +1,4 @@
-# Lördagskurser
-
-![](pics/uppsala_makerspace_50.png)![](pics/arduino_50.jpg)
+# Lördagskurser ![](pics/uppsala_makerspace_62_x_64.png)
 
 > If you are from Ukraine, you are welcome! See [FAQ](faq.md)
 >
