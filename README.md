@@ -205,3 +205,5 @@ Galenlektion:
 
  * [Programmeringslag 'tresinformal'](https://github.com/tresinformal/game) för 13-88 åriga
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
+ * [LaserMaze: en Arduino project](https://github.com/yurtman/LaserMaze) 
+
