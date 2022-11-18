@@ -8,11 +8,11 @@
 
 På lördag gör vi coola grejer i Uppsala Makerspace för elever i ålder 8 till 88:
 
-Kurs                                                                    |Vad                                                                      |Bok
-------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------
-![Arduino logo](pics/arduino_community_logo_65x32.png) Arduino          |En kretskort som programmeras för att bygga maskiner                     | ![](pics/CC-BY-NC-SA.png)[Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar) 
-![Blender logo](pics/blender_community_badge_white_39_x_32.png) Blender |En 3D ritnings program för att, t.ex. 3D schrivning                      | :construction:
-![Processing logo](pics/processing4_logo_36_x_32.png) Programmering     |Skapar datorspel, med, bland annat, programmerspråket Processing         |![](pics/CC-BY-NC-SA.png)[Processing för ungdomar'](https://github.com/richelbilderbeek/processing_foer_ungdomar) och ![](pics/CC-BY-NC-SA.png)[git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+Kurs                                                                        |Vad                                                                      |Bok
+----------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------
+![Arduino logo](pics/arduino_community_logo_65x32.png) **Arduino**          |En kretskort som programmeras för att bygga maskiner                     | [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar) 
+![Blender logo](pics/blender_community_badge_white_39_x_32.png) **Blender** |En 3D ritnings program för att, t.ex. 3D schrivning                      | :construction:
+![Processing logo](pics/processing4_logo_36_x_32.png) **Programmering**     |Skapar datorspel, med, bland annat, programmerspråket Processing         | [Processing för ungdomar'](https://github.com/richelbilderbeek/processing_foer_ungdomar) och ![](pics/CC-BY-NC-SA.png)[git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
 
 Varja gång du kommer i, får du välje en av den kurser för den där dag.
 
