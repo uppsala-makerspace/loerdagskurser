@@ -75,7 +75,7 @@ Vecka| Dag      |Vad
  8   |2023-02-25| 7.
  9   |2023-03-04| 8.
 10   |2023-03-11| 9.
- .   |2023-03-14| [Pi Dag](https://github.com/richelbilderbeek/pi_day)
+ .   |2023-03-14| [Pi Dag](https://github.com/richelbilderbeek/pi_day) 6:15 @ Olof Palmes Plats
 11   |2023-03-18| 10.
 12   |2023-03-25| 11.
 13   |2023-04-01| Början Påsklov, ej kurs
@@ -95,7 +95,7 @@ Vecka| Dag      |Vad
 27   |2023-07-08| Sommarlov, ej kurs
 28   |2023-07-15| Sommarlov, ej kurs
 29   |2023-07-22| Sommarlov, ej kurs
- .   |2023-07-22| [Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day)
+ .   |2023-07-22| [Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day) 7:22 @ Uppsala Slott
 30   |2023-07-29| Sommarlov, ej kurs
 31   |2023-08-05| Sommarlov, ej kurs
 32   |2023-08-12| Sommarlov, ej kurs
