@@ -185,9 +185,5 @@ Galenlektion:
 
 ## Länkar
 
- * Kurser (alfapetiskt)
-   * ['Arduinokurs' hemsida](https://github.com/richelbilderbeek/arduinokurs)
-   * Blenderkurs hemsida :construction:
-   * ['Programmeringskurs' hemsida](https://github.com/richelbilderbeek/programmeringskurs)
-   * [Programmeringslag 'tresinformal'](https://github.com/tresinformal/game) för 13-88 åriga
+ * [Programmeringslag 'tresinformal'](https://github.com/tresinformal/game) för 13-88 åriga
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
