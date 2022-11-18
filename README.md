@@ -62,6 +62,49 @@ Arduino      |![](pics/CC-BY-NC-SA.png)[Arduino för ungdomar](https://github.co
 Blender      | -
 Programmering|![](pics/CC-BY-NC-SA.png)[Processing för ungdomar'](https://github.com/richelbilderbeek/processing_foer_ungdomar) och ![](pics/CC-BY-NC-SA.png)[git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
 
+## Veckoschema
+
+Vecka| Dag      |Vad
+-----|----------|-------------------------------------
+ 1   |2023-01-07| 1. Kurser förtsätter igen
+ 2   |2023-01-14| 2.
+ 3   |2023-01-21| 3. 
+ 4   |2023-01-28| 4. 
+ 5   |2023-02-04| 5. 
+ 6   |2023-02-11| 6.
+ 7   |2023-02-18| Sportlov, ej kurs 
+ 8   |2023-02-25| 7.
+ 9   |2023-03-04| 8.
+10   |2023-03-11| 9.
+11   |2023-03-18| 10.
+12   |2023-03-25| 11. (Våffeldagen)
+13   |2023-04-01| Påsklov, ej kurs
+14   |2023-04-08| 12. Eftermorsdag [1]
+15   |2023-04-15| 13. Börjar skapa slutpresentation
+16   |2023-04-22| 14. 
+17   |2023-04-29| ?Valborg, ej kurs
+18   |2023-05-06| 15. (?BG)
+19   |2023-05-13| 16.
+20   |2023-05-20| 17.
+21   |2023-05-27| 18. Öva slutpresentation
+22   |2023-06-03| 19. Slutpresentation
+23   |2023-06-10| 20. Sista kursdag
+34   |2023-08-26| 1. Kurs förtsätter igen
+
+ * [1] Morsdag är den 28:e maj
+
+## Årschema
+
+Detta är det övergripande schemat. Ser veckoschema för detaljerna.
+
+När      |Vad
+---------|----------------------------
+Januari  |Kursen 1:e semester
+Juli     |Presentation och utvärdering 
+Augusti  |Sommarlov
+September|Kursen 2:e semester
+December |Presentation och utvärdering
+
 ## Betalning
 
 Kursen kostar 400 kr för Uppsala Makerspace medlemmar
@@ -79,24 +122,6 @@ till exempel:
 ```
 LK: Sven Svensson, sven@svensson.se
 ```
-
-## Årschema
-
-Detta är det övergripande schemat. Ser veckoschema för detaljerna.
-
-När      |Vad
----------|----------------------------
-Januari  |Kursen 1:e semester
-Juli     |Presentation och utvärdering 
-Augusti  |Sommarlov
-September|Kursen 2:e semester
-December |Presentation och utvärdering
-
-## Veckoschema
-
-Vecka| Dag      |Vad
------|----------|-------------------------------------
- 1   |2023-01-07|1. Kurser förtsätter igen
 
 ## Impressum
 
