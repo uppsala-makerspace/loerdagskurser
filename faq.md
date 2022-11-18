@@ -67,8 +67,16 @@ Japp, du är det!
 
 ### Vad ska jag ta med?
 
-Du behöver en bärbar dator med laddare, observera att datorn inte behöver vara särskilt snabb eller avancerad då programmering inte kräver så mycket.
-Det bästa är om du redan i förväg har installerat [den Arduino IDE](https://www.arduino.cc/en/software)
+Det behöver på vad du vill göra:
+
+Kurs       |Tar med gjärna [1]          |Installera gjärna [2]
+-----------|----------------------------|-----------------------------------------------------
+Arduino    |En bärbar dator med laddare |[Arduino IDE](https://www.arduino.cc/en/software)
+Blender    |En bärbar dator med laddare |[Blender](https://www.blender.org/download/)
+Processing |En bärbar dator med laddare |[Processing IDE](https://processing.org/download)
+
+ * [1] Om du har ingen bärbar dator eller du vil prova först, kann du låna en av oss
+ * [2] Om du har inte installerat det förut, gör vi det under kursen
 
 ### Behöver jag ta med mig min mobil?
 
@@ -79,7 +87,15 @@ Snälla, antingen lämna din mobil hemma eller stäng av den under kursen.
 
 ### Vilken böcker använder kursen?
 
-Vi använder böcker av [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar).
+Vi använder den här böcker:
+
+Kurs                                                                                                           | Bok
+---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------
+![Arduino logo](pics/arduino_community_logo_65x32.png) **Arduino**                                             | [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar) 
+![Blender logo](pics/blender_community_badge_white_39_x_32.png) **Blender**                                    | :construction:
+![git logo](pics/git_logo_32_x_32.png) ![Processing logo](pics/processing4_logo_36_x_32.png) **Programmering** | [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar) och [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+
+Alla är båda online och i papper.
 
 ### Få jag drycker böcker själv?
 
@@ -123,18 +139,18 @@ Du får bjuda in din familj och vänner om du vill.
 
 Vi avslutar med en utvärdering av kursen (anonymt). Det är lite tråkigt men det är viktigt för oss för att kunna förbättra kursen!
 
-![](pics/20190705_3.jpg)
+![](pics/20220603/IMG_7191.JPEG)
 
-> Nederländska barn har en presentation
+> Våra elever har en presentation
 
 ### Vad händer på ett evenemang?
 
 Om det finns intresse och tillfälle ges kan vi delta på olika evenemang, t.ex. Birdie eller SciFest.
 Där kan finnas möjlighet att både visa upp vad som åstadkommits eller undervisa andra i att programmera. 
 
-![](pics/20180210OpenDagDjo_3.jpg)
+![](pics/programmeringsdag_usb_2022.jpg)
 
-> Nederländska barn (i oranga T-skjörtor) undervisar andra barn på ett evenemang
+> Våra elever (i röda T-skjörtor) hjälper med på Programmeringsdag i Uppsala Stadsbibliotek
 
 ### Vem ska jag fråga om jag fastnar?
 
@@ -185,14 +201,10 @@ Men skicka gärna ett mail till Richel,`richel@richelbilderbeek.nl` och meddela 
 
 Javisst!
 
-Målsättningen är dock att barnen ska hjälpa varandra i så stor utsträckning som möjligt, så det ska helst inte vara fler än en vuxen per fyra barn.
+Målsättningen är dock att barnen ska hjälpa varandra i så stor utsträckning som möjligt, 
+så det ska helst inte vara fler än en vuxen per fyra barn.
 
 ## Lektioner och läromedel
-
-### Var finns lektionerna?
-
-Lektioner finns beskrivna på webbplatsen (översättning pågår). 
-[Arduino för ungdomar] (https://github.com/richelbilderbeek/arduino_foer_ungdomar).
 
 ## Jag lära mig Processing och komma igång dirkt, hur går jag tillväga?
 
@@ -212,8 +224,6 @@ Se också [tidigare aktiviteter](https://www.uppsalamakerspace.se/aktiviteter).
 ## Kostnader för kursen
 
 ### Vad kostar kursen?
-
-[Detta är ett förslag]
 
  * 400 SEK för medlemmar
  * 600 SEK för ej-medlemmar
@@ -319,7 +329,7 @@ Christoffer är volontär på kursen.
 
 Han är bäst med programmering.
 
-### Vem är Janne
+### Vem är Janne?
 
 Janne är volontär på kursen. 
 
