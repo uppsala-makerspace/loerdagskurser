@@ -37,7 +37,7 @@ När  |Vad
 11:00|Rast
 11:15|Fortsättning
 12:00|Slut/rast
-12:15|Möjlig fortsättning för elever med ett diplom och vuxen
+12:15|Extratimme, bara för elever med ett diplom och vuxen
 13:00|Slut
 
  * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
