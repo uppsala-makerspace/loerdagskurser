@@ -29,7 +29,7 @@ Se "Schema" nedan för mer information.
 
 ### Dagschema
 
- * Första kursdagen: januari 2023 (men du är alltid välkommen!) 10:00-12:00
+ * Första kursdagen: du är alltid välkommen!
  * Ålder: 8-88 år [*](faq.md)
 
 När  |Vad
