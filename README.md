@@ -8,10 +8,11 @@
 
 På lördag gör vi coola grejer i Uppsala Makerspace för elever i ålder 8 till 88:
 
- * Arduino: en mojäng som programmeras för att bygga digital elektroniska maskiner
- * Blender (:construction: i januar 2023): 
-   en 3D ritnings program för att, t.ex. 3D schrivning
- * Processing: en programmerspråk för att skapa datorspel
+Kurs                                                       |Vad                                                                      |Bok
+-----------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------
+![Arduino logo](pics/arduino_logo.png) Arduino             |En kretskort som programmeras för att bygga maskiner                     | ![](pics/CC-BY-NC-SA.png)[Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar) 
+![Blender logo](pics/blender_logo.png) Blender             |En 3D ritnings program för att, t.ex. 3D schrivning                      | :construction:
+![Processing logo](pics/processing_logo.png) Programmering |Skapar datorspel, med, bland annat, programmerspråket Processing         |![](pics/CC-BY-NC-SA.png)[Processing för ungdomar'](https://github.com/richelbilderbeek/processing_foer_ungdomar) och ![](pics/CC-BY-NC-SA.png)[git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
 
 Varja gång du kommer i, får du välje en av den kurser för den där dag.
 
@@ -53,14 +54,6 @@ Din första lektion kan vara vilken dag som helst.
 Om du vet när du kommer är det trevligt om du berättar det för Richel: `richel@richelbilderbeek.nl`
 
 Har du en annan fråga? Se [vanliga frågor](faq.md).
-
-## Böcker
-
-Kurs         |Bok
--------------|-------------------------------------------------------------
-Arduino      |![](pics/CC-BY-NC-SA.png)[Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar) 
-Blender      | -
-Programmering|![](pics/CC-BY-NC-SA.png)[Processing för ungdomar'](https://github.com/richelbilderbeek/processing_foer_ungdomar) och ![](pics/CC-BY-NC-SA.png)[git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
 
 ## Veckoschema
 
