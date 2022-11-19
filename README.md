@@ -136,6 +136,14 @@ LK: Sven Svensson, sven@svensson.se
 
 ## Impressum
 
+### [Efterfarsdag på 2022-11-19](activities/20221119_efterfarsdag/README.md)
+
+![](activities/20221119_efterfarsdag/IMG_20221119_112002.jpg)
+
+### [Kulturnatten på 2022-09-10](activities/20220910_kulturnatten/README.md)
+
+![](activities/20220910_kulturnatten/20220910_113722.jpg)
+
 ### Slutpresentation på 2022-05-28
 
 ![](pics/20220603/IMG_7174.JPEG)
