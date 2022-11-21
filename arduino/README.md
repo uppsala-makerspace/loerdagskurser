@@ -1,6 +1,6 @@
 # Arduinokurs
 
-![](./pics/uppsala_makerspace_50.png)![](./pics/arduino_50.jpg)
+![](pics/uppsala_makerspace_50.png)![](pics/arduino_50.jpg)
 
 > If you are from Ukraine, you are welcome! See [FAQ](faq.md)
 >
