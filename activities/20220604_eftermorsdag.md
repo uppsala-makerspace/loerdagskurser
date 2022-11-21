@@ -1,4 +1,4 @@
-# 2022-06-04 [Eftermorsdag](20220604_eftermorsdag) 
+# 2022-06-04: Eftermorsdag
 
  * Målet: att undervisa programmering till moderna 
  * Vem: elverna från Programmeringskursen och moderna (dws mor, farmor, mormor, osv)
