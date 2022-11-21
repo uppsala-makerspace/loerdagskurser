@@ -1,5 +1,7 @@
 # ![Uppsala Makerspace logo](pics/uppsala_makerspace_62_x_64.png) Lördagskurser
 
+[![check-links](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml/badge.svg?branch=master)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml)
+
 > If you are from Ukraine, you are welcome! See [FAQ](faq.md)
 >
 > Якщо ви з України, ласкаво просимо. [Перегляньте поширені запитання](faq.md)
