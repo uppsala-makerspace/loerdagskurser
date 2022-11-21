@@ -4,7 +4,7 @@ Omskriving                       | Länk
 ---------------------------------|-------------------------------------------------------------
 Arduino Uno                      |[Conrad](https://www.conrad.se/p/arduino-kort-uno-rev3-smd-core-atmega328-191789)
 USB-kabel USB 2.0 USB-A kontakt  |[Conrad](https://www.conrad.se/p/arduino-usb-kabel-usb-20-usb-a-kontakt-usb-b-kontakt-180-m-svart-a000045-095068)
-Kopplingsdäck                    |[Conrad](https://www.conrad.se/p/tru-components-kopplingsdaeck-totalt-antal-poler-830-l-x-b-x-h-1651-x-546-x-94-mm-1-st-1571307)
+Kopplingsdäck                    |[Conrad](https://www.conrad.se/p/tru-components-eic-102-kopplingsdaeck-sjaelvhaeftande-totalt-antal-poler-830-l-x-b-x-h-165-x-55-x-85-mm-1-st-1571799)
 Steckbrücken                     |[Conrad](https://www.conrad.se/p/velleman-wjw010-steckbruecken-set-15-cm-roed-bla-gul-groen-svart-2574931)
 Steckbrücken-Set                 |[Conrad](https://www.conrad.se/p/velleman-wjw009n-steckbruecken-set-roed-orange-gul-groen-bla-vit-svart-2574936)
 Motstånd 1k 100x                 |[Conrad](https://www.conrad.se/p/tru-components-tc-mf0w4ff1001kit203-metallfilmsmotstand-1-k-axial-hallmonterade-0207-025-w-1-100-st-1583900)
