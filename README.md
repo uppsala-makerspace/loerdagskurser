@@ -161,9 +161,9 @@ LK: Sven Svensson, sven@svensson.se
 ![](pics/20220603/IMG_7198.JPEG)
 
 
-### [Programmeringsdag](https://github.com/richelbilderbeek/programmeringsdag_usb_2022/README.md)
+### [Programmeringsdag](https://github.com/richelbilderbeek/programmeringsdag_usb_2022)
 
-[Programmeringsdag](https://github.com/richelbilderbeek/programmeringsdag_usb_2022/README.md)
+[Programmeringsdag](https://github.com/richelbilderbeek/programmeringsdag_usb_2022)
 var en aktivitet organiserat tillsammans med Uppsala Stadsbibliotek. 
 19 personer deltog, 7 av dem var från oss!
 
