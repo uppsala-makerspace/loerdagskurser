@@ -117,7 +117,7 @@ Du får bjuda in din familj och vänner om du vill.
 
 Vi avslutar med en utvärdering av kursen (anonymt). Det är lite tråkigt men det är viktigt för oss för att kunna förbättra kursen!
 
-![](pics/20190705_3.jpg)
+![](../pics/20190705_3.jpg)
 
 > Nederländska barn har en presentation
 
@@ -126,7 +126,7 @@ Vi avslutar med en utvärdering av kursen (anonymt). Det är lite tråkigt men d
 Om det finns intresse och tillfälle ges kan vi delta på olika evenemang, t.ex. Birdie eller SciFest.
 Där kan finnas möjlighet att både visa upp vad som åstadkommits eller undervisa andra i att programmera. 
 
-![](pics/20180210OpenDagDjo_3.jpg)
+![](../pics/20180210OpenDagDjo_3.jpg)
 
 > Nederländska barn (i oranga T-skjörtor) undervisar andra barn på ett evenemang
 
@@ -305,7 +305,7 @@ Han skapar allt som helst och ger Blender kurser också.
 
 ### Vem är [Richel](https://github.com/richelbilderbeek)?
 
-![Richel](pics/richelbilderbeek.png)
+![Richel](../pics/richelbilderbeek.png)
 
 Richel är en vuxen volontär som samordnar kursen.
 
