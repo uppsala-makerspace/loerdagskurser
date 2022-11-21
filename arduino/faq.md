@@ -320,8 +320,6 @@ Hans arbete kan ses på
 och [mer än 1200 GitHub-arkiv](https://github.com/richelbilderbeek?tab=repositories).
 Självklart har han gjört [många datorspelar](https://github.com/richelbilderbeek/games).
 
-På dagtid jobbar Richel som [forskare på Uppsala Universitet](https://katalog.uu.se/empinfo/?id=N21-617).
-
 ## Hjälp på Arduinoproject
 
 Vill du ha hjälp på din egna Arduinoproject, kan du ta kontakt med Richel.
