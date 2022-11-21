@@ -184,9 +184,9 @@ Vi hade haft våra första två diplomanter! Grattis killar!
 ### Julkort 2021
 
  * [Kolla på YouTube](https://youtu.be/YIf3dGh4ikY)
- * [Ladda ner videon (.mp4)](programs/julkort_20211218/julkort_20211218.mp4)
+ * [Ladda ner videon (.mp4)](programs_by_students/julkort_20211218/julkort_20211218.mp4)
 
-![](programs/julkort_20211218/julkort_20211218.png)
+![](programs_by_students/julkort_20211218/julkort_20211218.png)
 
 
 ### 9:e Oktober 2021
