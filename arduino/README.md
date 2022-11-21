@@ -1,6 +1,6 @@
 # Arduinokurs
 
-![](pics/uppsala_makerspace_50.png)![](pics/arduino_50.jpg)
+![](./pics/uppsala_makerspace_50.png)![](./pics/arduino_50.jpg)
 
 > If you are from Ukraine, you are welcome! See [FAQ](faq.md)
 >
@@ -107,10 +107,10 @@ Vecka| Dag      |Vad
 43   |2022-10-29|Höstlov
 44   |2022-11-05|Höstlov
 45   |2022-11-12|11.
-46   |2022-11-19|12. [Efterfarsdag](https://github.com/richelbilderbeek/programmeringskurs/blob/master/activities/20221119_efterfarsdag.md) (också farfar, morfar, osv)
+46   |2022-11-19|12. [Efterfarsdag](https://github.com/uppsala-makerspace/loerdagskurser/tree/master/activities/20221119_efterfarsdag) (också farfar, morfar, osv)
 47   |2022-11-26|13.
 48   |2022-12-03|14. 
-49   |2022-12-10|15. [Slutpresentation och utvärdering](https://github.com/richelbilderbeek/programmeringskurs/blob/master/activities/20221210_slutpresentation.md) (varje en är välkomna)
+49   |2022-12-10|15. [Slutpresentation och utvärdering](https://github.com/uppsala-makerspace/loerdagskurser/tree/master/activities/20221210_slutpresentation) (varje en är välkomna)
 50   |2022-12-17|16. Sista dag
 51   |2022-12-24|Jullov
 52   |2022-12-31|Jullov
