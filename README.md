@@ -1,4 +1,4 @@
-# ![Uppsala Makerspace logo](pics/uppsala_makerspace_62_x_64.png) Lördagskurser [![check-links](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml/badge.svg?branch=master)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml)
+![Uppsala Makerspace logo](pics/uppsala_makerspace_62_x_64.png)
 
 > If you are from Ukraine, you are welcome! See [FAQ](faq.md)
 >
@@ -215,3 +215,7 @@ Galenlektion:
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
  * [LaserMaze: en Arduino project](https://github.com/yurtman/LaserMaze) 
 
+## Statuses
+
+[![check-links](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml/badge.svg?branch=master)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml)
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=master)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/jekyll-gh-pages.yml)
