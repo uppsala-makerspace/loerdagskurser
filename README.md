@@ -211,9 +211,14 @@ Galenlektion:
 
 ## Länkar
 
+ * [GitHub repo för Lördagskurser](https://github.com/uppsala-makerspace/loerdagskurser)
  * [Programmeringslag 'tresinformal'](https://github.com/tresinformal/game) för 13-88 åriga
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
  * [LaserMaze: en Arduino project](https://github.com/yurtman/LaserMaze) 
+
+![](pics/bit.ly_loerdagskurser.png)
+
+> QR code för den här hemsida
 
 ## Statuses
 
