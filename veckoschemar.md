@@ -8,6 +8,11 @@ Den här är gammla veckoschemar.
 
 Är pågående :-)
 
+Vecka| Dag      |Vad
+-----|----------|-------------------------------------
+46   |2022-11-19|12. [Efterfarsdag](activities/20221119_efterfarsdag/README.md) (också farfar, morfar, osv)
+47   |2022-11-26|13. Förbereda slutpresentation, 3/4
+
 ### Sommarlov 2022
 
 3:e saisong, med enkelt Arduino.
