@@ -62,9 +62,9 @@ Vecka| Dag      |Vad
 18   |2022-05-07|16. [programmeringsdag hos Stadsbiblioteket](https://github.com/uppsala-makerspace/programmeringsdag_usb_2022), ingen kurs på Makerspacet
 19   |2022-05-14|17. Förberada presentation
 20   |2022-05-21|18. Öva presentation
-20   |2022-05-22|[Hackathon](activities/20220522_hackathon.md) 12:00-18:00
+20   |2022-05-22|[Hackathon](activities/20220522_hackathon/README.md) 12:00-18:00
 21   |2022-05-28|19. Slutpresentation
-22   |2022-06-04|20. Sista lektion: [Eftermorsdag](activities/20220604_eftermorsdag.md)
+22   |2022-06-04|20. Sista lektion: [Eftermorsdag](activities/20220604_eftermorsdag/README.md)
 
 ## Veckoschema 2021 semester 2
 

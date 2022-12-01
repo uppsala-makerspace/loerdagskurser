@@ -1,4 +1,4 @@
-# 2022-05-22 [Hackathon](20220522_hackathon.md) 
+# 2022-05-22 Hackathon
 
  * Målet: att förbättra programmeret för slutpresentationen
  * Vem: elverna från Programmeringskursen, men varje person är vällkomna också
