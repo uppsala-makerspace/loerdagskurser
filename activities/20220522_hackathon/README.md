@@ -30,3 +30,9 @@ Jap, det är det :-)
 
 Jap, det är det :-)
 
+
+## Resultatet
+
+Det fanns åtta av nio personer som ställde up.
+
+![](franvaro_2022_1_n.png)

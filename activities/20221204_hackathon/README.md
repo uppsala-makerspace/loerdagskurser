@@ -29,4 +29,3 @@ Jap, det är det :-)
 ### Jag stickar senare/tidigare, är det OK?
 
 Jap, det är det :-)
-
