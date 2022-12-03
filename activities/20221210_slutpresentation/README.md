@@ -33,6 +33,11 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-Vem     |Vad
---------|---------------
-.       |.
+Vem                 |Vad
+--------------------|---------------
+Kevin               |Super Mario Bros 1-1
+Roni                |Handdisco
+Gunnar              |IR Bil
+Team Sus-USB stickor|Konstig spel
+Team Slumpen        |Slumpspel
+
