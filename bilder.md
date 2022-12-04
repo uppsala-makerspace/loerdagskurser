@@ -10,19 +10,19 @@
 
 ### Slutpresentation på 2022-05-28
 
-![](pics/20220603/IMG_7174.JPEG)
+![](activities/20220528_slutpresentation/IMG_7174.JPEG)
 
 > Publiken före presentationen
 
-![](pics/20220603/IMG_7177.JPEG)
+![](activities/20220528_slutpresentation/IMG_7177.JPEG)
 
 > Eleverna före presentationen
 
-![](pics/20220603/IMG_7185.JPEG)
-![](pics/20220603/IMG_7186.JPEG)
-![](pics/20220603/IMG_7191.JPEG)
-![](pics/20220603/IMG_7193.JPEG)
-![](pics/20220603/IMG_7198.JPEG)
+![](activities/20220528_slutpresentation/IMG_7185.JPEG)
+![](activities/20220528_slutpresentation/IMG_7186.JPEG)
+![](activities/20220528_slutpresentation/IMG_7191.JPEG)
+![](activities/20220528_slutpresentation/IMG_7193.JPEG)
+![](activities/20220528_slutpresentation/IMG_7198.JPEG)
 
 
 ### [Programmeringsdag](https://github.com/uppsala-makerspace/programmeringsdag_usb_2022)
@@ -57,18 +57,18 @@ Den 9:e Oktober såg kursen ut så här:
 
  * [Kolla på YouTube](https://youtu.be/xWUhRymx69w)
 
-![Uppsala Makerspace](pics/2021109_1.jpg)
+![Uppsala Makerspace](activities/20211009_galenlektion/2021109_1.jpg)
 
-![Uppsala Makerspace](pics/2021109_2.jpg)
+![Uppsala Makerspace](activities/20211009_galenlektion/2021109_2.jpg)
 
-![Uppsala Makerspace](pics/2021109_3.jpg)
+![Uppsala Makerspace](activities/20211009_galenlektion/2021109_3.jpg)
 
 Rast:
 
-![Uppsala Makerspace](pics/20211009/IMG_20211009_111252.jpg)
-![Uppsala Makerspace](pics/20211009/IMG_20211009_111254.jpg)
-![Uppsala Makerspace](pics/20211009/IMG_20211009_111257.jpg)
+![Uppsala Makerspace](activities/20211009_galenlektion/IMG_20211009_111252.jpg)
+![Uppsala Makerspace](activities/20211009_galenlektion/IMG_20211009_111254.jpg)
+![Uppsala Makerspace](activities/20211009_galenlektion/IMG_20211009_111257.jpg)
 
 Galenlektion:
 
-![Uppsala Makerspace](pics/20211009/IMG_20211009_111800.jpg)
+![Uppsala Makerspace](activities/20211009_galenlektion/IMG_20211009_111800.jpg)
