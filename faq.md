@@ -139,7 +139,7 @@ Du får bjuda in din familj och vänner om du vill.
 
 Vi avslutar med en utvärdering av kursen (anonymt). Det är lite tråkigt men det är viktigt för oss för att kunna förbättra kursen!
 
-![](pics/20220603/IMG_7191.JPEG)
+![](activities/20220528_slutpresentation/IMG_7191.JPEG)
 
 > Våra elever har en presentation
 

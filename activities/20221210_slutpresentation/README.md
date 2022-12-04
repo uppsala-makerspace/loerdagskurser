@@ -1,6 +1,6 @@
 # Slutpresentation och utvärderig
 
-![](../../pics/20220603/IMG_7190.JPEG)
+![](../../activities/20220528_slutpresentation/IMG_7190.JPEG)
 
 > En tidigare slutpresentation
 
