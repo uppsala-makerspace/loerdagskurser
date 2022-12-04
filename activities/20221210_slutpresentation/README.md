@@ -44,8 +44,5 @@ Team Slumpen        |Slumpspel
 
 ## Text till UNT
 
-Lördag 10:e December kl 11.00 till 13.00 presenterar ungefär 17 elever från Uppsala Makerspace visar sina mästervärk som har med datorspel eller elektronik (Arduino) att göra. Alla är välkomna! Mer information finns på http://bit.ly/loerdagskurser.
-
-
-
+Lördag 10:e December kl 11.00 till 13.00 presenterar ungefär 17 elever från Uppsala Makerspace visar sina mästervärk som har med datorspel eller elektronik (Arduino) att göra. Alla är välkomna i Stadsbiblioteket! Mer information finns på http://bit.ly/loerdagskurser.
 
