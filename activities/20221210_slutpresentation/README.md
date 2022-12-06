@@ -47,14 +47,24 @@ Team Slumpen        |Slumpspel
 Lördag 10:e December kl 11.00 till 13.00 presenterar ungefär 17 elever från Uppsala Makerspace visar sina mästervärk som har med datorspel eller elektronik (Arduino) att göra. Alla är välkomna i Stadsbiblioteket! Mer information finns på http://bit.ly/loerdagskurser.
 
 
-## Schema
+## Schema för frivilligäre
+
+ * Richel: teknik
+ * Björn B: briefing utvärderingsmännika
+    * Linus
+    * Björn B
+    * Sara
+    * Far Gunnar
+ * Björn E: gästgivare
+ * Johanna: foton
+
 
 När  |Frivilligare
 -----|-----------------------------------
 10:00|Brygga kaffe, te [UMS]
 10:30|Ta elevmojänger, kaffe, te, socker, kaffemjölk till USB
 10:45|Vänta till USB öppnar
-11:00|Gästgivare [G], Björn Berg: briefing utvärderingsmänniska [M], teknik/Richel [M]
+11:00|Gästgivare [G], Björn B: briefing utvärderingsmänniska [M], teknik/Richel [M]
 11:30|Kollar på presentationer  [M]
 12:00|Gästgivare [M]
 12:15|Utvärdering med föräldrar [M]
