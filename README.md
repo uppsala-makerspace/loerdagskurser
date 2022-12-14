@@ -75,16 +75,17 @@ Vecka| Dag      |Vad
 11   |2023-03-18| 10.
 12   |2023-03-25| 11.
 13   |2023-04-01| Början Påsklov, ej kurs
-14   |2023-04-08| 12. Eftermorsdag [1]
-15   |2023-04-15| 13. Börjar skapa slutpresentation
-16   |2023-04-22| 14. 
+14   |2023-04-08| Påskafton, ej kurs
+15   |2023-04-15| 12. Börjar skapa slutpresentation
+16   |2023-04-22| 13. 
 17   |2023-04-29| Valborg, ej kurs
-18   |2023-05-06| 15.
-19   |2023-05-13| 16.
-20   |2023-05-20| 17.
-21   |2023-05-27| 18. Öva slutpresentation
-22   |2023-06-03| 19. Slutpresentation
-23   |2023-06-10| 20. Sista kursdag
+18   |2023-05-06| 14.
+19   |2023-05-13| 15.
+20   |2023-05-20| 16. Öva slutpresentation
+.    |2023-05-21| Hackathon
+21   |2023-05-27| 17. Slutpresentation
+22   |2023-06-03| 18. Eftermorsdag
+23   |2023-06-10| 19. Sista kursdag
 24   |2023-06-17| Sommarlov, ej kurs
 25   |2023-06-24| Sommarlov, ej kurs
 26   |2023-07-01| Sommarlov, ej kurs
