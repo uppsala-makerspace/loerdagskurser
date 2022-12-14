@@ -55,6 +55,8 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 ## Veckoschema
 
+ * [Sista flygbladet är här (PDF)](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/publicity/20221214_vintersemester/20221214_vintersemester.pdf)
+
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 50   |2022-12-17|16. Sista dag
