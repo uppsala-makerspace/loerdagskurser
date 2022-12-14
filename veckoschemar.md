@@ -12,6 +12,9 @@ Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 46   |2022-11-19|12. [Efterfarsdag](activities/20221119_efterfarsdag/README.md) (också farfar, morfar, osv)
 47   |2022-11-26|13. Förbereda slutpresentation, 3/4
+48   |2022-12-03|14. Förbereda och öva slutpresentation, 4/4
+.    |2022-12-04|[Hackathon](activities/20221204_hackathon/README.md): varje en är välkomna **12:00-18:00**
+49   |2022-12-10|15. [Slutpresentation och utvärdering](activities/20221210_slutpresentation/README.md): varje en är välkomna **11:00-13:00** at **Stadsbiblioteket**
 
 ### Sommarlov 2022
 

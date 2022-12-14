@@ -57,9 +57,6 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-48   |2022-12-03|14. Förbereda och öva slutpresentation, 4/4
-.    |2022-12-04|[Hackathon](activities/20221204_hackathon/README.md): varje en är välkomna **12:00-18:00**
-49   |2022-12-10|15. [Slutpresentation och utvärdering](activities/20221210_slutpresentation/README.md): varje en är välkomna **11:00-13:00** at **Stadsbiblioteket**
 50   |2022-12-17|16. Sista dag
 51   |2022-12-24|Jullov
 52   |2022-12-31|Jullov
