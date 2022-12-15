@@ -366,4 +366,50 @@ I'll buy more donuts for them as well :-)
 The volunteers, as well as the adult students are appreciated.
 Well done, fellow adults!
 
-Conclusion: we go forward in the right direction.
+## Conlusion
+
+The course is received well in general. Note that there is a bias:
+the students that stay are the ones that are happy.
+
+![](franvaro_2022_3_n.png)
+
+> Number of students in time
+
+Reading the figure above, the course is growing, 
+with about 1.2 student per month on average.
+One could argue that maybe the amount of students is flattening off,
+let's see where next year goes to.
+
+![](franvaro_2022_3_n_per_sex.png)
+
+> Number of male/female students in time
+
+There have always been few females in the course: few female minor students,
+few female adult students and never have we had female volunteers.
+The parents think it would be better to have more females 
+and the (male) volunteers agree.
+Richel has tried to recruit females, but without success still.
+
+![](franvaro_2022_3_n_per_age.png)
+
+> Number of minor and adult students in time
+
+When the final presentation started to be prepared, the adults hopped off
+the course. They are appreciated by both the students and volunteers,
+so let's try to keep them in more next year.
+
+![](franvaro_2022_3_n_per_course.png)
+
+> Distribution of courses taken
+
+The course/courses have become more ambiguous: one can do Arduino, Blender
+or programming, either solo or in a team. Programming attracts the most new
+students. I/Richel does not think programming is more important. 
+Instead, I/Richel will try to get more students to do Arduino.
+Also, the volunteers try to get more adults to show off their Arduino projects.
+
+Conclusion: 
+
+ * we grow
+ * students are happy
+ * please more: adult students, females and Arduino projects shown
