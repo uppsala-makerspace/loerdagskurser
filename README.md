@@ -43,12 +43,12 @@ När  |Vad
 graph TD;
     subgraph När åker jag hemma?
 
-    10[Har du ett diplom?]-->|Ja|11[Klockan 13.00]
+    10[Har du ett diplom?]-->|Ja|11[Klockan tretton]
     10-->|Nej|20
-    20[Är du del av ett lag?]-->|Nej|21[Klockan 12.00]
+    20[Är du del av ett lag?]-->|Nej|21[Klockan tolv]
     20-->|Ja|30
-    30[Får du stanna från din lagledare till kl. 13.00?]-->|Nej|31[Klockan 12.00]
-    30-->|Ja|40[Klockan 13.00]
+    30[Får du stanna från din lagledare till klockan tretton?]-->|Nej|31[Klockan tolv]
+    30-->|Ja|40[Klockan tretton]
 ```
 
  * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
