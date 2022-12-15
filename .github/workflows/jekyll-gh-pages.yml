@@ -27,6 +27,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Install jekyll-mermaid
+        run: gem install jekyll-mermaid
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
