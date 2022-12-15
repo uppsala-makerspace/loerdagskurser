@@ -42,6 +42,7 @@ När  |Vad
 ```mermaid
 graph TD;
     subgraph När åker jag hemma?
+    end
 
     10[Har du ett diplom?]-->|Ja|11[Klockan tretton];
     10-->|Nej|20;
