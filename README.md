@@ -39,6 +39,18 @@ När  |Vad
 12:15|Extratimme, bara för elever med ett diplom och vuxen
 13:00|Slut
 
+```mermaid
+graph TD;
+    subgraph När åker jag hemma?
+
+    10[Har du ett diplom?]-->|Ja|11[Klockan 13.00]
+    10-->|Nej|20
+    20[Är du del av ett lag?]-->|Nej|21[Klockan 12.00]
+    20-->|Ja|30
+    30[Får du stanna från din lagledare till kl. 13.00?]-->|Nej|31[Klockan 12.00]
+    30-->|Ja|40[Klockan 13.00]
+```
+
  * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
  * Kostnad per elev:
