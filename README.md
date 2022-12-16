@@ -76,7 +76,7 @@ Vecka| Dag      |Vad
 51   |2022-12-24|Jullov
 52   |2022-12-31|Jullov
 52   |2022-12-30|Jullov
- 1   |2023-01-07| 1. Kurser förtsätter igen
+ 1   |2023-01-07| 1. Kurser förtsätter igen, upprepa hur kurs funkar
  2   |2023-01-14| 2.
  3   |2023-01-21| 3. 
  4   |2023-01-28| 4. 
