@@ -39,19 +39,6 @@ När  |Vad
 12:15|Extratimme, bara för elever med ett diplom och vuxen
 13:00|Slut
 
-```mermaid
-graph TD;
-    subgraph När åker jag hemma?
-    end
-
-    10[Har du ett diplom?]-->|Ja|11[Klockan tretton];
-    10-->|Nej|20;
-    20[Är du del av ett lag?]-->|Nej|21[Klockan tolv];
-    20-->|Ja|30;
-    30[Får du stanna från din lagledare till klockan tretton?]-->|Nej|31[Klockan tolv];
-    30-->|Ja|40[Klockan tretton];
-```
-
  * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
  * Kostnad per elev:
@@ -72,7 +59,7 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-50   |2022-12-17|16. Sista dag
+50   |2022-12-17|16. Sista dag, [julkort](activities/20221217_julkort/README.md)
 51   |2022-12-24|Jullov
 52   |2022-12-31|Jullov
 52   |2022-12-30|Jullov
@@ -80,7 +67,7 @@ Vecka| Dag      |Vad
  2   |2023-01-14| 2.
  3   |2023-01-21| 3. 
  4   |2023-01-28| 4. 
- 5   |2023-02-04| 5. 
+ 5   |2023-02-04| 5. [13.00-20.00 Björn och Richel's Tokiga Workshop](https://bit.ly/bjoritowo)
  6   |2023-02-11| 6.
  7   |2023-02-18| Början Sportlov, ej kurs 
  8   |2023-02-25| 7.
