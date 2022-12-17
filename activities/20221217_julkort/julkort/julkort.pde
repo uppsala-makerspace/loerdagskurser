@@ -70,6 +70,7 @@ void setup()
 void draw()
 {
   // Vidar
+  draw_vidar();
 
   // Herman
   
@@ -275,4 +276,29 @@ void marioScript(){
     if (isjumping == true) {
       hastig_nedat -= 0.004;
     }
+}
+
+void draw_vidar()
+{
+  fill(#813B05);
+
+  stroke(#502E02);
+  rect(100, 200, 50, 50);
+  //line(100, 200, 100, 250);
+  stroke(#502E02);
+  //line(150, 200, 150, 250);
+  stroke(#1B8105);
+  line(0, 200, 250, 200);
+  stroke(#1B8105);
+  line(125, 0, 250, 200); 
+  stroke(#1B8105);
+  fill(#1B8105);
+  triangle(0, 200, 125, 0, 250, 200); 
+  //line(125, 0, 250, 200); 
+  line(125, 0, 250, 200); 
+  line(125, 0, 250, 200); 
+  line(125, 0, 250, 200); 
+  line(125, 0, 250, 200); 
+  line(125, 0, 250, 200); 
+  
 }
