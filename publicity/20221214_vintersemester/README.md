@@ -1,9 +1,8 @@
 LÖ 2022-12-17: Sista kursdag
 LÖ 2023-01-07: Kurs försätter igen
-LÖ 2023-02-04: (Vanligt kursdag +) 13.00-20.00 Björn och Richels Tokiga Workshop
-https://bit.ly/bjoritowo
-
-
+LÖ 2023-02-04: (Vanligt kursdag +) 13.00-20.00 
+  Björn och Richels Tokiga Workshop
+  https://bit.ly/bjoritowo
 LÖ 2023-02-18: Början Sportlov, ej kurs 
 TI 2023-03-14: Pi Dag 6:15 @ Olof Palmes Plats
 https://bit.ly/pi_day_uppsala
