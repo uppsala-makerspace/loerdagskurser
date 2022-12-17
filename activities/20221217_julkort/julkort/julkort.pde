@@ -75,12 +75,18 @@ int bjorn_pupill_addering = -1;
 
 lift Lift = new lift(500,750);
 
+int ludvigCount = 0;
+int ludvigTextX = 760;
+float ludvigSnowX = 0;
+float ludvigSnowY = 0;
+
 void setup()
 {
   size(1000, 1000);
+  setup_gunnar();
   setup_kevin();
   setup_bjorn();
-  background(0);
+background(0);
   
 }
 
@@ -92,7 +98,7 @@ void draw()
   // Herman
   
   // Gunnar
-
+  draw_gunnar();
   // Kevin
   draw_kevin();
 
@@ -110,12 +116,15 @@ void draw()
   Lift.drawLift();
 
   // Ludvig
+  draw_ludvig();
   
   // GOD JUL
-  textSize(64);
-  text("G", 0, 250);
-  text("O", 500, 250);
-}
+  fill(256,0,0);
+  textSize(200);
+  text("G", 0, 250 + 250);
+  text("O", 500, 250 + 250);
+  text("D", 750, 250 + 250);
+  }
 
 void drawRamis() {
   stroke(0, 0, 0);
@@ -416,4 +425,78 @@ void draw_bjorn() {
   stroke(1);
   arc(bjorn_xstart+125, bjorn_ystart+125+30, 50, 50, 0+bjorn_pupill_position_y/40.0, PI-bjorn_pupill_position_y/40.0);
   noFill();
+}
+
+
+
+int Gunnar_numFrames = 12;  // The number of frames in the animation
+int Gunnar_currentFrame = 0;
+PImage[] images = new PImage[Gunnar_numFrames];
+
+void setup_gunnar()
+{
+  //frameRate(4);
+  
+  images[0]  = loadImage("Gunnar1.png");
+  images[1]  = loadImage("Gunnar2.png"); 
+  images[2]  = loadImage("Gunnar3.png");
+  images[3]  = loadImage("Gunnar4.png"); 
+  images[4]  = loadImage("Gunnar5.png");
+  images[5]  = loadImage("Gunnar6.png");
+  images[6]  = loadImage("Gunnar7.png");
+  images[7]  = loadImage("Gunnar8.png"); 
+  images[8]  = loadImage("Gunnar9.png");
+  images[9]  = loadImage("Gunnar10.png"); 
+  images[10]  = loadImage("Gunnar11.png");
+  images[11]  = loadImage("Gunnar12.png");
+}
+
+int gunnar_frame = 0;
+
+void draw_gunnar()
+{
+  ++gunnar_frame;
+  background(256,256,256);
+  rect(500,0,250,250);
+  if (gunnar_frame % 8 == 0)
+  {
+    Gunnar_currentFrame = (Gunnar_currentFrame+1) % Gunnar_numFrames;  // Use % to cycle through frames
+  }
+  int offset = 0;
+  for (int x = 0; x < 6; x += images[0].width/200) { 
+    image(images[(Gunnar_currentFrame+offset) % Gunnar_numFrames], 500, 0);
+    offset+=2;
+  }
+
+}
+
+void draw_ludvig(){
+  stroke(0);
+  fill(0);
+  rect(750, 750, 1000, 1000);
+  fill(255, 255, 255);
+  ellipse(875, 955, 150, 150);
+  fill(255, 0, 0);
+  triangle(775, 950, 875, 780, 975, 950);
+  fill(255, 125, 150);
+  ellipse(875, 955, 100, 50);
+  
+  
+  
+  fill(255);
+  ellipse(875,780, 30, 30);
+  fill(155, 155, 255);
+  textSize(50);
+  text("Ha En Hoo", ludvigTextX, 800);
+  textSize(40);
+  text("Tastisk Jul", ludvigTextX + 30, 850);
+  ludvigCount = ludvigCount + 1;
+  if( ludvigCount >= 60 && ludvigCount <= 200){
+    ludvigTextX = ludvigTextX + 2;
+  }
+  if(ludvigCount > 200){
+    noStroke();
+    fill(255);
+    ellipse(random(756, 1000), random(756, 1000), 6, 6);
+  }
 }
