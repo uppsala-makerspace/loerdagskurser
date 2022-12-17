@@ -12,6 +12,8 @@ int ramis_max_x = 499;
 int ramis_min_y = 500;
 int ramis_max_y = 749;
 
+lift Lift = new lift(500,750);
+
 void setup()
 {
   size(1000, 1000);  
@@ -38,6 +40,7 @@ void draw()
   // Bjoern
 
   // Leonid
+  Lift.drawLift();
 
   // Ludvig
 }
