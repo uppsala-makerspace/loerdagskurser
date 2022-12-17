@@ -4,6 +4,8 @@ import processing.sound.*;
 SoundFile file;
 SoundFile files;
 
+PImage AMOGUS;
+
 
 // maintheme
 
@@ -83,22 +85,21 @@ float ludvigSnowY = 0;
 void setup()
 {
   size(1000, 1000);
+  setup_herman();
   setup_gunnar();
   setup_kevin();
   setup_bjorn();
-background(0);
+  background(0);
   
 }
 
 void draw()
 {
-  // Vidar
-  draw_vidar();
 
-  // Herman
   
   // Gunnar
   draw_gunnar();
+
   // Kevin
   draw_kevin();
 
@@ -119,12 +120,35 @@ void draw()
   draw_ludvig();
   
   // GOD JUL
-  fill(256,0,0);
-  textSize(200);
-  text("G", 0, 250 + 250);
-  text("O", 500, 250 + 250);
-  text("D", 750, 250 + 250);
-  }
+  textSize(250);
+  fill(255, 0, 0);
+  text("G", 0 + 25, 250 + 225);
+
+  fill(0, 255, 0);
+  text("O", 500 + 25, 250 + 225);
+  
+  fill(0, 0, 0);
+  text("D", 750 + 25, 250 + 225);
+  
+  fill(255, 0, 0);
+  text("J", 0 + 25, 500 + 225);
+  
+  fill(0, 255, 0);
+  text("U", 750 + 25, 500 + 225);
+  
+  fill(0, 0, 0);
+  text("L", 0 + 25, 750 + 225);
+  
+  fill(255, 0, 0);
+  text("!", 250 + 25, 750 + 225);
+
+  // Vidar
+  draw_vidar();
+
+  // Herman
+  draw_herman();
+
+}
 
 void drawRamis() {
   stroke(0, 0, 0);
@@ -499,4 +523,14 @@ void draw_ludvig(){
     fill(255);
     ellipse(random(756, 1000), random(756, 1000), 6, 6);
   }
+}
+
+
+void setup_herman() {
+  AMOGUS = loadImage("amogus.png");
+  AMOGUS.resize(250, 250);
+}
+
+void draw_herman() {
+  image(AMOGUS, 250, 0);
 }
