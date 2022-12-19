@@ -67,6 +67,7 @@ Vecka| Dag      |Vad
  2   |2023-01-14| 2.
  3   |2023-01-21| 3. 
  4   |2023-01-28| 4. 
+ .   |2023-01-29| ([14:00 Richel prater på Science Fika över Open Science i Engelska hos Stadsbiblioteket](https://www.sciencefika.se))
  5   |2023-02-04| 5. [13.00-20.00 Björn och Richel's Tokiga Workshop](https://bit.ly/bjoritowo)
  6   |2023-02-11| 6.
  7   |2023-02-18| Början Sportlov, ej kurs 
