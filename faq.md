@@ -225,8 +225,13 @@ Se också [tidigare aktiviteter](https://www.uppsalamakerspace.se/aktiviteter).
 
 ### Vad kostar kursen?
 
+
  * 400 SEK för medlemmar
  * 600 SEK för ej-medlemmar
+
+### Hur betalar jag kursen?
+
+Ser ['Betalning' på huvudsida](https://github.com/uppsala-makerspace/loerdagskurser#Betalning) för mer info.
 
 ### Jag har inte råd med kursavgiften. Hur ska jag göra?
 

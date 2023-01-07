@@ -41,7 +41,7 @@ När  |Vad
 
  * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
- * Kostnad per elev:
+ * Kostnad per elev (ser [betalning](#Betalning) för mer info):
    * September till december: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
    * Januari till maj: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
  * Ålder: 8-88 år [*](faq.md)
