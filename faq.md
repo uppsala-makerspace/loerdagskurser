@@ -92,7 +92,7 @@ Vi använder den här böcker:
 Kurs                                                                                                           | Bok
 ---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------
 ![Arduino logo](pics/arduino_community_logo_65x32.png) **Arduino**                                             | [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar) 
-![Blender logo](pics/blender_community_badge_white_39_x_32.png) **Blender**                                    | :construction:
+![Blender logo](pics/blender_community_badge_white_39_x_32.png) **Blender**                                    | [Grundkurs i Blender](https://github.com/richelbilderbeek/grundkurs_i_blender)
 ![git logo](pics/git_logo_32_x_32.png) ![Processing logo](pics/processing4_logo_36_x_32.png) **Programmering** | [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar) och [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
 
 Alla är båda online och i papper.
