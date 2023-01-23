@@ -1,5 +1,7 @@
 # Efterkvinnansdag
 
+![](uwc.png)
+
 This page is in both [English](#English) (top) och på [Svenska](#Svenska) (nedåt)
 
 ## English
