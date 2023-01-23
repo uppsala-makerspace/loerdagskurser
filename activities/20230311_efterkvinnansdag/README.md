@@ -58,7 +58,7 @@ Yes, that is OK. Most course material is in Swedish, yet (1) it is also digitall
 
 It will work :-)
 
-## Swedish
+## Svenska
 
 :sweden:
 
