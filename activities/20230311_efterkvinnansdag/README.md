@@ -6,7 +6,7 @@ This page is in both :gb: [English](#English) (top) och på :sweden: [Svenska](#
 
 ## English
 
-:gb:
+:gb: Afterwomensday
 
  * Goal: to teach programming to the women from Uppsala Women Coding ('UWC')
    and make them feel welcome
@@ -60,7 +60,7 @@ It will work :-)
 
 ## Svenska
 
-:sweden:
+:sweden: Efterkvinnansdag
 
  * Målet: att undervisa programmering till kvinnor från Uppsala Women Coding ('UWC')
  * Vem: eleverna från Lördagskursen och kvinnor från Uppsala Women Coding ('UWC')
