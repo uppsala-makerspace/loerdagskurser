@@ -1,6 +1,6 @@
 # Efterkvinnansdag
 
-![](uwc.png)
+![](uwc_25.png)
 
 This page is in both [English](#English) (top) och på [Svenska](#Svenska) (nedåt)
 
