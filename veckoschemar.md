@@ -1,12 +1,21 @@
 ## Veckoschemar
 
 Den här är gammla veckoschemar.
+Senaste sajsånger är första.
+
+## Veckoschema 2023 semester 1
+
+Är pågående :-)
+
+Vecka| Dag      |Vad
+-----|----------|-------------------------------------
+ 1   |2023-01-07| 1. Kurser förtsätter igen, upprepa hur kurs funkar
+ 2   |2023-01-14| 2.
+ 3   |2023-01-21| 3. 
 
 ## Veckoschema 2022 semester 2
 
 4:e saisong, med Arduino, en lite bit av Blender och Processing.
-
-Är pågående :-)
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
@@ -15,6 +24,10 @@ Vecka| Dag      |Vad
 48   |2022-12-03|14. Förbereda och öva slutpresentation, 4/4
 .    |2022-12-04|[Hackathon](activities/20221204_hackathon/README.md): varje en är välkomna **12:00-18:00**
 49   |2022-12-10|15. [Slutpresentation och utvärdering](activities/20221210_slutpresentation/README.md): varje en är välkomna **11:00-13:00** at **Stadsbiblioteket**
+50   |2022-12-17|16. Sista dag, [julkort](activities/20221217_julkort/README.md)
+51   |2022-12-24|Jullov
+52   |2022-12-31|Jullov
+52   |2022-12-30|Jullov
 
 ### Sommarlov 2022
 

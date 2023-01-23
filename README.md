@@ -59,13 +59,6 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-50   |2022-12-17|16. Sista dag, [julkort](activities/20221217_julkort/README.md)
-51   |2022-12-24|Jullov
-52   |2022-12-31|Jullov
-52   |2022-12-30|Jullov
- 1   |2023-01-07| 1. Kurser förtsätter igen, upprepa hur kurs funkar
- 2   |2023-01-14| 2.
- 3   |2023-01-21| 3. 
  4   |2023-01-28| 4. 
  .   |2023-01-29| ([14:00 Richel prater på Science Fika över Open Science i Engelska hos Stadsbiblioteket](https://www.sciencefika.se))
  5   |2023-02-04| 5. [13.00-20.00 Björn och Richel's Tokiga Workshop](https://bit.ly/bjoritowo)
@@ -73,7 +66,7 @@ Vecka| Dag      |Vad
  7   |2023-02-18| Början Sportlov, ej kurs 
  8   |2023-02-25| 7.
  9   |2023-03-04| 8.
-10   |2023-03-11| 9.
+10   |2023-03-11| 9. ?[Efterkvinnansdag](activities/20230311_efterkvinnansdag/README.md), tillsammans med Uppsala Women Coding
  .   |2023-03-14| [Pi Dag](https://github.com/richelbilderbeek/pi_day) 6:15 @ Olof Palmes Plats
 11   |2023-03-18| 10.
 12   |2023-03-25| 11.
@@ -103,6 +96,7 @@ Vecka| Dag      |Vad
 34   |2023-08-26| 1. Kurs förtsätter igen
 
  * [1] Morsdag är den 28:e maj
+ * [Tidigare aktiviteter finns här](veckoschemar.md)
 
 ## Årschema
 
