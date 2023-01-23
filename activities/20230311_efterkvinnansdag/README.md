@@ -2,9 +2,11 @@
 
 ![](uwc_25.png)
 
-This page is in both [English](#English) (top) och på [Svenska](#Svenska) (nedåt)
+This page is in both :gb: [English](#English) (top) och på :sweden: [Svenska](#Svenska) (nedåt)
 
-## :gb: English
+## English
+
+:gb:
 
  * Goal: to teach programming to the women from Uppsala Women Coding ('UWC')
    and make them feel welcome
@@ -56,7 +58,9 @@ Yes, that is OK. Most course material is in Swedish, yet (1) it is also digitall
 
 It will work :-)
 
-## :sweden: Swedish
+## Swedish
+
+:sweden:
 
  * Målet: att undervisa programmering till kvinnor från Uppsala Women Coding ('UWC')
  * Vem: eleverna från Lördagskursen och kvinnor från Uppsala Women Coding ('UWC')
