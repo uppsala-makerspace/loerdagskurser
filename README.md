@@ -98,6 +98,16 @@ Vecka| Dag      |Vad
  * [1] Morsdag är den 28:e maj
  * [Tidigare aktiviteter finns här](veckoschemar.md)
 
+## Lag
+
+Lag sorterade på namnet och ledare.
+
+Lagnamnet   |Lagledare|Repository
+------------|---------|----------------------------------------------------------
+Slumpen     |Erland   |.
+.           |Björn    |.
+.           |Richel   |[https://codeberg.org/RealLift/Pacman](https://codeberg.org/RealLift/Pacman)
+
 ## Årschema
 
 Detta är det övergripande schemat. Ser veckoschema för detaljerna.
