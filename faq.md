@@ -73,10 +73,18 @@ Kurs       |Tar med gjärna [1]          |Installera gjärna [2]
 -----------|----------------------------|-----------------------------------------------------
 Arduino    |En bärbar dator med laddare |[Arduino IDE](https://www.arduino.cc/en/software)
 Blender    |En bärbar dator med laddare |[Blender](https://www.blender.org/download/)
+`git`      |En bärbar dator med laddare |`git`, till exempel [https://git-scm.com/downloads](https://git-scm.com/downloads)
 Processing |En bärbar dator med laddare |[Processing IDE](https://processing.org/download)
 
  * [1] Om du har ingen bärbar dator eller du vil prova först, kann du låna en av oss
  * [2] Om du har inte installerat det förut, gör vi det under kursen
+
+Om du kommer i ett lag, kanske du använder också:
+
+ * [Codeberg](https://codeberg.org/): en hemsida
+ * [Discord](https://discord.com/download): en chat program, du behöver att vara 13 år
+ * [GitHub](https://github.com/): en hemsida, du behöver att vara 13 år
+ * [Matrix](https://matrix.org/): en chat program
 
 ### Behöver jag ta med mig min mobil?
 
@@ -85,7 +93,7 @@ Det är faktiskt så att en mobil snarare stör din koncentration och kan hindra
 
 Snälla, antingen lämna din mobil hemma eller stäng av den under kursen.
 
-### Vilken böcker använder kursen?
+### Vilka böcker använder kursen?
 
 Vi använder den här böcker:
 
