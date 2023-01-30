@@ -66,7 +66,7 @@ Vecka| Dag      |Vad
  7   |2023-02-18| Början Sportlov, ej kurs 
  8   |2023-02-25| 7.
  9   |2023-03-04| 8.
-10   |2023-03-11| 9. ?[Efterkvinnansdag](activities/20230311_efterkvinnansdag/README.md), tillsammans med Uppsala Women Coding
+10   |2023-03-11| 9. [Efterkvinnansdag](activities/20230311_efterkvinnansdag/README.md), tillsammans med Uppsala Women Coding
  .   |2023-03-14| [Pi Dag](https://github.com/richelbilderbeek/pi_day) 6:15 @ Olof Palmes Plats
 11   |2023-03-18| 10.
 12   |2023-03-25| 11.

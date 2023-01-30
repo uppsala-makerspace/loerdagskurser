@@ -1,4 +1,4 @@
-# Efterkvinnansdag
+# Afterwomensday/Efterkvinnansdag
 
 ![](uwc_25.png)
 
@@ -33,7 +33,8 @@ what cool stuff we do in our course!
 
 #### Am I welcome?
 
-Yes!
+Yes, if there are free spots! 
+Please send an email to `richel@richelbilderbeek.nl` to secure your place :-)
 
 There is a limit of 10 participants, 
 due to safety regulations (think: in case of a fire) 
@@ -87,6 +88,28 @@ vilken coola grejer vi gör i vår kurs!
 ### Jag pratar ej svenska. Är det OK?
 
 Absolut, det är ingen fara alls! Kanske du vill läsa [the English of this webpage](#English) istället.
+
+#### Är jag välkommen?
+
+Ja, om det finns lediga platser!
+Skicka ett mail till `richel@richelbilderbeek.nl` för att säkra din plats :-)
+
+Det finns en gräns på 10 deltagare,
+på grund av säkerhetsföreskrifter (tänk: vid brand)
+av Uppsala Makerspace.
+
+#### Vad ska vi göra?
+
+Du får din första lektion på Lördagskurserna ('Lördagskurserna')
+på Uppsala Makerspace, för att se om du trivs där.
+
+Du kan välja mellan Arduino (elektronik och programmering),
+Blender (3D-modellering) och Processing (programmering, t.ex. för att göra spel).
+I slutet av evenemanget diskuterar vi om vi kan bilda ett lag för UWC-damerna.
+
+#### Vad behöver jag ta med?
+
+En bärbar dator skulle vara bra, men vi har några du kan låna.
 
 ## Länkar
 
