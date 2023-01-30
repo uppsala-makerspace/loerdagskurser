@@ -2,11 +2,14 @@
 
 ![](uwc_25.png)
 
-This page is in both :gb: [English](#English) (top) och på :sweden: [Svenska](#Svenska) (nedåt)
+This page is in both ![UK flag](uk_flag_24_x_16.png) [English](#English) (top) 
+och på ![Swedish flag](sv_flag_23_x_16.png) [Svenska](#Svenska) (nedåt)
+
+
 
 ## English
 
-:gb: Afterwomensday
+![UK flag](uk_flag_24_x_16.png) Afterwomensday
 
  * Goal: to teach programming to the women from Uppsala Women Coding ('UWC')
    and make them feel welcome
@@ -61,7 +64,7 @@ It will work :-)
 
 ## Svenska
 
-:sweden: Efterkvinnansdag
+![Swedish flag](sv_flag_23_x_16.png) Efterkvinnansdag
 
  * Målet: att undervisa programmering till kvinnor från Uppsala Women Coding ('UWC')
  * Vem: eleverna från Lördagskursen och kvinnor från Uppsala Women Coding ('UWC')
