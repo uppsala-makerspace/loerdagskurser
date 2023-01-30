@@ -147,7 +147,7 @@ More information can be found at:
  * The course website: http://bit.ly/loerdagskurser
  * The event's site: https://uppsala-makerspace.github.io/loerdagskurser/activities/20230311_efterkvinnansdag/
 
-Do not hesistate if you have questions; please send that email!
+Do not hesitate if you have questions; please send that email!
 
 Thanks and cheers, Richèl Bilderbeek
 
