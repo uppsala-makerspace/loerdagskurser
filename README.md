@@ -59,8 +59,6 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
- 4   |2023-01-28| 4. 
- .   |2023-01-29| ([14:00 Richel prater på Science Fika över Open Science i Engelska hos Stadsbiblioteket](https://www.sciencefika.se))
  5   |2023-02-04| 5. ~~[13.00-20.00 Björn och Richel's Tokiga Workshop](https://bit.ly/bjoritowo)~~
  6   |2023-02-11| 6.
  7   |2023-02-18| Början Sportlov, ej kurs 
@@ -145,6 +143,7 @@ Ser [Bilder](bilder.md).
 ## Länkar
 
  * [GitHub repo för Lördagskurser](https://github.com/uppsala-makerspace/loerdagskurser)
+ * [https://bit.ly/loerdagskurser](https://bit.ly/loerdagskurser): förkorta länk
  * [Programmeringslag 'tresinformal'](https://github.com/tresinformal/game) för 13-88 åriga
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
  * [LaserMaze: en Arduino project](https://github.com/yurtman/LaserMaze) 

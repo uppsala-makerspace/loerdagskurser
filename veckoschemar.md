@@ -12,6 +12,8 @@ Vecka| Dag      |Vad
  1   |2023-01-07| 1. Kurser förtsätter igen, upprepa hur kurs funkar
  2   |2023-01-14| 2.
  3   |2023-01-21| 3. 
+ 4   |2023-01-28| 4. 
+ .   |2023-01-29| ([14:00 Richel prater på Science Fika över Open Science i Engelska hos Stadsbiblioteket](https://www.sciencefika.se))
 
 ## Veckoschema 2022 semester 2
 
