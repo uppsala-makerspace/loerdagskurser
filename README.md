@@ -59,7 +59,6 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
- 5   |2023-02-04| 5. ~~[13.00-20.00 Björn och Richel's Tokiga Workshop](https://bit.ly/bjoritowo)~~
  6   |2023-02-11| 6.
  7   |2023-02-18| Början Sportlov, ej kurs 
  8   |2023-02-25| 7.
