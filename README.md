@@ -145,6 +145,7 @@ Ser [Bilder](bilder.md).
  * [https://bit.ly/loerdagskurser](https://bit.ly/loerdagskurser): förkorta länk
  * [Programmeringslag 'tresinformal'](https://github.com/tresinformal/game) för 13-88 åriga
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
+ * [Science Fika](https://www.sciencefika.se): foskare berättar enkla om sina upptäckningar
  * [LaserMaze: en Arduino project](https://github.com/yurtman/LaserMaze) 
 
 ![](pics/bit.ly_loerdagskurser.png)
