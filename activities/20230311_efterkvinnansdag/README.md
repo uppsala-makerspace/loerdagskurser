@@ -12,10 +12,10 @@ och på ![Swedish flag](sv_flag_23_x_16.png) [Svenska](#Svenska) (nedåt)
  * Goal: to teach programming to the women from Uppsala Women Coding ('UWC')
    and make them feel welcome
  * Who: the students from the Saturday course and women from Uppsala Women Coding ('UWC')
- * Where: Uppsala Makerspace
+ * Where: Uppsala Makerspace, Ekeby Bruk 6M, 752 63 Uppsala
  * Cost: nothing
  * Times: same schedule as usual
- * When: Saturday 11 March 2022 (the first Saturday after [International Women's Day](https://en.wikipedia.org/wiki/International_Women%27s_Day), at the usual times, see below
+ * When: Saturday 11 March 2023 (the first Saturday after [International Women's Day](https://en.wikipedia.org/wiki/International_Women%27s_Day), at the usual times, see below
 
 When | What
 -----|------------
@@ -70,10 +70,10 @@ It will work :-)
 
  * Målet: att undervisa programmering till kvinnor från Uppsala Women Coding ('UWC')
  * Vem: eleverna från Lördagskursen och kvinnor från Uppsala Women Coding ('UWC')
- * Var: Uppsala Makerspace
+ * Var: Uppsala Makerspace, Ekeby Bruk 6M, 752 63 Uppsala
  * Kostnad: ingenting
  * Tiderna: samma schema som vanligt
- * När: Lördag 11:e Mars 2022 (den fösta lördag after [International Women's Day](https://en.wikipedia.org/wiki/International_Women%27s_Day), på den vanliga tider, se nedåt
+ * När: Lördag 11:e Mars 2023 (den fösta lördag after [International Women's Day](https://en.wikipedia.org/wiki/International_Women%27s_Day), på den vanliga tider, se nedåt
 
 När  |Vad
 -----|------------
@@ -130,7 +130,7 @@ Hereby I would like to invite you as guests
 to Efterwomensday/Efterkvinnansdag at Uppsala Makerspace.
 At this event, you may experience our welcoming and low-threshold programming course,
 taking place on the first Saturday after International Women's Day.
-On Saturday 11 March 2022 from 10.15-12.00 our existing 
+On Saturday 11 March 2023 from 10.15-12.00 our existing 
 students will happily get you started on our well-structured course.
 Those current students are mostly minors, which helps most adults
 to feel at ease and learn in a more lighthearted way.
