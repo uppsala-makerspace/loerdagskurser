@@ -63,9 +63,9 @@ Vecka| Dag      |Vad
  7   |2023-02-18| Början Sportlov, ej kurs 
  8   |2023-02-25| 7.
  9   |2023-03-04| 8.
-10   |2023-03-11| 9. [Efterkvinnansdag](activities/20230311_efterkvinnansdag/README.md), tillsammans med Uppsala Women Coding
+10   |2023-03-11| 9.
  .   |2023-03-14| [Pi Dag](https://github.com/richelbilderbeek/pi_day) 6:15 @ Olof Palmes Plats
-11   |2023-03-18| 10.
+11   |2023-03-18| 10. 
 12   |2023-03-25| 11. Vanligt kurs och [13.00-20.00 Björn och Richel's Tokiga Workshop](https://bit.ly/bjoritowo)
 13   |2023-04-01| Början Påsklov, ej kurs
 14   |2023-04-08| Påskafton, ej kurs
@@ -102,8 +102,8 @@ Lag sorterade på namnet och ledare.
 Lagnamnet   |Lagledare|Repository
 ------------|---------|----------------------------------------------------------
 Slumpen     |Erland   |.
+Waka Baka   |Richel   |[https://codeberg.org/RealLift/Pacman](https://codeberg.org/RealLift/Pacman)
 .           |Björn    |.
-.           |Richel   |[https://codeberg.org/RealLift/Pacman](https://codeberg.org/RealLift/Pacman)
 
 ## Årschema
 
