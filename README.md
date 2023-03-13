@@ -24,7 +24,7 @@ Se "Schema" nedan för mer information.
    kanske [programmeringslag 'tresinformal'](https://github.com/tresinformal/game)
    passar dig bättre
 
-### Dagschema
+### Dagschema (till 26:e Mars)
 
  * Första kursdagen: du är alltid välkommen!
  * Ålder: 8-88 år [*](faq.md)
@@ -53,6 +53,27 @@ Om du vet när du kommer är det trevligt om du berättar det för Richel: `rich
 
 Har du en annan fråga? Se [vanliga frågor](faq.md).
 
+### Dagschema (från 15:e April)
+
+När  |Vad för kurs A [*] | Vad för kurs B [*]
+-----|-------------------|-----------------------------------
+10:00|Dörr öppnas        |.
+10:15|Början             |.
+11:00|Rast               |.
+11:15|Fortsättning       |.
+12:00|Slut/rast          |Dörr öppnas
+12:15|Extratimme         |Början
+13:00|Slut               |Rast
+13:15|.                  |Fortsättning
+14:00|.                  |Slut/rast
+14:15|.                  |Extratimme
+15:00|.                  |Slut
+
+
+ * Kurs A kan vara 'Arduino och Blender' eller 'Processing'.
+   Kurs B är den annat kurs än kurs A.
+   Vad kurser A och B är, det är bekant på 2023-03-25.
+
 ## Veckoschema
 
  * [Sista flygbladet är här (PDF)](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/publicity/20221214_vintersemester/20221214_vintersemester.pdf)
@@ -69,7 +90,7 @@ Vecka| Dag      |Vad
 12   |2023-03-25| 11. Vanligt kurs och [13.00-20.00 Björn och Richel's Tokiga Workshop](https://bit.ly/bjoritowo)
 13   |2023-04-01| Början Påsklov, ej kurs
 14   |2023-04-08| Påskafton, ej kurs
-15   |2023-04-15| 12. Börjar skapa slutpresentation
+15   |2023-04-15| 12. **Nytt dagschema**, Börjar skapa slutpresentation
 16   |2023-04-22| 13. 
 17   |2023-04-29| Valborg, ej kurs
 18   |2023-05-06| 14.
