@@ -1,24 +1,24 @@
 ## Lag
 
+Översikt av alla nuvarenda lag.
+
 Parameter                           | Värd
 ------------------------------------|------------------------------------------------------------------------
+Nam av laget                        | .
 Nam av ledare                       | Björn
-Stil av ledare                      | .
-Vi använder ...                     | .
-Vi skapar ...                       | .
-Du är välkomna om ...               | .
-Väljar den här laget om du ...      | .
-Inte väljar den här laget om du ... | .
-Laget slutar om ...                 | .
+Vi använder ...                     | Arduino, Blender
+Vi skapar ...                       | En robotdammsugare
 
 Parameter                           | Värd
 ------------------------------------|------------------------------------------------------------------------
+Nam av laget                        | Team Waka Baka
 Nam av ledare                       | Richel
-Stil av ledare                      | seriöst, professionel, laget undervisar varan
-Vi använder ...                     | C++ och git
-Vi skapar ...                       | en retro datorspel som redan finns (nästa halvår skapar vi våran egna)
-Du är välkomna om ...               | du eller har en diplom, eller du är erbjuden av en medlem med en diplom
-Väljar den här laget om du ...      | vill vara stolt om ditt lag och din växande kunskap i programmering
-Inte väljar den här laget om du ... | vill skämtar mycket, du vill göra dina grejer ensam
-Laget slutar om ...                 | vi har haft mindre än fyra personer för fyra gånger
+Vi använder ...                     | Processing, git, Codeberg
+Vi skapar ...                       | en retro datorspel som redan finns
 
+Parameter                           | Värd
+------------------------------------|------------------------------------------------------------------------
+Nam av laget                        | Team Slumpen
+Nam av ledare                       | Erland
+Vi använder ...                     | Processing
+Vi skapar ...                       | En datorspel
