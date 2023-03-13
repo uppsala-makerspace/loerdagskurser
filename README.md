@@ -30,7 +30,8 @@ Se "Schema" nedan för mer information.
  * Ålder: 8-88 år [*](faq.md)
 
 När  |Vad
------|-------------------------------------------------------
+-----|---------------------------------------------------------------
+ 9:00|([Förberedning](lessons/preparation/README.md) av frivilligarna)
 10:00|Dörr öppnas
 10:15|Början
 11:00|Rast
@@ -62,6 +63,7 @@ Vi kallar den 'Den Stora Förändring'.
 
 När  |Vad för kurs A [*] | Vad för kurs B [*]
 -----|-------------------|-----------------------------------
+ 9:00|([Förberedning](lessons/preparation/README.md) av frivilligarna)|.
 10:00|Dörr öppnas        |.
 10:15|Början             |.
 11:00|Rast               |.
