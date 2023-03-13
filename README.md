@@ -55,6 +55,11 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 ### Dagschema (från 15:e April)
 
+Vi kallar den 'Den Stora Förändring'.
+
+ * Ser [här](publicity/20230310_foeraendring/README.md) pappret som var schickat hem
+ * Ser [här](misc/den_stora_foeraendring_2023/README.md) för resultater
+
 När  |Vad för kurs A [*] | Vad för kurs B [*]
 -----|-------------------|-----------------------------------
 10:00|Dörr öppnas        |.
