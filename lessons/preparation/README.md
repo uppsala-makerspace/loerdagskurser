@@ -1,6 +1,7 @@
 # Preparation
 
 Checklist for preparing for a lesson, in fuzzy semi-chronological order.
+It takes 30 minutes for 1 person to do all these items.
 
 Done?|What?
 -----|-----------------------------------------------
