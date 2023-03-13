@@ -1,4 +1,4 @@
-# Prepararion
+# Preparation
 
 Checklist for preparing for a lesson, in fuzzy semi-chronological order.
 
