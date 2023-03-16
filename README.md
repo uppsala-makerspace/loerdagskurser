@@ -94,7 +94,7 @@ Vecka| Dag      |Vad
 10   |2023-03-11| 9.
  .   |2023-03-14| [Pi Dag](https://github.com/richelbilderbeek/pi_day) 6:15 @ Olof Palmes Plats
 11   |2023-03-18| 10. 
-12   |2023-03-25| 11. Vanligt kurs och [13.00-20.00 Björn och Richel's Tokiga Workshop](https://bit.ly/bjoritowo)
+12   |2023-03-25| 11. Vanligt kurs
 13   |2023-04-01| Början Påsklov, ej kurs
 14   |2023-04-08| Påskafton, ej kurs
 15   |2023-04-15| 12. **Nytt dagschema**, Börjar skapa slutpresentation
