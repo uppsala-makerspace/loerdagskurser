@@ -1,5 +1,8 @@
 # Den Stora Förändring 2023
 
+## Non-paper data
+
+It's also in the spreadsheet :-)
 
 Tid        |Arduino|Blender|Processing
 -----------|-------|-------|----------

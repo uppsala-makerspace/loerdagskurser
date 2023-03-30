@@ -61,7 +61,7 @@ Vi kallar den 'Den Stora Förändring'.
  * Ser [här](publicity/20230310_foeraendring/README.md) pappret som var schickat hem
  * Ser [här](misc/den_stora_foeraendring_2023/README.md) för resultater
 
-När  |Vad för kurs A [*] | Vad för kurs B [*]
+När  |Processing         |Arduino och Blender
 -----|-------------------|-----------------------------------
  9:00|([Förberedning](lessons/preparation/README.md) av frivilligarna)|.
 10:00|Dörr öppnas        |.
@@ -75,11 +75,6 @@ När  |Vad för kurs A [*] | Vad för kurs B [*]
 14:00|.                  |Slut/rast
 14:15|.                  |Extratimme
 15:00|.                  |Slut
-
-
- * Kurs A kan vara 'Arduino och Blender' eller 'Processing'.
-   Kurs B är den annat kurs än kurs A.
-   Vad kurser A och B är, det är bekant på 2023-03-25.
 
 ## Veckoschema
 
