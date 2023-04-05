@@ -212,6 +212,7 @@ Javisst!
 Målsättningen är dock att barnen ska hjälpa varandra i så stor utsträckning som möjligt, 
 så det ska helst inte vara fler än en vuxen per fyra barn.
 
+
 ## Lektioner och läromedel
 
 ## Jag lära mig Processing och komma igång dirkt, hur går jag tillväga?
@@ -370,3 +371,8 @@ Självklart har han gjört [många datorspelar](https://github.com/richelbilderb
 In short: you are always welcome, just show up between 10:00-12:00. 
 There is coffee and tea for parents and laptops and programming exercise
 for the kids :-)
+
+### Länkar
+
+ * [Swedish Discrimination Act, 2008:567](https://www.do.se/choose-language/english/discrimination-act-2008567), på Engelska
+
