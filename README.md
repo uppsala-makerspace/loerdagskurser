@@ -29,7 +29,7 @@ Se "Schema" nedan för mer information.
  * Första kursdagen: du är alltid välkommen!
  * Ålder: 8-88 år [*](faq.md)
 
-När  |Processing         |Arduino och Blender
+När  |Arduino och Blender|Processing
 -----|-------------------|-----------------------------------
  9:00|([Förberedning](lessons/preparation/README.md) av frivilligarna)|.
 10:00|Dörr öppnas        |.
