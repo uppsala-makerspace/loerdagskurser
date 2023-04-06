@@ -24,42 +24,10 @@ Se "Schema" nedan för mer information.
    kanske [programmeringslag 'tresinformal'](https://github.com/tresinformal/game)
    passar dig bättre
 
-### Dagschema (till 26:e Mars)
+### Dagschema
 
  * Första kursdagen: du är alltid välkommen!
  * Ålder: 8-88 år [*](faq.md)
-
-När  |Vad
------|---------------------------------------------------------------
- 9:00|([Förberedning](lessons/preparation/README.md) av frivilligarna)
-10:00|Dörr öppnas
-10:15|Början
-11:00|Rast
-11:15|Fortsättning
-12:00|Slut/rast
-12:15|Extratimme, bara för elever med ett diplom och vuxen
-13:00|Slut
-
- * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
-   Ekeby Bruk 6M, 752 63 Uppsala
- * Kostnad per elev (ser [betalning](https://github.com/uppsala-makerspace/loerdagskurser#Betalning) för mer info):
-   * September till december: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
-   * Januari till maj: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
- * Ålder: 8-88 år [*](faq.md)
- * Krav: en bärbar dator med WiFi [*](faq.md)
-
-Din första lektion kan vara vilken dag som helst.
-Även utan förvarning.
-Om du vet när du kommer är det trevligt om du berättar det för Richel: `richel@richelbilderbeek.nl`
-
-Har du en annan fråga? Se [vanliga frågor](faq.md).
-
-### Dagschema (från 15:e April)
-
-Vi kallar den 'Den Stora Förändring'.
-
- * Ser [här](publicity/20230310_foeraendring/README.md) pappret som var schickat hem
- * Ser [här](misc/den_stora_foeraendring_2023/README.md) för resultater
 
 När  |Processing         |Arduino och Blender
 -----|-------------------|-----------------------------------
@@ -76,22 +44,26 @@ När  |Processing         |Arduino och Blender
 14:15|.                  |Extratimme
 15:00|.                  |Slut
 
+ * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
+   Ekeby Bruk 6M, 752 63 Uppsala
+ * Kostnad per elev (ser [betalning](https://github.com/uppsala-makerspace/loerdagskurser#Betalning) för mer info):
+   * September till december: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
+   * Januari till maj: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
+ * Ålder: 8-88 år [*](faq.md)
+ * Krav: en bärbar dator med WiFi [*](faq.md)
+
+Din första lektion kan vara vilken dag som helst.
+Även utan förvarning.
+Om du vet när du kommer är det trevligt om du berättar det för Richel: `richel@richelbilderbeek.nl`
+
+Har du en annan fråga? Se [vanliga frågor](faq.md).
+
 ## Veckoschema
 
  * [Sista flygbladet är här (PDF)](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/publicity/20221214_vintersemester/20221214_vintersemester.pdf)
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
- 6   |2023-02-11| 6.
- 7   |2023-02-18| Början Sportlov, ej kurs 
- 8   |2023-02-25| 7.
- 9   |2023-03-04| 8.
-10   |2023-03-11| 9.
- .   |2023-03-14| [Pi Dag](https://github.com/richelbilderbeek/pi_day) 6:15 @ Olof Palmes Plats
-11   |2023-03-18| 10. 
-12   |2023-03-25| 11. Vanligt kurs
-13   |2023-04-01| Början Påsklov, ej kurs
-14   |2023-04-08| Påskafton, ej kurs
 15   |2023-04-15| 12. **Nytt dagschema**, Börjar skapa slutpresentation
 16   |2023-04-22| 13. 
 17   |2023-04-29| Valborg, ej kurs

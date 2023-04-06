@@ -15,6 +15,16 @@ Vecka| Dag      |Vad
  4   |2023-01-28| 4. 
  .   |2023-01-29| ([14:00 Richel prater på Science Fika över Open Science i Engelska hos Stadsbiblioteket](https://www.sciencefika.se))
  5   |2023-02-04| 5. ~~[13.00-20.00 Björn och Richel's Tokiga Workshop](https://bit.ly/bjoritowo)~~
+ 6   |2023-02-11| 6.
+ 7   |2023-02-18| Början Sportlov, ej kurs 
+ 8   |2023-02-25| 7.
+ 9   |2023-03-04| 8.
+10   |2023-03-11| 9.
+ .   |2023-03-14| [Pi Dag](https://github.com/richelbilderbeek/pi_day) 6:15 @ Olof Palmes Plats
+11   |2023-03-18| 10. 
+12   |2023-03-25| 11. Vanligt kurs
+13   |2023-04-01| Början Påsklov, ej kurs
+14   |2023-04-08| Påskafton, ej kurs
 
 ## Veckoschema 2022 semester 2
 
