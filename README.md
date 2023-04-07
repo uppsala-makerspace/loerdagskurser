@@ -64,6 +64,8 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
+13   |2023-04-01| Början Påsklov, ej kurs
+14   |2023-04-08| Påskafton, ej kurs
 15   |2023-04-15| 12. **Nytt dagschema**, Börjar skapa slutpresentation
 16   |2023-04-22| 13. 
 17   |2023-04-29| Valborg, ej kurs
