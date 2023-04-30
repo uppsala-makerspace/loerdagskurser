@@ -25,6 +25,8 @@ Vecka| Dag      |Vad
 12   |2023-03-25| 11. Vanligt kurs
 13   |2023-04-01| Början Påsklov, ej kurs
 14   |2023-04-08| Påskafton, ej kurs
+15   |2023-04-15| 12. Börjar skapa slutpresentation
+16   |2023-04-22| 13. 
 
 ## Veckoschema 2022 semester 2
 

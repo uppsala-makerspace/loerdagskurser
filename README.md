@@ -60,7 +60,7 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 ## Plats
 
-Lördagskurser är hps Uppsala Makerspace:
+Lördagskurser är hos Uppsala Makerspace:
 
 ```
 Uppsala Makerspace
@@ -85,10 +85,6 @@ Där kann du ringa på dörren eller knacka på fönstret:
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-13   |2023-04-01| Början Påsklov, ej kurs
-14   |2023-04-08| Påskafton, ej kurs
-15   |2023-04-15| 12. **Nytt dagschema**, Börjar skapa slutpresentation
-16   |2023-04-22| 13. 
 17   |2023-04-29| Valborg, ej kurs
 18   |2023-05-06| 14.
 19   |2023-05-13| 15.
