@@ -77,7 +77,7 @@ Makerspacet är nära parkeringsplatsen:
 
 Där kann du ringa på dörren eller knacka på fönstret:
 
-![](pics/uppsala_makerspace_outside_outside.jpg)
+![](pics/uppsala_makerspace_annotated.jpg)
 
 ## Veckoschema
 
