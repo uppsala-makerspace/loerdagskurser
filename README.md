@@ -44,7 +44,7 @@ När  |Arduino och Blender|Processing
 14:15|.                  |Extratimme
 15:00|.                  |Slut
 
- * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
+ * [Plats](#Plats): Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
  * Kostnad per elev (ser [betalning](https://github.com/uppsala-makerspace/loerdagskurser#Betalning) för mer info):
    * September till december: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
@@ -57,6 +57,22 @@ Din första lektion kan vara vilken dag som helst.
 Om du vet när du kommer är det trevligt om du berättar det för Richel: `richel@richelbilderbeek.nl`
 
 Har du en annan fråga? Se [vanliga frågor](faq.md).
+
+## Plats
+
+Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
+Ekeby Bruk 6M, 752 63 Uppsala
+
+
+![](ekeby_brug_in_uppsala_annotated.png)
+
+> Ekeby Bruk är 2 kilometer sydväst av Uppsala centrum. 
+
+![](ekeby_bruk_annotated.png)
+
+> Makerspacet är nära parkeringsplatsen
+
+
 
 ## Veckoschema
 
