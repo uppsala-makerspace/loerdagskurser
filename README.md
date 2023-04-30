@@ -64,11 +64,11 @@ Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.up
 Ekeby Bruk 6M, 752 63 Uppsala
 
 
-![](ekeby_brug_in_uppsala_annotated.png)
+![](pics/ekeby_brug_in_uppsala_annotated.png)
 
 > Ekeby Bruk är 2 kilometer sydväst av Uppsala centrum. 
 
-![](ekeby_bruk_annotated.png)
+![](pics/ekeby_bruk_annotated.png)
 
 > Makerspacet är nära parkeringsplatsen
 
