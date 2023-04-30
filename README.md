@@ -60,19 +60,24 @@ Har du en annan fråga? Se [vanliga frågor](faq.md).
 
 ## Plats
 
-Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
-Ekeby Bruk 6M, 752 63 Uppsala
+Lördagskurser är hps Uppsala Makerspace:
 
+```
+Uppsala Makerspace
+Ekeby Bruk 6M, 752 63 Uppsala
+```
+
+Ekeby Bruk är 2 kilometer sydväst av Uppsala centrum:
 
 ![](pics/ekeby_brug_in_uppsala_annotated.png)
 
-> Ekeby Bruk är 2 kilometer sydväst av Uppsala centrum. 
+Makerspacet är nära parkeringsplatsen:
 
 ![](pics/ekeby_bruk_annotated.png)
 
-> Makerspacet är nära parkeringsplatsen
+Där kann du ringa på dörren eller knacka på fönstret:
 
-
+![](pics/uppsala_makerspace_outside_outside.jpg)
 
 ## Veckoschema
 
