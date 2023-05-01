@@ -89,7 +89,7 @@ Vecka| Dag      |Vad
 18   |2023-05-06| 14.
 19   |2023-05-13| 15.
 20   |2023-05-20| 16. Öva slutpresentation
-.    |2023-05-21| Hackathon
+.    |2023-05-21| ~~Hackathon~~
 21   |2023-05-27| 17. Slutpresentation 11.00-13.00 @ Stadsbiblioteket, Mallassal
 22   |2023-06-03| 18. Eftermorsdag
 23   |2023-06-10| 19. Sista kursdag
