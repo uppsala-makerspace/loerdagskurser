@@ -13,6 +13,8 @@ Det finns fler aktiviteter, bland annat
 den så kallade Eftermors- och Efterfarsdag,
 varav vi inbjuder mödrar/fädrar att får undervising av eleverna.
 
+Hemsida av kursen är på [https://bit.ly/loerdagskurser](https://bit.ly/loerdagskurser).
+
 ![](21.jpg)
 
 > Slutpresentationen
