@@ -89,9 +89,9 @@ Vecka| Dag      |Vad
 18   |2023-05-06| 14.
 19   |2023-05-13| 15.
 20   |2023-05-20| 16. Öva slutpresentation
-.    |2023-05-21| ~~Hackathon~~
-21   |2023-05-27| 17. Slutpresentation 11.00-13.00 @ Stadsbiblioteket, Mallassal
-22   |2023-06-03| 18. Eftermorsdag
+.    |2023-05-21| [Hackathon](activities/20230521_hackathon/README.md) 12.00-18.00
+21   |2023-05-27| 17. [Slutpresentation](activities/20230527_slutpresentation/README.md) 11.00-13.00 @ Stadsbiblioteket, Mallassal
+22   |2023-06-03| 18. [Eftermorsdag](activities/20230603_eftermorsdag/README.md)
 23   |2023-06-10| 19. Sista kursdag
 24   |2023-06-17| Sommarlov, ej kurs
 25   |2023-06-24| Sommarlov, ej kurs
@@ -106,6 +106,8 @@ Vecka| Dag      |Vad
 33   |2023-08-19| Sommarlov, ej kurs
 34   |2023-08-26| 1. Kurs förtsätter igen
 
+ * Om det fins ingen plats skriven, är det på Uppsala Makerspace
+ * Om det fins ingen tid skriven, är det på vanligt kurstid
  * [1] Morsdag är den 28:e maj
  * [Tidigare aktiviteter finns här](veckoschemar.md)
 
