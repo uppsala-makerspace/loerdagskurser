@@ -35,11 +35,21 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Vem                 |Vad
 --------------------|---------------
-Kevin               |Super Mario Bros 1-1
-Roni                |Handdisco
-Gunnar              |IR Bil
-Team Sus-USB stickor|Konstig spel
-Team Slumpen        |Slumpspel
+Nelly               |Knappmojäng
+Axel                |Blink och ögenexperiment
+Erik                |Rubiks Kub
+Andy                |Regnbågslampan
+Malthe              |Riskigt för ett ... icecream
+David               |Cartoonapan
+Daniel              |Svamp
+Team Waka Baka      |Pacman
+Team Slumpen        |Team Slumpen presentation
+Karl                |?
+Felix               |?
+Teo                 |Pizza
+Mahdiya             |?
+Karl                |?
+
 
 När  |Frivilligare
 -----|-----------------------------------
