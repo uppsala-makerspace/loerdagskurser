@@ -35,20 +35,19 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Vem                 |Vad
 --------------------|---------------
-Nelly               |Knappmojäng
-Axel                |Blink och ögenexperiment
-Erik                |Rubiks Kub
 Andy                |Regnbågslampan
-Malthe              |Riskigt för ett ... icecream
-David               |Cartoonapan
+Axel                |Blink och ögenexperiment
 Daniel              |Svamp
-Team Waka Baka      |Pacman
-Team Slumpen        |Team Slumpen presentation
-Karl                |?
+David               |Cartoonapan
+Erik                |Rubiks Kub
 Felix               |?
-Teo                 |Pizza
-Mahdiya             |?
 Karl                |?
+Mahdiya             |?
+Malte               |Riskigt för ett ... icecream
+Nelly               |Knappmojäng
+Team Slumpen        |Team Slumpen presentation
+Team Waka Baka      |Pacman
+Teo                 |Pizza
 
 
 När  |Frivilligare
