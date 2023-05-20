@@ -33,33 +33,28 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-Vem                 |Vad
---------------------|---------------
-Angela              |7 Stifts piano
-David               |Kaoset
-Team Slumpen        |Slumpenproject
-Daniel              |Svamp
-Adrian              |Röda Ljuskällor
-Erik                |Rubiks Kub
-Vidar               |Studsande bol
+Vem              |Ålder|Vad
+-----------------|-----|-------------
+Angela           |8    |7 Stifts piano
+David            |9    |Kaoset
+Kevin            |10   |Höga Hampus
+Team Slumpen     |10   |[Team Slumpen hemsida](https://sites.google.com/view/slumpen/hem)
+Daniel           |11   |Svamp
+Mahdiya          |11   |Typ vackert program
+Adrian           |12   |Röda Ljuskällor
+Erik             |12   |Rubiks Kub
+Vidar            |12   |Studsande bol
+Teo              |12   |Pizza
+Team Waka Baka   |13   |Pacman
+.                |.    |.
+.                |.    |.
+.                |.    |.
+Andy             |?    |Regnbågslampan
+Axel             |?    |Blink och ögenexperiment
+Karl             |?    |?
+Malte            |?    |Riskigt för ett ... icecream
+Nelly            |?    |Knappmojäng
 
-
-
-
-
-Vem                 |Vad
---------------------|---------------
-Andy                |Regnbågslampan
-Axel                |Blink och ögenexperiment
-Felix               |?
-Karl                |?
-Mahdiya             |?
-Malte               |Riskigt för ett ... icecream
-Nelly               |Knappmojäng
-Team Waka Baka      |Pacman
-Teo                 |Pizza
-
-https://sites.google.com/view/slumpen/hem
 
 När  |Frivilligare
 -----|-----------------------------------
