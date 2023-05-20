@@ -10,10 +10,11 @@ void setup()
 
 void draw()
 {
+  fill(random(255), random(255), random(255));
   ellipse(x, y, 50, 50);
   x = x + hastighet_at_hoger;
   y = y + hastighet_nedat;
-  if (x > 275)
+  if (x > 1375)
 {
 hastighet_at_hoger = -hastighet_at_hoger;
 }
@@ -23,4 +24,5 @@ if(x < 25)
 }
 if(y > height - 25)
 {hastighet_nedat= -hastighet_nedat;}
+hastighet_nedat += 1.5;
 }
