@@ -35,20 +35,31 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Vem                 |Vad
 --------------------|---------------
+Angela              |7 Stifts piano
+David               |Kaoset
+Team Slumpen        |Slumpenproject
+Daniel              |Svamp
+Adrian              |Röda Ljuskällor
+Erik                |Rubiks Kub
+Vidar               |Studsande bol
+
+
+
+
+
+Vem                 |Vad
+--------------------|---------------
 Andy                |Regnbågslampan
 Axel                |Blink och ögenexperiment
-Daniel              |Svamp
-David               |Cartoonapan
-Erik                |Rubiks Kub
 Felix               |?
 Karl                |?
 Mahdiya             |?
 Malte               |Riskigt för ett ... icecream
 Nelly               |Knappmojäng
-Team Slumpen        |Team Slumpen presentation
 Team Waka Baka      |Pacman
 Teo                 |Pizza
 
+https://sites.google.com/view/slumpen/hem
 
 När  |Frivilligare
 -----|-----------------------------------
