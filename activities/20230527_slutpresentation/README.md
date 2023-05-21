@@ -35,6 +35,7 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Vem              |Ålder|Kurs|Vad
 -----------------|-----|----|----------------
+Andy             |8    |A   |Regnbågslampan
 Angela           |8    |A   |7 Stifts piano
 David            |9    |B   |Kaoset
 Kevin            |10   |P   |Höga Hampus
@@ -43,17 +44,23 @@ Daniel           |11   |B   |Svamp
 Mahdiya          |11   |P   |Typ vackert program
 Adrian           |12   |P   |Röda Ljuskällor
 Erik             |12   |B   |Rubiks Kub
+Isaac            |12?  |B   |?
+Linus?           |12?  |B   |?
 Vidar            |12   |P   |Studsande bol
-Teo              |12   |P   |Pizza
 Team Waka Baka   |13   |P   |Pacman
 .                |.    |.   |.
 .                |.    |.   |.
 .                |.    |.   |.
-Andy             |?    |A   |Regnbågslampan
 Axel             |?    |A   |Blink och ögenexperiment
 Karl             |?    |P   |?
 Malte            |?    |B   |Riskigt för ett ... icecream
-Nelly            |?    |A   |Knappmojäng
+Nelly            |14   |A   |Knappmojäng
+
+## Enkelt på Hackathon
+
+Vem              |Ålder|Kurs|Vad
+-----------------|-----|----|----------------
+Teo              |12   |P   |Pizza
 
 
 När  |Frivilligare
