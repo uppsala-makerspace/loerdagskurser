@@ -37,24 +37,35 @@ Vem              |Ålder|Kurs|Vad
 -----------------|-----|----|----------------
 Andy             |8    |A   |Regnbågslampan
 Angela           |8    |A   |7 Stifts piano
+Daniel           |11   |B   |Apblimpar
 David            |9    |B   |Kaoset
-Kevin            |10   |P   |Höga Hampus
-Team Slumpen     |10   |P   |[Team Slumpen hemsida](https://sites.google.com/view/slumpen/hem)
-Daniel           |11   |B   |Svamp
-Mahdiya          |11   |P   |Typ vackert program
-Adrian           |12   |P   |Röda Ljuskällor
+Team Slumpen     |10   |P   |[Team Slumpen hemsida](https://sites.google.com/view/slumpen/hem) och spel
 Erik             |12   |B   |Rubiks Kub
-Isaac            |12?  |B   |?
-Linus?           |12?  |B   |?
-Vidar            |12   |P   |Studsande bol
+Isaac            |12?  |B   |Monkeyman
 Team Waka Baka   |13   |P   |Pacman
-.                |.    |.   |.
-.                |.    |.   |.
-.                |.    |.   |.
-Axel             |?    |A   |Blink och ögenexperiment
-Karl             |?    |P   |?
-Malte            |?    |B   |Riskigt för ett ... icecream
-Nelly            |14   |A   |Knappmojäng
+Kevin            |10   |P   |Höga Hampus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Enkelt på Hackathon
 

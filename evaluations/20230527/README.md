@@ -24,5 +24,14 @@ Evaluation taken at 2022-12-10.
 
 ### Questions
 
+ * Photos OK? Let me know if not
+   * Yes, it is OK
  * Communication: website good enough? Email list?
+   * Yes, it is OK
+   * An emaillist and Discord server would be even better, so I will add it
+ * Q: How can we assist kids when they work from home?
+   * A: Link to books, Discord server
+   
+
+
 
