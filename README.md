@@ -105,6 +105,26 @@ Vecka| Dag      |Vad
 32   |2023-08-12| Sommarlov, ej kurs
 33   |2023-08-19| Sommarlov, ej kurs
 34   |2023-08-26| 1. Kurs förtsätter igen
+35   |2023-09-02| 2.
+36   |2023-09-09| 3.
+37   |2023-09-16| 4.
+38   |2023-09-23| 5.
+39   |2023-09-30| ?6.
+40   |2023-10-07| 7.
+41   |2023-10-14| 8.
+42   |2023-10-21| 9.
+43   |2023-10-28| Höstlov
+44   |2023-11-04| Höstlov
+45   |2023-11-11| 10. Början slutpresentation
+46   |2023-11-18| 11. Efterfarsdag
+47   |2023-11-25| 12.
+48   |2023-12-02| 13.
+49   |2023-12-09| 14. Slutpresentation
+50   |2023-12-16| 15.Sista kursdag
+51   |2023-12-23| Jullov
+52   |2023-12-30| Jullov
+1    |2024-01-06| Jullov
+2    |2024-01-13| 1. Första lektion igen
 
  * Om det fins ingen plats skriven, är det på Uppsala Makerspace
  * Om det fins ingen tid skriven, är det på vanligt kurstid
