@@ -106,7 +106,7 @@ Vecka| Dag      |Vad
 33   |2023-08-19| Sommarlov, ej kurs
 34   |2023-08-26| 1. Kurs förtsätter igen
 35   |2023-09-02| 2.
-36   |2023-09-09| 3.
+36   |2023-09-09| 3. [Kulturnatten](activities/20230909_kulturnatten/README.md)
 37   |2023-09-16| 4.
 38   |2023-09-23| 5.
 39   |2023-09-30| ?6.
