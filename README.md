@@ -24,6 +24,10 @@ Se "Schema" nedan för mer information.
    kanske [programmeringslag 'tresinformal'](https://github.com/tresinformal/game)
    passar dig bättre
 
+Logo                                                |Link
+----------------------------------------------------|---------------------------------------------------------
+![FreeLists logo](pics/freelists_logo_114_x_34.png) | **[Email list](https://www.freelists.org/list/loerdagskurser)**
+
 ### Dagschema
 
  * Första kursdagen: du är alltid välkommen!
