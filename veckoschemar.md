@@ -27,6 +27,14 @@ Vecka| Dag      |Vad
 14   |2023-04-08| Påskafton, ej kurs
 15   |2023-04-15| 12. Börjar skapa slutpresentation
 16   |2023-04-22| 13. 
+17   |2023-04-29| Valborg, ej kurs
+18   |2023-05-06| 14.
+19   |2023-05-13| 15.
+20   |2023-05-20| 16. Öva slutpresentation
+.    |2023-05-21| [Hackathon](activities/20230521_hackathon/README.md) 12.00-18.00
+21   |2023-05-27| 17. [Slutpresentation](activities/20230527_slutpresentation/README.md) 11.00-13.00 @ Stadsbiblioteket, Mallassal
+22   |2023-06-03| 18. [Eftermorsdag](activities/20230603_eftermorsdag/README.md)
+23   |2023-06-10| 19. Sista kursdag
 
 ## Veckoschema 2022 semester 2
 

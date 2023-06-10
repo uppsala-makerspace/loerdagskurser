@@ -20,9 +20,7 @@ Det viktigaste i kurserna är att lära sig nya saker tillsammans.
 
 Se "Schema" nedan för mer information.
 
- * Tycker du mer om att skapa datorspel med bara vuxna
-   kanske [programmeringslag 'tresinformal'](https://github.com/tresinformal/game)
-   passar dig bättre
+### Att vara informerad
 
 Logo                                                |Link
 ----------------------------------------------------|---------------------------------------------------------
@@ -90,14 +88,6 @@ Där kann du ringa på dörren eller knacka på fönstret:
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-17   |2023-04-29| Valborg, ej kurs
-18   |2023-05-06| 14.
-19   |2023-05-13| 15.
-20   |2023-05-20| 16. Öva slutpresentation
-.    |2023-05-21| [Hackathon](activities/20230521_hackathon/README.md) 12.00-18.00
-21   |2023-05-27| 17. [Slutpresentation](activities/20230527_slutpresentation/README.md) 11.00-13.00 @ Stadsbiblioteket, Mallassal
-22   |2023-06-03| 18. [Eftermorsdag](activities/20230603_eftermorsdag/README.md)
-23   |2023-06-10| 19. Sista kursdag
 24   |2023-06-17| Sommarlov, ej kurs
 25   |2023-06-24| Sommarlov, ej kurs
 26   |2023-07-01| Sommarlov, ej kurs
@@ -114,7 +104,7 @@ Vecka| Dag      |Vad
 36   |2023-09-09| 3. [Kulturnatten](activities/20230909_kulturnatten/README.md)
 37   |2023-09-16| 4.
 38   |2023-09-23| 5.
-39   |2023-09-30| ?6.
+39   |2023-09-30| 6.
 40   |2023-10-07| 7.
 41   |2023-10-14| 8.
 42   |2023-10-21| 9.
