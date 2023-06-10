@@ -119,6 +119,7 @@ Vecka| Dag      |Vad
 46   |2023-11-18| 11. Efterfarsdag
 47   |2023-11-25| 12.
 48   |2023-12-02| 13.
+.    |2023-12-03| Hackathon
 49   |2023-12-09| 14. Slutpresentation
 50   |2023-12-16| 15.Sista kursdag
 51   |2023-12-23| Jullov
