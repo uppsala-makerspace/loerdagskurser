@@ -15,16 +15,15 @@
  * Målet: att undervisa programmering till Kulturnattens besökare
  * Vem: elverna från Programmeringskursen
  * Var: Uppsala Stadsbibliotek
- * Tiderna: 11:00-21:00 (men eleverna undervisa bara flera timmar :-) )
+ * Tiderna: 11:00-19:00 (men eleverna undervisa bara flera timmar :-) )
 
-OBS, hos Makerspacet finns också saker att göra mellan klockan 14:00 och 20:00:
-https://www.uppsalamakerspace.se/2022/08/04/uppsala-makerspace-pa-kulturnatten/ .
+OBS, hos Makerspacet finns också saker att göra.
 
 ## Vanliga frågor
 
 ### När är jag välkommen?
 
-Någonsin mellan klockan 11:00 och 21:00.
+Någonsin mellan klockan 11:00 och 19:00.
 
 Schemat är här:
 
@@ -38,8 +37,6 @@ När        |Vem
 16:00-17:00|Richel 
 17:00-18:00|Richel 
 18:00-19:00|Richel 
-19:00-20:00|Richel 
-20:00-21:00|Richel 
 
 Japp, den är inte riktigt fyllt i just nu :-)
 
