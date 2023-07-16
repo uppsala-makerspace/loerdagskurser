@@ -11,6 +11,8 @@ OBS, hos Makerspacet finns också saker att göra.
 
 ![](20230909_kulturnatten_2.png)
 
+![](20230909_kulturnatten_3.png)
+
 ## Vanliga frågor
 
 ### När är jag välkommen?
