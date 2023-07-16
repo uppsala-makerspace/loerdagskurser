@@ -1,7 +1,5 @@
 # 2023-11-25 Programmeringsworkshop
 
-![](202311125_girls_only_workshop_1.png)
-
  * Programmeringsworkshop 
  * Lördag 25 november 13.30-15.30 
 
@@ -12,4 +10,7 @@
 
 Samarrangör: Uppsala Makerspace
 
+![](202311125_girls_only_workshop_1.png)
+
 ![](202311125_girls_only_workshop_2.png)
+
