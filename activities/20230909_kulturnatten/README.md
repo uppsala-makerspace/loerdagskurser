@@ -1,23 +1,15 @@
 # 2023-09-09 Kulturnatten
 
-![](20220910_074542.jpg)
-
-![](20220910_103642.jpg)
-
-![](20220910_103701.jpg)
-
-![](20220910_113722.jpg)
-
-![](20220910_113733.jpg)
-
-> Sista årets Kulturnatten
-
  * Målet: att undervisa programmering till Kulturnattens besökare
  * Vem: elverna från Programmeringskursen
  * Var: Uppsala Stadsbibliotek
  * Tiderna: 11:00-19:00 (men eleverna undervisa bara flera timmar :-) )
 
 OBS, hos Makerspacet finns också saker att göra.
+
+![](20230909_kulturnatten_1.png)
+
+![](20230909_kulturnatten_2.png)
 
 ## Vanliga frågor
 
@@ -69,4 +61,20 @@ Kort svar: ingenting :-). Du får tar med dig dina egna grejer på egen risk.
  * Arduino: samma sak som datorer. Du får utställa dina Arduino projekter,
    men vi kan aldrig vara säkert att dina grejer är trygg
 
+## Har gick det i 2022?
 
+Här är bilder av 2022, på tiden att vi just började.
+På slutet hade det inte varit för lugnt alls 
+och har vi fått hundratals besökare!
+
+![](20220910_074542.jpg)
+
+![](20220910_103642.jpg)
+
+![](20220910_103701.jpg)
+
+![](20220910_113722.jpg)
+
+![](20220910_113733.jpg)
+
+> Sista årets Kulturnatten
