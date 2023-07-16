@@ -112,7 +112,8 @@ Vecka| Dag      |Vad
 44   |2023-11-04| Höstlov
 45   |2023-11-11| 10. Början slutpresentation
 46   |2023-11-18| 11. Efterfarsdag
-47   |2023-11-25| 12.
+47   |2023-11-25| 12. 
+.    |.         | (efter kursen, 13.30-15.30: [programmingsworkshop för tjejer](activities/202311125_girls_only_workshop/README.md) på Stadsbiblioteket)
 48   |2023-12-02| 13.
 .    |2023-12-03| Hackathon
 49   |2023-12-09| 14. Slutpresentation
