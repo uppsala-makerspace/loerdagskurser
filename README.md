@@ -50,8 +50,9 @@ När  |Arduino och Blender|Processing
  * [Plats](#Plats): Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
  * Kostnad per elev (ser [betalning](https://github.com/uppsala-makerspace/loerdagskurser#Betalning) för mer info):
-   * September till december: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
-   * Januari till maj: 400 kr för Uppsala Makerspace medlemmar, 600 kr för andra
+   * Familjmedlemskap: 300 kr varje år
+   * September till december: 300 kr 
+   * Januari till maj: 300 kr
  * Ålder: 8-88 år [*](faq.md)
  * Krav: en bärbar dator med WiFi [*](faq.md)
 
@@ -152,11 +153,13 @@ December |Presentation och utvärdering
 
 ## Betalning
 
-Kursen kostar 400 kr för Uppsala Makerspace medlemmar
-och 600 kr för andra per halv år (tips: medlemskap är 200 kr per år!).
+För att delta i kursen kräver det en familjemedlemskap,
+som kostar 300 kr om året, för kostnad av rummet.
+Brevid det kostar kursen 300 kr för varje termin (det finns två termin i året),
+för kostnad av kursmaterial.
 
 Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
-Snälla, använd formatet här (`LK` betyder 'Lördags Kurs'):
+Finast är att använder formatet här (`LK` betyder 'Lördags Kurs'):
 
 ```
 LK: [nam], [email]

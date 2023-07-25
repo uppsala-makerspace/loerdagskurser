@@ -234,9 +234,17 @@ Se också [tidigare aktiviteter](https://www.uppsalamakerspace.se/aktiviteter).
 
 ### Vad kostar kursen?
 
+Grundavgiften för en ny elev är 600 kronor, vilket inkluderar medlemsavgift för ett år (300 kronor) och det första halvårets undervisningshäften (300 kronor).
+Medlemskapet i Uppsala Makerspace som gäller för eleven, en förälder (som adminstrerar medlemskapet), samt alla andra i familjen som vill bli medlemmar under ett år. Om syskon eller andra familjemedlemmar också vill gå kursen behöver de bara betala 300 kronor per termin, det vill säga avgiften för undervisningsmaterialet.
+Elever som är 18 år eller över behöver inte ha någon målsman som står för medlemskapet och kan då välja att ha ett enskild medlemskap för enbart 200 kronor.
 
- * 400 SEK för medlemmar
- * 600 SEK för ej-medlemmar
+ * En familjmedlemskap: 300 kr per år
+ * Kurskostnad: 300 kr för per termin
+
+Till exempel:
+
+ * Ett elev kostar 600 kr i första termin, och 300 kr i nästa.
+ * Tva elever kostar 900 kr i första termin, och 600 kr i nästa.
 
 ### Hur betalar jag kursen?
 
@@ -250,14 +258,6 @@ Hör av dig till Richel, han har förmodligen en lösning.
 
 För att kursen bedrivs med frivilliga krafter och det finns ett intresse att sprida kunskap om programmering i samhället.
 Kostnaderna är i huvudsak för att trycka böckerna och lite fika.
-
-### Varför fins det två priser?
-
-Kursen har två priser: en för Uppsala Makerspace medlemmar och en för ej-medlemmar.
-
-Det lägre av priserna är för Uppsala Makerspace medlemmar, de betalar bara för böcker och fika.
-
-Det högre priset är för de som inte är medlemmar ännu, då de behöver bidra till kostnaden för lokalen.
 
 ### Varför kostar kursen samma mellan höst och vår?
 
@@ -303,7 +303,7 @@ Per elev och termin:
 
 Det betyder, 
 i början när det inte finns några böcker, 
-blir kostnaden 554 SEK per elev pro termin.
+blir kostnaden 554 kr per elev pro termin.
 Det är en pessimistisk uppskattning.
 
 ## Köpa komponenter
