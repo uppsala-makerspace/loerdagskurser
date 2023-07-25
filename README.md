@@ -153,10 +153,9 @@ December |Presentation och utvärdering
 
 ## Betalning
 
-För att delta i kursen kräver det en familjemedlemskap,
-som kostar 300 kr om året, för kostnad av rummet.
-Brevid det kostar kursen 300 kr för varje termin (det finns två termin i året),
-för kostnad av kursmaterial.
+Grundavgiften för en ny (minderårig) elev är 600 kronor, vilket inkluderar medlemsavgift för ett år (300 kronor) och det första halvårets undervisningshäften (300 kronor).
+Medlemskapet i Uppsala Makerspace som gäller för eleven, en förälder (som adminstrerar medlemskapet), samt alla andra i familjen som vill bli medlemmar under ett år. Om andra minderåriga i familjen också vill gå kursen behöver de bara betala 300 kronor per termin, det vill säga avgiften för undervisningsmaterialet.
+Vuxna elever behöver bara ha ett medlemskap.
 
 Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
 Finast är att använder formatet här (`LK` betyder 'Lördags Kurs'):
