@@ -3,9 +3,11 @@
 Den här är gammla veckoschemar.
 Senaste sajsånger är första.
 
-## Veckoschema 2023 semester 1
+## Veckoschema 2023 semester 2
 
 Är pågående :-)
+
+## Veckoschema 2023 semester 1
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
@@ -35,6 +37,17 @@ Vecka| Dag      |Vad
 21   |2023-05-27| 17. [Slutpresentation](activities/20230527_slutpresentation/README.md) 11.00-13.00 @ Stadsbiblioteket, Mallassal
 22   |2023-06-03| 18. [Eftermorsdag](activities/20230603_eftermorsdag/README.md)
 23   |2023-06-10| 19. Sista kursdag
+24   |2023-06-17| Sommarlov, ej kurs
+25   |2023-06-24| Sommarlov, ej kurs
+26   |2023-07-01| Sommarlov, ej kurs
+27   |2023-07-08| Sommarlov, ej kurs
+28   |2023-07-15| Sommarlov, ej kurs
+29   |2023-07-22| Sommarlov, ej kurs
+ .   |2023-07-22| [Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day) 7:22 @ Uppsala Slott
+30   |2023-07-29| Sommarlov, ej kurs
+31   |2023-08-05| Sommarlov, ej kurs
+32   |2023-08-12| Sommarlov, ej kurs
+33   |2023-08-19| Sommarlov, ej kurs
 
 ## Veckoschema 2022 semester 2
 

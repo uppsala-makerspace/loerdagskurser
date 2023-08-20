@@ -89,17 +89,6 @@ Där kann du ringa på dörren eller knacka på fönstret:
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-24   |2023-06-17| Sommarlov, ej kurs
-25   |2023-06-24| Sommarlov, ej kurs
-26   |2023-07-01| Sommarlov, ej kurs
-27   |2023-07-08| Sommarlov, ej kurs
-28   |2023-07-15| Sommarlov, ej kurs
-29   |2023-07-22| Sommarlov, ej kurs
- .   |2023-07-22| [Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day) 7:22 @ Uppsala Slott
-30   |2023-07-29| Sommarlov, ej kurs
-31   |2023-08-05| Sommarlov, ej kurs
-32   |2023-08-12| Sommarlov, ej kurs
-33   |2023-08-19| Sommarlov, ej kurs
 34   |2023-08-26| 1. Kurs förtsätter igen
 35   |2023-09-02| 2.
 36   |2023-09-09| 3. [Kulturnatten](activities/20230909_kulturnatten/README.md)
@@ -129,16 +118,6 @@ Vecka| Dag      |Vad
  * [1] Morsdag är den 28:e maj
  * [Tidigare aktiviteter finns här](veckoschemar.md)
 
-## Lag
-
-Lag sorterade på namnet och ledare.
-
-Lagnamnet   |Lagledare|Repository
-------------|---------|----------------------------------------------------------
-Slumpen     |Erland   |.
-Waka Baka   |Richel   |[https://codeberg.org/RealLift/Pacman](https://codeberg.org/RealLift/Pacman)
-.           |Björn    |.
-
 ## Årschema
 
 Detta är det övergripande schemat. Ser veckoschema för detaljerna.
@@ -153,8 +132,15 @@ December |Presentation och utvärdering
 
 ## Betalning
 
-Grundavgiften för en ny (minderårig) elev är 600 kronor, vilket inkluderar medlemsavgift för ett år (300 kronor) och det första halvårets undervisningshäften (300 kronor).
-Medlemskapet i Uppsala Makerspace som gäller för eleven, en förälder (som adminstrerar medlemskapet), samt alla andra i familjen som vill bli medlemmar under ett år. Om andra minderåriga i familjen också vill gå kursen behöver de bara betala 300 kronor per termin, det vill säga avgiften för undervisningsmaterialet.
+Grundavgiften för en ny (minderårig) elev är 600 kronor, 
+vilket inkluderar medlemsavgift för ett år (300 kronor) 
+och det första halvårets undervisningshäften (300 kronor).
+Medlemskapet i Uppsala Makerspace som gäller för eleven, 
+en förälder (som adminstrerar medlemskapet), 
+samt alla andra i familjen som vill bli medlemmar under ett år. 
+Om andra minderåriga i familjen också vill gå kursen 
+behöver de bara betala 300 kronor per termin, 
+det vill säga avgiften för undervisningsmaterialet.
 Vuxna elever behöver bara ha ett medlemskap.
 
 Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
