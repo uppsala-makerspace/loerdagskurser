@@ -53,6 +53,5 @@ When       |What
 13:15-13:30|Outside: coordinats
 13:30-14:00|Work
 
-
  * Ask students informally: what is so fun about the hackathon?
  * Pay attention to Discord
