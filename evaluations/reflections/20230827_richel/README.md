@@ -289,3 +289,16 @@ that if he wants to try out things like that, he is welcome to do so.
 
 The extratimme was simple, with 5 students, divided over 2 teams.
 One team has given itself 'The Crew' as a name.
+The other team invited me to their private Codeberg repo
+at [https://codeberg.org/RealLift/Geometry_Dash_Recreation](https://codeberg.org/RealLift/Geometry_Dash_Recreation).
+
+In hindsight, I should improve working with team: I need to carve out
+5 minutes to talk to each team at the start and end to help
+them straighten out what to do and see what has been achieved.
+
+ * TODO: plan to meet teams at start and end of lessons
+
+
+
+
+
