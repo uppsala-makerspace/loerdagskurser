@@ -112,6 +112,40 @@ Vecka| Dag      |Vad
 52   |2023-12-30| Jullov
 1    |2024-01-06| Jullov
 2    |2024-01-13| 1. Första lektion igen
+3    |2024-01-20| 2.
+4    |2024-01-27| 3.
+5    |2024-02-03| 4.
+6    |2024-02-10| 5.
+7    |2024-02-17| 6.
+8    |2024-02-24|Ej kurs, Sportlov
+9    |2024-03-02|Ej kurs, Sportlov
+10   |2024-03-09| 7.
+11   |2024-03-16| 8.
+12   |2024-03-23| 9.
+13   |2024-03-30|Ej kurs, Paskafton
+14   |2024-04-06|Ej kurs, Pasklov
+15   |2024-04-13| 10.
+16   |2024-04-20| 11.
+17   |2024-04-27| 12.
+18   |2024-05-04| 13.
+19   |2024-05-11| 14.
+20   |2024-05-18| 15. Övning av slutpresentation
+.    |2024-05-19|Hackathon
+21   |2024-05-25| 16. Slutpresentation
+22   |2024-06-01| 17. Eftermorsdag
+.    |2024-06-08|Ej kurs, sommarlov
+.    |2024-06-15|Ej kurs, sommarlov
+.    |2024-06-22|Ej kurs, sommarlov
+.    |2024-06-29|Ej kurs, sommarlov
+.    |2024-07-06|Ej kurs, sommarlov
+.    |2024-07-13|Ej kurs, sommarlov
+.    |2024-07-20|Ej kurs, sommarlov
+.    |2024-07-27|Ej kurs, sommarlov
+.    |2024-08-03|Ej kurs, sommarlov
+.    |2024-08-10|Ej kurs, sommarlov
+.    |2024-08-17|Ej kurs, sommarlov
+.    |2024-08-24| 1. Första lektion igen
+
 
  * Om det fins ingen plats skriven, är det på Uppsala Makerspace
  * Om det fins ingen tid skriven, är det på vanligt kurstid
