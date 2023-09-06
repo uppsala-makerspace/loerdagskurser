@@ -23,16 +23,14 @@ Schemat är här:
 
 När        |Vem
 -----------|------------------
-11:00-12:00|Richel 
-12:00-13:00|Richel 
-13:00-14:00|Richel 
-14:00-15:00|Richel 
-15:00-16:00|Richel 
-16:00-17:00|Richel 
-17:00-18:00|Richel 
-18:00-19:00|Richel 
-
-Japp, den är inte riktigt fyllt i just nu :-)
+11:00-12:00|Richel, Herman, Leslie, Dahlia 
+12:00-13:00|Richel, Herman, Angela, Leslie, Dahlia
+13:00-14:00|Richel, Herman, Angela, David
+14:00-15:00|Richel, Herman, David, Gunnar
+15:00-16:00|Richel, Herman, Love, Edgar, Gunnar
+16:00-17:00|Richel, Herman, Love, Edgar
+17:00-18:00|Richel, Herman, Vidar, Erland 
+18:00-19:00|Richel, Herman, Vidar, Erland
 
 ### Hur länge skulle jag hjälpa med?
 
