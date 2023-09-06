@@ -126,13 +126,13 @@ Vecka| Dag      |Vad
 14   |2024-04-06|Ej kurs, Pasklov
 15   |2024-04-13| 10.
 16   |2024-04-20| 11.
-17   |2024-04-27| 12.
-18   |2024-05-04| 13.
-19   |2024-05-11| 14.
-20   |2024-05-18| 15. Övning av slutpresentation
+17   |2024-04-27|Ej kurs, Valborg
+18   |2024-05-04| 12.
+19   |2024-05-11| 13.
+20   |2024-05-18| 14. Övning av slutpresentation
 .    |2024-05-19|Hackathon
-21   |2024-05-25| 16. Slutpresentation
-22   |2024-06-01| 17. Eftermorsdag
+21   |2024-05-25| 15. Slutpresentation
+22   |2024-06-01| 16. Eftermorsdag
 .    |2024-06-08|Ej kurs, sommarlov
 .    |2024-06-15|Ej kurs, sommarlov
 .    |2024-06-22|Ej kurs, sommarlov
