@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 echo 'espeak -v swedish-mbrola-1 -v swedish-mbrola-1 -s 120 -p 10 "Dör öppet"' | at 12:00
 echo 'espeak -v swedish-mbrola-1 -v swedish-mbrola-1 -s 120 -p 10 "Klockan starta"' | at 12:15
 echo 'espeak -v swedish-mbrola-1 -v swedish-mbrola-1 -s 120 -p 10 "Tid att ta en paus"' | at 13:00
