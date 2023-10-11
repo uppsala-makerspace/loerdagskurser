@@ -105,11 +105,11 @@ Kurs                                                                            
 
 Alla är båda online och i papper.
 
-### Få jag drycker böcker själv?
+### Få jag trycka böckerna själv?
 
 Javisst! Bocker att [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
 ha en `CC-BY-NC` licens, 
-som innehål du får drycker böcker själv för en kommerciell sak (`NC` = 'Non Commercial').
+som innehåll du får trycka böcker själv för en kommerciell sak (`NC` = 'Non Commercial').
 Också, du får ädrar texten, så långe du skriver också original version (`BY` = 'give attribution').
 
 ## Arduino (programmeringsspråket)
