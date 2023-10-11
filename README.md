@@ -211,3 +211,5 @@ Ser [Bilder](bilder.md).
 
 [![check-links](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml/badge.svg?branch=master)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=master)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/jekyll-gh-pages.yml)
+
+hi!
