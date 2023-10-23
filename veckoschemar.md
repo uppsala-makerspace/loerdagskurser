@@ -48,6 +48,14 @@ Vecka| Dag      |Vad
 31   |2023-08-05| Sommarlov, ej kurs
 32   |2023-08-12| Sommarlov, ej kurs
 33   |2023-08-19| Sommarlov, ej kurs
+34   |2023-08-26| 1. Kurs förtsätter igen
+35   |2023-09-02| 2.
+36   |2023-09-09| 3. [Kulturnatten](activities/20230909_kulturnatten/README.md)
+37   |2023-09-16| 4.
+38   |2023-09-23| 5.
+39   |2023-09-30| 6.
+40   |2023-10-07| 7.
+41   |2023-10-14| 8.
 
 ## Veckoschema 2022 semester 2
 
