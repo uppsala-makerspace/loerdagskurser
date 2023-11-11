@@ -20,6 +20,8 @@ Det viktigaste i kurserna är att lära sig nya saker tillsammans.
 
 Se "Schema" nedan för mer information.
 
+ * [Ser vår flyer här](publicity/20230414_flyer_usb/20230414_flyer_usb_1.pdf)
+
 ### Att vara informerad
 
 Logo                                                |Link
@@ -85,20 +87,17 @@ Där kann du ringa på dörren eller knacka på fönstret:
 
 ## Veckoschema
 
- * [Sista flygbladet är här (PDF)](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/publicity/20221214_vintersemester/20221214_vintersemester.pdf)
+ * [Sista flygbladet är här (PDF)](https://github.com/uppsala-makerspace/loerdagskurser/blob/master/publicity/20231111_efdhs/20231111_efdhs.pdf)
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-42   |2023-10-21| 9.
-43   |2023-10-28| Höstlov
-44   |2023-11-04| Höstlov
 45   |2023-11-11| 10. Början slutpresentation
-46   |2023-11-18| 11. Efterfarsdag
+46   |2023-11-18| 11. [Efterfarsdag](activities/20231118_efterfarsdag/README.md)
 47   |2023-11-25| 12. 
 .    |.         | (efter kursen, 13.30-15.30: [programmingsworkshop för tjejer](activities/202311125_girls_only_workshop/README.md) på Stadsbiblioteket)
 48   |2023-12-02| 13.
-.    |2023-12-03| Hackathon
-49   |2023-12-09| 14. Slutpresentation
+.    |2023-12-03| [Hackathon](activities/20231202_hackathon/README.md)
+49   |2023-12-09| 14. [Slutpresentation](activities/20231209_slutpresentation/README.md)
 50   |2023-12-16| 15.Sista kursdag
 51   |2023-12-23| Jullov
 52   |2023-12-30| Jullov
