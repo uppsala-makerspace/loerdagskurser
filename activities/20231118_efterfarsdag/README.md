@@ -68,16 +68,11 @@ Det blir en fin dag!
 
 Adjöken, din dotter/son/sonson/sondotter/morson/mordotter/orelaterade dotter/orelaterade son
 
-## Foton året förut
+## Noterna
 
-Det fanns 19 elever och 13 fädrar.
+Det fanns 25 elever och 11 fädrar.
+25 donuts skulle har funkat. 
 
-![](../20221119_efterfarsdag/IMG_20221119_112002.jpg)
 
-![](../20221119_efterfarsdag/IMG_20221119_112027.jpg)
 
-![](../20221119_efterfarsdag/IMG_20221119_112057.jpg)
 
-![](../20221119_efterfarsdag/IMG_20221119_112146.jpg)
-
-![](../20221119_efterfarsdag/IMG_20221119_112207.jpg)
