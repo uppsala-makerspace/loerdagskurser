@@ -96,7 +96,7 @@ Vecka| Dag      |Vad
 47   |2023-11-25| 12. 
 .    |.         | (efter kursen, 13.30-15.30: [programmingsworkshop för tjejer](activities/202311125_girls_only_workshop/README.md) på Stadsbiblioteket)
 48   |2023-12-02| 13.
-.    |2023-12-03| [Hackathon](activities/20231202_hackathon/README.md)
+.    |2023-12-03| [Hackathon](activities/20231203_hackathon/README.md)
 49   |2023-12-09| 14. [Slutpresentation](activities/20231209_slutpresentation/README.md)
 50   |2023-12-16| 15.Sista kursdag
 51   |2023-12-23| Jullov
