@@ -36,3 +36,27 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 Vem              |Ålder|Kurs|Vad
 -----------------|-----|----|----------------
 .                |.    |.   |.
+Alfred           |?    |A   |Uppladdningsknapp
+Angela           |?    |A   |Neopixel
+David H          |?    |A   |WALL-E 38
+Emil             |?    |A   |WALL-E 38
+Vidar            |?    |A   |WALL-E 38
+Gordii           |?    |A   |Blink
+Dennis           |?    |?   |?
+Daniel H         |?    |B   |Team Smile.exe.co TM: Battle Island
+David  H         |?    |B   |Team Smile.exe.co TM: Battle Island
+Felix            |?    |B   |Team Smile.exe.co TM: Battle Island
+Linus            |?    |B   |Text
+Sannah           |?    |B   |Fedora Hat
+Daniel M         |?    |P   |Okänd Gräsnatta
+Enrico           |?    |P   |?
+Felipe           |?    |P   |Halcony Infynity
+Herman           |?    |P   |UFO 2D2
+Isaac            |?    |P   |Halcony Infynity
+Kevin            |?    |P   |Fysikmotor Pro Demo
+Leonid           |?    |P   |UFO 2D2
+Mahdiya          |?    |P   |Färgade Cirklar
+Malek            |?    |P   |Rainbow Cube
+Pablo            |?    |P   |Halcony Infynity
+Shushanty        |?    |P   |Färger
+Xiuchang         |?    |P   |Random
