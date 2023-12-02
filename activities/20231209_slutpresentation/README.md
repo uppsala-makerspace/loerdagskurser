@@ -33,27 +33,24 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
+Vem                  |Ålder|Kurs|Vad
+---------------------|-----|----|----------------
+Dahlia               |8    |P   |Vacker regenb...
+Angela               |9    |A   |Neopixel
+Enrico               |9    |P   |Random röd
+Gordii               |9    |A   |Blink
+Xiuchang             |9    |P   |Random
+Fredrik              |?    |B   |Wackamole
+Sannan               |?    |B   |Fedora Hat
+Daniel               |10   |P   |Grässmatta Quest
+Vide                 |11   |B   |?
+Teo                  |12   |P   |Pizza
+WALL-E 38            |?    |ABP |WALL-E 38
+Team Smile.exe.co TM |11   |B   |Battle Island
+Team Smile.exe.co TM |.    |B   |Davidsgoofyahhtree
+Isaac's lag mkn      |11   |P   |Halcony Infynity
+UFO                  |13   |P   |UFO 2D2
 
-Vem              |Ålder|Kurs|Vad
------------------|-----|----|----------------
-[DONE] Angela    |9    |A   |Neopixel
-[DONE] Fredrik          |?    |B   |Wackamole
-[NEED ARDUINO] Gordii           |9    |A   |Blink
-[Need copy] Sannan           |?    |B   |Fedora Hat
-[USB, file fails] Vide           |11    |B   |?
-[DONE] WALL-E 38     |?    |Mix |WALL-E 38
-Team Smile.exe.co TM |11    |B   |Battle Island
-Team Smile.exe.co TM |11    |B   |Davidsgoofyahhtree
-
-## TODO
-
-Dahlia           |8    |P   |Vackers regenb...
-Enrico           |9    |P   |Random röd
-Xiuchang         |9    |P   |Random
-Daniel           |10   |P   |Grässmatta Quest
-Teo              |12   |P   |Pizza
-Isaac's lag mkn  |11   |P   |Halcony Infynity
-UFO              |13   |P   |UFO 2D2
 
 ## Not present
 
