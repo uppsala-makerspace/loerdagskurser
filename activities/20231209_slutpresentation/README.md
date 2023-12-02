@@ -33,30 +33,42 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
+
 Vem              |Ålder|Kurs|Vad
 -----------------|-----|----|----------------
-.                |.    |.   |.
-Alfred           |?    |A   |Uppladdningsknapp
-Angela           |?    |A   |Neopixel
-David H          |?    |A   |WALL-E 38
-Emil             |?    |A   |WALL-E 38
-Vidar            |?    |A   |WALL-E 38
-Gordii           |?    |A   |Blink
-Dennis           |?    |?   |?
-Daniel H         |?    |B   |Team Smile.exe.co TM: Battle Island
-David  H         |?    |B   |Team Smile.exe.co TM: Battle Island
-Felix            |?    |B   |Team Smile.exe.co TM: Battle Island
-Linus            |?    |B   |Text
-Sannah           |?    |B   |Fedora Hat
-Daniel M         |?    |P   |Okänd Gräsnatta
-Enrico           |?    |P   |?
-Felipe           |?    |P   |Halcony Infynity
-Herman           |?    |P   |UFO 2D2
-Isaac            |?    |P   |Halcony Infynity
+[DONE] Angela    |9    |A   |Neopixel
+[DONE] Fredrik          |?    |B   |Wackamole
+[NEED ARDUINO] Gordii           |9    |A   |Blink
+[Need copy] Sannan           |?    |B   |Fedora Hat
+[USB, file fails] Vide           |11    |B   |?
+[DONE] WALL-E 38     |?    |Mix |WALL-E 38
+Team Smile.exe.co TM |11    |B   |Battle Island
+Team Smile.exe.co TM |11    |B   |Davidsgoofyahhtree
+
+## TODO
+
+Dahlia           |8    |P   |Vackers regenb...
+Enrico           |9    |P   |Random röd
+Xiuchang         |9    |P   |Random
+Daniel           |10   |P   |Grässmatta Quest
+Teo              |12   |P   |Pizza
+Isaac's lag mkn  |11   |P   |Halcony Infynity
+UFO              |13   |P   |UFO 2D2
+
+## Not present
+
+[NEED CODE] Alfred    |?    |A   |Uppladdningsknapp
 Kevin            |?    |P   |Fysikmotor Pro Demo
-Leonid           |?    |P   |UFO 2D2
-Mahdiya          |?    |P   |Färgade Cirklar
 Malek            |?    |P   |Rainbow Cube
-Pablo            |?    |P   |Halcony Infynity
-Shushanty        |?    |P   |Färger
-Xiuchang         |?    |P   |Random
+Shushanti        |?    |P   |Färger
+
+Linus            |?    |B   |Text
+
+# No presentation
+
+Dennis           |?    |AB  |?
+Mahdiya          |?    |P   |-
+
+
+ * WALL-E 38: David L, Emil, Vidar
+ * Team Smile.exe.co TM: Daniel H, David H, Felix
