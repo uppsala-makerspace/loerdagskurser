@@ -39,11 +39,12 @@ Dahlia               |8    |P   |Vacker regenb...
 Angela               |9    |A   |Neopixel
 Enrico               |9    |P   |Random röd
 Gordii               |9    |A   |Blink
+Shushanti            |9    |P   |Färger
 Xiuchang             |9    |P   |Random
 Fredrik              |?    |B   |Wackamole
-Sannan               |?    |B   |Fedora Hat
 Daniel               |10   |P   |Grässmatta Quest
-Vide                 |11   |B   |?
+Sannan               |10   |B   |Igndominus
+Vide                 |11   |B   |Rabbit hat
 Teo                  |12   |P   |Pizza
 WALL-E 38            |?    |ABP |WALL-E 38
 Team Smile.exe.co TM |11   |B   |Battle Island
@@ -69,3 +70,14 @@ Mahdiya          |?    |P   |-
 
  * WALL-E 38: David L, Emil, Vidar
  * Team Smile.exe.co TM: Daniel H, David H, Felix
+
+## Notes for next time
+
+ * About 0.9 pizza per student
+ * Strong preference for margarita
+ * Vesuvio was second, Hawaii third
+
+
+
+
+
