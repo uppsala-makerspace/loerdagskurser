@@ -7,6 +7,27 @@ Senaste sajsånger är första.
 
 Är pågående :-)
 
+Vecka| Dag      |Vad
+-----|----------|-------------------------------------
+34   |2023-08-26| 1. Kurs förtsätter igen
+35   |2023-09-02| 2.
+36   |2023-09-09| 3. [Kulturnatten](activities/20230909_kulturnatten/README.md)
+37   |2023-09-16| 4.
+38   |2023-09-23| 5.
+39   |2023-09-30| 6.
+40   |2023-10-07| 7.
+41   |2023-10-14| 8.
+42   |2023-10-21| 9.
+43   |2023-10-28| Höstlov
+44   |2023-11-04| Höstlov
+45   |2023-11-11| 10. Början slutpresentation
+46   |2023-11-18| 11. [Efterfarsdag](activities/20231118_efterfarsdag/README.md)
+47   |2023-11-25| 12. 
+.    |.         | (efter kursen, 13.30-15.30: [programmingsworkshop för tjejer](activities/202311125_girls_only_workshop/README.md) på Stadsbiblioteket)
+48   |2023-12-02| 13.
+.    |2023-12-03| [Hackathon](activities/20231203_hackathon/README.md)
+49   |2023-12-09| 14. [Slutpresentation](activities/20231209_slutpresentation/README.md)
+
 ## Veckoschema 2023 semester 1
 
 Vecka| Dag      |Vad
@@ -48,17 +69,6 @@ Vecka| Dag      |Vad
 31   |2023-08-05| Sommarlov, ej kurs
 32   |2023-08-12| Sommarlov, ej kurs
 33   |2023-08-19| Sommarlov, ej kurs
-34   |2023-08-26| 1. Kurs förtsätter igen
-35   |2023-09-02| 2.
-36   |2023-09-09| 3. [Kulturnatten](activities/20230909_kulturnatten/README.md)
-37   |2023-09-16| 4.
-38   |2023-09-23| 5.
-39   |2023-09-30| 6.
-40   |2023-10-07| 7.
-41   |2023-10-14| 8.
-42   |2023-10-21| 9.
-43   |2023-10-28| Höstlov
-44   |2023-11-04| Höstlov
 
 ## Veckoschema 2022 semester 2
 
