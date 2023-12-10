@@ -156,6 +156,17 @@ UFO                   |13   |P   |UFO 2D2
 ![](IMG_1535.JPEG)
 ![](IMG_1536.JPEG)
 ![](IMG_1537.JPEG)
+![](IMG_1539.jpg)
+![](IMG_1540.jpg)
+![](IMG_1541.jpg)
+![](IMG_1543.jpg)
+![](IMG_1544.jpg)
+![](IMG_1545.jpg)
+![](IMG_1546.jpg)
+![](IMG_1547.jpg)
+![](IMG_1548.jpg)
+![](IMG_1549.jpg)
+![](IMG_1550.jpg)
 
 ## Notes for next time
 
