@@ -38,17 +38,19 @@ Vem                  |Ålder|Kurs|Vad
 Dahlia               |8    |P   |Vacker regenb...
 Angela               |9    |A   |Neopixel
 Enrico               |9    |P   |Random röd
-Gordii               |9    |A   |Blink
-Shushanti            |9    |P   |Färger
+?Gordii              |9    |A   |Blink
+?Shushanti           |9    |P   |Färger
 Xiuchang             |9    |P   |Random
-Fredrik              |?    |B   |Wackamole
-Daniel               |10   |P   |Grässmatta Quest
+?Fredrik             |?    |B   |Wackamole
+Daniel               |10   |P   |Gräsmatta Quest
+Kevin                |10   |P   |Physics Engine
 Sannan               |10   |B   |Igndominus
 Vide                 |11   |B   |Rabbit hat
 Teo                  |12   |P   |Pizza
 WALL-E 38            |?    |ABP |WALL-E 38
 Team Smile.exe.co TM |11   |B   |Battle Island
 Team Smile.exe.co TM |.    |B   |Davidsgoofyahhtree
+Felipe och Pablo's lag|11  |P   |Studsar
 Isaac's lag mkn      |11   |P   |Halcony Infynity
 UFO                  |13   |P   |UFO 2D2
 

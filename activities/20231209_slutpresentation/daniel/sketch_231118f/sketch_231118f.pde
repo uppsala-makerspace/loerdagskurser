@@ -94,7 +94,8 @@ void makeRect(float X, float Y, float Width, float Height){
   int i=0;
   for(i=0;i<position.length-1&&(position[i][2]==1);i++){
   }
-    position[i][0]=X;                       
+    position[i][0]=X;     
+    position[i][1]=Y;
     position[i][2]=1;
     position[i][3]=Width;
     position[i][4]=Height;

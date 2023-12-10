@@ -3,7 +3,7 @@ Servo min_servo;
 
 void setup() {
   // put your setup code here, to run once:
-Serial.begin(9600);23
+Serial.begin(9600);
 
 min_servo.attach(9);
 }
