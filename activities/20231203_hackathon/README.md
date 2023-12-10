@@ -29,3 +29,9 @@ Jap, det är det :-)
 ### Jag stickar senare/tidigare, är det OK?
 
 Jap, det är det :-)
+
+## Notes for next time
+
+ * About 0.9 pizza per student
+ * Strong preference for margarita
+ * Vesuvio was second, Hawaii third
