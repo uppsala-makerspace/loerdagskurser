@@ -347,6 +347,30 @@ Janne är volontär på kursen.
 
 Han är bäst med programmering.
 
+### Vem är Leslie?
+
+Leslie är volontär på kursen. 
+
+Hon är bäst med Blender.
+
+### Vem är Lily?
+
+Lily är volontär på kursen. 
+
+Hon är bäst med Processing.
+
+### Vem är Ludvig?
+
+Ludvig är volontär på kursen. 
+
+Han är bäst med Arduino.
+
+### Vem är Mathias?
+
+Mathias är volontär på kursen. 
+
+Han är bäst med Arduino och programmering.
+
 ### Vem är [Richel](https://github.com/richelbilderbeek)?
 
 ![Richel](pics/richelbilderbeek.png)
@@ -366,8 +390,8 @@ Självklart har han gjört [många datorspelar](https://github.com/richelbilderb
 
 ## 🇬🇧🇺🇦 Frequently asked questions
 
-In short: you are always welcome, just show up between 10:00-12:00. 
-There is coffee and tea for parents and laptops and programming exercise
+In short: you are always welcome, just show up during course hours. 
+There is coffee and tea for parents and laptops and exercises
 for the kids :-)
 
 ### Länkar
