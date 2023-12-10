@@ -106,7 +106,7 @@ Vecka| Dag      |Vad
 12   |2024-03-23| 9.
 13   |2024-03-30|Ej kurs, Paskafton
 14   |2024-04-06|Ej kurs, Pasklov
-15   |2024-04-13| 10.
+15   |2024-04-13| 10. Början jobba åt slutpresentation
 16   |2024-04-20| 11.
 17   |2024-04-27|Ej kurs, Valborg
 18   |2024-05-04| 12.
