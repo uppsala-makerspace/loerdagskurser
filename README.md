@@ -89,7 +89,6 @@ Där kann du ringa på dörren eller knacka på fönstret:
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-50   |2023-12-16| 15.Sista kursdag
 51   |2023-12-23| Jullov
 52   |2023-12-30| Jullov
 1    |2024-01-06| Jullov
@@ -102,6 +101,7 @@ Vecka| Dag      |Vad
 8    |2024-02-24|Ej kurs, Sportlov
 9    |2024-03-02|Ej kurs, Sportlov
 10   |2024-03-09| 7.
+.    |2024-03-14|[Pi Dag](https://github.com/richelbilderbeek/pi_day) 6:15 @ Olof Palmes Plats
 11   |2024-03-16| 8.
 12   |2024-03-23| 9.
 13   |2024-03-30|Ej kurs, Paskafton
@@ -110,10 +110,10 @@ Vecka| Dag      |Vad
 16   |2024-04-20| 11.
 17   |2024-04-27|Ej kurs, Valborg
 18   |2024-05-04| 12.
-19   |2024-05-11| 13.
-20   |2024-05-18| 14. Övning av slutpresentation
-.    |2024-05-19|Hackathon
-21   |2024-05-25| 15. Slutpresentation
+19   |2024-05-11| 13. ?Övning av slutpresentation
+.    |2024-05-12|?Hackathon
+20   |2024-05-18| 14. ?Slutpresentation
+21   |2024-05-25| 15. ~~~Slutpresentation~~~
 22   |2024-06-01| 16. Eftermorsdag
 .    |2024-06-08|Ej kurs, sommarlov
 .    |2024-06-15|Ej kurs, sommarlov
@@ -122,6 +122,7 @@ Vecka| Dag      |Vad
 .    |2024-07-06|Ej kurs, sommarlov
 .    |2024-07-13|Ej kurs, sommarlov
 .    |2024-07-20|Ej kurs, sommarlov
+ .   |2023-07-22|[Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day) 7:22 @ Uppsala Slott
 .    |2024-07-27|Ej kurs, sommarlov
 .    |2024-08-03|Ej kurs, sommarlov
 .    |2024-08-10|Ej kurs, sommarlov

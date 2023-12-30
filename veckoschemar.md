@@ -27,6 +27,7 @@ Vecka| Dag      |Vad
 48   |2023-12-02| 13.
 .    |2023-12-03| [Hackathon](activities/20231203_hackathon/README.md)
 49   |2023-12-09| 14. [Slutpresentation](activities/20231209_slutpresentation/README.md)
+50   |2023-12-16| 15.Sista kursdag
 
 ## Veckoschema 2023 semester 1
 
