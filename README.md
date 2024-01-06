@@ -189,6 +189,11 @@ Ser [Bilder](bilder.md).
 
 > QR code för den här hemsida
 
+## Contributors
+
+ * [Aui Aui Rönnemaa](https://github.com/auironnemaa)
+ * [mardub1635](https://github.com/mardub1635)
+ 
 ## Statuses
 
 [![check-links](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml/badge.svg?branch=master)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml)
