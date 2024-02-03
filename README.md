@@ -110,10 +110,10 @@ Vecka| Dag      |Vad
 16   |2024-04-20| 11.
 17   |2024-04-27|Ej kurs, Valborg
 18   |2024-05-04| 12.
-19   |2024-05-11| 13. ?Övning av slutpresentation
-.    |2024-05-12|?Hackathon
-20   |2024-05-18| 14. ?Slutpresentation
-21   |2024-05-25| 15. ~~~Slutpresentation~~~
+19   |2024-05-11| 13. Övning av slutpresentation
+.    |2024-05-12|Hackathon
+20   |2024-05-18| 14. Slutpresentation
+21   |2024-05-25| 15. ?Bjoritowo
 22   |2024-06-01| 16. Eftermorsdag
 .    |2024-06-08|Ej kurs, sommarlov
 .    |2024-06-15|Ej kurs, sommarlov
