@@ -1,3 +1,4 @@
+![Lördagskurser logo](pics/loerdagskurser_logo.png)
 ![Uppsala Makerspace logo](pics/uppsala_makerspace_62_x_64.png)
 
 > If you are from Ukraine, you are welcome! See [FAQ](faq.md)
