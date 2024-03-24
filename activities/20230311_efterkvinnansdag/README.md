@@ -35,7 +35,7 @@ what cool stuff we do in our course!
 #### Am I welcome?
 
 Yes, if there are free spots! 
-Please send an email to `richel@richelbilderbeek.nl` to secure your place :-)
+Please send an email to `rjcbilderbeek@gmail.com` to secure your place :-)
 
 There is a limit of 10 participants, 
 due to safety regulations (think: in case of a fire) 
@@ -97,7 +97,7 @@ Absolut, det är ingen fara alls! Kanske du vill läsa [the English of this webp
 #### Är jag välkommen?
 
 Ja, om det finns lediga platser!
-Skicka ett mail till `richel@richelbilderbeek.nl` för att säkra din plats :-)
+Skicka ett mail till `rjcbilderbeek@gmail.com` för att säkra din plats :-)
 
 Det finns en gräns på 10 deltagare,
 på grund av säkerhetsföreskrifter (tänk: vid brand)
@@ -137,7 +137,7 @@ to feel at ease and learn in a more lighthearted way.
 At the end for the day, we'll explore ways forward, for example,
 by forming a formal study group or team.
 
-If you are interested, send an email to me at `richel@richelbilderbeek.nl`
+If you are interested, send an email to me at `rjcbilderbeek@gmail.com`
 and I'll happily put you on the guest list. 
 Due to fire regulations, there is a maximum of 10 UWC women that can participate,
 next to our existing 30 students.

@@ -61,7 +61,7 @@ När  |Arduino och Blender|Processing
 
 Din första lektion kan vara vilken dag som helst.
 Även utan förvarning.
-Om du vet när du kommer är det trevligt om du berättar det för Richel: `richel@richelbilderbeek.nl`
+Om du vet när du kommer är det trevligt om du berättar det för Richel: `rjcbilderbeek@gmail.com`
 
 Har du en annan fråga? Se [vanliga frågor](faq.md).
 

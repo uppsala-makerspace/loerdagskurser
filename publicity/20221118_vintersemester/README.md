@@ -14,4 +14,4 @@ https://bit.ly/pad_uppsala
 LÖ 2023-08-26: Kurs förtsätter igen
 
 https://bit.ly/loerdagskurser
-richel@richelbilderbeek.nl
+rjcbilderbeek@gmail.com

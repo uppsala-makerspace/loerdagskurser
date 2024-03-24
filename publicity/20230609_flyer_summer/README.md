@@ -13,4 +13,4 @@ LÖ 2023-12-16 Sista kursdag
 	
 LÖ 2024-01-13 Första lektion igen
 https://bit.ly/loerdagskurser
-richel@richelbilderbeek.nl
+rjcbilderbeek@gmail.com
