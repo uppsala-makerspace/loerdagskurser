@@ -1,3 +1,7 @@
 {
-  "aliveStatusCodes": [0, 200, 403, 503]
+  "aliveStatusCodes": [0, 200, 403, 503],
+  "ignorePatterns": [
+    {
+      "pattern": "^https://www.digikey.se/"
+    },
 }
