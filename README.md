@@ -108,13 +108,12 @@ Vecka| Dag      |Vad
 13   |2024-03-30|Ej kurs, Paskafton
 14   |2024-04-06|Ej kurs, Pasklov
 15   |2024-04-13| 10. Början jobba åt slutpresentation
-16   |2024-04-20| 11. **Övning av slutpresentation (NEW)**
+16   |2024-04-20| 11. 
 17   |2024-04-27|Ej kurs, Valborg
-.    |2024-05-01|?Hackathon
-18   |2024-05-04| 12. **Slutpresentation (NEW)**
-19   |2024-05-11| 13. ~~~Övning av slutpresentation~~~
-.    |2024-05-12|~~~Hackathon~~~
-20   |2024-05-18| 14. ~~~Slutpresentation~~~
+18   |2024-05-04| 12. 
+19   |2024-05-11| 13. Övning av slutpresentation
+.    |2024-05-12|[Hackathon](activities/20240512_hackathon/README.md)
+20   |2024-05-18| 14. [Slutpresentation](activities/20240518_slutpresentation/README.md)
 21   |2024-05-25| 15. ?Bjoritowo
 22   |2024-06-01| 16. Eftermorsdag
 .    |2024-06-08|Ej kurs, sommarlov
