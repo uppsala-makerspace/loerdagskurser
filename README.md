@@ -129,6 +129,8 @@ Vecka| Dag      |Vad
 .    |2024-08-10|Ej kurs, sommarlov
 .    |2024-08-17|Ej kurs, sommarlov
 .    |2024-08-24| 1. Första lektion igen
+.    |.         | .
+.    |2024-09-14|Kulturnatten och vi är med!
 
  * Om det fins ingen plats skriven, är det på Uppsala Makerspace
  * Om det fins ingen tid skriven, är det på vanligt kurstid
