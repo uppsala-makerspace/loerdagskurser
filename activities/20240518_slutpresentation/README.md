@@ -8,26 +8,51 @@
  * När: Lördag 18:e Maj 2024
  * Målet: att elever får visar deras mästarevärk
  * Vem: varje en
- * Var: obekant ännu!
+ * Var: Uppsala Makerspace
  * Kostnad: ingenting
- * Tiderna: obekant ännu!
+ * Tiderna: kurstider som vanligt
+
+## Arduino och Blender
 
 När  |Besökare                           | Elever
 -----|-----------------------------------|-----------------------
-??:00|Dör öpnas [G]                      | Dör öpnas [M]
-??:01|Väntar med kaffe, te och kakor [G] | Förbereda presentation [M]
-??:30|Kollar på presentationer  [M]      | Ger presentationer  [M]
-??:00|Rast [M]                           | Rast  [M]
-??:15|Utvärdering med föräldrar [M]      | Anonym utvärdering [B]
-??:00|Slut                               | Slut
+10:00|Dör öpnas [F]                      | Dör öpnas [C]
+10:01|Väntar med kaffe, te och kakor [F] | Förbereda presentation [C]
+10:45|Kollar på presentationer  [C]      | Ger presentationer  [C]
+11:15|Rast [C]                           | Rast  [C]
+11:30|Utvärdering med föräldrar [C]      | Anonym utvärdering [N]
+12:00|Slut                               | Slut
 
- * [G] Grupprum brevid Mallassal
- * [M] Mallassal
- * [B] Biblioteket
+ * [C] Centralrummet
+ * [F] Föräldrarhörnet
+ * [N] Någonstans i Makerspacet
 
 Tider är bara riklinjer, ofta slutar vi tidigare.
 
-## Presentationsschema
+### Presentationsschema
+
+Vem                   |Ålder|Kurs|Vad
+----------------------|-----|----|----------------
+?                     |?    |?   |?
+
+## Processing
+
+När  |Besökare                           | Elever
+-----|-----------------------------------|-----------------------
+12:00|Dör öpnas [F]                      | Dör öpnas [C]
+12:01|Väntar med kaffe, te och kakor [F] | Förbereda presentation [C]
+12:45|Kollar på presentationer  [C]      | Ger presentationer  [C]
+13:15|Rast [C]                           | Rast  [C]
+13:30|Utvärdering med föräldrar [C]      | Anonym utvärdering [N]
+14:00|Slut                               | Slut
+
+ * [C] Centralrummet
+ * [F] Föräldrarhörnet
+ * [N] Någonstans i Makerspacet
+
+Tider är bara riklinjer, ofta slutar vi tidigare.
+
+### Presentationsschema
 
 Vem                   |Ålder|Kurs|Vad
 ----------------------|-----|----|----------------
