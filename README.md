@@ -116,21 +116,37 @@ Vecka| Dag      |Vad
 20   |2024-05-18| 14. [Slutpresentation](activities/20240518_slutpresentation/README.md)
 21   |2024-05-25| 15. ?Bjoritowo
 22   |2024-06-01| 16. Eftermorsdag
-.    |2024-06-08|Ej kurs, sommarlov
-.    |2024-06-15|Ej kurs, sommarlov
-.    |2024-06-22|Ej kurs, sommarlov
-.    |2024-06-29|Ej kurs, sommarlov
-.    |2024-07-06|Ej kurs, sommarlov
-.    |2024-07-13|Ej kurs, sommarlov
-.    |2024-07-20|Ej kurs, sommarlov
+23   |2024-06-08|Ej kurs, sommarlov
+24   |2024-06-15|Ej kurs, sommarlov
+25   |2024-06-22|Ej kurs, sommarlov
+26   |2024-06-29|Ej kurs, sommarlov
+27   |2024-07-06|Ej kurs, sommarlov
+28   |2024-07-13|Ej kurs, sommarlov
+29   |2024-07-20|Ej kurs, sommarlov
  .   |2023-07-22|[Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day) 7:22 @ Uppsala Slott
-.    |2024-07-27|Ej kurs, sommarlov
-.    |2024-08-03|Ej kurs, sommarlov
-.    |2024-08-10|Ej kurs, sommarlov
-.    |2024-08-17|Ej kurs, sommarlov
-.    |2024-08-24| 1. Första lektion igen
-.    |.         | .
-.    |2024-09-14|Kulturnatten och vi är med!
+30   |2024-07-27|Ej kurs, sommarlov
+31   |2024-08-03|Ej kurs, sommarlov
+32   |2024-08-10|Ej kurs, sommarlov
+33   |2024-08-17|Ej kurs, sommarlov
+34   |2024-08-24| 1. Första lektion igen
+35   |2024-08-31| ?
+36   |2024-09-07| ?
+37   |2024-09-14|Kulturnatten och vi är med!
+38   |2024-09-21| ?
+39   |2024-09-28| ?
+40   |2024-10-05| ?
+41   |2024-10-12| ?
+42   |2024-10-19| ?
+43   |2024-10-26|?Ej kurs: höstlov
+44   |2024-11-02|Ej kurs, Alla helgonsdag
+45   |2024-11-09| ?
+46   |2024-11-16|Efterfarsdag (Farsdag är 10:e november)
+47   |2024-11-23| ?
+48   |2024-11-30| ?
+49   |2024-12-06| ?
+50   |2024-12-14| ?
+51   |2024-12-21|?Ej kurs, jullov
+
 
  * Om det fins ingen plats skriven, är det på Uppsala Makerspace
  * Om det fins ingen tid skriven, är det på vanligt kurstid
