@@ -138,7 +138,7 @@ Vecka| Dag      |Vad
 41   |2024-10-12| ?
 42   |2024-10-19| ?
 43   |2024-10-26|?Ej kurs: höstlov
-44   |2024-11-02|Ej kurs, Alla helgonsdag
+44   |2024-11-02|Ej kurs: höstlov och Alla Helgonsdag
 45   |2024-11-09| ?
 46   |2024-11-16|Efterfarsdag (Farsdag är 10:e november)
 47   |2024-11-23| ?
