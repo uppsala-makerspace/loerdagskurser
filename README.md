@@ -123,7 +123,7 @@ Vecka| Dag      |Vad
 27   |2024-07-06|Ej kurs, sommarlov
 28   |2024-07-13|Ej kurs, sommarlov
 29   |2024-07-20|Ej kurs, sommarlov
- .   |2023-07-22|[Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day) 7:22 @ Uppsala Slott
+ .   |2023-07-22|[Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day) för er själva
 30   |2024-07-27|Ej kurs, sommarlov
 31   |2024-08-03|Ej kurs, sommarlov
 32   |2024-08-10|Ej kurs, sommarlov
