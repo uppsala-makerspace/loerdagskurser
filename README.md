@@ -129,28 +129,27 @@ Vecka| Dag      |Vad
 32   |2024-08-10|Ej kurs, sommarlov
 33   |2024-08-17|Ej kurs, sommarlov
 34   |2024-08-24| 1. Första lektion igen
-35   |2024-08-31| ?
-36   |2024-09-07| ?
-37   |2024-09-14|Kulturnatten och vi är med!
-38   |2024-09-21| ?
-39   |2024-09-28| ?
-40   |2024-10-05| ?
-41   |2024-10-12| ?
-42   |2024-10-19| ?
-43   |2024-10-26|?Ej kurs: höstlov
+35   |2024-08-31| 2.
+36   |2024-09-07| 3.
+37   |2024-09-14|[Kulturnatten](activities/20240914_kulturnatten/README.md) och vi är med!
+38   |2024-09-21| 4.
+39   |2024-09-28| 5.
+40   |2024-10-05| 6.
+41   |2024-10-12| 7. 
+42   |2024-10-19| 8. 
+43   |2024-10-26|Ej kurs: höstlov
 44   |2024-11-02|Ej kurs: höstlov och Alla Helgonsdag
-45   |2024-11-09| ?
-46   |2024-11-16|Efterfarsdag (Farsdag är 10:e november)
-47   |2024-11-23| ?
-48   |2024-11-30| ?
-49   |2024-12-06| ?
-50   |2024-12-14| ?
-51   |2024-12-21|?Ej kurs, jullov
-
+45   |2024-11-09| 9.
+46   |2024-11-16|Efterfarsdag [1]
+47   |2024-11-23| 10.
+48   |2024-11-30| 11.
+49   |2024-12-06| 12. Slutpresentation
+50   |2024-12-14| 13. Sista lektion
+51   |2024-12-21|Ej kurs, jullov
 
  * Om det fins ingen plats skriven, är det på Uppsala Makerspace
  * Om det fins ingen tid skriven, är det på vanligt kurstid
- * [1] Morsdag är den 28:e maj
+ * [1] Farsdag är 10:e november
  * [Tidigare aktiviteter finns här](veckoschemar.md)
 
 ## Årschema
