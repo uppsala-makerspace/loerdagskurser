@@ -21,23 +21,22 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Vem                   |Ålder        |Vad
 ----------------------|-------------|----------------
-Alfred                |?            |Arduino: Vårmus
-[Need Processing] Daniel M              |10           |Arduino: Cirkel (Processing + Arduino)
-David L               |?            |Arduino: B125
-[Need code] Emil           |9            |Arduino: Mood Cue
-Alejandro             |?            |Råttkrokodil
-READY Angela                |9            |Tropiska frukter
-Daniel H              |?            |The Real Sea
-David H               |?            |Airpods
-Dennis                |?            |Control fruit
-Erik                  |?            |Mjolnir
-READY Dahlia                |9            |Damu
-READY Isaac + Felipe + Pablo|11            |Halcony Infyniti
-Felipe                |?11            |.
-Teo                   |?            |iPhone 720
-Vide                  |?            |Toy collection
-Rees                  |?            |Smileykub
-Christian             |?            |Anden
+[ABSENT] Alfred                |?            |Arduino: Vårmus
+[READY] Daniel M              |10           |Arduino: Cirkel (Processing + Arduino)
+[]David L               |?            |Arduino: B125
+[! Need code] Emil           |9            |Arduino: Mood Cue
+[READY] Alejandro             |12            |Råttkrokodil
+[READY] Angela                |9            |Tropiska frukter
+[] Daniel H              |?            |The Real Sea
+[READY] David H               |10            |Airpods
+[ABSENT] Erik                  |?            |Mjolnir
+[READY] Dahlia                |9            |Blender: Damu
+[READY] Isaac + Felipe + Pablo|11            |Processing: Halcony Infyniti
+[READY] Felipe                |11            |Processing: Confetti
+[ABSENT] Teo                   |?            |iPhone 720
+[ABSENT]Vide                  |?            |Toy collection
+[] Rees                  |11            |Smileykub
+[ABSENT] Christian             |?            |Anden
 
 - Föraldrarlag: Alex, Dennis, Giovanni
 - På semester: -
