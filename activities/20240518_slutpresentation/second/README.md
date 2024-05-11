@@ -19,22 +19,26 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-Vem                   |Ålder||Team         |Vad
-----------------------|-----|-------|----------------
-[READY] Enrico            | 10  |Blic Legends |Solar system
-[?] Niko              |   |Void/        |Superpong
-[READY] The Dependers | The Dependers|Dependent (Herman & Leonid)
+Vem                    |Ålder|Team         |Vad
+-----------------------|-----|-------------|----------------
+[READY] Adam           |9    |.            |Adam (first, because father)
+[READY] Dawood         |9    |Blic Legends |Bouncing balls
+[READY] Daniel         |10   |.            |Cirkel (Processing + Arduino)
+[READY] Enrico         |10   |Blic Legends |Solar system
+[READY] Shushanty      |10   |Blic Legends |Circles
+[READY] Huda           |11   |Blic Legends |How Glamrock Freddy died 
+[READY] Kevin          |11   |.            |Fysikmotor
+[READY] Malek          |12   |Void/        |Menu_ERROR_666
+[READY] Niko           |12   |Void/        |Superpong
+[READY] The Dependers  |13   |The Dependers|Dependent
 
-- Föraldrarlag: Mohamed
+- Föraldrarlag: ?Alvin, Felix, Mohamed
 - På semester: Ebbe
 
-När  |Besökare                           | Elever
------|-----------------------------------|-----------------------
-[ABSENT] Ebbe         |        |DefH         |[absent]
-[ABSENT] Luca         |        |DefH         |Ball Blast
-[ABSENT] Frode        |        |DefH         |Mysterietprojekt
-[ABSENT] Huda         |        |Blic Legends |Candy
-[ABSENT] Dawood       |        |Blic Legends |?
+När  |Besökare        |Ålder   |Team     | Elever
+-----|----------------|--------|---------|-----------------------
+[?] Luca         |        |DefH     |Ball Blast
+[?] Frode        |        |DefH     |Mysterietprojekt
 
 ## Pictures
 
