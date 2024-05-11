@@ -19,27 +19,29 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-Vem                   |Ålder        |Vad
-----------------------|-------------|----------------
-[ABSENT] Alfred                |?            |Arduino: Vårmus
-[READY] Daniel M              |10           |Arduino: Cirkel (Processing + Arduino)
-[]David L               |?            |Arduino: B125
-[! Need code] Emil           |9            |Arduino: Mood Cue
-[READY] Alejandro             |12            |Råttkrokodil
-[READY] Angela                |9            |Tropiska frukter
-[] Daniel H              |?            |The Real Sea
-[READY] David H               |10            |Airpods
-[ABSENT] Erik                  |?            |Mjolnir
-[READY] Dahlia                |9            |Blender: Damu
-[READY] Isaac + Felipe + Pablo|11            |Processing: Halcony Infyniti
-[READY] Felipe                |11            |Processing: Confetti
-[ABSENT] Teo                   |?            |iPhone 720
-[ABSENT]Vide                  |?            |Toy collection
-[] Rees                  |11            |Smileykub
-[ABSENT] Christian             |?            |Anden
+Vem                            |Ålder        |Vad
+-------------------------------|-------------|----------------
+[READY] Angela                 |9            |Blender: Tropiska frukter
+[READY] Dahlia                 |9            |Blender: Damu
+[READY] Emil                   |9            |Arduino: Mood Cue
+[READY] Daniel M               |10           |Arduino: Cirkel (Processing + Arduino)
+[READY] David H                |10           |Blender: Airpods
+[READY] Isaac + Felipe + Pablo |11           |Processing: Halcony Infyniti
+[READY] Felipe                 |11           |Processing: Confetti
+[READY] Rees                   |11           |Blender: Smileykub
+[READY] Alejandro              |12           |Blender: Råttkrokodil
+[READY] Daniel H               |12          |Blender: The Real Sea
 
-- Föraldrarlag: Alex, Dennis, Giovanni
+- Föraldrarvårdslag: Alex, David L, Dennis, Giovanni
 - På semester: -
+
+Vem                            |Ålder        |Vad
+-------------------------------|-------------|----------------
+[ABSENT] Christian             |?            |Anden
+[ABSENT] Alfred                |?            |Arduino: Vårmus
+[ABSENT] Erik                  |?            |Mjolnir
+[ABSENT] Teo                   |?            |iPhone 720
+[ABSENT]Vide                   |?            |Toy collection
 
 ## Notes from previous times
 

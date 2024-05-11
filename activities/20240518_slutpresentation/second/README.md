@@ -19,19 +19,22 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-Vem                   |Team         |Vad
-----------------------|-------------|----------------
-Ebbe                  |DefH         |[absent]
-Luca                  |DefH         |Ball Blast
-Frode                 |DefH         |Mysterietprojekt
-Enrico                |Blic Legends |Solar system
-Huda                  |Blic Legends |Candy
-Dawood                |Blic Legends |?
-Niko                  |Void/        |Superpong
-The Dependers         |The Dependers|Dependent
+Vem                   |Ålder||Team         |Vad
+----------------------|-----|-------|----------------
+[READY] Enrico            | 10  |Blic Legends |Solar system
+[?] Niko              |   |Void/        |Superpong
+[READY] The Dependers | The Dependers|Dependent (Herman & Leonid)
 
 - Föraldrarlag: Mohamed
 - På semester: Ebbe
+
+När  |Besökare                           | Elever
+-----|-----------------------------------|-----------------------
+[ABSENT] Ebbe         |        |DefH         |[absent]
+[ABSENT] Luca         |        |DefH         |Ball Blast
+[ABSENT] Frode        |        |DefH         |Mysterietprojekt
+[ABSENT] Huda         |        |Blic Legends |Candy
+[ABSENT] Dawood       |        |Blic Legends |?
 
 ## Pictures
 
