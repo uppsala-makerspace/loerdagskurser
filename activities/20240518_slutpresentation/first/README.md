@@ -21,23 +21,25 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Vem                   |Ålder        |Vad
 ----------------------|-------------|----------------
-Alfred                |?            |Vårmus
-Daniel                |?            |Cirkel
-David L               |?            |B125
+Alfred                |?            |Arduino: Vårmus
+[Need Processing] Daniel M              |10           |Arduino: Cirkel (Processing + Arduino)
+David L               |?            |Arduino: B125
+[Need code] Emil           |9            |Arduino: Mood Cue
 Alejandro             |?            |Råttkrokodil
-Angela                |?            |Tropiska frukter
-Daniel M              |?            |Cirkel
+READY Angela                |9            |Tropiska frukter
 Daniel H              |?            |The Real Sea
 David H               |?            |Airpods
 Dennis                |?            |Control fruit
 Erik                  |?            |Mjolnir
-Isaac + Felipe + Pablo|?            |Halcony Infyniti
+READY Dahlia                |9            |Damu
+READY Isaac + Felipe + Pablo|11            |Halcony Infyniti
+Felipe                |?11            |.
 Teo                   |?            |iPhone 720
 Vide                  |?            |Toy collection
 Rees                  |?            |Smileykub
 Christian             |?            |Anden
 
-- Föraldrarlag: Alex, Giovanni
+- Föraldrarlag: Alex, Dennis, Giovanni
 - På semester: -
 
 ## Notes from previous times
