@@ -26,12 +26,14 @@ Vem                            |Ålder        |Vad
 [READY] Emil                   |9            |Arduino: Mood Cue
 [READY] Daniel M               |10           |Arduino: Cirkel (Processing + Arduino)
 [READY] David H                |10           |Blender: Airpods
-[READY] Isaac + Felipe + Pablo |11           |Processing: Halcony Infyniti
+[READY] Alfred                 |11           |Arduino: Vår Mus
 [READY] Felipe                 |11           |Processing: Confetti
+[READY] Isaac + Felipe + Pablo |11           |Processing: Halcony Infyniti
 [READY] Rees                   |11           |Blender: Smileykub
 [READY] Alejandro              |12           |Blender: Råttkrokodil
 [READY] Daniel H               |12           |Blender: The Real Sea
 [READY] Vide                   |12           |Blender: Toy collection
+[READY] Hilding                |13           |Arduino: ...?
 
 - Föraldrarvårdslag: Alex, David L, Dennis, Giovanni
 - På semester: -
