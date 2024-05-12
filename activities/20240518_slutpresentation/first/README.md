@@ -30,7 +30,8 @@ Vem                            |Ålder        |Vad
 [READY] Felipe                 |11           |Processing: Confetti
 [READY] Rees                   |11           |Blender: Smileykub
 [READY] Alejandro              |12           |Blender: Råttkrokodil
-[READY] Daniel H               |12          |Blender: The Real Sea
+[READY] Daniel H               |12           |Blender: The Real Sea
+[READY] Vide                   |12           |Blender: Toy collection
 
 - Föraldrarvårdslag: Alex, David L, Dennis, Giovanni
 - På semester: -
@@ -41,8 +42,6 @@ Vem                            |Ålder        |Vad
 [ABSENT] Alfred                |?            |Arduino: Vårmus
 [ABSENT] Erik                  |?            |Mjolnir
 [ABSENT] Teo                   |?            |iPhone 720
-[ABSENT]Vide                   |?            |Toy collection
-
 ## Notes from previous times
 
  * Build-up time was 45 minutes for 14 presentations,
