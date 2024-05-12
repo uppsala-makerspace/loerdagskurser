@@ -32,6 +32,11 @@ Jap, det är det :-)
 
 ## Notes for next time
 
+ * 23 students showed up during the day, 
+   the regular course day before there were 29.
+   Hence, assume 80% of students 
  * About 0.9 pizza per student
  * Strong preference for margarita
  * Vesuvio was second (Hawaii was untouched)
+
+
