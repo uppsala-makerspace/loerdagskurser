@@ -34,4 +34,4 @@ Jap, det är det :-)
 
  * About 0.9 pizza per student
  * Strong preference for margarita
- * Vesuvio was second, Hawaii third
+ * Vesuvio was second (Hawaii was untouched)
