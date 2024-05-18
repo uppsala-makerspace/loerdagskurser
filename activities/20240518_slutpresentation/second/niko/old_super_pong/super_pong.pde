@@ -1,4 +1,4 @@
-//ddddddddrddddddaadaarrrrrrrrrerrrrrwwwddddddddddwwwdswaaaaswwwd
+//ddddddddrddddddaadaarrrrrrrrre
 void setup() {
   fullScreen();
   t = new float [2];
@@ -10,8 +10,6 @@ void setup() {
     nax[i] = 700;
     nav[i] = width / 2;
   }
-  nav[N - 1] = width / 4 + width / 2;
-  nax[N - 1] = 600;
   hiscore =int(loadStrings("hiscore.txt")[0]);
   troll = loadImage("troll_face.png");
   x1 = random(height / 2); // value
@@ -35,7 +33,7 @@ void setup() {
 
 void draw() {
   fill(l);
-  speed1 = q;
+  speed1 = w;
   speed0 = w;
   if (pause == false) {
     s = s + 1;
@@ -45,20 +43,44 @@ void draw() {
     s = 0;
   }
   if (pause == true) {
-    speed0 = 0;
-    speed1 = 0;
-  } else {
-    speed0 = w;
-    speed1 = q;
-  }
+    w = 0;
+  } else
+    w = 6;
   x1 = x1 + speed0;
   y1 = y1 + speed1;
   luck=random(1000);
   background(d);
   fill(l);
+  if (h == 1) {
+    fill(l);
+    text("hey no hacking here", width / 2, 700);
+  }
+  if (score >20) {
+    fill(255, 255, 0);
+    text("Hello. Im the naviator. My dialog is yellow", nav[0], nax[0]);
+  }
+  if (score >25) {
+    nax[0] = width + width;
+    nav[0] = width + width;
+  }
+  fill(l);
   hitbox[1] = x + 50;
   hitbox[3] = y + 50;
-  drawScreen();
+  textSize(200);
+  text("SUPER PONG", width/2-400, height/ 2);
+  textSize(20);
+  text("v:3,3,3", 1800, 1000);
+  textSize(50);
+  text("SCORE:", 100, 100); //score thing
+  text(score, 255, 100);
+  text("HISCORE:", 100, 150);
+  text(hiscore, 300, 150);
+  rect(width -50, y, BALL, ball); // squares moving
+  rect(- 50, y, BALL, ball);
+  rect(x, height - 50, BALL, ball);
+  rect(x, - 50, BALL, ball);
+  ellipse(x1, y1, 50, 50);
+  fill(255, 200, 200);
   if (x > width + 100) x = -100;
   if (x < -100) x = width + 100;
   if (y > height + 100) y = -100;
@@ -99,7 +121,32 @@ void draw() {
       y2 = random(10, -10);
     }
   }
-  drawControls();
+  if (keyPressed) {
+    if (key == 'r') {
+      if (pause == false) {
+        pause = true;
+        delay(1);
+      } else
+        pause = false;
+        delay(1);
+    }
+    if (key == 'R') {
+      if (pause == false) {
+        pause = true;
+        delay(1);
+      } else
+        pause = false;
+        delay(1);
+    }
+    if (key == 'w') y = y - speed;
+    if (key == 'a') x = x - speed;
+    if (key == 's') y = y + speed;
+    if (key == 'd') x = x + speed;
+    if (key == 'W') y = y - speed;
+    if (key == 'A') x = x - speed;
+    if (key == 'S') y = y + speed;
+    if (key == 'D') x = x + speed;
+  }
   if (pause == true) {
     speed = 0;
   } else
@@ -108,22 +155,34 @@ void draw() {
   if ( x1 < hitbox[1] + 25) {
     if (x1 > x - 25) {
       if (y1 < 50) {
-        q = 6;
+        speed1 = w;
       }
       if (y1 > height - 75) {
-        q = -6;
+        speed1 = -w;
       }
     }
   }
   if (y1 < hitbox[3] + 25) {
     if (y1 > y + 25) {
-      if (x1 < 50) {
-        w = 6;
+      if (x1 < 0 + 50) {
+        speed0 = w;
       }
       if (x1 > width - 75) {
-        w = -6;
+        speed0 = -w;
       }
     }
+    if (score > 99) {
+      l = 0;
+      d = 255;
+    }
   }
-  drawSecrets();
+  if (score > 199) {
+    l=255;
+    d=0;
+  }
+  if (score > 68)
+  {
+    t[0] = t[0] + 5;
+    image(troll, t[1], t[0]);
+  }
 }

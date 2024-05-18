@@ -19,31 +19,34 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
+Vi startar -gissning!- typ 10.36 ...
+
 Vem                            |Ålder        |Vad
 -------------------------------|-------------|----------------
+[READY] Hilding                |13           |Arduino: Dörröppnare
 [READY] Angela                 |9            |Blender: Tropiska frukter
 [READY] Dahlia                 |9            |Blender: Damu
-[READY] Emil                   |9            |Arduino: Mood Cue
-[READY] Daniel M               |10           |Arduino: Cirkel (Processing + Arduino)
 [READY] David H                |10           |Blender: Airpods
 [READY] Alfred                 |11           |Arduino: Vår Mus
 [READY] Felipe                 |11           |Processing: Confetti
+[READY] Isaac                  |11           |Processing: Gold mystery
 [READY] Isaac + Felipe + Pablo |11           |Processing: Halcony Infyniti
 [READY] Rees                   |11           |Blender: Smileykub
-[READY] Alejandro              |12           |Blender: Råttkrokodil
 [READY] Daniel H               |12           |Blender: The Real Sea
 [READY] Vide                   |12           |Blender: Toy collection
-[READY] Hilding                |13           |Arduino: ...?
+[READY] Erik                  |13            |Mjolnir
+[READY] Daniel M               |10           |Arduino: Cirkel (Processing + Arduino)
 
 - Föraldrarvårdslag: Alex, David L, Dennis, Giovanni
 - På semester: -
 
 Vem                            |Ålder        |Vad
 -------------------------------|-------------|----------------
-[ABSENT] Christian             |?            |Anden
-[ABSENT] Alfred                |?            |Arduino: Vårmus
-[ABSENT] Erik                  |?            |Mjolnir
-[ABSENT] Teo                   |?            |iPhone 720
+[?] Emil                   |9            |Arduino: Mood Cue
+[?] Alejandro              |12           |Blender: Råttkrokodil
+[?] Christian             |?            |Anden
+[?] Teo                   |?            |iPhone 720
+
 ## Notes from previous times
 
  * Build-up time was 45 minutes for 14 presentations,

@@ -1,4 +1,4 @@
-float x; 
+float x; // variables//rrrrrwwwddddddddddwwwdswaaaas
 float y;
 float ball;
 float ballin;
@@ -24,10 +24,7 @@ float d = 0;
 float l = 255;
 int h = 0;
 float w = 6;
-float q = 6;
 float [] nav;
 float [] nax;
 int N = 3;
 boolean pause = false;
-float caps = 9999999;
-float lock = 9999999;
