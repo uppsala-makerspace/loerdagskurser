@@ -19,28 +19,28 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-Prediction of when presentation starts: 12.30
+Prediction of when presentation starts: 12.40
 
-Vem                    |Ålder|Team         |Vad
------------------------|-----|-------------|----------------
-[READY] Adam           |9    |.            |Adam (first, because father)
-[?] Dawood         |9    |Blic Legends |Bouncing balls + SURPRISE
-[READY] Daniel         |10   |.            |Cirkel (Processing + Arduino)
-[READY] Enrico         |10   |Blic Legends |Solar system
-[READY] Shushanti      |10   |Blic Legends |Circles
-[?] Huda           |11   |Blic Legends |How Glamrock Freddy died 
-[?] Kevin          |11   |.            |Fysikmotor
-[SLOWLY IN PROGRESS] Malek          |12   |Void/        |Menu_ERROR_666
-[READY] Niko           |12   |Void/        |Superpong
-[IN PROGRESS] The Dependers  |13   |The Dependers|Dependent
+Vem                       |Ålder|Team         |Vad
+--------------------------|-----|-------------|----------------
+[READY] Adam              |9    |.            |Adam (first, because father)
+[READY] Dawood            |9    |Blic Legends |Bouncing balls + SURPRISE
+[READY] Daniel            |10   |.            |Cirkel (Processing + Arduino)
+[READY] Enrico            |10   |Blic Legends |Solar system
+[READY] Shushanti         |10   |Blic Legends |Circles
+[READY] Malek             |12   |Void/        |Menu_ERROR_666
+[READY] Niko              |12   |Void/        |Superpong
+[READY] Herman och Leonid |13   |The Dependers|Dependent
 
 - Föraldrarlag: ?Alvin, Felix, Mohamed
 - På semester: Ebbe
 
 När  |Besökare        |Ålder   |Team     | Elever
 -----|----------------|--------|---------|-----------------------
-[?] Luca         |        |DefH     |Ball Blast
+[CANCELLED] Luca         |        |DefH     |Ball Blast
 [?] Frode        |        |DefH     |Mysterietprojekt
+[?] Huda           |11   |Blic Legends |How Glamrock Freddy died 
+[?] Kevin          |11   |.            |Fysikmotor
 
 ## Pictures
 
