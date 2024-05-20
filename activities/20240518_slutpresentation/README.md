@@ -1,8 +1,6 @@
 # Slutpresentation och utvärderig
 
-![](../../activities/20230527_slutpresentation/![](IMG_9858.jpg)
-
-> En tidigare slutpresentation
+![](IMG_3005.JPEG)
 
  * Vad: Slutpresentation och utvärderig
  * När: Lördag 18:e Maj 2024
