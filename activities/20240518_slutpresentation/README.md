@@ -17,6 +17,14 @@
 - [10.00-12.00](first/README.md)
 - [12.00-14.00](second/README.md)
 
+## Notes for next time
+
+- Stadsbiblioteket is better, as it is a more formal place (i.e. the pupils
+  will not behave as-if at home) that has a stage (i.e. the pupils
+  will present better due to this)
+- Let all pupils present a line of code and/or a part of their 3D image.
+  It slows down the presentations and makes them look into the audience more
+
 ## Bilder
 
 ![](IMG_2904.JPEG)
