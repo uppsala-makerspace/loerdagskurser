@@ -10,7 +10,7 @@
 
 Samarrangör: Uppsala Makerspace
 
-![](202311125_girls_only_workshop_1.png)
+![](20231125_girls_only_workshop_1.png)
 
-![](202311125_girls_only_workshop_2.png)
+![](20231125_girls_only_workshop_2.png)
 
