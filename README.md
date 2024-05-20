@@ -114,7 +114,7 @@ Vecka| Dag      |Vad
 19   |2024-05-11| 13. Övning av slutpresentation
 .    |2024-05-12|[Hackathon](activities/20240512_hackathon/README.md)
 20   |2024-05-18| 14. [Slutpresentation](activities/20240518_slutpresentation/README.md)
-21   |2024-05-25| 15. ?Bjoritowo
+21   |2024-05-25| 15. Vanligt kursdag
 22   |2024-06-01| 16. Eftermorsdag
 23   |2024-06-08|Ej kurs, sommarlov
 24   |2024-06-15|Ej kurs, sommarlov
