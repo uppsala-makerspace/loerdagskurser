@@ -23,6 +23,10 @@
 - Let all pupils present a line of code and/or a part of their 3D image.
   It slows down the presentations and makes them look into the audience more
 
+## Video
+
+- [Video på YouTube](https://youtu.be/HzacHLjaZlM)
+
 ## Bilder
 
 ![](IMG_2904.JPEG)
