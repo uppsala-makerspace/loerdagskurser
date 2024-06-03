@@ -90,32 +90,6 @@ Där kann du ringa på dörren eller knacka på fönstret:
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-51   |2023-12-23| Jullov
-52   |2023-12-30| Jullov
-1    |2024-01-06| Jullov
-2    |2024-01-13| 1. Första lektion igen
-3    |2024-01-20| 2.
-4    |2024-01-27| 3.
-5    |2024-02-03| 4.
-6    |2024-02-10| 5.
-7    |2024-02-17| 6.
-8    |2024-02-24|Ej kurs, Sportlov
-9    |2024-03-02|Ej kurs, Sportlov
-10   |2024-03-09| 7.
-.    |2024-03-14|[Pi Dag](https://github.com/richelbilderbeek/pi_day) 6:15 @ Olof Palmes Plats
-11   |2024-03-16| 8.
-12   |2024-03-23| 9.
-13   |2024-03-30|Ej kurs, Paskafton
-14   |2024-04-06|Ej kurs, Pasklov
-15   |2024-04-13| 10. Början jobba åt slutpresentation
-16   |2024-04-20| 11. 
-17   |2024-04-27|Ej kurs, Valborg
-18   |2024-05-04| 12. 
-19   |2024-05-11| 13. Övning av slutpresentation
-.    |2024-05-12|[Hackathon](activities/20240512_hackathon/README.md)
-20   |2024-05-18| 14. [Slutpresentation](activities/20240518_slutpresentation/README.md)
-21   |2024-05-25| 15. Vanligt kursdag
-22   |2024-06-01| 16. [Eftermorsdag](activities/20230601_eftermorsdag/README.md)
 23   |2024-06-08|Ej kurs, sommarlov
 24   |2024-06-15|Ej kurs, sommarlov
 25   |2024-06-22|Ej kurs, sommarlov
@@ -144,7 +118,7 @@ Vecka| Dag      |Vad
 47   |2024-11-23| 12.
 48   |2024-11-30| 13. Övning slutpresentation
 .    |2024-12-01| Hackathon 12.00-18.00
-49   |2024-12-06| 14. Slutpresentation
+49   |2024-12-07| 14. Slutpresentation
 50   |2024-12-14| 15. Sista lektion
 51   |2024-12-21|Ej kurs, jullov
 
