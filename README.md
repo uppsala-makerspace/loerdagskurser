@@ -177,7 +177,7 @@ Ser [Bilder](bilder.md).
  * [Uppsala Makerspace hemsida](https://www.uppsalamakerspace.se/)
  * [Science Fika](https://www.sciencefika.se): foskare berättar enkla om sina upptäckningar
  * [LaserMaze: en Arduino project](https://github.com/yurtman/LaserMaze) 
-
+ * [kenney.nl](https://kenney.nl/): gratis sprites
 ![](pics/bit.ly_loerdagskurser.png)
 
 > QR code för den här hemsida
