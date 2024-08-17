@@ -36,6 +36,17 @@ Vecka| Dag      |Vad
 20   |2024-05-18| 14. [Slutpresentation](activities/20240518_slutpresentation/README.md)
 21   |2024-05-25| 15. Vanligt kursdag
 22   |2024-06-01| 16. [Eftermorsdag](activities/20230601_eftermorsdag/README.md)
+23   |2024-06-08|Ej kurs, sommarlov
+24   |2024-06-15|Ej kurs, sommarlov
+25   |2024-06-22|Ej kurs, sommarlov
+26   |2024-06-29|Ej kurs, sommarlov
+27   |2024-07-06|Ej kurs, sommarlov
+28   |2024-07-13|Ej kurs, sommarlov
+29   |2024-07-20|Ej kurs, sommarlov
+ .   |2023-07-22|[Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day) för er själva
+30   |2024-07-27|Ej kurs, sommarlov
+31   |2024-08-03|Ej kurs, sommarlov
+32   |2024-08-10|Ej kurs, sommarlov
 
 ## Veckoschema 2023 semester 2
 

@@ -21,7 +21,7 @@ Det viktigaste i kurserna är att lära sig nya saker tillsammans.
 
 Se "Schema" nedan för mer information.
 
- * [Ser vår flyer här](publicity/20230414_flyer_usb/20230414_flyer_usb_1.pdf)
+ * [Ser vår flyer här](publicity/20240817_vaarsemester/20240817_vaarsemester.pdf)
 
 ### Att vara informerad
 
@@ -90,17 +90,6 @@ Där kann du ringa på dörren eller knacka på fönstret:
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-23   |2024-06-08|Ej kurs, sommarlov
-24   |2024-06-15|Ej kurs, sommarlov
-25   |2024-06-22|Ej kurs, sommarlov
-26   |2024-06-29|Ej kurs, sommarlov
-27   |2024-07-06|Ej kurs, sommarlov
-28   |2024-07-13|Ej kurs, sommarlov
-29   |2024-07-20|Ej kurs, sommarlov
- .   |2023-07-22|[Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day) för er själva
-30   |2024-07-27|Ej kurs, sommarlov
-31   |2024-08-03|Ej kurs, sommarlov
-32   |2024-08-10|Ej kurs, sommarlov
 33   |2024-08-17|Ej kurs, sommarlov
 34   |2024-08-24| 1. Första lektion igen
 35   |2024-08-31| 2.
