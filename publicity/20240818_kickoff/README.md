@@ -1,8 +1,11 @@
 # Kick-off
 
-I lead the Saturday courses. I will share why I think these are important. Maybe you think it is a good cause to. For those, I will tell who can contribute on any voluntary basis.
+I lead the Saturday courses.
+I will share why I think these are important.
+Maybe you think it is a good cause to.
+For those, I will tell who can contribute on any voluntary basis.
 
-Goals of the course are:
+## Course goals
 
 - Providing a learning community:
     - learning how to do 3D modeling, electronics, programming, teaching, shape a learning community
@@ -11,7 +14,7 @@ Goals of the course are:
 - Make the world a better place locally
     - make the next generation awesome
 
-I do:
+## My role
 
 - end responsible
 - maintain order
@@ -22,14 +25,29 @@ I do:
 - prepare teaching materials
 - teach
 
-Course core ideas:
+## Course core ideas
 
 - students do everything themselves, no leaning on volunteers
 - students help students
 - students can be themselves when not disturbing others
 - parents are always welcome, yet discouraged to be present
 
-Course success:
+## Course in some pictures
+
+![](efterfarsdag.jpg)
+
+> Efterfarsdag, where the kids teach dads
+
+![](IMG_3005.JPEG)
+
+> A course presentation, twice a year
+
+![](kulturnatten.jpg)
+
+> A quiet start of Kulturnatten.
+> At the end of the day, we'd have had around 100 guests being taught!
+
+## Course success
 
 ![](n_per_day_per_course.png)
 
@@ -37,9 +55,11 @@ Course success:
 
 ![](medlemmar_and_loerdagskurs.png)
 
-> The effect the course may have on the Uppsala Makerspace
+> The effect the course may have on the Uppsala Makerspace.
+> First vertical line: start of course
+> Second vertical line: minors need a family membership
 
-You can contribute as:
+## Contributing
 
 - student: being an adult that follows the course already helps the course to go more smoothly. Students help each other.
   We know the kids enjoy adults from our anonymous evaluations. As an adult students, you'll make the course go more smoothly
