@@ -2,7 +2,7 @@
 
 I lead the Saturday courses.
 I will share why I think these are important.
-Maybe you think it is a good cause to.
+Maybe you think it is a good cause too.
 For those, I will tell who can contribute on any voluntary basis.
 
 ## Pictures
