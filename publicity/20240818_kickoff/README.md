@@ -52,7 +52,8 @@ For those, I will tell who can contribute on any voluntary basis.
 
 ![](n_per_day_per_course.png)
 
-> The number of participants per course. April 1st 2023 we had to split up in two groups
+> The number of participants per course, with 1146 visits in total.
+> On April 1st 2023 we had to split up in two groups
 
 ![](medlemmar_and_loerdagskurs.png)
 
