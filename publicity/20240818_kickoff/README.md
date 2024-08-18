@@ -25,10 +25,12 @@ For those, I will tell who can contribute on any voluntary basis.
 > A quiet start of Kulturnatten.
 > At the end of the day, we'd have had around 100 guests being taught!
 
+- let the teachers do teaching
 - end responsible
 - maintain order
 - administration
-- scheduling
+- organizing: student presentation, anonymous evaluations, Efterfarsdag/Eftermorsdag, Kulturnatten
+- scheduling, make flyers, distribute flyers
 - communication with parents, UMS, Stadsbiblioteket, etc.
 - talk to other volunteers
 - prepare teaching materials
@@ -44,6 +46,7 @@ For those, I will tell who can contribute on any voluntary basis.
 - students help students
 - students can be themselves when not disturbing others
 - parents are always welcome, yet discouraged to be present
+- teachers are students too
 
 ## Course success
 
