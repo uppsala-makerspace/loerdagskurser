@@ -5,11 +5,22 @@ I will share why I think these are important.
 Maybe you think it is a good cause to.
 For those, I will tell who can contribute on any voluntary basis.
 
-## Course goals
+## Pictures
 
 ![](IMG_3005.JPEG)
 
 > A course presentation, twice a year
+
+![](kulturnatten.jpg)
+
+> A quiet start of Kulturnatten.
+> At the end of the day, we'd have had around 100 guests being taught!
+
+![](efterfarsdag.jpg)
+
+> Efterfarsdag, where the kids teach dads
+
+## Course goals
 
 - Providing a learning community:
     - learning how to do 3D modeling, electronics, programming, teaching, shape a learning community
@@ -20,27 +31,18 @@ For those, I will tell who can contribute on any voluntary basis.
 
 ## My role
 
-![](kulturnatten.jpg)
-
-> A quiet start of Kulturnatten.
-> At the end of the day, we'd have had around 100 guests being taught!
-
-- let the teachers do teaching
+- let the other volunteers do their thing
 - end responsible
 - maintain order
 - administration
 - organizing: student presentation, anonymous evaluations, Efterfarsdag/Eftermorsdag, Kulturnatten
 - scheduling, make flyers, distribute flyers
 - communication with parents, UMS, Stadsbiblioteket, etc.
-- talk to other volunteers
+- talk to other volunteers, parents, other guests
 - prepare teaching materials
 - teach
 
 ## Course core ideas
-
-![](efterfarsdag.jpg)
-
-> Efterfarsdag, where the kids teach dads
 
 - students do everything themselves, no leaning on volunteers
 - students help students
@@ -62,6 +64,15 @@ For those, I will tell who can contribute on any voluntary basis.
 > Second vertical line: minors need a family membership
 
 ## Contributing
+
+We could always use:
+
+- adult students
+- teachers
+- host/hostess
+- course leader
+
+Because:
 
 - *student*: being an adult that follows the course already helps the course to go more smoothly. Students help each other.
   We know the kids enjoy adults from our anonymous evaluations. As an adult students, you'll make the course go more smoothly
