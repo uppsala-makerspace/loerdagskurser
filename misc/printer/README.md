@@ -1,12 +1,10 @@
 # Printer
 
-If the printer states that there is no paper ...
+If the printer states that there is no paper and there is paper in tray 1 ...
 
-![The printer states that there is no paper](no_paper.jpg)
-
-and there is paper in tray 1 ...
-
-![There is paper ins tray 1](paper_is_there.jpg)
+What the printer states|What is in reality
+-----------------------|-----------------------
+![The printer states that there is no paper](no_paper_10.jpg)|![There is paper ins tray 1](paper_is_there_10.jpg)
 
 then try the computer with the bigger screen (i.e. not the computer closest to the printer, but the one-but-closest instead).
 
