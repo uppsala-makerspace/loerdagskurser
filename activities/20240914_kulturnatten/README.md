@@ -2,11 +2,16 @@
 
  * Målet: att undervisa programmering till Kulturnattens besökare
  * Vem: elverna från Programmeringskursen
- * Var: Uppsala Stadsbibliotek
- * Tiderna: ??.00-??.00 (men eleverna undervisa bara flera timmar :-) )
- * USB contact: Madelene Kindstedt
+ * Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
+   (Svartbäcksgatan 17, 753 75 Uppsala) i rum Studion (ser bild nedåt)
+ * Tiderna: 11.00-19.00 (men eleverna undervisa bara flera timmar :-) )
+ * USB contact: Ellen Lejman
 
 OBS, hos Makerspacet finns också saker att göra.
+
+![Uppsala Stadsbibliotek i rum Studion](usb_annotated.png)
+
+> Vi är i Uppsala Stadsbibliotek i rum Studion.
 
 ## Vanliga frågor
 
@@ -28,7 +33,6 @@ När        |Vem
 18:00-19:00|Richel, 
 
 ### Hur länge skulle jag hjälpa med?
-
 
 Om du hjälper med en timme är Richel redan riktigt nöjd. 
 
