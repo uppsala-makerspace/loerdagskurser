@@ -1,4 +1,4 @@
-# 2023-09-14 Kulturnatten
+# 2024-09-14 Kulturnatten
 
  * Målet: att undervisa programmering till Kulturnattens besökare
  * Vem: elverna från Programmeringskursen
