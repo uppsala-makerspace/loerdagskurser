@@ -1,5 +1,10 @@
 # 2024-09-14 Kulturnatten
 
+![](20220910_113722.jpg)
+
+> Så här ser det ut när första gäst har kommit in.
+> Vi är folket med den röda T-shirts!
+
  * Målet: att undervisa programmering till Kulturnattens besökare
  * Vem: elverna från Programmeringskursen
  * Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
