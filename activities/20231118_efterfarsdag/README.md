@@ -70,8 +70,10 @@ Adjöken, din dotter/son/sonson/sondotter/morson/mordotter/orelaterade dotter/or
 
 ## Noterna
 
-Det fanns 25 elever och 11 fädrar.
-25 donuts skulle har funkat. 
+I 2023, Det fanns 25 elever och 11 fädrar. 25 donuts skulle har funkat. 
+
+I 2024, det fanns ... och ... fädrar. 40 donuts var fint, 30 skulle har funkats.
+10 öl var fint, 10 skulle har funkat.
 
 
 
