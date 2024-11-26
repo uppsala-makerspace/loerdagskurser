@@ -111,8 +111,8 @@ Vecka| Dag      |Vad
 50   |2024-12-14| 15. Sista lektion
 51   |2024-12-21|Ej kurs, jullov
 1    |2025-01-04|Ej kurs, jullov
-2    |2025-01-11|.
-3    |2025-01-18|S
+2    |2025-01-11|Första lektion
+3    |2025-01-18|.
 4    |2025-01-25|.
 5    |2025-02-01|.
 6    |2025-02-08|.
@@ -122,12 +122,12 @@ Vecka| Dag      |Vad
 10   |2025-03-08|.
 11   |2025-03-15|.
 12   |2025-03-22|.
-13   |2025-03-29|Startar project för slutpresentation
+13   |2025-03-29|(Startar project för slutpresentation)
 14   |2025-04-05|.
 15   |2025-04-12|Påsklov
 16   |2025-04-19|Påsklov
 17   |2025-04-26|.
-18   |2025-05-03|?Valborg
+18   |2025-05-03|Valborg
 19   |2025-05-10|.
 20   |2025-05-17|(Övning av presentation hos UMS)
 21   |2025-05-24|Slutpresentation
