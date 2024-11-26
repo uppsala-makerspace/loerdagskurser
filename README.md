@@ -110,6 +110,34 @@ Vecka| Dag      |Vad
 49   |2024-12-07| 14. Slutpresentation
 50   |2024-12-14| 15. Sista lektion
 51   |2024-12-21|Ej kurs, jullov
+1    |2025-01-04|Ej kurs, jullov
+2    |2025-01-11|.
+3    |2025-01-18|S
+4    |2025-01-25|.
+5    |2025-02-01|.
+6    |2025-02-08|.
+7    |2025-02-15|Sportlov
+8    |2025-02-22|Sportlov
+9    |2025-03-01|.
+10   |2025-03-08|.
+11   |2025-03-15|.
+12   |2025-03-22|.
+13   |2025-03-29|Startar project för slutpresentation
+14   |2025-04-05|.
+15   |2025-04-12|Påsklov
+16   |2025-04-19|Påsklov
+17   |2025-04-26|.
+18   |2025-05-03|?Valborg
+19   |2025-05-10|.
+20   |2025-05-17|(Övning av presentation hos UMS)
+21   |2025-05-24|Slutpresentation
+22   |2025-05-31|Eftermorsdag
+23   |2025-06-07|Sista lektion
+24   |2025-06-14|Sommarlov
+25   |2025-06-21|Sommarlov
+26   |2025-06-28|Sommarlov
+
+
 
  * Om det fins ingen plats skriven, är det på Uppsala Makerspace
  * Om det fins ingen tid skriven, är det på vanligt kurstid
