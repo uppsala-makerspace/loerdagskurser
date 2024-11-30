@@ -60,27 +60,27 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Status|Age|Who       |What
 ------|---|----------|-------------------
+Ready |11 |Alfred    |A: Day Night Cycle
+Ready |11 |Daniel M  |A: Laserprojectet
+Ready |13 |Daniel H  |B: Arsenal
+
+
+Status|Age|Who       |What
+------|---|----------|-------------------
 TODO  |.  |Adam      |A: Joystickprojetet
-TODO  |.  |Angela    |X: T-shirt projectet
 TODO  |.  |Dennis    |A: Dennisprojectet
 TODO  |.  |Julie     |B: Svampprojectet
 TODO  |.  |Linus     |B: Panda
 TODO  |.  |Mårten    |A: Mångasladdar
 TODO  |.  |Sannah    |B: `#RIP_BOZO`
 TODO  |.  |Ukasha    |B: Minecraft tree & toilet
-TODO  |.  |?         |
-
-InProgress|.  |Sebbe     |B: Ficklampan Till Gris
-
-Ready|13 |Daniel H  |B: Arsenal
-Ready|11 |Alfred    |A: Day Night Cycle
-
+WillFixAtHackathon|.  |Sebbe     |B: Ficklampan Till Gris
 WillFixAtHackathon|11|David H   |B: Davidprojectet
 WillFixAtHackathon|13|Erik      |B: Erikprojected
 WillFixAtHackathon|14|Hilding   |A: Hildingproject (won't present today)
 WillFixAtHackathon|8|Ebbe x    |B: Döttkyrke (won't present today)
 WillFixAtHackathon|12|Vide + B  |B: VB projectet (won't present today)
-WillFixAtHackathon|.  |Daniel M  |A: Laserprojectet
+WillFixAtHackathon|10|Angela    |X: T-shirt projectet
 Ready|NA |Ilon      |Audience (will not present)
 
 ### Second session
