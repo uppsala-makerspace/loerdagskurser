@@ -6,8 +6,10 @@
 
 - Vad: Slutpresentation och utvärderig
 - När: Lördag 7:e December 2024
+- Tiderna: 11.00-13.00
 - Målet: att elever får visar deras mästarevärk
 - Vem: varje en
+- Kostnad: ingenting
 - Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
 
 ![Plan av Uppsala](uppsala_map_annotated.png)
@@ -22,8 +24,6 @@
 
 > Presentationen är i Mallassal
 
-- Kostnad: ingenting
-- Tiderna: 11.00-13.00
 
 När  |Besökare                           | Elever
 -----|-----------------------------------|-----------------------
