@@ -40,35 +40,48 @@ När  |Besökare                           | Elever
 
 Tider är bara riklinjer, ofta slutar vi tidigare.
 
+## Frågor och svar
+
+- F: Måste jag presentera?
+- S: Nej :-)
+
+- F: Jag har ingenting nu, men kommer på Hackathon imorgen
+- S: Toppen, det ska funkar!
+
+- F: Jag har ingenting nu, men schickar koden senare
+- S: Toppen, det ska funkar!
+
+- F: Jag kan inte komma på slutpresentationen
+- S: Tyvvär, men det är okej
+
 ## Presentationsschema
 
 ### First session
 
 Status|Age|Who       |What
-------|---|----------|-----
+------|---|----------|-------------------
 TODO  |.  |Adam      |A: Joystickprojetet
-TODO  |.  |Alfred    |A: Laser Detection System
 TODO  |.  |Angela    |X: T-shirt projectet
-TODO  |.  |Daniel H  |Arsenal
-TODO  |.  |Daniel M  |A: Laserprojectet
-TODO  |.  |David H   |B: Davidprojectet
 TODO  |.  |Dennis    |A: Dennisprojectet
-TODO  |.  |Ebbe x    |B: Döttkyrke
-TODO  |.  |Erik      |
-TODO  |.  |Ilon      |A: Ilonprojectet
 TODO  |.  |Julie     |B: Svampprojectet
 TODO  |.  |Linus     |B: Panda
 TODO  |.  |Mårten    |A: Mångasladdar
 TODO  |.  |Sannah    |B: `#RIP_BOZO`
-TODO  |.  |Sebbe     |B: Ficklampan Till Gris
 TODO  |.  |Ukasha    |B: Minecraft tree & toilet
-TODO  |.  |Vide + B  |B: VB projectet
 TODO  |.  |?         |
-TODO  |.  |?         |
-TODO  |.  |?         |
-TODO  |.  |?         |
-TODO  |.  |?         |
-TODO  |.  |?         |
+
+InProgress|.  |Sebbe     |B: Ficklampan Till Gris
+
+Ready|13 |Daniel H  |B: Arsenal
+Ready|11 |Alfred    |A: Day Night Cycle
+
+WillFixAtHackathon|11|David H   |B: Davidprojectet
+WillFixAtHackathon|13|Erik      |B: Erikprojected
+WillFixAtHackathon|14|Hilding   |A: Hildingproject (won't present today)
+WillFixAtHackathon|8|Ebbe x    |B: Döttkyrke (won't present today)
+WillFixAtHackathon|12|Vide + B  |B: VB projectet (won't present today)
+WillFixAtHackathon|.  |Daniel M  |A: Laserprojectet
+Ready|NA |Ilon      |Audience (will not present)
 
 ### Second session
 
