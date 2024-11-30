@@ -42,6 +42,44 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
+### First session
+
+Status|Age|Who       |What
+------|---|----------|-----
+TODO  |.  |Vide      |
+TODO  |.  |Adam      |
+TODO  |.  |Julie     |
+TODO  |.  |Sannah    |
+TODO  |.  |Ukasha    |
+TODO  |.  |Daniel M  |
+TODO  |.  |Ebbe x    |
+TODO  |.  |Linus     |
+TODO  |.  |Alfred    |
+TODO  |.  |Dennis    |
+TODO  |.  |Sebbe     |
+TODO  |.  |David H   |
+TODO  |.  |Daniel H  |
+TODO  |.  |Erik      |
+TODO  |.  |Angela    |
+
+### Second session
+
+Status|Age|Who       |What
+------|---|----------|-----
+TODO  |.  |Enrico    |
+TODO  |.  |Luca      |
+TODO  |.  |Shushanti |
+TODO  |.  |Tindra    |
+TODO  |.  |Otto      |
+TODO  |.  |Kevin     |
+TODO  |.  |Noah      |
+TODO  |.  |Ferdinand |
+TODO  |.  |Ebbe y    |
+TODO  |.  |Oskar     |
+TODO  |.  |Leo       |
+TODO  |.  |The Crew: Felipe, Isaac, Pablo |
+TODO  |.  |Cloudformer: Herman, Leonid, Malek, Mats, Niko |
+
 ## Notes from next time
 
 - Let all pupils present a line of code and/or a part of their 3D image.
