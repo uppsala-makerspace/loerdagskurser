@@ -1,6 +1,6 @@
 # Slutpresentation
 
-![](../../activities/20230527_slutpresentation/IMG_9858.jpg)
+![En tidigare slutpresentation](IMG_1522.jpg)
 
 > En tidigare slutpresentation
 
