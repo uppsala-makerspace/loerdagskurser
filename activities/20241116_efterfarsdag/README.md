@@ -5,7 +5,7 @@
  * Var: Uppsala Makerspace
  * Kostnad: ingenting
  * Tiderna: samma schema som vanligt
- * När: Lördag 16:e November 2023, på den vanliga tider, se nedåt
+ * När: Lördag 16:e November 2024, på den vanliga tider, se nedåt
 
 ### Arduino och Blender
 

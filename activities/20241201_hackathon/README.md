@@ -1,4 +1,4 @@
-# 2023-12-01 Hackathon
+# 2024-12-01 Hackathon
 
  * Målet: att förbättra programmeret för slutpresentationen
  * Vem: elverna från Lördagskurser, men varje person är vällkomna också
