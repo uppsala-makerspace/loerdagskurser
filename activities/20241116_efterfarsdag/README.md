@@ -1,7 +1,7 @@
 # Efterfarsdag
 
  * Målet: att undervisa programmering till fäder
- * Vem: elverna från Programmeringskursen och fäder (dws far, farfar, morfar, osv)
+ * Vem: eleverna från Programmeringskursen och fäder (dws far, farfar, morfar, osv)
  * Var: Uppsala Makerspace
  * Kostnad: ingenting
  * Tiderna: samma schema som vanligt

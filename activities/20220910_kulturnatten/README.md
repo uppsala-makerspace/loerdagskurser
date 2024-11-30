@@ -14,7 +14,7 @@
 > En likadant aktivität med en tidigare kurs av Richel
 
  * Målet: att undervisa programmering till Kulturnattens besökare
- * Vem: elverna från Programmeringskursen
+ * Vem: eleverna från Programmeringskursen
  * Var: Uppsala Stadsbibliotek
  * Tiderna: 11:00-21:00 (men eleverna undervisa bara flera timmar :-) )
 

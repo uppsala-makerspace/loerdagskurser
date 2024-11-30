@@ -1,7 +1,7 @@
 # 2022-05-22 Hackathon
 
  * Målet: att förbättra programmeret för slutpresentationen
- * Vem: elverna från Programmeringskursen, men varje person är vällkomna också
+ * Vem: eleverna från Programmeringskursen, men varje person är vällkomna också
  * Var: Uppsala Makerspace
  * Kostnad: ingenting
 

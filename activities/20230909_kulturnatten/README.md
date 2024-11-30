@@ -1,7 +1,7 @@
 # 2023-09-09 Kulturnatten
 
  * Målet: att undervisa programmering till Kulturnattens besökare
- * Vem: elverna från Programmeringskursen
+ * Vem: eleverna från Programmeringskursen
  * Var: Uppsala Stadsbibliotek
  * Tiderna: 11:00-19:00 (men eleverna undervisa bara flera timmar :-) )
 

@@ -1,7 +1,7 @@
 # 2024-12-01 Hackathon
 
  * Målet: att förbättra programmeret för slutpresentationen
- * Vem: elverna från Lördagskurser, men varje person är vällkomna också
+ * Vem: eleverna från Lördagskurser, men varje person är vällkomna också
  * Var: Uppsala Makerspace
  * Kostnad: ingenting
 

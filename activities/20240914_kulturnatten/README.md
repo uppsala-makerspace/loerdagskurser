@@ -6,7 +6,7 @@
 > Vi är folket med den röda T-shirts!
 
  * Målet: att undervisa programmering till Kulturnattens besökare
- * Vem: elverna från Programmeringskursen
+ * Vem: eleverna från Programmeringskursen
  * Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
    (Svartbäcksgatan 17, 753 75 Uppsala) i rum Studion (ser bild nedåt)
  * Tiderna: 11.00-19.00 (men eleverna undervisa bara flera timmar :-) )
