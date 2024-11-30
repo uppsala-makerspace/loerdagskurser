@@ -66,10 +66,10 @@ TODO  |.  |Angela    |
 
 Status|Age|Who       |What
 ------|---|----------|-----
-TODO  |.  |Enrico    |
-TODO  |.  |Luca      |
-TODO  |.  |Shushanti |
-TODO  |.  |Tindra    |
+TODO  |.  |Enrico    |[enrico/enrico.pde](enrico/enrico.pde)
+TODO  |.  |Luca      |[luca/luca.pde](luca/luca.pde)
+TODO  |.  |Shushanti |[shushanti/shushanti.pde](shushanti/shushanti.pde)
+TODO  |.  |Tindra    |[tindra/tindra.pde](tindra/tindra.pde)
 TODO  |.  |Otto      |
 TODO  |.  |Kevin     |
 TODO  |.  |Noah      |
