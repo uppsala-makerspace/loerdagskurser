@@ -83,26 +83,23 @@ Ready |NA |Ilon      |Audience (will not present)
 
 Status|Age|Who       |What
 ------|---|----------|-----
-HaveCode|.  |Luca      |P: [luca/luca.pde](luca/luca.pde)
-HaveCode|.  |Tindra    |P: [Rymdvarelse](tindra/tindra.pde) (will be absent)
 TODO  |.  |Otto      |P: Ottoprojectet
 TODO  |.  |Kevin     |P: Battelship
-TODO  |.  |Noah      |P: Ett Vackert Program
 TODO  |.  |Ferdinand |?
-TODO  |.  |Adam + Ebbe y|P: Blandat
-In progress|.  |Leo       |B: Cat with boban
-TODO  |.  |?         |
-TODO  |.  |The Crew: Felipe, Isaac, Pablo |Halcony Infyniti
-Ready|10 |Enrico    |P: [Alien](enrico/enrico.pde)
-Ready|10 |Shushanti |P: [Slow Aliens](shushanti/shushanti.pde)
-Ready|.  |Oskar     |P: Lutande tonet: pizza (will not present)
-
-Status|Age|Who       |What
-------|---|----------|-----
-Ready |.  |Sam       |X: Minecraft song
-Ready |.  |Lukas     |P: `width` och `height` (will not present)
+HaveCode|.  |Luca      |P: [luca/luca.pde](luca/luca.pde)
+HaveCode|.  |Tindra    |P: [Rymdvarelse](tindra/tindra.pde) (will be absent)
+MayFixAtHackathon|.  |The Crew: Felipe, Isaac, Pablo |Halcony Infyniti
 MayFixAtHackathon|.  |Emil      |P: Pizza ätande snigel
+WillFixAtHackathon|12|Felipe    |Fire rain
 WillFixAtHackathon|99|Cloudformer: Herman, Leonid, Malek, Mats, Niko |
+Ready |10 |Enrico    |P: [Alien](enrico/enrico.pde)
+Ready |9  |Noah      |P: Ett Vackert Program
+Ready |10 |Leo       |B: Cat with boban
+Ready |10 |Shushanti |P: [Slow Aliens](shushanti/shushanti.pde)
+Ready |11 |Ben       |X: Minecraft song
+Ready |.  |Lukas     |P: `width` och `height` (will not present)
+Ready|.  |Oskar     |P: Lutande tonet: pizza (will not present)
+Ready|10 |Adam + Ebbe y|P: Blandat (Ebbe or both will present)
 
 ## Notes from next time
 
