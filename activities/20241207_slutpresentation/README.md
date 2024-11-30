@@ -61,15 +61,21 @@ TODO  |.  |David H   |
 TODO  |.  |Daniel H  |
 TODO  |.  |Erik      |
 TODO  |.  |Angela    |
+TODO  |.  |?         |
+TODO  |.  |?         |
+TODO  |.  |?         |
+TODO  |.  |?         |
+TODO  |.  |?         |
+TODO  |.  |?         |
 
 ### Second session
 
 Status|Age|Who       |What
 ------|---|----------|-----
-TODO  |.  |Enrico    |[enrico/enrico.pde](enrico/enrico.pde)
-TODO  |.  |Luca      |[luca/luca.pde](luca/luca.pde)
-TODO  |.  |Shushanti |[shushanti/shushanti.pde](shushanti/shushanti.pde)
-TODO  |.  |Tindra    |[tindra/tindra.pde](tindra/tindra.pde)
+HaveCode|.  |Enrico    |[enrico/enrico.pde](enrico/enrico.pde)
+HaveCode|.  |Luca      |[luca/luca.pde](luca/luca.pde)
+HaveCode|.  |Shushanti |[shushanti/shushanti.pde](shushanti/shushanti.pde)
+HaveCode|.  |Tindra    |[tindra/tindra.pde](tindra/tindra.pde)
 TODO  |.  |Otto      |
 TODO  |.  |Kevin     |
 TODO  |.  |Noah      |
@@ -77,6 +83,13 @@ TODO  |.  |Ferdinand |
 TODO  |.  |Ebbe y    |
 TODO  |.  |Oskar     |
 TODO  |.  |Leo       |
+TODO  |.  |?         |
+TODO  |.  |?         |
+TODO  |.  |?         |
+TODO  |.  |?         |
+TODO  |.  |?         |
+TODO  |.  |?         |
+TODO  |.  |?         |
 TODO  |.  |The Crew: Felipe, Isaac, Pablo |
 TODO  |.  |Cloudformer: Herman, Leonid, Malek, Mats, Niko |
 
