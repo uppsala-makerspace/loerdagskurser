@@ -46,21 +46,23 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Status|Age|Who       |What
 ------|---|----------|-----
-TODO  |.  |Vide      |
-TODO  |.  |Adam      |
-TODO  |.  |Julie     |
-TODO  |.  |Sannah    |
-TODO  |.  |Ukasha    |
-TODO  |.  |Daniel M  |
-TODO  |.  |Ebbe x    |
-TODO  |.  |Linus     |
-TODO  |.  |Alfred    |
-TODO  |.  |Dennis    |
-TODO  |.  |Sebbe     |
-TODO  |.  |David H   |
-TODO  |.  |Daniel H  |
+TODO  |.  |Adam      |A: Joystickprojetet
+TODO  |.  |Alfred    |A: Laser Detection System
+TODO  |.  |Angela    |X: T-shirt projectet
+TODO  |.  |Daniel H  |Arsenal
+TODO  |.  |Daniel M  |A: Laserprojectet
+TODO  |.  |David H   |B: Davidprojectet
+TODO  |.  |Dennis    |A: Dennisprojectet
+TODO  |.  |Ebbe x    |B: Döttkyrke
 TODO  |.  |Erik      |
-TODO  |.  |Angela    |
+TODO  |.  |Ilon      |A: Ilonprojectet
+TODO  |.  |Julie     |B: Svampprojectet
+TODO  |.  |Linus     |B: Panda
+TODO  |.  |Mårten    |A: Mångasladdar
+TODO  |.  |Sannah    |B: `#RIP_BOZO`
+TODO  |.  |Sebbe     |B: Ficklampan Till Gris
+TODO  |.  |Ukasha    |B: Minecraft tree & toilet
+TODO  |.  |Vide + B  |B: VB projectet
 TODO  |.  |?         |
 TODO  |.  |?         |
 TODO  |.  |?         |
@@ -72,25 +74,27 @@ TODO  |.  |?         |
 
 Status|Age|Who       |What
 ------|---|----------|-----
-HaveCode|.  |Enrico    |[enrico/enrico.pde](enrico/enrico.pde)
-HaveCode|.  |Luca      |[luca/luca.pde](luca/luca.pde)
-HaveCode|.  |Shushanti |[shushanti/shushanti.pde](shushanti/shushanti.pde)
-HaveCode|.  |Tindra    |[tindra/tindra.pde](tindra/tindra.pde)
-TODO  |.  |Otto      |
-TODO  |.  |Kevin     |
-TODO  |.  |Noah      |
-TODO  |.  |Ferdinand |
-TODO  |.  |Ebbe y    |
-TODO  |.  |Oskar     |
-TODO  |.  |Leo       |
+HaveCode|.  |Enrico    |P: [Aliensomething](enrico/enrico.pde)
+HaveCode|.  |Luca      |P: [luca/luca.pde](luca/luca.pde)
+HaveCode|.  |Shushanti |P: [shushanti/shushanti.pde](shushanti/shushanti.pde)
+HaveCode|.  |Tindra    |P: [Rymdvarelse](tindra/tindra.pde) (will be absent)
+TODO  |.  |Otto      |P: Ottoprojectet
+TODO  |.  |Kevin     |P: Battelship
+TODO  |.  |Emil      |P: Pizza ätande snigel
+TODO  |.  |Noah      |P: Ett Vackert Program
+TODO  |.  |Ferdinand |?
+TODO  |.  |Lukas     |P: `width` och `height`
+TODO  |.  |Adam + Ebbe y|P: Blandat
+TODO  |.  |Oskar     |P: Lutande tonet: pizza
+TODO  |.  |Leo       |P: Cat
+TODO  |.  |Sam       |X: Minecraft song
 TODO  |.  |?         |
 TODO  |.  |?         |
 TODO  |.  |?         |
 TODO  |.  |?         |
 TODO  |.  |?         |
 TODO  |.  |?         |
-TODO  |.  |?         |
-TODO  |.  |The Crew: Felipe, Isaac, Pablo |
+TODO  |.  |The Crew: Felipe, Isaac, Pablo |Halcony Infyniti
 TODO  |.  |Cloudformer: Herman, Leonid, Malek, Mats, Niko |
 
 ## Notes from next time
