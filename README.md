@@ -131,7 +131,7 @@ Vecka| Dag      |Vad
 19   |2025-05-10|.
 20   |2025-05-17|(Övning av presentation hos UMS)
 21   |2025-05-24|Slutpresentation
-22   |2025-05-31|Eftermorsdag
+22   |2025-05-31|[Eftermorsdag](activities/20250531_eftermorsdag/README.md) [1]
 23   |2025-06-07|Sista lektion
 24   |2025-06-14|Sommarlov
 25   |2025-06-21|Sommarlov
