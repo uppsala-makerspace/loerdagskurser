@@ -103,11 +103,11 @@ Vecka| Dag      |Vad
 43   |2024-10-26|Ej kurs: höstlov
 44   |2024-11-02|Ej kurs: höstlov och Alla Helgonsdag
 45   |2024-11-09| 10.
-46   |2024-11-16| 11. Efterfarsdag [1]
+46   |2024-11-16| 11. [Efterfarsdag](activities/20241116_efterfarsdag/README.md) [1]
 47   |2024-11-23| 12.
 48   |2024-11-30| 13. Övning slutpresentation
-.    |2024-12-01| Hackathon 12.00-18.00
-49   |2024-12-07| 14. Slutpresentation
+.    |2024-12-01| [Hackathon](activities/20241201_hackathon/README.md) 12.00-18.00
+49   |2024-12-07| 14. [Slutpresentation](activities/20241207_slutpresentation/README.md)
 50   |2024-12-14| 15. Sista lektion
 51   |2024-12-21|Ej kurs, jullov
 1    |2025-01-04|Ej kurs, jullov
