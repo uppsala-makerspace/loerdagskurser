@@ -60,13 +60,6 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Status|Age|Who       |What
 ------|---|----------|-------------------
-Ready |11 |Alfred    |A: Day Night Cycle
-Ready |11 |Daniel M  |A: Laserprojectet
-Ready |13 |Daniel H  |B: Arsenal
-
-
-Status|Age|Who       |What
-------|---|----------|-------------------
 TODO  |.  |Adam      |A: Joystickprojetet
 TODO  |.  |Dennis    |A: Dennisprojectet
 TODO  |.  |Julie     |B: Svampprojectet
@@ -81,34 +74,35 @@ WillFixAtHackathon|14|Hilding   |A: Hildingproject (won't present today)
 WillFixAtHackathon|8|Ebbe x    |B: Döttkyrke (won't present today)
 WillFixAtHackathon|12|Vide + B  |B: VB projectet (won't present today)
 WillFixAtHackathon|10|Angela    |X: T-shirt projectet
-Ready|NA |Ilon      |Audience (will not present)
+Ready |11 |Alfred    |A: Day Night Cycle
+Ready |11 |Daniel M  |A: Laserprojectet
+Ready |13 |Daniel H  |B: Arsenal
+Ready |NA |Ilon      |Audience (will not present)
 
 ### Second session
 
 Status|Age|Who       |What
 ------|---|----------|-----
-HaveCode|.  |Enrico    |P: [Aliensomething](enrico/enrico.pde)
 HaveCode|.  |Luca      |P: [luca/luca.pde](luca/luca.pde)
-HaveCode|.  |Shushanti |P: [shushanti/shushanti.pde](shushanti/shushanti.pde)
 HaveCode|.  |Tindra    |P: [Rymdvarelse](tindra/tindra.pde) (will be absent)
 TODO  |.  |Otto      |P: Ottoprojectet
 TODO  |.  |Kevin     |P: Battelship
-TODO  |.  |Emil      |P: Pizza ätande snigel
 TODO  |.  |Noah      |P: Ett Vackert Program
 TODO  |.  |Ferdinand |?
-TODO  |.  |Lukas     |P: `width` och `height`
 TODO  |.  |Adam + Ebbe y|P: Blandat
-TODO  |.  |Oskar     |P: Lutande tonet: pizza
-TODO  |.  |Leo       |P: Cat
-TODO  |.  |Sam       |X: Minecraft song
-TODO  |.  |?         |
-TODO  |.  |?         |
-TODO  |.  |?         |
-TODO  |.  |?         |
-TODO  |.  |?         |
+In progress|.  |Leo       |B: Cat with boban
 TODO  |.  |?         |
 TODO  |.  |The Crew: Felipe, Isaac, Pablo |Halcony Infyniti
-TODO  |.  |Cloudformer: Herman, Leonid, Malek, Mats, Niko |
+Ready|10 |Enrico    |P: [Alien](enrico/enrico.pde)
+Ready|10 |Shushanti |P: [Slow Aliens](shushanti/shushanti.pde)
+Ready|.  |Oskar     |P: Lutande tonet: pizza (will not present)
+
+Status|Age|Who       |What
+------|---|----------|-----
+Ready |.  |Sam       |X: Minecraft song
+Ready |.  |Lukas     |P: `width` och `height` (will not present)
+MayFixAtHackathon|.  |Emil      |P: Pizza ätande snigel
+WillFixAtHackathon|99|Cloudformer: Herman, Leonid, Malek, Mats, Niko |
 
 ## Notes from next time
 
