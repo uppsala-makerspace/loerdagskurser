@@ -56,50 +56,55 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-### First session
+### Björn
+
+Status|Age|Who         |What
+------|---|------------|-------------------
+?     |.  |Julie       |B: Svampprojectet
+?     |.  |Linus       |B: Panda
+?     |.  |Sannah      |B: `#RIP_BOZO`
+?     |.  |Ukasha      |B: Minecraft tree & toilet
+Ready?|.  |Sebbe       |B: Ficklampan Till Gris
+Ready?|11 |David H     |B: Davidprojectet
+Ready?|13 |Erik        |B: Erikprojected
+Ready?|8  |Ebbe x      |B: Döttkyrke/Pumpa
+Ready?|12 |Vide + Björn|B: VB projectet
+Ready?|10 |Angela      |X: T-shirt projectet
+Ready?|13 |Daniel H    |B: Arsenal
+Ready?|10 |Leo         |B: Cat with boban
+Ready?|11 |Ben         |X: Minecraft song
+
+### Richel
 
 Status|Age|Who       |What
 ------|---|----------|-------------------
-TODO  |.  |Adam      |A: Joystickprojetet
-TODO  |.  |Dennis    |A: Dennisprojectet
-TODO  |.  |Julie     |B: Svampprojectet
-TODO  |.  |Linus     |B: Panda
-TODO  |.  |Mårten    |A: Mångasladdar
-TODO  |.  |Sannah    |B: `#RIP_BOZO`
-TODO  |.  |Ukasha    |B: Minecraft tree & toilet
-WillFixAtHackathon|.  |Sebbe     |B: Ficklampan Till Gris
-WillFixAtHackathon|11|David H   |B: Davidprojectet
-WillFixAtHackathon|13|Erik      |B: Erikprojected
-WillFixAtHackathon|14|Hilding   |A: Hildingproject (won't present today)
-WillFixAtHackathon|8|Ebbe x    |B: Döttkyrke (won't present today)
-WillFixAtHackathon|12|Vide + B  |B: VB projectet (won't present today)
-WillFixAtHackathon|10|Angela    |X: T-shirt projectet
-Ready |11 |Alfred    |A: Day Night Cycle
-Ready |11 |Daniel M  |A: Laserprojectet
-Ready |13 |Daniel H  |B: Arsenal
-Ready |NA |Ilon      |Audience (will not present)
+Ready?|.  |Adam      |A: Joystickprojetet
+Ready?|14 |Hilding   |A: Hildingproject
+Ready?|11 |Alfred    |A: Day Night Cycle
+Ready?|11 |Daniel M  |A: Laserprojectet
+Ready?|.  |Luca      |P: [luca/luca.pde](luca/luca.pde)
+?     |.  |Otto      |P: Ottoprojectet
+?     |.  |Kevin     |P: Battelship
+?     |.  |Emil      |P: Pizza ätande snigel
+?     |.  |Ferdinand |?
+?     |.  |Dennis    |A: Dennisprojectet
+?     |.  |Mårten    |A: Mångasladdar
+Ready?|.  |The Crew: Felipe, Isaac, Pablo |Halcony Infyniti
+Ready?|12 |Felipe    |P: Fire rain
+Ready?|99 |Cloudformer: Herman, Leonid, Malek, Mats, Niko |P: Project X
+Ready?|10 |Enrico    |P: [Alien](enrico/enrico.pde)
+Ready?|9  |Noah      |P: Ett Vackert Program
+Ready?|10 |Shushanti |P: [Slow Aliens](shushanti/shushanti.pde)
+Ready|10 |Adam + Ebbe y|P: Blandat (Ebbe or both will present)
 
 ### Second session
 
-Status|Age|Who       |What
-------|---|----------|-----
-TODO  |.  |Otto      |P: Ottoprojectet
-TODO  |.  |Kevin     |P: Battelship
-TODO  |.  |Ferdinand |?
-HaveCode|.  |Luca      |P: [luca/luca.pde](luca/luca.pde)
-HaveCode|.  |Tindra    |P: [Rymdvarelse](tindra/tindra.pde) (will be absent)
-MayFixAtHackathon|.  |The Crew: Felipe, Isaac, Pablo |Halcony Infyniti
-MayFixAtHackathon|.  |Emil      |P: Pizza ätande snigel
-WillFixAtHackathon|12|Felipe    |Fire rain
-WillFixAtHackathon|99|Cloudformer: Herman, Leonid, Malek, Mats, Niko |
-Ready |10 |Enrico    |P: [Alien](enrico/enrico.pde)
-Ready |9  |Noah      |P: Ett Vackert Program
-Ready |10 |Leo       |B: Cat with boban
-Ready |10 |Shushanti |P: [Slow Aliens](shushanti/shushanti.pde)
-Ready |11 |Ben       |X: Minecraft song
+
+Ready |NA |Ilon      |Audience (will not present)
+Ready |.  |Oskar     |P: Lutande tonet: pizza (will not present)
 Ready |.  |Lukas     |P: `width` och `height` (will not present)
-Ready|.  |Oskar     |P: Lutande tonet: pizza (will not present)
-Ready|10 |Adam + Ebbe y|P: Blandat (Ebbe or both will present)
+Ready |.  |Tindra    |P: [Rymdvarelse](tindra/tindra.pde) (will be absent)
+
 
 ## Notes from next time
 
