@@ -58,48 +58,45 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ### Björn
 
-Status|Age|Who         |What
-------|---|------------|-------------------
-?     |.  |Julie       |B: Svampprojectet
-?     |.  |Linus       |B: Panda
-?     |.  |Sannah      |B: `#RIP_BOZO`
-?     |.  |Ukasha      |B: Minecraft tree & toilet
-Ready?|.  |Sebbe       |B: Ficklampan Till Gris
-Ready?|11 |David H     |B: Davidprojectet
-Ready?|13 |Erik        |B: Erikprojected
-Ready?|8  |Ebbe x      |B: Döttkyrke/Pumpa
-Ready?|12 |Vide + Björn|B: VB projectet
-Ready?|10 |Angela      |X: T-shirt projectet
-Ready?|13 |Daniel H    |B: Arsenal
-Ready?|10 |Leo         |B: Cat with boban
-Ready?|11 |Ben         |X: Minecraft song
-
-### Richel
-
-Status|Age|Who       |What
-------|---|----------|-------------------
-Ready?|.  |Adam      |A: Joystickprojetet
-Ready?|14 |Hilding   |A: Hildingproject
-Ready?|11 |Alfred    |A: Day Night Cycle
-Ready?|11 |Daniel M  |A: Laserprojectet
-Ready?|.  |Luca      |P: [luca/luca.pde](luca/luca.pde)
-?     |.  |Otto      |P: Ottoprojectet
-?     |.  |Kevin     |P: Battelship
-?     |.  |Emil      |P: Pizza ätande snigel
-?     |.  |Ferdinand |?
-?     |.  |Dennis    |A: Dennisprojectet
-?     |.  |Mårten    |A: Mångasladdar
-Ready?|.  |The Crew: Felipe, Isaac, Pablo |Halcony Infyniti
-Ready?|12 |Felipe    |P: Fire rain
-Ready?|99 |Cloudformer: Herman, Leonid, Malek, Mats, Niko |P: Project X
-Ready?|10 |Enrico    |P: [Alien](enrico/enrico.pde)
-Ready?|9  |Noah      |P: Ett Vackert Program
-Ready?|10 |Shushanti |P: [Slow Aliens](shushanti/shushanti.pde)
-Ready|10 |Adam + Ebbe y|P: Blandat (Ebbe or both will present)
+Go to |Status|Age|Who         |What
+------|------|---|------------|-------------------
+Björn |Ready?|8  |Ebbe x      |B: Döttkyrke/Pumpa
+Richel|Ready?|9  |Noah      |P: Ett Vackert Program
+Björn |Ready?|10 |Angela      |X: T-shirt projectet
+Richel|Ready?|.  |Adam      |A: Joystickprojetet
+Björn |Ready?|10 |Leo         |B: Cat with boban
+Richel|Ready?|10 |Enrico    |P: [Alien](enrico/enrico.pde)
+Björn |Ready?|11 |David H     |B: Davidprojectet
+Richel|Ready?|10 |Shushanti |P: [Slow Aliens](shushanti/shushanti.pde)
+Björn |Ready?|11 |Ben         |X: Minecraft song
+Richel|Ready?|10 |Adam + Ebbe y|P: Blandat (Ebbe or both will present)
+Björn |Ready?|12 |Vide + Björn|B: VB projectet
+Richel|Ready?|11 |Alfred    |A: Day Night Cycle
+Björn |Ready?|13 |Daniel H    |B: Arsenal
+Richel|Ready?|11 |Daniel M  |A: Laserprojectet
+Björn |Ready?|.  |Sebbe       |B: Ficklampan Till Gris
+Richel|Ready?|.  |Luca      |P: [luca/luca.pde](luca/luca.pde)
+Björn |Ready?|13 |Erik        |B: Erikprojected
+Richel|Ready?|12 |Felipe    |P: Fire rain
+Richel|Ready?|14 |Hilding   |A: Hildingproject
+Richel|Ready?|98 |The Crew: Felipe, Isaac, Pablo |Halcony Infyniti
+Richel|Ready?|99 |Cloudformer: Herman, Leonid, Malek, Mats, Niko |P: Project X
+Björn |?     |.  |Julie       |B: Svampprojectet
+Björn |?     |.  |Linus       |B: Panda
+Björn |?     |.  |Sannah      |B: `#RIP_BOZO`
+Björn |?     |.  |Ukasha      |B: Minecraft tree & toilet
+Richel|?     |.  |Otto      |P: Ottoprojectet
+Richel|?     |.  |Kevin     |P: Battelship
+Richel|?     |.  |Emil      |P: Pizza ätande snigel
+Richel|?     |.  |Ferdinand |?
+Richel|?     |.  |Dennis    |A: Dennisprojectet
+Richel|?     |.  |Mårten    |A: Mångasladdar
 
 ### Second session
 
 
+Status|Age|Who       |What
+------|---|----------|-------------------
 Ready |NA |Ilon      |Audience (will not present)
 Ready |.  |Oskar     |P: Lutande tonet: pizza (will not present)
 Ready |.  |Lukas     |P: `width` och `height` (will not present)
