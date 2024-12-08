@@ -1,7 +1,9 @@
 # 🇸🇪 Plats (🇬🇧 location)
 
-- 🇸🇪 Lördagskurserna är hos Uppsala Makerspace i Ekeby Bruk
-- 🇬🇧 The Saturday course are at Uppsala Makerspace in Ekeby Bruk
+
+🇸🇪 |🇬🇧
+---|---
+Lördagskurserna är hos Uppsala Makerspace i Ekeby Bruk|The Saturday course are at Uppsala Makerspace in Ekeby Bruk
 
 ```text
 Uppsala Makerspace
