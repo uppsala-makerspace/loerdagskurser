@@ -27,7 +27,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 
 När som helst!
 
-Det är alltid trevligt om du skickar ett mejl först till Richel, `rjcbilderbeek@gmail.com`, så att han kan ta emot dig :-)
+Ser [din första besök](din_foersta_besoek/README.md) har detta ska bli!
 
 ### Kan jag prova på en gång?
 
@@ -35,16 +35,12 @@ Javisst!
 
 Det kostar ingenting första gången, det är viktigt att deltagarna känner att de hamnat rätt!
 
-Men skicka gärna ett mejl först till Richel, `rjcbilderbeek@gmail.com`, så att är beredd att ta emot dig. :-)
-
 ### Om jag inte trivs, kan jag sluta när som helst?
 
 Självklart!
 
 Våra kurser är inte en hobby för alla.
 Det är jättebra att du säger till om du har upptäckt att du gillar andra saker mer!
-
-Men berätta gärna för Richel, om du precis börjat kan du få tillbaka kursavgiften.
 
 ## Ålder på deltagare
 
@@ -54,9 +50,12 @@ Tack för att du läste detta, för 8 år är bara en riktlinje!
 Denna riktlinje finns av en anledning: programmering eller 3D ritning är en
 svår (men cool!) hobby.
 
-Om du är yngre än 8 år och redan har kommit igång med att programmera är du mycket välkommen!
+Om du är yngre än 8 år och redan har kommit igång med att programmera
+är du mycket välkommen!
 
-Vår erfarenhet säger oss att barn under 8 år som regel kan ha svårt att koncentrera sig långa stunder och det krävs också mer av läraren. Så vår riktlinje är att man bör vara minst 8 år gammal.
+Vår erfarenhet säger oss att barn under 8 år som regel kan ha svårt att
+koncentrera sig långa stunder och det krävs också mer av läraren.
+Så vår riktlinje är att man bör vara minst 8 år gammal.
 
 ### Jag är över 88 år. Är jag välkommen?
 
@@ -75,8 +74,8 @@ Blender    |En bärbar dator med laddare |[Blender](https://www.blender.org/down
 `git`      |En bärbar dator med laddare |`git`, till exempel [https://git-scm.com/downloads](https://git-scm.com/downloads)
 Processing |En bärbar dator med laddare |[Processing IDE](https://processing.org/download)
 
-* [1] Om du har ingen bärbar dator eller du vil prova först, kann du låna en av oss
-* [2] Om du har inte installerat det förut, gör vi det under kursen
+- [1] Om du har ingen bärbar dator eller du vil prova först, kann du låna en av oss
+- [2] Om du har inte installerat det förut, gör vi det under kursen
 
 Om du kommer i ett lag, kanske du använder också:
 
@@ -88,7 +87,11 @@ Om du kommer i ett lag, kanske du använder också:
 ### Behöver jag ta med mig min mobil?
 
 Nej, det är inte viktigt för att komma igång och programmera.
-Det är faktiskt så att en mobil snarare stör din koncentration och kan hindra dig från att bli en bra programmerare! Erfarna programmerare brukar ofta bli irriterade när de blir störda mitt i, det bryter deras "flow" och ett enkelt avbrott kan göra att det tar 15-30 minuter att återfå koncentrationen.
+Det är faktiskt så att en mobil snarare stör din koncentration
+och kan hindra dig från att bli en bra programmerare!
+Erfarna programmerare brukar ofta bli irriterade när de blir störda mitt i,
+det bryter deras "flow" och ett enkelt avbrott kan göra
+att det tar 15-30 minuter att återfå koncentrationen.
 
 Snälla, antingen lämna din mobil hemma eller stäng av den under kursen.
 
@@ -115,10 +118,6 @@ Också, du får ädrar texten, så långe du skriver också original version (`B
 
 se [FAQ om Arduino](faq_arduino.md).
 
-## Blender
-
-:construction:
-
 ## Processing (programmeringsspråket)
 
 se [FAQ om Processing](faq_processing.md)
@@ -127,10 +126,14 @@ se [FAQ om Processing](faq_processing.md)
 
 ### Vad händer på ett vanligt kurstillfälle?
 
-* du kommar hit när dörren öppnas
-* du ställer upp din bärbara dator
-* du gör uppgifter i böckerna
-* du sammarbetar med dina bordskompisar
+- du kommar hit när dörren öppnas
+- du besöker receptionsbordet:
+    - skriver ditt namn på presenslistan
+    - tar din lektionskort
+    - tar dina böcker
+- du ställer upp din bärbara dator
+- du gör uppgifter i böckerna
+- du sammarbetar med dina bordskompisar
 
 På rasten fikar vi och kopplar av lite.
 
@@ -146,7 +149,7 @@ Du får bjuda in din familj och vänner om du vill.
 
 Vi avslutar med en utvärdering av kursen (anonymt). Det är lite tråkigt men det är viktigt för oss för att kunna förbättra kursen!
 
-![](activities/20220528_slutpresentation/IMG_7191.JPEG)
+![Våra elever har en presentation](verksamheter/20220528_slutpresentation/IMG_7191.JPEG)
 
 > Våra elever har en presentation
 
@@ -155,7 +158,7 @@ Vi avslutar med en utvärdering av kursen (anonymt). Det är lite tråkigt men d
 Om det finns intresse och tillfälle ges kan vi delta på olika evenemang, t.ex. Birdie eller SciFest.
 Där kan finnas möjlighet att både visa upp vad som åstadkommits eller undervisa andra i att programmera.
 
-![](pics/programmeringsdag_usb_2022.jpg)
+![Våra elever (i röda T-skjörtor) hjälper med på Programmeringsdag i Uppsala Stadsbibliotek](verksamheter/20220507_programmeringsdag_usb/programmeringsdag_usb_2022.jpg)
 
 > Våra elever (i röda T-skjörtor) hjälper med på Programmeringsdag i Uppsala Stadsbibliotek
 
@@ -163,22 +166,17 @@ Där kan finnas möjlighet att både visa upp vad som åstadkommits eller underv
 
 Det bästa sättet att lära sig är att få berätta för en kompis.
 
-* Sitter det en deltagare bredvid dig? Om ja, fråga hen.
-* Sitter det en deltagare vid ditt bord? Om ja, då är hen.
-* Om du sitter själv vid ditt bord eller ingen vet, fråga en lärare / vuxen.
+- Sitter det en deltagare bredvid dig? Om ja, fråga hen.
+- Sitter det en deltagare vid ditt bord? Om ja, då är hen.
+- Om du sitter själv vid ditt bord eller ingen vet, fråga en lärare / vuxen.
 
 ### Vad händer om en ny student kommer in?
 
-* Värd/värdinna tar hand om honom/henne:
-  * Lägg på din kappa
-  * Namnlista
-  * Länkar till en student som vill starta honom / henne: de sitter sedan vid det stora bordet
+Ser [din första besök](din_foersta_besoek/README.md) har detta ska bli!
 
 ### Jag kan inte komma på ett kurstillfälle
 
 Inget problem!
-
-Men skicka gärna ett mail till Richel,`rjcbilderbeek@gmail.com` och meddela detta.
 
 ## Förväntningar på föräldrar
 
@@ -186,15 +184,25 @@ Men skicka gärna ett mail till Richel,`rjcbilderbeek@gmail.com` och meddela det
 
 Föräldrar är alltid välkommna att kolla lite vad som pågår på kursen.
 
-Men, oftast är det bättre om ditt barn skapar nya bekantskaper på kursen och inte vänder sig till dig när det uppstår problem.
-Därför undrar vi om du kan hålla dig på lite avstånd under kursens gång -när så är möjligt- kanske ta en promenad eller göra ett ärende. Uppsala Makerspace är också rätt stort så det går att vistas i ett annat rum och hålla på med egna projekt om du är labbmedlem.
+Men, oftast är det bättre om ditt barn skapar nya bekantskaper på kursen
+och inte vänder sig till dig när det uppstår problem.
+Det är att skapa vänner som är anledning att elever stannar på kursen,
+ser [den här akademiska uppsats](../akademiska_uppsatser/vrieler_2024.pdf)
+för referens.
+För att vi tycker om att behålla elever,
+gjärna hålla dig på lite avstånd under kursens
+gång.
 
-Ett tips: kom 5 minuter före slutet för en kort titt :-)
+- Tip 1: kom 5 minuter före slutet för att tar en kort titt :-)
+- Tip 2: om du har betalat kursavgiften är du medlem av Uppsala Makerspace!
+  Uppsala Makerspace är rätt stort så det går att vistas i ett annat
+  rum och hålla på med egna projekt om du är labbmedlem.
 
 ### Är jag välkommen att hjälpa till?
 
 Javisst! Du kann bli en volontär.
-Vi försöker då ordna så du är i en annan grupp än ditt/dina barn, se frågan ovan.
+Vi försöker då ordna så du är i en annan grupp än ditt/dina barn,
+se frågan ovan.
 
 ### Mitt/mina barn kan inte kom på ett kurstillfälle
 
