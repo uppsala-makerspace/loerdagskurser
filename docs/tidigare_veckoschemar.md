@@ -117,13 +117,14 @@ Vecka| Dag      |Vad
 48   |2023-12-02| 13.
 .    |2023-12-03| [Hackathon](verksamheter/20231203_hackathon/README.md)
 49   |2023-12-09| 14. [Slutpresentation](verksamheter/20231209_slutpresentation/README.md)
-50   |2023-12-16| 15.Sista kursdag: [skapa Julkort](20231216_julkort/README.md)
+50   |2023-12-16| 15.Sista kursdag: [skapa Julkort](verksamheter/20231216_julkort/README.md)
 ## 2022
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 1    |2022-01-08|1. 2:e säsong, kursen förtsätter igen
-2    |2022-01-15|2.
+.    |2022-01-12|[Leonid srev programmet 'A lot'](verksamheter/20220112_a_lot/README.md)
+2    |2022-01-15|2. 
 3    |2022-01-22|3.
 4    |2022-01-29|4.
 5    |2022-02-05|5.
@@ -148,7 +149,7 @@ Vecka| Dag      |Vad
 19   |2022-05-14|17. Förberada presentation
 20   |2022-05-21|18. Öva presentation
 20   |2022-05-22|[Hackathon](verksamheter/20220522_hackathon/README.md) 12:00-18:00
-21   |2022-05-28|19. [Slutpresentation](20220528_slutpresentation/README.md)
+21   |2022-05-28|19. [Slutpresentation](verksamheter/20220528_slutpresentation/README.md)
 22   |2022-06-04|20. Sista lektion: [Eftermorsdag](verksamheter/20220604_eftermorsdag/README.md)
 23   |2022-06-11|[Minecraft Quest](https://github.com/djog/minecraft_quest)
 24   |2022-06-18|[Minecraft Quest](https://github.com/djog/minecraft_quest)
@@ -161,10 +162,10 @@ Vecka| Dag      |Vad
 30   |2022-07-30|[Minecraft Quest](https://github.com/djog/minecraft_quest)
 31   |2022-08-06|[Minecraft Quest](https://github.com/djog/minecraft_quest)
 32   |2022-08-13|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-?    |2022-09-10|[Kulturnatten](20220910_kulturnatten/README.md)
-?    |2022-09-26|[DART mission](20220926_dart_mission/README.md)
+?    |2022-09-10|[Kulturnatten](verksamheter/20220910_kulturnatten/README.md)
+?    |2022-09-26|[DART mission](verksamheter/20220926_dart_mission/README.md)
 46   |2022-11-19|12. [Efterfarsdag](verksamheter/20221119_efterfarsdag/README.md) (också farfar, morfar, osv)
-.    |2022-11-23|[Programmeringsworkshop hos Stenhagen bibliotek](20221123_stenhagen/README.md)
+.    |2022-11-23|[Programmeringsworkshop hos Stenhagen bibliotek](verksamheter/20221123_stenhagen/README.md)
 47   |2022-11-26|13. Förbereda slutpresentation, 3/4
 48   |2022-12-03|14. Förbereda och öva slutpresentation, 4/4
 .    |2022-12-04|[Hackathon](verksamheter/20221204_hackathon/README.md): varje en är välkomna **12:00-18:00**
@@ -173,6 +174,8 @@ Vecka| Dag      |Vad
 51   |2022-12-24|Jullov
 52   |2022-12-31|Jullov
 52   |2022-12-30|Jullov
+
+
 
 ## 2021
 
@@ -186,10 +189,13 @@ Vecka| Dag      |Vad
 42   |2021-10-23|6.
 43   |2021-10-30|7.
 44   |2021-11-06|Ingen kurs: Alla helgons dag
-45   |2021-11-13|8. Galenlektion
-46   |2021-11-20|9.
+45   |2021-11-13|8. Galenlektion och [demoprogram Richèl](verksamheter/20211113_richel_demo/README.md)
+46   |2021-11-20|9. [Demoprogram Richèl](verksamheter/20211120_richel_demo/README.md)
 47   |2021-11-27|10.
 48   |2021-12-04|11.
-49   |2021-12-11|12. Presentation och utvärdering
-50   |2021-12-18|13. [Sista dagen: skapa Julkort](20211218_julkort/README.md)
+49   |2021-12-11|12. [Presentation och utvärdering](verksamheter/20211211_presentation/README.md)
+50   |2021-12-18|13. [Sista dagen: skapa Julkort](verksamheter/20211218_julkort/README.md)
 51   |2021-12-25|Jullov
+
+
+
