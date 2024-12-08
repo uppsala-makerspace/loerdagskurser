@@ -36,7 +36,6 @@
 
 ## 🇸🇪 11 år (🇬🇧 11 year)
 
-
 === "🇸🇪"
 
     - mer komplexa konstverk, t.ex. `(2, 0)` och `(2, 1)`
@@ -46,7 +45,6 @@
 
     - more complex works of art, e.g `(2, 0)` and `(2, 1)`
     - re-create simple games
-
 
 ![](Mohammad20180902.png)
 

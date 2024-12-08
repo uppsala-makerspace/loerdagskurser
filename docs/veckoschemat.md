@@ -57,4 +57,3 @@ Vecka| Dag      |Vad
     - If no location is mentioned, the event will take place at Uppsala Makerspace
     - If there is no time mentioned, the event will be at regular course hours
     - [Earlier events can be found here](../tidagare_veckoschemar.md)
-

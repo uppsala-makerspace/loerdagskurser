@@ -74,8 +74,8 @@ Blender    |En bärbar dator med laddare |[Blender](https://www.blender.org/down
 `git`      |En bärbar dator med laddare |`git`, till exempel [https://git-scm.com/downloads](https://git-scm.com/downloads)
 Processing |En bärbar dator med laddare |[Processing IDE](https://processing.org/download)
 
-- [1] Om du har ingen bärbar dator eller du vil prova först, kann du låna en av oss
-- [2] Om du har inte installerat det förut, gör vi det under kursen
+* [1] Om du har ingen bärbar dator eller du vil prova först, kann du låna en av oss
+* [2] Om du har inte installerat det förut, gör vi det under kursen
 
 Om du kommer i ett lag, kanske du använder också:
 
@@ -126,14 +126,14 @@ se [FAQ om Processing](faq_processing.md)
 
 ### Vad händer på ett vanligt kurstillfälle?
 
-- du kommar hit när dörren öppnas
-- du besöker receptionsbordet:
-    - skriver ditt namn på presenslistan
-    - tar din lektionskort
-    - tar dina böcker
-- du ställer upp din bärbara dator
-- du gör uppgifter i böckerna
-- du sammarbetar med dina bordskompisar
+* du kommar hit när dörren öppnas
+* du besöker receptionsbordet:
+  * skriver ditt namn på presenslistan
+  * tar din lektionskort
+  * tar dina böcker
+* du ställer upp din bärbara dator
+* du gör uppgifter i böckerna
+* du sammarbetar med dina bordskompisar
 
 På rasten fikar vi och kopplar av lite.
 
@@ -166,9 +166,9 @@ Där kan finnas möjlighet att både visa upp vad som åstadkommits eller underv
 
 Det bästa sättet att lära sig är att få berätta för en kompis.
 
-- Sitter det en deltagare bredvid dig? Om ja, fråga hen.
-- Sitter det en deltagare vid ditt bord? Om ja, då är hen.
-- Om du sitter själv vid ditt bord eller ingen vet, fråga en lärare / vuxen.
+* Sitter det en deltagare bredvid dig? Om ja, fråga hen.
+* Sitter det en deltagare vid ditt bord? Om ja, då är hen.
+* Om du sitter själv vid ditt bord eller ingen vet, fråga en lärare / vuxen.
 
 ### Vad händer om en ny student kommer in?
 
@@ -193,8 +193,8 @@ För att vi tycker om att behålla elever,
 gjärna hålla dig på lite avstånd under kursens
 gång.
 
-- Tip 1: kom 5 minuter före slutet för att tar en kort titt :-)
-- Tip 2: om du har betalat kursavgiften är du medlem av Uppsala Makerspace!
+* Tip 1: kom 5 minuter före slutet för att tar en kort titt :-)
+* Tip 2: om du har betalat kursavgiften är du medlem av Uppsala Makerspace!
   Uppsala Makerspace är rätt stort så det går att vistas i ett annat
   rum och hålla på med egna projekt om du är labbmedlem.
 

@@ -118,13 +118,14 @@ Vecka| Dag      |Vad
 .    |2023-12-03| [Hackathon](verksamheter/20231203_hackathon/README.md)
 49   |2023-12-09| 14. [Slutpresentation](verksamheter/20231209_slutpresentation/README.md)
 50   |2023-12-16| 15.Sista kursdag: [skapa Julkort](verksamheter/20231216_julkort/README.md)
+
 ## 2022
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 1    |2022-01-08|1. 2:e säsong, kursen förtsätter igen
 .    |2022-01-12|[Leonid srev programmet 'A lot'](verksamheter/20220112_a_lot/README.md)
-2    |2022-01-15|2. 
+2    |2022-01-15|2.
 3    |2022-01-22|3.
 4    |2022-01-29|4.
 5    |2022-02-05|5.
@@ -175,8 +176,6 @@ Vecka| Dag      |Vad
 52   |2022-12-31|Jullov
 52   |2022-12-30|Jullov
 
-
-
 ## 2021
 
 Vecka| Dag      |Vad
@@ -196,6 +195,3 @@ Vecka| Dag      |Vad
 49   |2021-12-11|12. [Presentation och utvärdering](verksamheter/20211211_presentation/README.md)
 50   |2021-12-18|13. [Sista dagen: skapa Julkort](verksamheter/20211218_julkort/README.md)
 51   |2021-12-25|Jullov
-
-
-

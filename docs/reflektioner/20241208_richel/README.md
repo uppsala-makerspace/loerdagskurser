@@ -1,7 +1,7 @@
 # Reflection 2024-12-08 by Richel
 
 ## Evaluation results
-    
+
 Taking a look [at the evaluation results](../../data/utvaerderingar/20241207/README.md),
 there were 14 suggestions.
 
@@ -39,7 +39,3 @@ Kanske programmering av Minecraft moddar
 Bättre rum där man jobbar
 Får mer rolig tid, tex spela mer
 ```
-
-
-
-

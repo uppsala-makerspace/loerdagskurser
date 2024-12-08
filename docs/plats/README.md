@@ -24,7 +24,6 @@ Ekeby Bruk 6M
 
 ![Blan av Uppsala](ekeby_bruk_in_uppsala_annotated.png)
 
-
 === "🇸🇪"
 
     Makerspacet är nära parkeringsplatsen:
