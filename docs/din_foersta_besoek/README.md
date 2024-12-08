@@ -1,4 +1,4 @@
-# 🇸🇪 Din försa besök (🇬🇧 Your first visit)
+# 🇸🇪 Din första besök (🇬🇧 Your first visit)
 
 ## 🇸🇪 Krav (🇬🇧 Eligibility)
 
