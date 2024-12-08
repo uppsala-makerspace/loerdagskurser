@@ -4,7 +4,7 @@ repo_url: https://github.com/uppsala-makerspace/loerdagskurser
 
 nav:
   - Kurserna: kurserna.md
-  - Plats: plats.md
+  - Plats: plats/README.md
   - Veckoschemat: veckoschemat.md
   - Betalning: betalning.md
   - Bilder: bilder.md

@@ -9,7 +9,7 @@ Ekeby Bruk 6M, 752 63 Uppsala
 
 Ekeby Bruk är 2 kilometer sydväst av Uppsala centrum:
 
-![](pics/ekeby_brug_in_uppsala_annotated.png)
+![](pics/ekeby_bruk_in_uppsala_annotated.png)
 
 Makerspacet är nära parkeringsplatsen:
 
