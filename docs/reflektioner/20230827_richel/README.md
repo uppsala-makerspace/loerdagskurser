@@ -1,4 +1,4 @@
-# Reflection 2023-08-27
+# Reflection 2023-08-27 by Richel
 
 ## Planning before the lesson
 
