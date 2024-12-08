@@ -23,7 +23,6 @@ Y      |Y      |.         |.        |.    |4     |Längre tid
 .      |.      |.         |.        |.    |3.5   |Göra challenges varje kurs och vinnare få Robux
 .      |Y      |.         |.        |.    |4     |Jag vet inte
 .      |Y      |.         |.        |.    |5     |Kan vina rika på rasten
-
 .      |.      |.         |.        |.    |.     |.
 .      |.      |.         |.        |.    |.     |.
 
@@ -38,5 +37,3 @@ Arduino|Blender|Processing|Soldering|Other|Rating|Comment
 .      |.      |Y         |.        |.    |4     |För långt
 .      |.      |.         |.        |.    |5     |Everything is grate here
 .      |.      |Y         |.        |.    |5     |Den är bra
-
-## Reflection

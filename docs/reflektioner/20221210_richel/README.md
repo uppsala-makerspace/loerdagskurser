@@ -300,3 +300,116 @@ Slutsats: väldigt positiva
 ## Results from parents
 
 - More girls would be nice
+
+## Interpretation
+
+As far as I can see, the kids and parents are happy
+and there is little criticism to work with.
+Of course, there is a survival bias, with unhappy kids
+and parents leaving the course.
+
+Last evaluation, there were some kids that wanted
+to get to know one another in the break.
+The team of volunteers made the break more 'open', as in
+that the kids are more free what to do and, among others, explore
+the Makerspace a bit.
+This earlier feedback seems solved now, maybe also as the kids now work in teams.
+
+Last evaluation, there were some kids that want to deepen their knowledge
+and there were some kids that want longer lessons.
+We have started the Extratimme for just those kids.
+This year, again, there is at least one request for extra time,
+maybe that student is unaware of the Extratimme.
+
+- [x] show this in a flowchart on the homepage
+
+Of the evaluation, the categories 'Vuxen' was replaced by the more
+clear 'Frivilligare'. 'Siffor' has been replaced by 'Siffra' with
+an added 5 stars clearly shown, to get more data in next time.
+
+Some kids like the Nintendo. I've added to the schedule (in the `scripts` folder)
+that the Nintendo can be built up 10 mins before the break.
+
+There is disagreement about the breaks: less, more or keep it the same.
+This means we'll keep the breaks the same.
+
+There is disagreement about the amount of students:
+'we can have more' versus 'we are a nicely-sized group' versus
+'we are too big'.
+This means we'll keep doing the same and continue growing.
+Note that UMS has an upper limit of 42 people being in the building,
+so around 36  students is max (we are currently at 18 students, so that
+is halfway). Also, we can spread out the students more.
+
+Being allowed to drink saft in the break is unknown to at least one student.
+Let's repeat this.
+
+I am happy that my/Richel's Swedish is criticized, as this proves
+they dare say it. It is apparently not too big of a problem, let's
+see when the feedback goes away :-)
+
+I think that the first experiments to work in teams worked out postively.
+I/Richel was worries about this, as not all teams were fully functional,
+for example, including only half of the kids in a team.
+Still, nothing on that on the evaluation.
+Next season, me and Bjorn will volunteer to lead a team.
+
+- [x] Create file `lag.md` with the team descriptions
+
+At least one student thinks that there should be more volunteers.
+I am unsure if that person is in a team yes/no.
+
+The activitities are appreciated! Especially at Efterfarsdag,
+the kids really appreciate the dads showing up.
+I'll buy more donuts for them as well :-)
+
+The volunteers, as well as the adult students are appreciated.
+Well done, fellow adults!
+
+## Conlusion
+
+The course is received well in general. Note that there is a bias:
+the students that stay are the ones that are happy.
+
+![Number of students in time](franvaro_2022_3_n.png)
+
+> Number of students in time
+
+Reading the figure above, the course is growing,
+with about 1.2 student per month on average.
+One could argue that maybe the amount of students is flattening off,
+let's see where next year goes to.
+
+![Number of male/female students in time](franvaro_2022_3_n_per_sex.png)
+
+> Number of male/female students in time
+
+There have always been few females in the course: few female minor students,
+few female adult students and never have we had female volunteers.
+The parents think it would be better to have more females
+and the (male) volunteers agree.
+Richel has tried to recruit females, but without success still.
+
+![Number of minor and adult students in time](franvaro_2022_3_n_per_age.png)
+
+> Number of minor and adult students in time
+
+When the final presentation started to be prepared, the adults hopped off
+the course. They are appreciated by both the students and volunteers,
+so let's try to keep them in more next year.
+
+![Distribution of courses taken](franvaro_2022_3_n_per_course.png)
+
+> Distribution of courses taken
+
+The course/courses have become more ambiguous: one can do Arduino, Blender
+or programming, either solo or in a team. Programming attracts the most new
+students. I/Richel does not think programming is more important.
+Instead, I/Richel will try to get more students to do Arduino.
+Also, the volunteers try to get more adults to show off their Arduino projects.
+
+Conclusion:
+
+- we grow
+- students are happy
+- please more: adult students, females and Arduino projects shown

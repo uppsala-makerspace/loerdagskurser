@@ -228,3 +228,75 @@ Använder Discord i teamet
 Ledarna är bra
 Hackathon är uppskattat
 Överlag, nöjda med kursen
+
+## Reflection by Richel
+
+This is the first time that in a course evaluation I read
+'Richel skulle vara snällare' and that I am perceived as stressed.
+Apparently, some of my personal struggles slipped through the cracks
+into the classroom and behaved grumpily there.
+I will pay more attention to this.
+
+* TODO: Richel should keep his problems at home
+
+The breaks are indeed unstructured. And that is, to some extent, the point:
+it forces the students to relax.
+
+* TODO: ask students: how to do the break?
+
+Food is important to some students.
+The Uppsala Makerspace has gotten more active in providing food
+that students can buy in the breaks.
+
+* TODO: notify students that they can buy food in the breaks
+
+The hackathon was unexpectedly much loved!
+I guess this is because of the food?
+Or maybe because it is so long and kids get more work done?
+I really have no idea.
+Every season currently has 1 hackathon
+and I would need volunteers to increase it.
+
+* TODO: ask students: what is so fun about the hackathon?
+* TODO: notify students: their parents are members,
+   so they can come in during open evenings :-)
+
+Taking a look at the grades:
+
+Course     |Grade
+-----------|----
+Arduino    |2.0
+Arduino    |3.0
+Blender    |5.0
+Blender    |4.5
+Blender    |5.0
+Blender    |4.5
+Processing |3.4
+Slumpen    |5.0
+Slumpen    |5.0
+Slumpen    |4.5
+Slumpen    |4.5
+Slumpen    |5.0
+Slumpen    |4.5
+Waka Baka  |4.5
+Waka Baka  |4.8
+
+I see that Arduino and Processing are graded way below the usual average.
+I predict that this is due to me coming accross as being grumpy or unfriendly.
+
+* TODO: Richel should keep his problems at home
+
+It has always been hard to help at exactly the right amount:
+there have always been students that had
+the right amount of help
+and students that wanted more.
+The goal of the course is to get the students to become
+autonomous.
+A rule used by Richel is 'Help only when the student has zero ideas left what to do'.
+This point will remain unchanged.
+
+* Consider: optional classes, e.g. 15 minutes showing how to solve a book chapter
+
+Although this has never been mentioned in the surveys,
+Discord has become a problem: it distract students instead of helping
+them. Yes, the students think it is fun, but it goes against the course idea.

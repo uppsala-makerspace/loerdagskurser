@@ -29,3 +29,19 @@ Yes    |Yes    |Yes       |No       |No   |4     |-
 * Average Processing: 4.3475
 * Average Soldering: 4.5
 * Average Other: 4
+
+## Reflection
+
+It seems the learners that stayed in the course (there is a survivorship
+bias here!) seem happy. The grades of courses seem to be the same.
+
+The ideas to add Godot and pixelart seem nice. What is lacking for both
+are (1) people, (2) booklets, where the first is the limiting factor.
+
+That learners want more and longer courses is encouraging.
+However, we do not have the people and space for this.
+
+With the teachers, we all felt that the course is going fine.
+The weakest point, we felt, is the Arduino course,
+which is too tough for most of our learners.
+I will simplify the booklets.

@@ -66,3 +66,40 @@ Det fanns 'bara' två barn som var intervjuad.
 - Richel put into perspective what can be expected of kids at their ages,
    with younger kids usually creating a 'work of art', the older kids
    re-creating a known game
+
+## Interpretation by Richel
+
+To summarize, I think the evaluations gives back that we do well now
+and that growing (i.e. more kids) would help naturally improve the
+course's awesomeness.
+
+The course's atmosphere is both disciplined and
+light, which is also thanks to the polite kids we have currently (one
+rotten apple can indeed destroy a whole basket!). 4.5 out of 5 stars is
+great, albeit this is given by 'only' two kids.
+
+I do see some improvements:
+
+- Course
+    - Let the kids start working on their presentation two months in advance,
+      as per advice of the kids
+    - The kids want extra help how to detect problems. I think making
+      the booklets longer is not a solution; viable solutions would be
+      (1) discussing this more often, (2) let the kids bring their own
+      logbook/notebook
+- Presentation:
+    - To kill the time at the start of the presentation,
+      give the visitors a tour through the Uppsala Makerspace building
+    - Let a first kid or volunteer show what coding is at the start of a
+      presentation, to give laymen visitors an idea what we do here
+
+Things I will ignore:
+
+- Extending the length (i.e. more hours per day), or the frequency (i.e.
+  more days per week), is friendly feedback. I feel increasing the
+  frequency would harm the course: it would create more of a burden on the
+  volunteers and the course would be less special for the kids.
+  Same thing with extending the time: 2 hours is short, so there is no time
+  to waste. I enjoy the informal sense of urgency :-)
+
+Focus should be on getting more kids.
