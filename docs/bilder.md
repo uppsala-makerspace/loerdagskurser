@@ -1,28 +1,28 @@
 ## Bilder
 
-### [Efterfarsdag på 2022-11-19](activities/20221119_efterfarsdag/README.md)
+### [Efterfarsdag på 2022-11-19](verksamheter/20221119_efterfarsdag/README.md)
 
-![](activities/20221119_efterfarsdag/IMG_20221119_112002.jpg)
+![](verksamheter/20221119_efterfarsdag/IMG_20221119_112002.jpg)
 
-### [Kulturnatten på 2022-09-10](activities/20220910_kulturnatten/README.md)
+### [Kulturnatten på 2022-09-10](verksamheter/20220910_kulturnatten/README.md)
 
-![](activities/20220910_kulturnatten/20220910_113722.jpg)
+![](verksamheter/20220910_kulturnatten/20220910_113722.jpg)
 
 ### Slutpresentation på 2022-05-28
 
-![](activities/20220528_slutpresentation/IMG_7174.JPEG)
+![](verksamheter/20220528_slutpresentation/IMG_7174.JPEG)
 
 > Publiken före presentationen
 
-![](activities/20220528_slutpresentation/IMG_7177.JPEG)
+![](verksamheter/20220528_slutpresentation/IMG_7177.JPEG)
 
 > Eleverna före presentationen
 
-![](activities/20220528_slutpresentation/IMG_7185.JPEG)
-![](activities/20220528_slutpresentation/IMG_7186.JPEG)
-![](activities/20220528_slutpresentation/IMG_7191.JPEG)
-![](activities/20220528_slutpresentation/IMG_7193.JPEG)
-![](activities/20220528_slutpresentation/IMG_7198.JPEG)
+![](verksamheter/20220528_slutpresentation/IMG_7185.JPEG)
+![](verksamheter/20220528_slutpresentation/IMG_7186.JPEG)
+![](verksamheter/20220528_slutpresentation/IMG_7191.JPEG)
+![](verksamheter/20220528_slutpresentation/IMG_7193.JPEG)
+![](verksamheter/20220528_slutpresentation/IMG_7198.JPEG)
 
 
 ### [Programmeringsdag](https://github.com/uppsala-makerspace/programmeringsdag_usb_2022)
@@ -31,17 +31,17 @@
 var en aktivitet organiserat tillsammans med Uppsala Stadsbibliotek. 
 19 personer deltog, 7 av dem var från oss!
 
-![](pics/programmeringsdag_usb_2022.jpg)
+![](20220507_programmeringsdag_usb/programmeringsdag_usb_2022.jpg)
 
 ### 26:e Februar 2022
 
 Vi hade haft våra första två diplomanter! Grattis killar!
 
-![Diplomanter](pics/diplomanter_20220226.jpg)
+![Diplomanter](verksamheter/20220226_foersta_diplomanter/diplomanter_20220226.jpg)
 
-![Diplomant 1](pics/diplomant_1_20220226.jpg)
+![Diplomant 1](verksamheter/20220226_foersta_diplomanter/diplomant_1_20220226.jpg)
 
-![Diplomant 2](pics/diplomant_2_20220226.jpg)
+![Diplomant 2](verksamheter/20220226_foersta_diplomanter/diplomant_2_20220226.jpg)
 
 ### Julkort 2021
 
@@ -57,18 +57,18 @@ Den 9:e Oktober såg kursen ut så här:
 
  * [Kolla på YouTube](https://youtu.be/xWUhRymx69w)
 
-![Uppsala Makerspace](activities/20211009_galenlektion/2021109_1.jpg)
+![Uppsala Makerspace](verksamheter/20211009_galenlektion/2021109_1.jpg)
 
-![Uppsala Makerspace](activities/20211009_galenlektion/2021109_2.jpg)
+![Uppsala Makerspace](verksamheter/20211009_galenlektion/2021109_2.jpg)
 
-![Uppsala Makerspace](activities/20211009_galenlektion/2021109_3.jpg)
+![Uppsala Makerspace](verksamheter/20211009_galenlektion/2021109_3.jpg)
 
 Rast:
 
-![Uppsala Makerspace](activities/20211009_galenlektion/IMG_20211009_111252.jpg)
-![Uppsala Makerspace](activities/20211009_galenlektion/IMG_20211009_111254.jpg)
-![Uppsala Makerspace](activities/20211009_galenlektion/IMG_20211009_111257.jpg)
+![Uppsala Makerspace](verksamheter/20211009_galenlektion/IMG_20211009_111252.jpg)
+![Uppsala Makerspace](verksamheter/20211009_galenlektion/IMG_20211009_111254.jpg)
+![Uppsala Makerspace](verksamheter/20211009_galenlektion/IMG_20211009_111257.jpg)
 
 Galenlektion:
 
-![Uppsala Makerspace](activities/20211009_galenlektion/IMG_20211009_111800.jpg)
+![Uppsala Makerspace](verksamheter/20211009_galenlektion/IMG_20211009_111800.jpg)
