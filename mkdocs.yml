@@ -25,6 +25,7 @@ nav:
     - Utvärderingar: data/utvaerderingar/README.md
     - Volontärer: volontaerer.md
     - Årschemat: aarschemat.md
+    - Exempel på elevernas framsteg: exempel_framsteg/README.md
 
 theme:
   name: material
