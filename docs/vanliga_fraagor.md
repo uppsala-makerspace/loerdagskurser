@@ -27,7 +27,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 
 När som helst!
 
-Ser [din första besök](din_foersta_besoek/README.md) har detta ska bli!
+Ser [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
 
 ### Kan jag prova på en gång?
 
@@ -74,7 +74,7 @@ Blender    |En bärbar dator med laddare |[Blender](https://www.blender.org/down
 `git`      |En bärbar dator med laddare |`git`, till exempel [https://git-scm.com/downloads](https://git-scm.com/downloads)
 Processing |En bärbar dator med laddare |[Processing IDE](https://processing.org/download)
 
-- [1] Om du har ingen bärbar dator eller du vil prova först, kann du låna en av oss
+- [1] Om du inte har någon bärbar dator eller du vil prova först, kan du låna en av oss
 - [2] Om du har inte installerat det förut, gör vi det under kursen
 
 Om du kommer i ett lag, kanske du använder också:
@@ -97,16 +97,16 @@ Snälla, antingen lämna din mobil hemma eller stäng av den under kursen.
 
 ### Vilka böcker använder kursen?
 
-Dem är listad på [vår kurserna](kurserna/README.md).
+De är listade på [våra kurser](kurserna/README.md).
 
-Alla är båda online och i papper.
+Alla finns både online och i pappersform.
 
 ### Få jag trycka böckerna själv?
 
-Javisst! Bocker att [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
+Javisst! Böcker att [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
 ha en `CC-BY-NC` licens,
 som innehåll du får trycka böcker själv för en kommerciell sak (`NC` = 'Non Commercial').
-Också, du får ädrar texten, så långe du skriver också original version (`BY` = 'give attribution').
+Också, du får ädra i texten, så långe du skriver också original version (`BY` = 'give attribution').
 
 ## Arduino (programmeringsspråket)
 
@@ -120,10 +120,10 @@ se [FAQ om Processing](faq_processing.md)
 
 ### Vad händer på ett vanligt kurstillfälle?
 
-- du kommar hit när dörren öppnas
+- du kommer hit när dörren öppnas
 - du besöker receptionsbordet:
-    - skriver ditt namn på presenslistan
-    - tar din lektionskort
+    - skriver ditt namn på närvarolistan
+    - tar ditt lektionskort
     - tar dina böcker
 - du ställer upp din bärbara dator
 - du gör uppgifter i böckerna
