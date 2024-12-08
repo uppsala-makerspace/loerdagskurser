@@ -32,9 +32,12 @@ Jap, det är det :-)
 
 ## Notes from previous time
 
-* 23 students showed up during the day,
-   the regular course day before there were 29.
-   Hence, assume 80% of students
-* About 0.9 pizza per student
-* Strong preference for margarita
-* Vesuvio was second (Hawaii was untouched)
+- 24 students
+- Orderded 8 vesuvio and 16 margaritas
+- Left: 3 vesuvio and 3 margarita
+- Should have ordered: 5 vesuvio and 13 margeritas
+
+Next time:
+
+- n_vesuvio = `n_students * 0.2`
+- n_margarita = `n_students * 0.55`
