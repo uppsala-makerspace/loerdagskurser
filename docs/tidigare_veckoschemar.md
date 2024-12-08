@@ -149,7 +149,7 @@ Vecka| Dag      |Vad
 19   |2022-05-14|17. Förberada presentation
 20   |2022-05-21|18. Öva presentation
 20   |2022-05-22|[Hackathon](verksamheter/20220522_hackathon/README.md) 12:00-18:00
-21   |2022-05-28|19. Slutpresentation
+21   |2022-05-28|19. [Slutpresentation](20220528_slutpresentation/README.md)
 22   |2022-06-04|20. Sista lektion: [Eftermorsdag](verksamheter/20220604_eftermorsdag/README.md)
 23   |2022-06-11|[Minecraft Quest](https://github.com/djog/minecraft_quest)
 24   |2022-06-18|[Minecraft Quest](https://github.com/djog/minecraft_quest)
@@ -162,7 +162,10 @@ Vecka| Dag      |Vad
 30   |2022-07-30|[Minecraft Quest](https://github.com/djog/minecraft_quest)
 31   |2022-08-06|[Minecraft Quest](https://github.com/djog/minecraft_quest)
 32   |2022-08-13|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+?    |2022-09-10|[Kulturnatten](20220910_kulturnatten/README.md)
+?    |2022-09-26|[DART mission](20220926_dart_mission/README.md)
 46   |2022-11-19|12. [Efterfarsdag](verksamheter/20221119_efterfarsdag/README.md) (också farfar, morfar, osv)
+.    |2022-11-23|[Programmeringsworkshop hos Stenhagen bibliotek](20221123_stenhagen/README.md)
 47   |2022-11-26|13. Förbereda slutpresentation, 3/4
 48   |2022-12-03|14. Förbereda och öva slutpresentation, 4/4
 .    |2022-12-04|[Hackathon](verksamheter/20221204_hackathon/README.md): varje en är välkomna **12:00-18:00**
@@ -191,3 +194,4 @@ Vecka| Dag      |Vad
 49   |2021-12-11|12. Presentation och utvärdering
 50   |2021-12-18|13. Sista dagen
 51   |2021-12-25|Jullov
+
