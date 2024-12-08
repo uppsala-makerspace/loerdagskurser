@@ -166,7 +166,7 @@ Det bästa sättet att lära sig är att få berätta för en kompis.
 
 ### Vad händer om en ny student kommer in?
 
-Ser [din första besök](din_foersta_besoek/README.md) har detta ska bli!
+Ser [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
 
 ### Jag kan inte komma på ett kurstillfälle
 

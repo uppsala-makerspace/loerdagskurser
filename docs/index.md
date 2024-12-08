@@ -9,7 +9,7 @@ Inga förkunskaper krävs:
 det viktigaste i kurserna är att lära sig nya saker tillsammans.
 
 - [Kurserna](kurserna/README.md)
-- [Din första besök](din_foersta_besoek/README.md)
+- [Din första besök](ditt_foersta_besoek/README.md)
 - [Plats](plats/README.md)
 - [Veckoschemat](veckoschemat.md)
 - [Betalning](betalning.md)
