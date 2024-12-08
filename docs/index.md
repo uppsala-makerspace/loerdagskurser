@@ -10,9 +10,8 @@ det viktigaste i kurserna är att lära sig nya saker tillsammans.
 
 - [Kurserna](kurserna/README.md)
 - [Din första besök](din_foersta_besoek/README.md)
-- [Veckoschemat](veckoschemat.md)
 - [Plats](plats/README.md)
+- [Veckoschemat](veckoschemat.md)
 - [Betalning](betalning.md)
 - [Foljer oss](foljer_oss.md)
-- [Bilder](bilder.md)
-- [QR kod](qr_kod.md)
+- [Kontakta oss](kontakta_oss.md)
