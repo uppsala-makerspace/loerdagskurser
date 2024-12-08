@@ -2,7 +2,7 @@
 
 När  |Arduino och Blender|Processing
 -----|-------------------|-----------------------------------
- 9:00|([Förberedning](lesson_plans/preparation/README.md) av frivilligarna)|.
+ 9:00|([Förberedning](foerberedning/README.md) av frivilligarna)|.
 10:00|Dörr öppnas        |.
 10:15|Början             |.
 11:00|Rast               |.

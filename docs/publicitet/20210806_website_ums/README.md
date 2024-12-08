@@ -1,7 +1,5 @@
 # Programmeringskurs för ungdomar
 
-![UMS logo](../pics/uppsala_makerspace_50.png)![Processing logo](../pics/processing3_logo_50.png)
-
 Att berätta för datorn vad den ska göra är kärnan inom programmering.
 Vill du också kunna göra det? Varje vecka kan du besöka oss
 och lära dig att göra något coolt på datorn (kanske ett datorspel!).
@@ -22,6 +20,4 @@ Ingen förkunskaper krävs.
   * September till december: 400 kr för medlemmar i Uppsala Makerspace, 600 SEK för övriga
   * Januari till maj: 400 kr för medlemmar i Uppsala Makerspace, 600 SEK för övriga
 * Krav: en bärbar dator med WiFi
-* Mer information: <https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar>
-
-![Open Day at DJOG](../pics/20180210OpenDagDjo_3.jpg)
+* Mer information: <https://github.com/uppsala-makerspace/loerdagskurser>

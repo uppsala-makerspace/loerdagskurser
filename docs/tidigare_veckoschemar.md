@@ -29,7 +29,7 @@ Vecka| Dag      |Vad
 .    |2024-05-12|[Hackathon](verksamheter/20240512_hackathon/README.md)
 20   |2024-05-18| 14. [Slutpresentation](verksamheter/20240518_slutpresentation/README.md)
 21   |2024-05-25| 15. Vanligt kursdag
-22   |2024-06-01| 16. [Eftermorsdag](verksamheter/20230601_eftermorsdag/README.md)
+22   |2024-06-01| 16. [Eftermorsdag](verksamheter/20240601_eftermorsdag/README.md)
 23   |2024-06-08|Ej kurs, sommarlov
 24   |2024-06-15|Ej kurs, sommarlov
 25   |2024-06-22|Ej kurs, sommarlov
@@ -113,7 +113,7 @@ Vecka| Dag      |Vad
 45   |2023-11-11| 10. Början slutpresentation
 46   |2023-11-18| 11. [Efterfarsdag](verksamheter/20231118_efterfarsdag/README.md)
 47   |2023-11-25| 12.
-.    |.         | (efter kursen, 13.30-15.30: [programmingsworkshop för tjejer](verksamheter/202311125_girls_only_workshop/README.md) på Stadsbiblioteket)
+.    |.         | (efter kursen, 13.30-15.30: [programmingsworkshop för tjejer](verksamheter/20231125_girls_only_workshop/README.md) på Stadsbiblioteket)
 48   |2023-12-02| 13.
 .    |2023-12-03| [Hackathon](verksamheter/20231203_hackathon/README.md)
 49   |2023-12-09| 14. [Slutpresentation](verksamheter/20231209_slutpresentation/README.md)
