@@ -16,14 +16,14 @@
 
     Ingen föranmeldning kravs: bara kommer förbi!
 
-    Kolla dock på [veckoschemat](veckoschemat.md) för att
+    Kolla dock på [veckoschemat](../veckoschemat.md) för att
     ser ingen speciellt evenemang pågår.
 
 === "🇬🇧"
 
     No need to register: just show up!
 
-    Do take a look at the [weekly schedule](veckoschemat.md)
+    Do take a look at the [weekly schedule](../veckoschemat.md)
     to see if there are no special activities that day.
 
 ## 🇸🇪 Förbereding (🇬🇧 Preparation)
@@ -50,7 +50,7 @@
 
 === "🇸🇪"
 
-    Ser på [plats](plats/README.md) var vi är
+    Ser på [plats](../plats/README.md) var vi är
     och var du kan ringa.
 
     Om du är lämnat i, personen på receptionsbordet tar
@@ -58,7 +58,7 @@
 
 === "🇬🇧"
 
-    See at [location](plats/README.md) where we are
+    See at [location](../plats/README.md) where we are
     and where you can ring the bell.
 
     After coming in, the person at the reception desk
