@@ -1,4 +1,12 @@
-# Foljer oss
+# 🇸🇪 Följer oss (🇬🇧 Follow us)
+
+=== "🇸🇪"
+
+    För att blir informerad, kan du följer oss här:
+
+=== "🇬🇧"
+
+    To be informed, here you can follow us:
 
 Logo                                           |Link
 -----------------------------------------------|---------------------------------------------------------
