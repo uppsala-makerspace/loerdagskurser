@@ -8,12 +8,13 @@ Flyer to distribute at Kulturnatten about UMS.
 
 ## Plain-text
 
+```text
 [logo UMS]
 
 Uppsala Makerspace
 Ekeby Bruk 6M
 752 63 Uppsala
-<www.uppsalamakerspace.se>
+<https://www.uppsalamakerspace.se/>
 
 [map Uppsala]
 
@@ -40,3 +41,4 @@ Kulturnatten
    @ Makerspace
 
 [map USB]
+```

@@ -1,6 +1,6 @@
 # Slutpresentation och utvärderig
 
-![En tidigare slutpresentation](../../versamheter/20221210_slutpresentation/21.jpg)
+![En tidigare slutpresentation](../../verksamheter/20221210_slutpresentation/21.jpg)
 
 > En tidigare slutpresentation
 

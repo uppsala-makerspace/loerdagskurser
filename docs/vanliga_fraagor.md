@@ -97,13 +97,7 @@ Snälla, antingen lämna din mobil hemma eller stäng av den under kursen.
 
 ### Vilka böcker använder kursen?
 
-Vi använder den här böcker:
-
-Kurs                                                                                                           | Bok
----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------
-![Arduino logo](pics/arduino_community_logo_65x32.png) **Arduino**                                             | [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
-![Blender logo](pics/blender_community_badge_white_39_x_32.png) **Blender**                                    | [Grundkurs i Blender](https://github.com/richelbilderbeek/grundkurs_i_blender)
-![git logo](pics/git_logo_32_x_32.png) ![Processing logo](pics/processing4_logo_36_x_32.png) **Programmering** | [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar) och [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+Dem är listad på [vår kurserna](kurserna/README.md).
 
 Alla är båda online och i papper.
 
@@ -187,7 +181,7 @@ Föräldrar är alltid välkommna att kolla lite vad som pågår på kursen.
 Men, oftast är det bättre om ditt barn skapar nya bekantskaper på kursen
 och inte vänder sig till dig när det uppstår problem.
 Det är att skapa vänner som är anledning att elever stannar på kursen,
-ser [den här akademiska uppsats](../akademiska_uppsatser/vrieler_2024.pdf)
+ser [den här akademiska uppsats](akademiska_uppsatser/vrieler_2024.pdf)
 för referens.
 För att vi tycker om att behålla elever,
 gjärna hålla dig på lite avstånd under kursens
@@ -309,7 +303,7 @@ Det är en pessimistisk uppskattning.
 From poll on UMS Slack:
 
 * 2x [Conrad](https://www.conrad.com/)
-* 1x [Digikey](https://www.digikey.se/)
+* 1x Digikey
 * 2x [Electrokit](https://www.electrokit.com/)
 * 1x [Kjell and company](https://www.kjell.com/)
 * 1x [M](https://www.m.nu/)
@@ -328,7 +322,7 @@ Hemsidan har många continuous integration checks,
 men ingen för att statas rätt.
 Det är på grund av att det finns inte bara ett språk.
 
-Om du vet hur att göra bättre, gjärna [bidra](bidra.md)
+Om du vet hur att göra bättre, gjärna [bidra](CONTRIBUTING.md)
 
 ## 🇬🇧🇺🇦 Frequently asked questions
 

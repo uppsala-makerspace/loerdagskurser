@@ -50,10 +50,10 @@ Vecka| Dag      |Vad
 
     - Om det fins ingen plats skriven, är det på Uppsala Makerspace
     - Om det fins ingen tid skriven, är det på vanligt kurstid
-    - [Tidigare aktiviteter finns här](../tidagare_veckoschemar.md)
+    - [Tidigare aktiviteter finns här](../tidigare_veckoschemar.md)
 
 === "🇬🇧"
 
     - If no location is mentioned, the event will take place at Uppsala Makerspace
     - If there is no time mentioned, the event will be at regular course hours
-    - [Earlier events can be found here](../tidagare_veckoschemar.md)
+    - [Earlier events can be found here](../tidigare_veckoschemar.md)

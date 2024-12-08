@@ -13,5 +13,5 @@ det viktigaste i kurserna är att lära sig nya saker tillsammans.
 - [Plats](plats/README.md)
 - [Veckoschemat](veckoschemat.md)
 - [Betalning](betalning.md)
-- [Foljer oss](foljer_oss.md)
+- [Följer oss](foeljer_oss.md)
 - [Kontakta oss](kontakta_oss.md)
