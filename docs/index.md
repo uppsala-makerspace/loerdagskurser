@@ -3,31 +3,15 @@
 v![Lördagskurser logo](logo/loerdagskurser_logo_64_x_60.png)
 ![Uppsala Makerspace logo](logo/uppsala_makerspace_62_x_64.png)
 
-> If you are from Ukraine, you are welcome! See [FAQ](faq.md)
->
-> Якщо ви з України, ласкаво просимо. [Перегляньте поширені запитання](faq.md)
+På lördag gör vi coola grejer i Uppsala Makerspace för elever i ålder 8 till 99.
 
-På lördag gör vi coola grejer i Uppsala Makerspace för elever i ålder 8 till 99:
+Inga förkunskaper krävs: 
+det viktigaste i kurserna är att lära sig nya saker tillsammans.
 
-Kurs                                                                                                           |Tid        |Vad                                                                      |Bok
----------------------------------------------------------------------------------------------------------------|-----------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------
-![Arduino logo](pics/arduino_community_logo_65x32.png) **Arduino**                                             |10:00-12:00|En kretskort som programmeras för att bygga maskiner                     | [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar) 
-![Blender logo](pics/blender_community_badge_white_39_x_32.png) **Blender**                                    |10:00-12:00|En 3D ritnings program för att, t.ex. 3D schrivning                      | [Grundkurs i Blender](https://github.com/richelbilderbeek/grundkurs_i_blender)
-![git logo](pics/git_logo_32_x_32.png) ![Processing logo](pics/processing4_logo_36_x_32.png) **Programmering** |12:00-14:00|Skapar datorspel, med, bland annat, programmerspråket Processing         | [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar) och [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
-
-Varja gång du kommer i, får du väljar en av den kurser för den där dag.
-
-Inga förkunskaper krävs.
-
-Det viktigaste i kurserna är att lära sig nya saker tillsammans.
-
+- [Kurserna](kurserna.md)
 - [Veckoschemat](veckoschemat.md)
 - [Plats](plats.md)
 - [Betalning](betalning.md)
-
-Se "Schema" nedan för mer information.
-
- * [Ser vår flyer här](publicity/20240817_vaarsemester/20240817_vaarsemester.pdf)
 
 ### Att vara informerad
 

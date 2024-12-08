@@ -3,6 +3,7 @@ site_name: Lördagskurserna
 repo_url: https://github.com/uppsala-makerspace/loerdagskurser
 
 nav:
+  - Kurserna: kurserna.md
   - Plats: plats.md
   - Veckoschemat: veckoschemat.md
   - Betalning: betalning.md
@@ -17,7 +18,7 @@ theme:
     text: Lato
     code: JetBrains Mono
 
-  logo: logo/osu_logo.png
+  logo: logo/loerdagskurser_logo.png
 
   features:
     - toc.integrate
