@@ -9,16 +9,10 @@ Inga förkunskaper krävs:
 det viktigaste i kurserna är att lära sig nya saker tillsammans.
 
 - [Kurserna](kurserna/README.md)
+- [Din första besök](din_foersta_besoek/README.md)
 - [Veckoschemat](veckoschemat.md)
 - [Plats](plats/README.md)
 - [Betalning](betalning.md)
 - [Foljer oss](foljer_oss.md)
 - [Bilder](bilder.md)
-- [Dagschemat](dagschemat.md)
-- [Årschemat](aarschemat.md)
-
-## QR code av den här hemsida
-
-![QR code av den här hemsida](pics/bit.ly_loerdagskurser.png)
-
-> QR code av den här hemsida
+- [QR kod](qr_kod.md)
