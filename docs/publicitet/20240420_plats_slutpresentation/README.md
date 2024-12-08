@@ -1,4 +1,6 @@
+# 2024-04-02 Plats slutpresentation
 
+```text
 LÖ 2024-02-24:
 Ej kurs, Sportlov
 
@@ -40,3 +42,4 @@ Ej kurs, sommarlov
 
 <https://bit.ly/loerdagskurser>
 <rjcbilderbeek@gmail.com>
+```

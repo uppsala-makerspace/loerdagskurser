@@ -3,7 +3,7 @@
 * Elevnamn: ______
 * Vilken tider funkar för dig? Fylla i alla timmar som funkar!
 
-```
+```text
 10 11 12 13 14 15
 +--+--+--+--+--+
 |  |  |  |  |  |

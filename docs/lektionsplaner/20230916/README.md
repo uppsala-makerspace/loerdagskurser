@@ -1,4 +1,4 @@
-# 2023-09-16
+# Lesson plan for 2023-09-16
 
 * Materials for soldering?
 
