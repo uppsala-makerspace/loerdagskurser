@@ -36,7 +36,7 @@ theme:
     text: Lato
     code: JetBrains Mono
   palette:
-    primary: white
+    primary: black
 
   logo: logo/loerdagskurser_logo.png
 
