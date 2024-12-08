@@ -209,5 +209,3 @@ Björn |None  |.  |Sebbe         |B: Ficklampan Till Gris
 
 - Let all pupils present a line of code and/or a part of their 3D image.
   It slows down the presentations and makes them look into the audience more
-
-
