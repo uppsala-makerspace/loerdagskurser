@@ -1,4 +1,4 @@
-# 🇸🇪 Plats (🇬🇧 location)
+# 🇸🇪 Plats (🇬🇧 Location)
 
 === "🇸🇪"
 

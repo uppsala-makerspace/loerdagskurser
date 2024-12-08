@@ -1,9 +1,16 @@
 # 🇸🇪 Veckoschemat (🇬🇧 Weekly schedule)
 
-🇸🇪 |🇬🇧
----|---
-Den här är vår veckoschema|This here is our weekly schedule
-Specialla aktiviteter här ett länk till mer information|Special activities have a link to more information
+=== "🇸🇪"
+
+    Den här är vår veckoschema.
+
+    Specialla aktiviteter här ett länk till mer information.
+
+=== "🇬🇧"
+
+    This here is our weekly schedule.
+
+    Special activities have a link to more information.
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
@@ -39,6 +46,14 @@ Vecka| Dag      |Vad
 25   |2025-06-21|Sommarlov
 26   |2025-06-28|Sommarlov
 
-* Om det fins ingen plats skriven, är det på Uppsala Makerspace
-* Om det fins ingen tid skriven, är det på vanligt kurstid
-* [Tidigare aktiviteter finns här](tidagare_veckoschemar.md)
+=== "🇸🇪"
+
+    - Om det fins ingen plats skriven, är det på Uppsala Makerspace
+    - Om det fins ingen tid skriven, är det på vanligt kurstid
+    - [Tidigare aktiviteter finns här](tidagare_veckoschemar.md)
+
+=== "🇬🇧"
+
+    - If no location is mentioned, the event will take place at Uppsala Makerspace
+    - If there is no time mentioned, the event will be at regular course hours
+    - [Earlier events can be found here](tidagare_veckoschemar.md)
