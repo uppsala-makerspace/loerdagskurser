@@ -1,13 +1,13 @@
 # Efterfarsdag
 
-* Målet: att undervisa programmering till fäder
-* Vem: eleverna från Programmeringskursen och fäder (dws far, farfar, morfar, osv)
-* Var: Uppsala Makerspace
-* Kostnad: ingenting
-* Tiderna: samma schema som vanligt
-* När: Lördag 18:e November 2023, på den vanliga tider, se nedåt
+- Målet: att undervisa programmering till fäder
+- Vem: eleverna från Programmeringskursen och fäder (dws far, farfar, morfar, osv)
+- Var: Uppsala Makerspace
+- Kostnad: ingenting
+- Tiderna: samma schema som vanligt
+- När: Lördag 18:e November 2023, på den vanliga tider, se nedåt
 
-### Arduino och Blender
+## Arduino och Blender
 
 Den här är kurstider om dit barn följer Arduino- eller Blenderkursen:
 
@@ -19,7 +19,7 @@ När  |Vad
 11:15|Fortsättning
 12:00|Slut
 
-### Processing
+## Processing
 
 Den här är kurstider om dit barn följer Processingkursen:
 
@@ -55,6 +55,7 @@ Om du undervisar alla: ja!
 
 ## Brevet till fädrar
 
+```text
 Kära pappa/morfar/farfar/onkel/moster/faster/orelatarede fader,
 
 Grattis på Farsdag! Och vilken lyckansost du är!
@@ -67,6 +68,7 @@ Därför finns det alkoholfri öl och donuts för dig.
 Det blir en fin dag!
 
 Adjöken, din dotter/son/sonson/sondotter/morson/mordotter/orelaterade dotter/orelaterade son
+```
 
 ## Noterna
 

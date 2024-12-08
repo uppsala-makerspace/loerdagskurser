@@ -57,6 +57,7 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 ## Presentationsschema
 
 ...
+
 ## Notes from next time
 
 - 22 presentations took 45 minutes to prepare with two computers,

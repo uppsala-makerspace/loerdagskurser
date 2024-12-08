@@ -4,30 +4,30 @@
 
 ## Debugging
 
-* Vad: att ta bort fel vi har skrivit
-* Varför:
-  * vi ska behöver debugging
-  * 80% av tid du programmerar är debugging:
-     att lära sig debugging gör dig effektivare
+- Vad: att ta bort fel vi har skrivit
+- Varför:
+    - vi ska behöver debugging
+    - 80% av tid du programmerar är debugging:
+      att lära sig debugging gör dig effektivare
 
 ## Problemet
 
-* Problemet: 'Jag har en bug'
+- Problemet: 'Jag har en bug'
    `&&` buggen är i en funktion som är långt/complicerade/otestade
-* Fin: 'Jag har en bug'
+- Fin: 'Jag har en bug'
    `&&` buggen är i en funktion som är kort/enkelt/otestade
 
 Där är redan lösning!
 
 ## Lösning
 
-* förkörtning
-* förenkeling
-* testning/göra ett fuktion att testas
+- förkörtning
+- förenkeling
+- testning/göra ett fuktion att testas
 
 ## Casus
 
-* I Processing, men likadant än Arduino också
+- I Processing, men likadant än Arduino också
 
 ```processing
 //Made by The Lift
@@ -171,21 +171,21 @@ void setup()
 
 ## Vad har vi just gjört?
 
-* Vi kann nu testa kod
-* Vi har visat ett problem (och vi kan visar fler problem i framtiden)
-* Programmerare kann nu vidare!
+- Vi kann nu testa kod
+- Vi har visat ett problem (och vi kan visar fler problem i framtiden)
+- Programmerare kann nu vidare!
 
 ## Värför är det viktigt?
 
-* Programmerare är nu övertygad att hen ha en bug
-* Programmerare kan nu reproducerar sin bug
-* Programmerare kan nu visar sin bug till någon
-* Programmerare kann nu schicka sin problem någonstans annat, t.ex. Stack Overflow
+- Programmerare är nu övertygad att hen ha en bug
+- Programmerare kan nu reproducerar sin bug
+- Programmerare kan nu visar sin bug till någon
+- Programmerare kann nu schicka sin problem någonstans annat, t.ex. Stack Overflow
 
 'Test-Driven Development' är en väg att ökar programmer systematiskt
 och med litare debugging.
 
-* Tests är del av programmet!
+- Tests är del av programmet!
 
 ## Förenkling
 

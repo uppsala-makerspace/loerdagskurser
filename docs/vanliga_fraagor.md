@@ -1,8 +1,8 @@
 # FAQ
 
-* 🇸🇪 Vanliga frågor
-* 🇬🇧 Frequently asked questions: see below the Swedish ones
-* 🇺🇦 Часті запитання: див. англійську чи шведську
+- 🇸🇪 Vanliga frågor
+- 🇬🇧 Frequently asked questions: see below the Swedish ones
+- 🇺🇦 Часті запитання: див. англійську чи шведську
 
 ## 🇸🇪 Vanliga frågor
 
@@ -160,9 +160,9 @@ Där kan finnas möjlighet att både visa upp vad som åstadkommits eller underv
 
 Det bästa sättet att lära sig är att få berätta för en kompis.
 
-* Sitter det en deltagare bredvid dig? Om ja, fråga hen.
-* Sitter det en deltagare vid ditt bord? Om ja, då är hen.
-* Om du sitter själv vid ditt bord eller ingen vet, fråga en lärare / vuxen.
+- Sitter det en deltagare bredvid dig? Om ja, fråga hen.
+- Sitter det en deltagare vid ditt bord? Om ja, då är hen.
+- Om du sitter själv vid ditt bord eller ingen vet, fråga en lärare / vuxen.
 
 ### Vad händer om en ny student kommer in?
 
