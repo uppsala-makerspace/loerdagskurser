@@ -8,18 +8,17 @@
 
 Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik har jag delat in dem i följande kategorier:
 
-* Komma igång
-* Ålder på deltagare
-* Kursmaterial
-* Programmeringsspråk - Arduino (C++): se [FAQ om Arduino](faq_arduino.md)
-* Blender :construction:
-* Programmeringsspråk - Processing (Java): se [FAQ om Processing](faq_processing.md)
-* Förväntningar på deltagande (barn)
-* Förväntningar på föräldrar
-* Förväntningar på volontärer / frivilliga
-* Kostnad för kursen
-* Köpa komponenter
-* [Volontärer](volontaerer.md)
+- Komma igång
+- Ålder på deltagare
+- Kursmaterial
+- Programmeringsspråk - Arduino (C++): se [FAQ om Arduino](faq_arduino.md)
+- Programmeringsspråk - Processing (Java): se [FAQ om Processing](faq_processing.md)
+- Förväntningar på deltagande (barn)
+- Förväntningar på föräldrar
+- Förväntningar på volontärer / frivilliga
+- Kostnad för kursen
+- Köpa komponenter
+- [Volontärer](volontaerer.md)
 
 ## Komma igång
 
@@ -232,19 +231,11 @@ Se också [tidigare aktiviteter](https://www.uppsalamakerspace.se/aktiviteter).
 
 ### Vad kostar kursen?
 
-Grundavgiften för en ny (minderårig) elev är 600 kronor, vilket inkluderar medlemsavgift för ett år (300 kronor) och det första halvårets undervisningshäften (300 kronor).
-Medlemskapet i Uppsala Makerspace som gäller för eleven, en förälder (som adminstrerar medlemskapet), samt alla andra i familjen som vill bli medlemmar under ett år. Om andra minderåriga i familjen också vill gå kursen behöver de bara betala 300 kronor per termin, det vill säga avgiften för undervisningsmaterialet.
-Vuxna elever behöver bara ha ett medlemskap.
-
-Till exempel:
-
-* Ett minderårig elev kostar 600 kr i första termin, och 300 kr i nästa.
-* Tva (minderåriga elever kostar 900 kr i första termin, och 600 kr i nästa.
-* Ett vuxen elev kostar 300 kr i första termin, och 0 kr i nästa.
+Ser [Betalning](betalning.md).
 
 ### Hur betalar jag kursen?
 
-Ser ['Betalning' på huvudsida](https://github.com/uppsala-makerspace/loerdagskurser#Betalning) för mer info.
+Ser [Betalning](betalning.md).
 
 ### Jag har inte råd med kursavgiften. Hur ska jag göra?
 
@@ -257,7 +248,7 @@ Kostnaderna är i huvudsak för att trycka böckerna och lite fika.
 
 ### Varför kostar kursen samma mellan höst och vår?
 
-För att det är lättare administrera
+För att det är lättare att administrera.
 
 ### Hur är pris från kursen räknet?
 
