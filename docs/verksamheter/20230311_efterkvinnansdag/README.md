@@ -145,7 +145,7 @@ next to our existing 30 students.
 More information can be found at:
 
 * The course website: <http://bit.ly/loerdagskurser>
-* The event's site: <https://uppsala-makerspace.github.io/loerdagskurser/activities/20230311_efterkvinnansdag/>
+* The event's site: <https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20230311_efterkvinnansdag/>
 
 Do not hesitate if you have questions; please send that email!
 
