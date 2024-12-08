@@ -10,6 +10,9 @@ nav:
   - Bilder: bilder.md
   - Bidragsgivarna: bidragsgivarna.md
   - Vanliga frågor: vanliga_fraagor.md
+  - Verksamheter: verksamheter/README.md
+  - Publicitet: publicitet/README.md
+  - Utvärderingar: utvaerderingar/README.md
 
 theme:
   name: material
