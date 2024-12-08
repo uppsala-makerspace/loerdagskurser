@@ -10,7 +10,8 @@
 
 ```text
 Uppsala Makerspace
-Ekeby Bruk 6M, 752 63 Uppsala
+Ekeby Bruk 6M
+752 63 Uppsala
 ```
 
 === "🇸🇪"
