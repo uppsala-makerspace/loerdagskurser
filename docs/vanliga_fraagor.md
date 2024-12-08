@@ -8,18 +8,18 @@
 
 Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik har jag delat in dem i följande kategorier:
 
-* Komma igång
-* Ålder på deltagare
-* Kursmaterial
-* Programmeringsspråk - Arduino (C++): se [FAQ om Arduino](faq_arduino.md)
-* Programmeringsspråk - Processing (Java): se [FAQ om Processing](faq_processing.md)
-* Förväntningar på deltagande (barn)
-* Förväntningar på föräldrar
-* Förväntningar på volontärer / frivilliga
-* Kostnad för kursen
-* Köpa komponenter
-* [Volontärer](volontaerer.md)
-* Hemsidan
+- Komma igång
+- Ålder på deltagare
+- Kursmaterial
+- Programmeringsspråk - Arduino (C++): se [FAQ om Arduino](faq_arduino.md)
+- Programmeringsspråk - Processing (Java): se [FAQ om Processing](faq_processing.md)
+- Förväntningar på deltagande (barn)
+- Förväntningar på föräldrar
+- Förväntningar på volontärer / frivilliga
+- Kostnad för kursen
+- Köpa komponenter
+- [Volontärer](volontaerer.md)
+- Hemsidan
 
 ## Komma igång
 
@@ -74,15 +74,15 @@ Blender    |En bärbar dator med laddare |[Blender](https://www.blender.org/down
 `git`      |En bärbar dator med laddare |`git`, till exempel [https://git-scm.com/downloads](https://git-scm.com/downloads)
 Processing |En bärbar dator med laddare |[Processing IDE](https://processing.org/download)
 
-* [1] Om du har ingen bärbar dator eller du vil prova först, kann du låna en av oss
-* [2] Om du har inte installerat det förut, gör vi det under kursen
+- [1] Om du har ingen bärbar dator eller du vil prova först, kann du låna en av oss
+- [2] Om du har inte installerat det förut, gör vi det under kursen
 
 Om du kommer i ett lag, kanske du använder också:
 
-* [Codeberg](https://codeberg.org/): en hemsida
-* [Discord](https://discord.com/download): en chat program, du behöver att vara 13 år
-* [GitHub](https://github.com/): en hemsida, du behöver att vara 13 år
-* [Matrix](https://matrix.org/): en chat program
+- [Codeberg](https://codeberg.org/): en hemsida
+- [Discord](https://discord.com/download): en chat program, du behöver att vara 13 år
+- [GitHub](https://github.com/): en hemsida, du behöver att vara 13 år
+- [Matrix](https://matrix.org/): en chat program
 
 ### Behöver jag ta med mig min mobil?
 
@@ -120,14 +120,14 @@ se [FAQ om Processing](faq_processing.md)
 
 ### Vad händer på ett vanligt kurstillfälle?
 
-* du kommar hit när dörren öppnas
-* du besöker receptionsbordet:
-  * skriver ditt namn på presenslistan
-  * tar din lektionskort
-  * tar dina böcker
-* du ställer upp din bärbara dator
-* du gör uppgifter i böckerna
-* du sammarbetar med dina bordskompisar
+- du kommar hit när dörren öppnas
+- du besöker receptionsbordet:
+    - skriver ditt namn på presenslistan
+    - tar din lektionskort
+    - tar dina böcker
+- du ställer upp din bärbara dator
+- du gör uppgifter i böckerna
+- du sammarbetar med dina bordskompisar
 
 På rasten fikar vi och kopplar av lite.
 
@@ -187,8 +187,8 @@ För att vi tycker om att behålla elever,
 gjärna hålla dig på lite avstånd under kursens
 gång.
 
-* Tip 1: kom 5 minuter före slutet för att tar en kort titt :-)
-* Tip 2: om du har betalat kursavgiften är du medlem av Uppsala Makerspace!
+- Tip 1: kom 5 minuter före slutet för att tar en kort titt :-)
+- Tip 2: om du har betalat kursavgiften är du medlem av Uppsala Makerspace!
   Uppsala Makerspace är rätt stort så det går att vistas i ett annat
   rum och hålla på med egna projekt om du är labbmedlem.
 
@@ -260,36 +260,36 @@ Priserna är framräknade pessimistiskt.
 
 En kurs kräver minst 8 böcker där varje bok innehåller 30 dubbelsidiga A4 sidor.
 
-* 1 bok 100 kr (färg, paa svartvit aar 1 bok 20 kr)
+- 1 bok 100 kr (färg, paa svartvit aar 1 bok 20 kr)
 
 2 certifikat:
 
-* 1 certifikat är 54 kr (färg)
+- 1 certifikat är 54 kr (färg)
 
 Lektionskort:
 
-* Färg: 1 kort är 10 kr
+- Färg: 1 kort är 10 kr
 
 Saft:
 
-* 30 kr per flask för 10 elever
+- 30 kr per flask för 10 elever
 
 Presentation:
 
 Per elev, 30 kr:
 
-* Kaffe för 1 föräldrar, 5 kr
-* te för 1 föräldrar, 5 kr
-* limonade för barn och 1 gast, 10 kr
-* Kakor, 4 personar, 10 kr
+- Kaffe för 1 föräldrar, 5 kr
+- te för 1 föräldrar, 5 kr
+- limonade för barn och 1 gast, 10 kr
+- Kakor, 4 personar, 10 kr
 
 Per elev och termin:
 
-* 4x böcker = 400 kr
-* 1x certifikat = 54 kr
-* 1x lektionskort = 10 kr
-* 2x flaska saft = 60 kr
-* Presentation = 30 kr
+- 4x böcker = 400 kr
+- 1x certifikat = 54 kr
+- 1x lektionskort = 10 kr
+- 2x flaska saft = 60 kr
+- Presentation = 30 kr
 
 Det betyder,
 i början när det inte finns några böcker,
@@ -302,13 +302,13 @@ Det är en pessimistisk uppskattning.
 
 From poll on UMS Slack:
 
-* 2x [Conrad](https://www.conrad.com/)
-* 1x Digikey
-* 2x [Electrokit](https://www.electrokit.com/)
-* 1x [Kjell and company](https://www.kjell.com/)
-* 1x [M](https://www.m.nu/)
-* 2x [Mouser](https://www.mouser.se/)
-* 2x [Reichelt](https://www.reichelt.com/)
+- 2x [Conrad](https://www.conrad.com/)
+- 1x Digikey
+- 2x [Electrokit](https://www.electrokit.com/)
+- 1x [Kjell and company](https://www.kjell.com/)
+- 1x [M](https://www.m.nu/)
+- 2x [Mouser](https://www.mouser.se/)
+- 2x [Reichelt](https://www.reichelt.com/)
 
 ## Volontärer
 
@@ -332,4 +332,4 @@ for the kids :-)
 
 ### Länkar
 
-* [Swedish Discrimination Act, 2008:567](https://www.do.se/choose-language/english/discrimination-act-2008567), på Engelska
+- [Swedish Discrimination Act, 2008:567](https://www.do.se/choose-language/english/discrimination-act-2008567), på Engelska
