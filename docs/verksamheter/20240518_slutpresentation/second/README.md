@@ -35,16 +35,9 @@ Vem                       |Ålder|Team         |Vad
 * Föraldrarlag: ?Alvin, Felix, Mohamed
 * På semester: Ebbe
 
-När  |Besökare        |Ålder   |Team     | Elever
------|----------------|--------|---------|-----------------------
-[CANCELLED] Luca         |        |DefH     |Ball Blast
-[?] Frode        |        |DefH     |Mysterietprojekt
-[?] Huda           |11   |Blic Legends |How Glamrock Freddy died
-[?] Kevin          |11   |.            |Fysikmotor
-
 ## Pictures
 
-...
+See [one folder up](../README.md).
 
 ## Notes from previous times
 

@@ -1,7 +1,8 @@
 # Efterfarsdag
 
 * Målet: att undervisa programmering till fäder
-* Vem: eleverna från Programmeringskursen och fäder (dws far, farfar, morfar, osv)
+* Vem: eleverna från Programmeringskursen och
+  fäder (dws far, farfar, morfar, osv)
 * Var: Uppsala Makerspace
 * Kostnad: ingenting
 * Tiderna: samma schema som vanligt
@@ -66,13 +67,15 @@ Jag förstör att det är en svårt moment!
 Därför finns det alkoholfri öl och donuts för dig.
 Det blir en fin dag!
 
-Adjöken, din dotter/son/sonson/sondotter/morson/mordotter/orelaterade dotter/orelaterade son
+Adjöken, din
+dotter/son/sonson/sondotter/morson/mordotter/orelaterade dotter/orelaterade son
 
 ## Noterna
 
 I 2023, Det fanns 25 elever och 11 fädrar. 25 donuts skulle har funkat.
 
-I 2024, det fanns 37 elever och 12. fädrar. 40 donuts var fint, 30 skulle har funkats.
+I 2024, det fanns 37 elever och 12. fädrar. 40 donuts var fint,
+30 skulle har funkats.
 10 öl var fint, 10 skulle har funkat.
 
 * `n_donuts = n_elever`
