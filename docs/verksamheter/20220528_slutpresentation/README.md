@@ -1,12 +1,13 @@
 # Slutpresentation
 
-Vem     |Vad
---------|---------------
-Anton   |Maskmask
-Elvis   |Undertale Fight
-Isaac   |Neontunnel
-Nebi    |GTA Banan
-Team UFO|Team UFO
+Vem          |Vad
+-------------|---------------
+Anton        |Maskmask
+Anton och Max|[Trail Boyz Katthund](anton_och_max/README.md)
+Elvis        |Undertale Fight
+Isaac        |Neontunnel
+Nebi         |GTA Banan
+Team UFO     |Team UFO
 
 ## Bilder
 

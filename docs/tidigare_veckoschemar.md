@@ -117,8 +117,7 @@ Vecka| Dag      |Vad
 48   |2023-12-02| 13.
 .    |2023-12-03| [Hackathon](verksamheter/20231203_hackathon/README.md)
 49   |2023-12-09| 14. [Slutpresentation](verksamheter/20231209_slutpresentation/README.md)
-50   |2023-12-16| 15.Sista kursdag
-
+50   |2023-12-16| 15.Sista kursdag: [skapa Julkort](20231216_julkort/README.md)
 ## 2022
 
 Vecka| Dag      |Vad
@@ -192,5 +191,5 @@ Vecka| Dag      |Vad
 47   |2021-11-27|10.
 48   |2021-12-04|11.
 49   |2021-12-11|12. Presentation och utvärdering
-50   |2021-12-18|13. Sista dagen
+50   |2021-12-18|13. [Sista dagen: skapa Julkort](20211218_julkort/README.md)
 51   |2021-12-25|Jullov
