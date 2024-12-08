@@ -10,7 +10,7 @@ Vi har mer Björnar på kurserna:
 - Atombjörn
 - Store Björn
 
-### Atombjörn
+### AtomBjörn
 
 Björn är volontär på kursen.
 
@@ -24,6 +24,12 @@ Björn är volontär på kursen.
 Han är bäst med Arduino och Blender.
 
 Han skapar allt som helst och ger Blender kurser också.
+
+## Bogdan
+
+Bogdan är volontär på kursen.
+
+Han är bäst med programmering.
 
 ## Christoffer
 
@@ -76,3 +82,9 @@ lärare på en Högstadiet.
 Hans arbete kan ses på
 [hans GitHub-arkiv](https://github.com/richelbilderbeek?tab=repositories).
 Självklart har han gjört [många datorspelar](https://github.com/richelbilderbeek/games).
+
+## Saw
+
+Saw är volontär på kursen.
+
+Han är bäst med programmering.
