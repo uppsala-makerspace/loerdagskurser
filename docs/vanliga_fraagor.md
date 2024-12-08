@@ -19,6 +19,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 - Kostnad för kursen
 - Köpa komponenter
 - [Volontärer](volontaerer.md)
+- Hemsidan
 
 ## Komma igång
 
@@ -310,6 +311,16 @@ From poll on UMS Slack:
 ## Volontärer
 
 Ser [volontärer](volontaerer.md).
+
+## Hemsidan
+
+### Varför finns ingen stavningscheck?
+
+Hemsidan har många continuous integration checks,
+men ingen för att statas rätt.
+Det är på grund av att det finns inte bara ett språk.
+
+Om du vet hur att göra bättre, gjärna [bidra](bidra.md)
 
 ## 🇬🇧🇺🇦 Frequently asked questions
 
