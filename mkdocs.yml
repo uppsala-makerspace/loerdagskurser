@@ -11,13 +11,16 @@ nav:
   - Bilder: bilder.md
   - Vanliga frågor: vanliga_fraagor.md
   - Verksamheter: verksamheter/README.md
-  - Publicitet: publicitet/README.md
-  - Volontärer: volontaerer.md
   - Misc:
     - Akademiska_uppsatser: akademiska_uppsatser/README.md
     - Bidragsgivarna: bidragsgivarna.md
+    - Dagschemat: dagschemat.md
     - Logo: logo/README.md
+    - Länkar: laenkar.md
+    - Publicitet: publicitet/README.md
     - Utvärderingar: utvaerderingar/README.md
+    - Volontärer: volontaerer.md
+    - Årschemat: aarschemat.md
 
 theme:
   name: material
