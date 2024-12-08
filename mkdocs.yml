@@ -14,12 +14,14 @@ nav:
     - Akademiska_uppsatser: akademiska_uppsatser/README.md
     - Bidragsgivarna: bidragsgivarna.md
     - Dagschemat: dagschemat.md
+    - Data: data/README.md
     - Logo: logo/README.md
-    - Länkar: laenkar.md
     - Lektionsplaner: lektionsplaner/README.md
+    - Länkar: laenkar.md
     - Presenskort: presenskort/README.md
     - Publicitet: publicitet/README.md
-    - Utvärderingar: utvaerderingar/README.md
+    - Statistiker av besökare: data/statistiker_besoekare/README.md
+    - Utvärderingar: data/utvaerderingar/README.md
     - Volontärer: volontaerer.md
     - Årschemat: aarschemat.md
 
