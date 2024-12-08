@@ -20,7 +20,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
  * Förväntningar på volontärer / frivilliga
  * Kostnad för kursen
  * Köpa komponenter
- * Mer om läraren
+ * [Volontärer](volontaerer.md)
 
 ## Komma igång
 
@@ -212,7 +212,6 @@ Javisst!
 Målsättningen är dock att barnen ska hjälpa varandra i så stor utsträckning som möjligt, 
 så det ska helst inte vara fler än en vuxen per fyra barn.
 
-
 ## Lektioner och läromedel
 
 ## Jag lära mig Processing och komma igång dirkt, hur går jag tillväga?
@@ -318,75 +317,9 @@ From poll on UMS Slack:
  * 2x [Mouser](https://www.mouser.se/)
  * 2x [Reichelt](https://www.reichelt.com/)
 
-## Personen
+## Volontärer
 
-### Vem är volontärer?
-
- * Björn
- * Christoffer
- * Janne
- * Richel
-
-### Vem är Björn?
-
-Björn är volontär på kursen. 
-
-Han är bäst med Arduino och Blender.
-
-Han skapar allt som helst och ger Blender kurser också.
-
-### Vem är Christoffer?
-
-Christoffer är volontär på kursen. 
-
-Han är bäst med programmering.
-
-### Vem är Janne?
-
-Janne är volontär på kursen. 
-
-Han är bäst med programmering.
-
-### Vem är Leslie?
-
-Leslie är volontär på kursen. 
-
-Hon är bäst med Blender.
-
-### Vem är Lily?
-
-Lily är volontär på kursen. 
-
-Hon är bäst med Processing.
-
-### Vem är Ludvig?
-
-Ludvig är volontär på kursen. 
-
-Han är bäst med Arduino.
-
-### Vem är Mathias?
-
-Mathias är volontär på kursen. 
-
-Han är bäst med Arduino och programmering.
-
-### Vem är [Richel](https://github.com/richelbilderbeek)?
-
-![Richel](pics/richelbilderbeek.png)
-
-Richel är en vuxen volontär som samordnar kursen.
-
-Richel har programmerat sedan han var 8 år.
-Han är en erfaren programmerare, särskilt inom C++.
-Richel är särskilt intresserad av utbildning och har
-avslut lärarutbildningen vid universitetet och har två år som
-lärare på en Högstadiet.
-
-Hans arbete kan ses på 
-[hans webbplats med mer än 3900 sidor](http://richelbilderbeek.nl)
-och [mer än 1200 GitHub-arkiv](https://github.com/richelbilderbeek?tab=repositories).
-Självklart har han gjört [många datorspelar](https://github.com/richelbilderbeek/games).
+Ser [volontärer](volontaerer.md).
 
 ## 🇬🇧🇺🇦 Frequently asked questions
 
