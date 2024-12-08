@@ -1,12 +1,24 @@
-# Galenlektion
+# 2021-10-09: Lektion och galenlektion
 
-![](2021109_1.jpg)
-![](2021109_2.jpg)
-![](2021109_3.jpg)
-![](IMG_20211009_111252.jpg)
-![](IMG_20211009_111254.jpg)
-![](IMG_20211009_111257.jpg)
-![](IMG_20211009_111800.jpg)
+Den 9:e Oktober såg kursen ut så här:
+
+* [Kolla på YouTube](https://youtu.be/xWUhRymx69w)
+
+![Uppsala Makerspace](2021109_1.jpg)
+
+![Uppsala Makerspace](2021109_2.jpg)
+
+![Uppsala Makerspace](2021109_3.jpg)
+
+Rast:
+
+![Uppsala Makerspace](IMG_20211009_111252.jpg)
+![Uppsala Makerspace](IMG_20211009_111254.jpg)
+![Uppsala Makerspace](IMG_20211009_111257.jpg)
+
+Galenlektion:
+
+![Uppsala Makerspace](IMG_20211009_111800.jpg)
 
 ## Videor
 
