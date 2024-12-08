@@ -32,12 +32,12 @@ Jap, det är det :-)
 
 ## Notes from previous time
 
-- 24 students
-- Orderded 8 vesuvio and 16 margaritas
-- Left: 3 vesuvio and 3 margarita
-- Should have ordered: 5 vesuvio and 13 margeritas
+* 24 students
+* Orderded 8 vesuvio and 16 margaritas
+* Left: 3 vesuvio and 3 margarita
+* Should have ordered: 5 vesuvio and 13 margeritas
 
 Next time:
 
-- n_vesuvio = `n_students * 0.2`
-- n_margarita = `n_students * 0.55`
+* n_vesuvio = `n_students * 0.2`
+* n_margarita = `n_students * 0.55`

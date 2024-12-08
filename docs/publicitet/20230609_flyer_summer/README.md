@@ -10,7 +10,7 @@ LÖ 2023-11-04 Höstlov
 LÖ 2023-11-18 Efterfarsdag
 LÖ 2023-12-09 Slutpresentation
 LÖ 2023-12-16 Sista kursdag
- 
+
 LÖ 2024-01-13 Första lektion igen
 <https://bit.ly/loerdagskurser>
 <rjcbilderbeek@gmail.com>

@@ -8,18 +8,18 @@
 
 Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik har jag delat in dem i följande kategorier:
 
-- Komma igång
-- Ålder på deltagare
-- Kursmaterial
-- Programmeringsspråk - Arduino (C++): se [FAQ om Arduino](faq_arduino.md)
-- Programmeringsspråk - Processing (Java): se [FAQ om Processing](faq_processing.md)
-- Förväntningar på deltagande (barn)
-- Förväntningar på föräldrar
-- Förväntningar på volontärer / frivilliga
-- Kostnad för kursen
-- Köpa komponenter
-- [Volontärer](volontaerer.md)
-- Hemsidan
+* Komma igång
+* Ålder på deltagare
+* Kursmaterial
+* Programmeringsspråk - Arduino (C++): se [FAQ om Arduino](faq_arduino.md)
+* Programmeringsspråk - Processing (Java): se [FAQ om Processing](faq_processing.md)
+* Förväntningar på deltagande (barn)
+* Förväntningar på föräldrar
+* Förväntningar på volontärer / frivilliga
+* Kostnad för kursen
+* Köpa komponenter
+* [Volontärer](volontaerer.md)
+* Hemsidan
 
 ## Komma igång
 

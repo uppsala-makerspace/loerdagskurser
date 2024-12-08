@@ -17,5 +17,3 @@ det viktigaste i kurserna är att lära sig nya saker tillsammans.
 - [Bilder](bilder.md)
 - [Dagschemat](dagschemat.md)
 - [Årschemat](aarschemat.md)
-
-
