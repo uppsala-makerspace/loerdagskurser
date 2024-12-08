@@ -12,7 +12,7 @@
 
     Varja gång du kommer i, får du väljar en av den kurser för den där dag.
 
-    Ser [din första besök](../din_foersta_besoek.md) hur din första besök ska ske!
+    Ser [din första besök](../din_foersta_besoek/README.md) hur din första besök ska ske!
 
 === "🇬🇧"
 
@@ -26,4 +26,4 @@
 
     Each time you come in, you may pick a course to follow that day.
 
-    See [your first visit](../din_foersta_besoek.md) to find out how your first visit will go!
+    See [your first visit](../din_foersta_besoek/README.md) to find out how your first visit will go!
