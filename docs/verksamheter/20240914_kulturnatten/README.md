@@ -1,6 +1,6 @@
 # 2024-09-14 Kulturnatten
 
-![](20220910_113722.jpg)
+![En tidigare Kulturnatten](20220910_113722.jpg)
 
 > Så här ser det ut när första gäst har kommit in.
 > Vi är folket med den röda T-shirts!

@@ -34,4 +34,4 @@ Jap, det är det :-)
 
 Det fanns åtta av nio personer som ställde up.
 
-![](franvaro_2022_1_n.png)
+![Amount of people that showed up](franvaro_2022_1_n.png)

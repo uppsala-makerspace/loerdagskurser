@@ -371,7 +371,7 @@ Well done, fellow adults!
 The course is received well in general. Note that there is a bias:
 the students that stay are the ones that are happy.
 
-![](franvaro_2022_3_n.png)
+![Number of students in time](franvaro_2022_3_n.png)
 
 > Number of students in time
 
@@ -380,7 +380,7 @@ with about 1.2 student per month on average.
 One could argue that maybe the amount of students is flattening off,
 let's see where next year goes to.
 
-![](franvaro_2022_3_n_per_sex.png)
+![Number of male/female students in time](franvaro_2022_3_n_per_sex.png)
 
 > Number of male/female students in time
 
@@ -390,7 +390,7 @@ The parents think it would be better to have more females
 and the (male) volunteers agree.
 Richel has tried to recruit females, but without success still.
 
-![](franvaro_2022_3_n_per_age.png)
+![Number of minor and adult students in time](franvaro_2022_3_n_per_age.png)
 
 > Number of minor and adult students in time
 
@@ -398,7 +398,7 @@ When the final presentation started to be prepared, the adults hopped off
 the course. They are appreciated by both the students and volunteers,
 so let's try to keep them in more next year.
 
-![](franvaro_2022_3_n_per_course.png)
+![Distribution of courses taken](franvaro_2022_3_n_per_course.png)
 
 > Distribution of courses taken
 

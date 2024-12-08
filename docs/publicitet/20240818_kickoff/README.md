@@ -7,16 +7,16 @@ For those, I will tell who can contribute on any voluntary basis.
 
 ## Pictures
 
-![](IMG_3005.JPEG)
+![A course presentation, twice a year](IMG_3005.JPEG)
 
 > A course presentation, twice a year
 
-![](kulturnatten.jpg)
+![A quiet start of Kulturnatten](kulturnatten.jpg)
 
 > A quiet start of Kulturnatten.
 > At the end of the day, we'd have had around 100 guests being taught!
 
-![](efterfarsdag.jpg)
+![Efterfarsdag, where the kids teach dads](efterfarsdag.jpg)
 
 > Efterfarsdag, where the kids teach dads
 
@@ -52,12 +52,12 @@ For those, I will tell who can contribute on any voluntary basis.
 
 ## Course success
 
-![](n_per_day_per_course.png)
+![The number of participants per course](n_per_day_per_course.png)
 
 > The number of participants per course, with 1146 visits in total.
 > On April 1st 2023 we had to split up in two groups
 
-![](medlemmar_and_loerdagskurs.png)
+![The effect the course may have on the Uppsala Makerspace](medlemmar_and_loerdagskurs.png)
 
 > The effect the course may have on the Uppsala Makerspace.
 > First vertical line: start of course

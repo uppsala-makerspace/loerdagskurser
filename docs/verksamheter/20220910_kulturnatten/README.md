@@ -1,14 +1,14 @@
 # 2022-09-10 Kulturnatten
 
-![](20220910_074542.jpg)
+![2022-09-10 Kulturnatten](20220910_074542.jpg)
 
-![](20220910_103642.jpg)
+![2022-09-10 Kulturnatten](20220910_103642.jpg)
 
-![](20220910_103701.jpg)
+![2022-09-10 Kulturnatten](20220910_103701.jpg)
 
-![](20220910_113722.jpg)
+![2022-09-10 Kulturnatten](20220910_113722.jpg)
 
-![](20220910_113733.jpg)
+![2022-09-10 Kulturnatten](20220910_113733.jpg)
 
 > En likadant aktivität med en tidigare kurs av Richel
 

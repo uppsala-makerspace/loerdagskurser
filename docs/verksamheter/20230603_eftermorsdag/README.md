@@ -1,6 +1,6 @@
 # 2023-06-03: Eftermorsdag
 
-![](IMG_20221119_112002.jpg)
+![Bild av sista Efterfarsdag](IMG_20221119_112002.jpg)
 
 > Bild av sista Efterfarsdag
 

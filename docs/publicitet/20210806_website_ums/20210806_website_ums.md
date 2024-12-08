@@ -1,6 +1,6 @@
 # Programmeringskurs för ungdomar
 
-![](../pics/uppsala_makerspace_50.png)![](../pics/processing3_logo_50.png)
+![Processing logo](../pics/uppsala_makerspace_50.png)![](../pics/processing3_logo_50.png)
 
 Att berätta för datorn vad den ska göra är kärnan inom programmering.
 Vill du också kunna göra det? Varje vecka kan du besöka oss
@@ -24,4 +24,4 @@ Ingen förkunskaper krävs.
 * Krav: en bärbar dator med WiFi
 * Mer information: <https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar>
 
-![](../pics/20180210OpenDagDjo_3.jpg)
+![Open Day at DJOG](../pics/20180210OpenDagDjo_3.jpg)

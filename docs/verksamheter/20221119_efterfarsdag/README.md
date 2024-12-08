@@ -58,12 +58,12 @@ Adjöken, din dotter/son/sonson/sondotter/morson/mordotter/orelaterade dotter/or
 
 Det fanns 19 elever och 13 fädrar.
 
-![](IMG_20221119_112002.jpg)
+![2022-11-19 Efterfarsdag](IMG_20221119_112002.jpg)
 
-![](IMG_20221119_112027.jpg)
+![2022-11-19 Efterfarsdag](IMG_20221119_112027.jpg)
 
-![](IMG_20221119_112057.jpg)
+![2022-11-19 Efterfarsdag](IMG_20221119_112057.jpg)
 
-![](IMG_20221119_112146.jpg)
+![2022-11-19 Efterfarsdag](IMG_20221119_112146.jpg)
 
-![](IMG_20221119_112207.jpg)
+![2022-11-19 Efterfarsdag](IMG_20221119_112207.jpg)

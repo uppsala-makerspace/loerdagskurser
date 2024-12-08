@@ -27,7 +27,7 @@ När  |Besökare                           | Elever
 
 Tider är bara riklinjer, ofta slutar vi tidigare.
 
-![](usb.png)
+![Det är här](usb.png)
 
 > Det är här
 

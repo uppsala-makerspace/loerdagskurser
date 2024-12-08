@@ -1,6 +1,6 @@
 # 🇸🇪 Exempel på elevernas framsteg (🇬🇧 Examples of learners' progression)
 
-![](Kerstkaart2017.png)
+![Exempel program](Kerstkaart2017.png)
 
 === "🇸🇪"
 

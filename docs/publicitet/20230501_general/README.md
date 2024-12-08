@@ -15,14 +15,14 @@ varav vi inbjuder mödrar/fädrar att får undervising av eleverna.
 
 Hemsida av kursen är på [https://bit.ly/loerdagskurser](https://bit.ly/loerdagskurser).
 
-![](21.jpg)
+![Slutpresentationen](21.jpg)
 
 > Slutpresentationen
 
-![](IMG_20221119_112002.jpg)
+![Efterfarsdag](IMG_20221119_112002.jpg)
 
 > Efterfarsdag
 
-![](1_cropped.jpg)
+![Pi Approximation Day](1_cropped.jpg)
 
 > Pi Approximation Day

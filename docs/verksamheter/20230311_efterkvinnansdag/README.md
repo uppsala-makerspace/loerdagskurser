@@ -1,6 +1,6 @@
 # Afterwomensday/Efterkvinnansdag
 
-![](uwc_25.png)
+![Logo Afterwomensday](uwc_25.png)
 
 This page is in both ![UK flag](uk_flag_24_x_16.png) [English](#english) (top)
 och på ![Swedish flag](sv_flag_23_x_16.png) [Svenska](#svenska) (nedåt)

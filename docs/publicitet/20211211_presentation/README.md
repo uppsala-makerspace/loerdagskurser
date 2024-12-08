@@ -1,6 +1,6 @@
 # Presentation
 
-![](ett_vackert_program.png)
+![Ett Vackers Programm](ett_vackert_program.png)
 
 * Vad: Presentation programmeringskurs
 * När: 11 dec 2021 10:00-12:00

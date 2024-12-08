@@ -2,7 +2,7 @@
 
 * Vad: skapa ett julkort tillsammans, med Arduino och Processing
 
-![](julkort.png)
+![2022-12-17 Julkort](julkort.png)
 
 > Julkort
 

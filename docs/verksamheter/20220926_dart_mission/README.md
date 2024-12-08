@@ -2,9 +2,9 @@
 
 Vi har kollat på den DART mission impact steg.
 
-![](20220926_233828.jpg)
+![DART mission](20220926_233828.jpg)
 
-![](20220926_233946.jpg)
+![DART mission](20220926_233946.jpg)
 
 ## Länker
 

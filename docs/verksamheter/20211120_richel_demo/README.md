@@ -2,4 +2,4 @@
 
 Richèl made this using only things in the first booklets.
 
-![](richel20211120.png)
+![Demo program by Richel](richel20211120.png)

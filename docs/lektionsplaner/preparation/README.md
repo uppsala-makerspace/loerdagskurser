@@ -25,7 +25,7 @@ Done?|What?
 
 ## [1] tables and chairs placement
 
-![](ums_map_with_tables.png)
+![UMS map with tables](ums_map_with_tables.png)
 
 ## [2] booklets and lesson cards placement
 

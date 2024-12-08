@@ -4,4 +4,4 @@
 
 Anton and Max (the Trail Boiz) made 'Katthund':
 
-![](Trail_Boiz_katthund.png)
+![Trail Boiz's Katthund](Trail_Boiz_katthund.png)

@@ -7,11 +7,11 @@
 
 OBS, hos Makerspacet finns också saker att göra.
 
-![](20230909_kulturnatten_1.png)
+![2023-09-09 Kulturnatten](20230909_kulturnatten_1.png)
 
-![](20230909_kulturnatten_2.png)
+![2023-09-09 Kulturnatten](20230909_kulturnatten_2.png)
 
-![](20230909_kulturnatten_3.png)
+![2023-09-09 Kulturnatten](20230909_kulturnatten_3.png)
 
 ## Vanliga frågor
 
@@ -66,14 +66,14 @@ Här är bilder av 2022, på tiden att vi just började.
 På slutet hade det inte varit för lugnt alls
 och har vi fått hundratals besökare!
 
-![](20220910_074542.jpg)
+![2022-09-10 Kulturnatten](20220910_074542.jpg)
 
-![](20220910_103642.jpg)
+![2022-09-10 Kulturnatten](20220910_103642.jpg)
 
-![](20220910_103701.jpg)
+![2022-09-10 Kulturnatten](20220910_103701.jpg)
 
-![](20220910_113722.jpg)
+![2022-09-10 Kulturnatten](20220910_113722.jpg)
 
-![](20220910_113733.jpg)
+![2022-09-10 Kulturnatten](20220910_113733.jpg)
 
 > Sista årets Kulturnatten
