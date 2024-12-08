@@ -1,16 +1,26 @@
 # 🇸🇪 Din försa besök (🇬🇧 Your first visit)
 
-## 🇸🇪 Krav (🇬🇧 Eligibility)
-
 === "🇸🇪"
+
+    ## Krav
 
     Om du har fylld minst 8 år är du välkommen.
 
+    ## Föranmeldning
+
 === "🇬🇧"
+
+    ## Eligibility
 
     When you are at least 8 years old, you are welcome!
 
-## 🇸🇪 Föranmeldning (🇬🇧 Registration)
+    ## 🇬🇧 Registration
+
+
+
+
+
+
 
 === "🇸🇪"
 
