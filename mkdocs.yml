@@ -13,10 +13,11 @@ nav:
   - Verksamheter: verksamheter/README.md
   - Publicitet: publicitet/README.md
   - Volontärer: volontaerer.md
-  - Utvärderingar: utvaerderingar/README.md
   - Misc:
-    -[Akademiska_uppsatser: akademiska_uppsatser/README.md
+    - Akademiska_uppsatser: akademiska_uppsatser/README.md
     - Bidragsgivarna: bidragsgivarna.md
+    - Logo: logo/README.md
+    - Utvärderingar: utvaerderingar/README.md
 
 theme:
   name: material
