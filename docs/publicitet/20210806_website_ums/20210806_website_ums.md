@@ -1,6 +1,6 @@
 # Programmeringskurs för ungdomar
 
-![Processing logo](../pics/uppsala_makerspace_50.png)![](../pics/processing3_logo_50.png)
+![UMS logo](../pics/uppsala_makerspace_50.png)![Processing logo](../pics/processing3_logo_50.png)
 
 Att berätta för datorn vad den ska göra är kärnan inom programmering.
 Vill du också kunna göra det? Varje vecka kan du besöka oss

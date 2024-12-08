@@ -14,18 +14,18 @@ Vuxna elever behöver bara ha ett medlemskap.
 Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
 Finast är att använder formatet här (`LK` betyder 'Lördags Kurs'):
 
-```
+```text
 LK: [nam], [email]
 ```
 
 till exempel:
 
-```
+```text
 LK: Sven Svensson, sven@svensson.se
 ```
 
 Till exempel:
 
-* Ett minderårig elev kostar 600 kr i första termin, och 300 kr i nästa.
-* Tva (minderåriga elever kostar 900 kr i första termin, och 600 kr i nästa.
-* Ett vuxen elev kostar 300 kr i första termin, och 0 kr i nästa.
+- Ett minderårig elev kostar 600 kr i första termin, och 300 kr i nästa.
+- Tva (minderåriga elever kostar 900 kr i första termin, och 600 kr i nästa.
+- Ett vuxen elev kostar 300 kr i första termin, och 0 kr i nästa.

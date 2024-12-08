@@ -12,10 +12,10 @@ Procedure:
 - Order learners from lesson cards
 - If 1 diplom: free to do whatever
 - Else
-  - Group of 2 always joins another group
-  - Group of 10 always splits up
+    - Group of 2 always joins another group
+    - Group of 10 always splits up
 - Group decides on:
-  - a name
-  - a logo
-  - how to get in the group
+    - a name
+    - a logo
+    - how to get in the group
 - You may change group if that group agrees!

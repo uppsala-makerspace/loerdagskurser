@@ -23,11 +23,11 @@ For those, I will tell who can contribute on any voluntary basis.
 ## Course goals
 
 - Providing a learning community:
-  - learning how to do 3D modeling, electronics, programming, teaching, shape a learning community
-  - making the mistakes needed in a safe environment
+    - learning how to do 3D modeling, electronics, programming, teaching, shape a learning community
+    - making the mistakes needed in a safe environment
 - Providing a first/second home
 - Make the world a better place locally
-  - make the next generation awesome
+    - make the next generation awesome
 
 ## My role
 
