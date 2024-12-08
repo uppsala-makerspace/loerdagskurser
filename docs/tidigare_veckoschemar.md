@@ -32,10 +32,10 @@ Vecka| Dag      |Vad
 17   |2024-04-27|Ej kurs, Valborg
 18   |2024-05-04| 12. 
 19   |2024-05-11| 13. Övning av slutpresentation
-.    |2024-05-12|[Hackathon](activities/20240512_hackathon/README.md)
-20   |2024-05-18| 14. [Slutpresentation](activities/20240518_slutpresentation/README.md)
+.    |2024-05-12|[Hackathon](verksamheter/20240512_hackathon/README.md)
+20   |2024-05-18| 14. [Slutpresentation](verksamheter/20240518_slutpresentation/README.md)
 21   |2024-05-25| 15. Vanligt kursdag
-22   |2024-06-01| 16. [Eftermorsdag](activities/20230601_eftermorsdag/README.md)
+22   |2024-06-01| 16. [Eftermorsdag](verksamheter/20230601_eftermorsdag/README.md)
 23   |2024-06-08|Ej kurs, sommarlov
 24   |2024-06-15|Ej kurs, sommarlov
 25   |2024-06-22|Ej kurs, sommarlov
@@ -54,7 +54,7 @@ Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 34   |2023-08-26| 1. Kurs förtsätter igen
 35   |2023-09-02| 2.
-36   |2023-09-09| 3. [Kulturnatten](activities/20230909_kulturnatten/README.md)
+36   |2023-09-09| 3. [Kulturnatten](verksamheter/20230909_kulturnatten/README.md)
 37   |2023-09-16| 4.
 38   |2023-09-23| 5.
 39   |2023-09-30| 6.
@@ -64,12 +64,12 @@ Vecka| Dag      |Vad
 43   |2023-10-28| Höstlov
 44   |2023-11-04| Höstlov
 45   |2023-11-11| 10. Början slutpresentation
-46   |2023-11-18| 11. [Efterfarsdag](activities/20231118_efterfarsdag/README.md)
+46   |2023-11-18| 11. [Efterfarsdag](verksamheter/20231118_efterfarsdag/README.md)
 47   |2023-11-25| 12. 
-.    |.         | (efter kursen, 13.30-15.30: [programmingsworkshop för tjejer](activities/202311125_girls_only_workshop/README.md) på Stadsbiblioteket)
+.    |.         | (efter kursen, 13.30-15.30: [programmingsworkshop för tjejer](verksamheter/202311125_girls_only_workshop/README.md) på Stadsbiblioteket)
 48   |2023-12-02| 13.
-.    |2023-12-03| [Hackathon](activities/20231203_hackathon/README.md)
-49   |2023-12-09| 14. [Slutpresentation](activities/20231209_slutpresentation/README.md)
+.    |2023-12-03| [Hackathon](verksamheter/20231203_hackathon/README.md)
+49   |2023-12-09| 14. [Slutpresentation](verksamheter/20231209_slutpresentation/README.md)
 50   |2023-12-16| 15.Sista kursdag
 
 ## Veckoschema 2023 semester 1
@@ -98,9 +98,9 @@ Vecka| Dag      |Vad
 18   |2023-05-06| 14.
 19   |2023-05-13| 15.
 20   |2023-05-20| 16. Öva slutpresentation
-.    |2023-05-21| [Hackathon](activities/20230521_hackathon/README.md) 12.00-18.00
-21   |2023-05-27| 17. [Slutpresentation](activities/20230527_slutpresentation/README.md) 11.00-13.00 @ Stadsbiblioteket, Mallassal
-22   |2023-06-03| 18. [Eftermorsdag](activities/20230603_eftermorsdag/README.md)
+.    |2023-05-21| [Hackathon](verksamheter/20230521_hackathon/README.md) 12.00-18.00
+21   |2023-05-27| 17. [Slutpresentation](verksamheter/20230527_slutpresentation/README.md) 11.00-13.00 @ Stadsbiblioteket, Mallassal
+22   |2023-06-03| 18. [Eftermorsdag](verksamheter/20230603_eftermorsdag/README.md)
 23   |2023-06-10| 19. Sista kursdag
 24   |2023-06-17| Sommarlov, ej kurs
 25   |2023-06-24| Sommarlov, ej kurs
@@ -120,12 +120,12 @@ Vecka| Dag      |Vad
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-46   |2022-11-19|12. [Efterfarsdag](activities/20221119_efterfarsdag/README.md) (också farfar, morfar, osv)
+46   |2022-11-19|12. [Efterfarsdag](verksamheter/20221119_efterfarsdag/README.md) (också farfar, morfar, osv)
 47   |2022-11-26|13. Förbereda slutpresentation, 3/4
 48   |2022-12-03|14. Förbereda och öva slutpresentation, 4/4
-.    |2022-12-04|[Hackathon](activities/20221204_hackathon/README.md): varje en är välkomna **12:00-18:00**
-49   |2022-12-10|15. [Slutpresentation och utvärdering](activities/20221210_slutpresentation/README.md): varje en är välkomna **11:00-13:00** at **Stadsbiblioteket**
-50   |2022-12-17|16. Sista dag, [julkort](activities/20221217_julkort/README.md)
+.    |2022-12-04|[Hackathon](verksamheter/20221204_hackathon/README.md): varje en är välkomna **12:00-18:00**
+49   |2022-12-10|15. [Slutpresentation och utvärdering](verksamheter/20221210_slutpresentation/README.md): varje en är välkomna **11:00-13:00** at **Stadsbiblioteket**
+50   |2022-12-17|16. Sista dag, [julkort](verksamheter/20221217_julkort/README.md)
 51   |2022-12-24|Jullov
 52   |2022-12-31|Jullov
 52   |2022-12-30|Jullov
@@ -179,9 +179,9 @@ Vecka| Dag      |Vad
 18   |2022-05-07|16. [programmeringsdag hos Stadsbiblioteket](https://github.com/uppsala-makerspace/programmeringsdag_usb_2022), ingen kurs på Makerspacet
 19   |2022-05-14|17. Förberada presentation
 20   |2022-05-21|18. Öva presentation
-20   |2022-05-22|[Hackathon](activities/20220522_hackathon/README.md) 12:00-18:00
+20   |2022-05-22|[Hackathon](verksamheter/20220522_hackathon/README.md) 12:00-18:00
 21   |2022-05-28|19. Slutpresentation
-22   |2022-06-04|20. Sista lektion: [Eftermorsdag](activities/20220604_eftermorsdag/README.md)
+22   |2022-06-04|20. Sista lektion: [Eftermorsdag](verksamheter/20220604_eftermorsdag/README.md)
 
 ## Veckoschema 2021 semester 2
 

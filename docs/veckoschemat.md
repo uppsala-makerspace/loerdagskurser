@@ -6,7 +6,7 @@ Vecka| Dag      |Vad
 34   |2024-08-24| 1. Första lektion igen
 35   |2024-08-31| 2.
 36   |2024-09-07| 3.
-37   |2024-09-14| 4. [Kulturnatten](activities/20240914_kulturnatten/README.md) och vi är med!
+37   |2024-09-14| 4. [Kulturnatten](verksamheter/20240914_kulturnatten/README.md) och vi är med!
 38   |2024-09-21| 5.
 39   |2024-09-28| 6.
 40   |2024-10-05| 7.
@@ -15,11 +15,11 @@ Vecka| Dag      |Vad
 43   |2024-10-26|Ej kurs: höstlov
 44   |2024-11-02|Ej kurs: höstlov och Alla Helgonsdag
 45   |2024-11-09| 10.
-46   |2024-11-16| 11. [Efterfarsdag](activities/20241116_efterfarsdag/README.md) [1]
+46   |2024-11-16| 11. [Efterfarsdag](verksamheter/20241116_efterfarsdag/README.md) [1]
 47   |2024-11-23| 12.
 48   |2024-11-30| 13. Övning slutpresentation
-.    |2024-12-01| [Hackathon](activities/20241201_hackathon/README.md) 12.00-18.00
-49   |2024-12-07| 14. [Slutpresentation](activities/20241207_slutpresentation/README.md)
+.    |2024-12-01| [Hackathon](verksamheter/20241201_hackathon/README.md) 12.00-18.00
+49   |2024-12-07| 14. [Slutpresentation](verksamheter/20241207_slutpresentation/README.md)
 50   |2024-12-14| 15. Sista lektion
 51   |2024-12-21|Ej kurs, jullov
 1    |2025-01-04|Ej kurs, jullov
@@ -42,10 +42,10 @@ Vecka| Dag      |Vad
 18   |2025-05-03|Ej kurs, Valborg
 19   |2025-05-10| 13.
 20   |2025-05-17| 14. (Övning av presentation hos UMS)
-.    |2025-05-18|[Hackathon](activities/20250518_hackathon/README.md) 12.00-18.00
-21   |2025-05-24| 15. [Slutpresentation](activities/20250524_slutpresentation/README.md)
+.    |2025-05-18|[Hackathon](verksamheter/20250518_hackathon/README.md) 12.00-18.00
+21   |2025-05-24| 15. [Slutpresentation](verksamheter/20250524_slutpresentation/README.md)
 22   |2025-05-31|Ej kurs, pga klämdag
-23   |2025-06-07| 16. [Eftermorsdag](activities/20250531_eftermorsdag/README.md)
+23   |2025-06-07| 16. [Eftermorsdag](verksamheter/20250531_eftermorsdag/README.md)
 24   |2025-06-14|Sommarlov
 25   |2025-06-21|Sommarlov
 26   |2025-06-28|Sommarlov
