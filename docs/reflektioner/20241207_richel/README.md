@@ -10,7 +10,7 @@ I coordinate the course and Store Björn leads the Blender
 course. We are helped by our experienced volunteers such
 as Christoffer, Janne, Leslie, Ludvig and Mathias.
 There were/are also some newer ones that sometimes
-show us, which are Bogdan and Saw. 
+show us, which are Bogdan and Saw.
 
 Store Björn has been pivotal in all practical matters,
 from transporting stuff or arranging to get equipment.
@@ -52,7 +52,7 @@ The biggest change in room setup is to add a reception desk
 at the entrance. This worked out great: it greatly improved the
 peace and quite in the classroom, because the learners get all
 the admin done at the reception desk. From there onwards,
-they can directly start to work. 
+they can directly start to work.
 
 The most important new contribution is from a new volunteer
 that we call 'AtomBjörn', who mans the reception desk.
@@ -103,7 +103,7 @@ of one) was a suggestion of Store Björn that worked great.
 It reduced the preparation time at Stadsbiblioteket, although
 it still took 45 minutes to prepare (for 22 presentations).
 
-The final presentation itself worked great. 
+The final presentation itself worked great.
 In total, it took 60 minutes (for 22 presentations).
 When a presentation was
 too short, I asked to discuss a favorite line of code or took
