@@ -8,7 +8,7 @@ Evaluation.
 
 Arduino|Blender|Processing|Soldering|Other|Rating|Comment
 -------|-------|----------|---------|-----|------|-------------------------------------------
-Y      |.      |.         |Y        |Y    |4     |Jag vet ej. Men kanske att ge lite extra mer hjälp till den som tycker att det är svår. Och att få igång den som tycker det är svårt 
+Y      |.      |.         |Y        |Y    |4     |Jag vet ej. Men kanske att ge lite extra mer hjälp till den som tycker att det är svår. Och att få igång den som tycker det är svårt
 .      |.      |.         |.        |.    |5     |2. Jag upplever att dessa kurser fyller en viktig plats och att det säls så brensam möjligt med deom reslinger somtimes. Kanske skule man göra det mer utmanade tälsånnen sovnherman. Tror iloen skulle gjädjas gudet
 .      |.      |.         |.        |.    |.     |Göra challanges varje och vinnare ska få Robux
 .      |.      |.         |.        |.    |4     |Det är en bra kurs och jag utväcklas mycket. Det ända som jag kunna bli bättre är det skulle bli fler lärare för att ibland så tar det lång tid att få hjälp
@@ -40,4 +40,3 @@ Arduino|Blender|Processing|Soldering|Other|Rating|Comment
 .      |.      |Y         |.        |.    |5     |Den är bra
 
 ## Reflection
-

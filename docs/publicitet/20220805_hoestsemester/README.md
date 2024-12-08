@@ -3,4 +3,3 @@
 2022-12-10: Slutpresentation 10:00-12:00 @ Uppsala Makerspace
 2022-12-17: Sista kursdag
 2023-01-07: Kurs försätter igen
-

@@ -4,13 +4,13 @@
 
 > En tidigare slutpresentation
 
- * Vad: Slutpresentation och utvärderig
- * När: Lördag 10:e December
- * Målet: att elever får visar deras mästarevärk
- * Vem: varje en
- * Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
- * Kostnad: ingenting
- * Tiderna: 11.00-13.00
+* Vad: Slutpresentation och utvärderig
+* När: Lördag 10:e December
+* Målet: att elever får visar deras mästarevärk
+* Vem: varje en
+* Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
+* Kostnad: ingenting
+* Tiderna: 11.00-13.00
 
 När  |Besökare                           | Elever
 -----|-----------------------------------|-----------------------
@@ -21,9 +21,9 @@ När  |Besökare                           | Elever
 12:15|Utvärdering med föräldrar [M]      | Anonym utvärdering [B]
 13:00|Slut                               | Slut
 
- * [G] Grupprum brevid Mallassal
- * [M] Mallassal
- * [B] Biblioteket
+* [G] Grupprum brevid Mallassal
+* [M] Mallassal
+* [B] Biblioteket
 
 Tider är bara riklinjer, ofta slutar vi tidigare.
 
@@ -41,22 +41,20 @@ Gunnar              |IR Bil
 Team Sus-USB stickor|Konstig spel
 Team Slumpen        |Slumpspel
 
-
 ## Text till UNT
 
-Lördag 10:e December kl 11.00 till 13.00 presenterar ungefär 17 elever från Uppsala Makerspace visar sina mästervärk som har med datorspel eller elektronik (Arduino) att göra. Alla är välkomna i Stadsbiblioteket! Mer information finns på http://bit.ly/loerdagskurser.
+Lördag 10:e December kl 11.00 till 13.00 presenterar ungefär 17 elever från Uppsala Makerspace visar sina mästervärk som har med datorspel eller elektronik (Arduino) att göra. Alla är välkomna i Stadsbiblioteket! Mer information finns på <http://bit.ly/loerdagskurser>.
 
 ## Schema för frivilligäre
 
- * Richel: teknik
- * Björn B: briefing utvärderingsmännika
-    * Linus
-    * Björn B
-    * Sara
-    * Far Gunnar
- * Björn E: gästgivare
- * Johanna: foton
-
+* Richel: teknik
+* Björn B: briefing utvärderingsmännika
+  * Linus
+  * Björn B
+  * Sara
+  * Far Gunnar
+* Björn E: gästgivare
+* Johanna: foton
 
 När  |Frivilligare
 -----|-----------------------------------
@@ -69,11 +67,11 @@ När  |Frivilligare
 12:15|Utvärdering med föräldrar [M]
 13:00|Slut
 
- * [UMS] Uppsala Makerspace
- * [USB] Uppsala Stadsbibliotek
- * [G] Grupprum brevid Mallassal
- * [M] Mallassal
- * [B] Biblioteket
+* [UMS] Uppsala Makerspace
+* [USB] Uppsala Stadsbibliotek
+* [G] Grupprum brevid Mallassal
+* [M] Mallassal
+* [B] Biblioteket
 
 ## Foton
 

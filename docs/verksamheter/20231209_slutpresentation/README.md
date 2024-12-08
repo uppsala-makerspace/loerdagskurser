@@ -4,13 +4,13 @@
 
 > En tidigare slutpresentation
 
- * Vad: Slutpresentation och utvärderig
- * När: Lördag 9:e December 2023
- * Målet: att elever får visar deras mästarevärk
- * Vem: varje en
- * Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
- * Kostnad: ingenting
- * Tiderna: 11.00-13.00
+* Vad: Slutpresentation och utvärderig
+* När: Lördag 9:e December 2023
+* Målet: att elever får visar deras mästarevärk
+* Vem: varje en
+* Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
+* Kostnad: ingenting
+* Tiderna: 11.00-13.00
 
 När  |Besökare                           | Elever
 -----|-----------------------------------|-----------------------
@@ -21,9 +21,9 @@ När  |Besökare                           | Elever
 12:15|Utvärdering med föräldrar [M]      | Anonym utvärdering [B]
 13:00|Slut                               | Slut
 
- * [G] Grupprum brevid Mallassal
- * [M] Mallassal
- * [B] Biblioteket
+* [G] Grupprum brevid Mallassal
+* [M] Mallassal
+* [B] Biblioteket
 
 Tider är bara riklinjer, ofta slutar vi tidigare.
 
@@ -51,10 +51,10 @@ Felipe och Pablo's lag|11   |P   |Studsar
 Isaac's lag mkn       |11   |P   |Halcony Infynity
 UFO                   |13   |P   |UFO 2D2
 
- * WALL-E 38: David L, Emil, Vidar
- * Team Smile.exe.co TM: Daniel H, David H, Felix
- * Isaac's lag med konsigt namn: Felipe, Isaac, Pablo
- * Felipe och Pablo's lag: Felipe, Pablo
+* WALL-E 38: David L, Emil, Vidar
+* Team Smile.exe.co TM: Daniel H, David H, Felix
+* Isaac's lag med konsigt namn: Felipe, Isaac, Pablo
+* Felipe och Pablo's lag: Felipe, Pablo
 
 ## Pictures
 
@@ -170,10 +170,5 @@ UFO                   |13   |P   |UFO 2D2
 
 ## Notes for next time
 
- * Build-up time was 45 minutes for 14 presentations,
+* Build-up time was 45 minutes for 14 presentations,
    hence it takes about 3 mins per presentation
-
-
-
-
-

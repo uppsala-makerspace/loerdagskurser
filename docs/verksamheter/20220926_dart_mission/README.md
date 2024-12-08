@@ -8,4 +8,4 @@ Vi har kollat på den DART mission impact steg.
 
 ## Länker
 
- * [Wikipedia](https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test)
+* [Wikipedia](https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test)

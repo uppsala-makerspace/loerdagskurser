@@ -1,19 +1,17 @@
 # 2023-09-16
 
- * Materials for soldering?
+* Materials for soldering?
 
- * 10:15: Inventorize T-shirts
- * 11:15: Play electricity
- * 12:15: Inventorize T-shirts
- * 13:15: Play variable
- * 14:15: Discuss with Leonid: T-shirts, design logo
- * 14:15: Discuss with Herman: soldering: safety, amount
- * 14:15: Discuss with teams: progress
- * 14:15: Discuss with Narges/Mahsa/Mahshid: workshop
+* 10:15: Inventorize T-shirts
+* 11:15: Play electricity
+* 12:15: Inventorize T-shirts
+* 13:15: Play variable
+* 14:15: Discuss with Leonid: T-shirts, design logo
+* 14:15: Discuss with Herman: soldering: safety, amount
+* 14:15: Discuss with teams: progress
+* 14:15: Discuss with Narges/Mahsa/Mahshid: workshop
 
-
-
-## Theory Arduino 
+## Theory Arduino
 
 Lesson|What
 ------|------------------------
@@ -35,4 +33,3 @@ Lesson|What
 ## Lessons
 
 ### 2023-09-16
-

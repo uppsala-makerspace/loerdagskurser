@@ -1,6 +1,6 @@
 # 2023 season 2
 
-## Theory Arduino 
+## Theory Arduino
 
 Lesson|What
 ------|------------------------
@@ -53,5 +53,5 @@ When       |What
 13:15-13:30|Outside: coordinats
 13:30-14:00|Work
 
- * Ask students informally: what is so fun about the hackathon?
- * Pay attention to Discord
+* Ask students informally: what is so fun about the hackathon?
+* Pay attention to Discord

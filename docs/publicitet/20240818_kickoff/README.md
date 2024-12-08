@@ -23,11 +23,11 @@ For those, I will tell who can contribute on any voluntary basis.
 ## Course goals
 
 - Providing a learning community:
-    - learning how to do 3D modeling, electronics, programming, teaching, shape a learning community
-    - making the mistakes needed in a safe environment
+  - learning how to do 3D modeling, electronics, programming, teaching, shape a learning community
+  - making the mistakes needed in a safe environment
 - Providing a first/second home
 - Make the world a better place locally
-    - make the next generation awesome
+  - make the next generation awesome
 
 ## My role
 
@@ -82,7 +82,7 @@ Because:
 - *host/hostess/trivsel/wellbeing*: students need to to be welcomed when they come and sign up on a list. They need lemonade in the breaks.
   They may need to lie down on a sofa when ill. They need to have someone to talk to when upset. As a host/hostess, you'll help the students feel more at home
 - *course leader*: we teach three courses, all involving a computer. If you too think there should be more different courses
-  and you'd enjoy to profit from the Lördagskurser, you're welcome to add a new course to the Lördagskurser. 
-  You will have full autonomy, all I need to know is how to work together. 
+  and you'd enjoy to profit from the Lördagskurser, you're welcome to add a new course to the Lördagskurser.
+  You will have full autonomy, all I need to know is how to work together.
   As a course leader, you'll increase the diversity of the student population
   

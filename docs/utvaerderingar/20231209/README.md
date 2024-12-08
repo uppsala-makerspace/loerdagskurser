@@ -23,12 +23,12 @@ No     |No     |Yes       |No       |No   |5     |Kakor
 No     |No     |Yes       |No       |No   |3.5   |Vid Processing borde det finnas pixelart snea gimp. Också sound deseing??? int vet ord :(
 Yes    |Yes    |Yes       |No       |No   |4     |-
 
- * Average all: 4.448125
- * Average Arduino: 3.875
- * Average Blender: 4.2	
- * Average Processing: 4.3475
- * Average Soldering: 4.5
- * Average Other: 4
+* Average all: 4.448125
+* Average Arduino: 3.875
+* Average Blender: 4.2 
+* Average Processing: 4.3475
+* Average Soldering: 4.5
+* Average Other: 4
 
 ## Reflection
 
@@ -39,13 +39,9 @@ The ideas to add Godot and pixelart seem nice. What is lacking for both
 are (1) people, (2) booklets, where the first is the limiting factor.
 
 That learners want more and longer courses is encouraging.
-However, we do not have the people and space for this. 
+However, we do not have the people and space for this.
 
-With the teachers, we all felt that the course is going fine. 
-The weakest point, we felt, is the Arduino course, 
+With the teachers, we all felt that the course is going fine.
+The weakest point, we felt, is the Arduino course,
 which is too tough for most of our learners.
 I will simplify the booklets.
-
-
-
-

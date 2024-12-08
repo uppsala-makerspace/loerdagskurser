@@ -1,7 +1,7 @@
 # 2023-03-10 Förändring
 
- * Elevnamn: ______
- * Vilken tider funkar för dig? Fylla i alla timmar som funkar!
+* Elevnamn: ______
+* Vilken tider funkar för dig? Fylla i alla timmar som funkar!
 
 ```
 10 11 12 13 14 15
@@ -10,14 +10,14 @@
 +--+--+--+--+--+
 ```
 
- * Vilken kurs, kurser och lag är du med? Fler svar är möjligt!
+* Vilken kurs, kurser och lag är du med? Fler svar är möjligt!
 
-  * [ ] Arduino
-  * [ ] Blender
-  * [ ] Processing
-  * [ ] Team Slumpen 
-  * [ ] Team Waka Baka
-  * [ ] Björn's team 
+* [ ] Arduino
+* [ ] Blender
+* [ ] Processing
+* [ ] Team Slumpen
+* [ ] Team Waka Baka
+* [ ] Björn's team
 
 ## Vanliga frågor
 
@@ -54,13 +54,13 @@ När        |Vad
 13.00-14.00|B
 14.00-15.00|B+
 
- * A: Arduino och Blender och Team Björn
- * A+: Team Björn
- * B: Processing och Team Slumpen och Team Waka Baka
- * B+: Team Slumpen och Team Waka Baka
+* A: Arduino och Blender och Team Björn
+* A+: Team Björn
+* B: Processing och Team Slumpen och Team Waka Baka
+* B+: Team Slumpen och Team Waka Baka
 
 Återigen, det här är bara en gissning!
-      
+
 ### Svarar Richèl alltid så kort?
 
 Absolut, han är jättetråkig :-)

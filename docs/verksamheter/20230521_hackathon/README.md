@@ -1,9 +1,9 @@
 # 2023-05-21 Hackathon
 
- * Målet: att förbättra programmeret för slutpresentationen
- * Vem: eleverna från Lördagskurser, men varje person är vällkomna också
- * Var: Uppsala Makerspace
- * Kostnad: ingenting
+* Målet: att förbättra programmeret för slutpresentationen
+* Vem: eleverna från Lördagskurser, men varje person är vällkomna också
+* Var: Uppsala Makerspace
+* Kostnad: ingenting
 
 När        |Vad
 -----------|----------------------------

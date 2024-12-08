@@ -50,13 +50,13 @@ När        |Vad
 13.00-14.00|B
 14.00-15.00|B+
 
- * A: Arduino och Blender och Team Björn
- * A+: Team Björn
- * B: Processing och Team Slumpen och Team Waka Baka
- * B+: Team Slumpen och Team Waka Baka
+* A: Arduino och Blender och Team Björn
+* A+: Team Björn
+* B: Processing och Team Slumpen och Team Waka Baka
+* B+: Team Slumpen och Team Waka Baka
 
 Återigen, det här är bara en gissning!
-      
+
 ### Svarar Richèl alltid så kort?
 
 Absolut, han är jättetråkig :-)

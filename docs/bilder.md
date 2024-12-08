@@ -24,11 +24,10 @@
 ![](verksamheter/20220528_slutpresentation/IMG_7193.JPEG)
 ![](verksamheter/20220528_slutpresentation/IMG_7198.JPEG)
 
-
 ### [Programmeringsdag](https://github.com/uppsala-makerspace/programmeringsdag_usb_2022)
 
 [Programmeringsdag](https://github.com/uppsala-makerspace/programmeringsdag_usb_2022)
-var en aktivitet organiserat tillsammans med Uppsala Stadsbibliotek. 
+var en aktivitet organiserat tillsammans med Uppsala Stadsbibliotek.
 19 personer deltog, 7 av dem var från oss!
 
 ![](20220507_programmeringsdag_usb/programmeringsdag_usb_2022.jpg)
@@ -45,17 +44,16 @@ Vi hade haft våra första två diplomanter! Grattis killar!
 
 ### Julkort 2021
 
- * [Kolla på YouTube](https://youtu.be/YIf3dGh4ikY)
- * [Ladda ner videon (.mp4)](programs_by_students/julkort_20211218/julkort_20211218.mp4)
+* [Kolla på YouTube](https://youtu.be/YIf3dGh4ikY)
+* [Ladda ner videon (.mp4)](programs_by_students/julkort_20211218/julkort_20211218.mp4)
 
 ![](programs_by_students/julkort_20211218/julkort_20211218.png)
-
 
 ### 9:e Oktober 2021
 
 Den 9:e Oktober såg kursen ut så här:
 
- * [Kolla på YouTube](https://youtu.be/xWUhRymx69w)
+* [Kolla på YouTube](https://youtu.be/xWUhRymx69w)
 
 ![Uppsala Makerspace](verksamheter/20211009_galenlektion/2021109_1.jpg)
 

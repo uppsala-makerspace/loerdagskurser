@@ -2,30 +2,30 @@
 
 ![](IMG_3005.JPEG)
 
- * Vad: Slutpresentation och utvärderig
- * När: Lördag 18:e Maj 2024
- * Målet: att elever får visar deras mästarevärk
- * Vem: varje en
- * Var: Uppsala Makerspace
- * Kostnad: ingenting
- * Tiderna: kurstider som vanligt
+* Vad: Slutpresentation och utvärderig
+* När: Lördag 18:e Maj 2024
+* Målet: att elever får visar deras mästarevärk
+* Vem: varje en
+* Var: Uppsala Makerspace
+* Kostnad: ingenting
+* Tiderna: kurstider som vanligt
 
 ## Sesssions
 
-- [10.00-12.00](first/README.md)
-- [12.00-14.00](second/README.md)
+* [10.00-12.00](first/README.md)
+* [12.00-14.00](second/README.md)
 
 ## Notes for next time
 
-- Stadsbiblioteket is better, as it is a more formal place (i.e. the pupils
+* Stadsbiblioteket is better, as it is a more formal place (i.e. the pupils
   will not behave as-if at home) that has a stage (i.e. the pupils
   will present better due to this)
-- Let all pupils present a line of code and/or a part of their 3D image.
+* Let all pupils present a line of code and/or a part of their 3D image.
   It slows down the presentations and makes them look into the audience more
 
 ## Video
 
-- [Video på YouTube](https://youtu.be/HzacHLjaZlM)
+* [Video på YouTube](https://youtu.be/HzacHLjaZlM)
 
 ## Bilder
 

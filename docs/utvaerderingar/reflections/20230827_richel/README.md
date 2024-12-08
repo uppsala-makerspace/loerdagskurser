@@ -4,7 +4,7 @@
 
 This was the first lesson of the season and this means
 one can not predict how many students will be there and which course
-they follow. I did receive about six emails from people that wanted 
+they follow. I did receive about six emails from people that wanted
 to take the course, but I did not remember which course, not did I think
 that was relevant to memorize. I did know there would be some adults (which
 I really like!). The Fixardag before, I ensure there would be
@@ -18,22 +18,22 @@ and that one volunteer would be there for the first time.
 There were some new rules to be shared with all students
 from last evaluation. To not forget this, I prepared a detailed
 lesson plan. Also, I want us to teach more actively, with
-max 15 mins of teaching per hour. 
+max 15 mins of teaching per hour.
 The most important reason I want that, is because
 I *can*: the team of volunteers has built up enough experience
-and I trust them to handle whatever I ask of them. 
+and I trust them to handle whatever I ask of them.
 The one-but-most important reason I want more active teaching
 is because I think I *should*, because (1) it adds variation
 to the lessons, (2) it helps students to connect the dots (by showing
-the bigger picture, etc), (3) it adds more fun for me (which was a 
+the bigger picture, etc), (3) it adds more fun for me (which was a
 weakness in past seasons; I was too serious for myself).
 
 ## Preparation on the day
 
-I did not know how clean the space would be, so I was there early, 
+I did not know how clean the space would be, so I was there early,
 at around 8:00.
 I built up the tables in two groups, cleaned the room and tables,
-checked everything to be present. 
+checked everything to be present.
 I wanted to be ready at 9:30, to be able to talk to the other volunteers
 and build up a bit more together, but that was not how it unfolded.
 Instead, the first student came in at around 9:30, the second at 9:40,
@@ -44,7 +44,7 @@ When       |What
 10:00-10:15|Welcome students
 
 Because the other two volunteers were there as well, this was easy
-and went smoothly: B took care of Blender, M opened the door 
+and went smoothly: B took care of Blender, M opened the door
 and set the Arduino students to work. M was helping for the first time,
 but he sees work that needs to be done himself, which was delightfully
 convenient.
@@ -60,11 +60,11 @@ get the started before 10:15. I gave them simple instructions without a
 next step, e.g. 'Build up your computer', 'Google and download Processing',
 etc. I told their respective parents that the start is a bit chaotic when there
 are many new students and that there will be more time when the lesson
-properly starts. 
+properly starts.
 
 Maybe this is a good idea:
 
- * TODO: Add 'Första gången här, för elever' 
+* TODO: Add 'Första gången här, för elever'
    and 'Första gången här, för föräldrar' booklets
 
 I did not know exactly when 10:15 would be, because the Chromecast
@@ -93,7 +93,7 @@ When       |What
 
 Goal of these 15 minutes is to build up a bigger picture of Arduino.
 I did not prepare this session in detail, as I relied on my experience
-and I did have a clear goal in mind anyways. I asked the students 
+and I did have a clear goal in mind anyways. I asked the students
 randomly what Arduino is and all definitions were partially
 right. Then I asked all students randomly why Arduino is important.
 I heard good reasons such as that electronics and programming are
@@ -130,7 +130,7 @@ When       |What
 -----------|---------------------
 10:55-11:00|Plenary: elevråd result
 
-I decided to skip the plenary of the elevråd result, 
+I decided to skip the plenary of the elevråd result,
 as the decision was to keep doing what we did.
 
 When       |What
@@ -150,13 +150,13 @@ There was still too much to do: talk to students, talk to parents,
 talk to the other volunteers.
 I was in a good mood and used that to emphasize the students'
 first progress, such as their first running programs.
-One student that cried at the start of the lesson, 
+One student that cried at the start of the lesson,
 now had discovered the joy of programming and went through the
-materials fast. A duo of students went from being shy to 
+materials fast. A duo of students went from being shy to
 being more talkative. One parent slowly took more distance from his
 kid during the lessons. Students started to feel at home.
 
- * TODO: couple experienced and beginner students!
+* TODO: couple experienced and beginner students!
 
 Parents were talk with, adult students later:
 these all understood that they will be ignored when needed :-)
@@ -168,29 +168,29 @@ When       |What
 At this time, the course was smooth sailing:
 everyone was talked with.
 Most parents were already gone or agreed to be absent the
-week after. 
+week after.
 
 There was a student that came in 1 hour too early:
 he wanted to do Processing, but hey, we don't teach that
 at that time. Instead, he was taught Arduino for 1 hour.
 I kept to that idea and he accepted. I think being clear
-in the rules was the reason for this; I never showed 
+in the rules was the reason for this; I never showed
 doubt if he maybe should start Processing. And, there was the
 time to build up a bond and he did learn how the courses work;
 i.e. with a booklet and lesson card.
 
-There was time for soldering with a smaller subgroup, 
+There was time for soldering with a smaller subgroup,
 as I had a volunteer for the Arduino course.
 It started with a parent having a soldering problem.
 I asked him if I could invite some students to demonstrate
-and that was OK. With the dad and two students, 
+and that was OK. With the dad and two students,
 we went to the electronics place and I showed how to solder.
 I told it would not be teaching; just showing.
 Then I encouraged parent to let him and the other students
-to do at least one soldering each. I told the parent to 
-take responsibility over the students and 
+to do at least one soldering each. I told the parent to
+take responsibility over the students and
 bring back the students when he wanted. He agreed.
-I enjoyed these 5 minutes that were completely improvised, 
+I enjoyed these 5 minutes that were completely improvised,
 yet making 1 parent feel (even more) useful and 2 students feeling
 important/selected/picked due to their shown skills.
 
@@ -198,7 +198,7 @@ When       |What
 -----------|---------------------
 12:00-12:15|Welcome students
 
-The transition is messy: students of the second course cannot chose a seat 
+The transition is messy: students of the second course cannot chose a seat
 when a student of the first course has not left. I do think this will fade
 over time, when students of the second course arrive after 12:00.
 
@@ -245,16 +245,16 @@ When       |What
 There was no elevraad, so I skipped this.
 Instead we worked.
 And I asked students 1-on-1 about Kulturnatten.
-Halfway, however, I did forget this goal, 
+Halfway, however, I did forget this goal,
 but I can out this in my lesson plan for next week
 
- * TODO: visit all students for Kulturnatten
+* TODO: visit all students for Kulturnatten
 
 One volunteer of the first lessons session was having diner
 and I found 5 minutes with him to evaluate. B stated that
 the dishes should have been done at the start of the first lesson,
 so that there are enough glasses for the second group. I thanked
-him for his insight. Flashforward: after the lesson I checked and I 
+him for his insight. Flashforward: after the lesson I checked and I
 found plenty of mugs. I feel mugs are just as fine, so planning the
 dishes like that will be unnecessary after all.
 
@@ -296,9 +296,4 @@ In hindsight, I should improve working with team: I need to carve out
 5 minutes to talk to each team at the start and end to help
 them straighten out what to do and see what has been achieved.
 
- * TODO: plan to meet teams at start and end of lessons
-
-
-
-
-
+* TODO: plan to meet teams at start and end of lessons

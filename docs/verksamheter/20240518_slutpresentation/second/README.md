@@ -11,9 +11,9 @@ När  |Besökare                           | Elever
 13:30|Utvärdering med föräldrar [C]      | Anonym utvärdering [N]
 14:00|Slut                               | Slut
 
- * [C] Centralrummet
- * [F] Föräldrarhörnet
- * [N] Någonstans i Makerspacet
+* [C] Centralrummet
+* [F] Föräldrarhörnet
+* [N] Någonstans i Makerspacet
 
 Tider är bara riklinjer, ofta slutar vi tidigare.
 
@@ -32,14 +32,14 @@ Vem                       |Ålder|Team         |Vad
 [READY] Niko              |12   |Void/        |Superpong
 [READY] Herman och Leonid |13   |The Dependers|Dependent
 
-- Föraldrarlag: ?Alvin, Felix, Mohamed
-- På semester: Ebbe
+* Föraldrarlag: ?Alvin, Felix, Mohamed
+* På semester: Ebbe
 
 När  |Besökare        |Ålder   |Team     | Elever
 -----|----------------|--------|---------|-----------------------
 [CANCELLED] Luca         |        |DefH     |Ball Blast
 [?] Frode        |        |DefH     |Mysterietprojekt
-[?] Huda           |11   |Blic Legends |How Glamrock Freddy died 
+[?] Huda           |11   |Blic Legends |How Glamrock Freddy died
 [?] Kevin          |11   |.            |Fysikmotor
 
 ## Pictures
@@ -48,5 +48,5 @@ När  |Besökare        |Ålder   |Team     | Elever
 
 ## Notes from previous times
 
- * Build-up time was 45 minutes for 14 presentations,
+* Build-up time was 45 minutes for 14 presentations,
    hence it takes about 3 mins per presentation

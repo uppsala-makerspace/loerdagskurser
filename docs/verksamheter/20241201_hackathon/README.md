@@ -1,9 +1,9 @@
 # 2024-12-01 Hackathon
 
- * Målet: att förbättra programmeret för slutpresentationen
- * Vem: eleverna från Lördagskurser, men varje person är vällkomna också
- * Var: Uppsala Makerspace
- * Kostnad: ingenting
+* Målet: att förbättra programmeret för slutpresentationen
+* Vem: eleverna från Lördagskurser, men varje person är vällkomna också
+* Var: Uppsala Makerspace
+* Kostnad: ingenting
 
 När        |Vad
 -----------|----------------------------
@@ -32,9 +32,9 @@ Jap, det är det :-)
 
 ## Notes from previous time
 
- * 23 students showed up during the day, 
+* 23 students showed up during the day,
    the regular course day before there were 29.
-   Hence, assume 80% of students 
- * About 0.9 pizza per student
- * Strong preference for margarita
- * Vesuvio was second (Hawaii was untouched)
+   Hence, assume 80% of students
+* About 0.9 pizza per student
+* Strong preference for margarita
+* Vesuvio was second (Hawaii was untouched)

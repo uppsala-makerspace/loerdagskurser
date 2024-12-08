@@ -7,8 +7,8 @@ Nästa vecka har vi slutpresentationen.
 Gjärna gör följande:
 
 - Kommer förbi Richel med din kod/ritning/project på en USB minnestick
-- Efter detta är du ledigt till rasten. 
-    - Tip: öva din presentation i hallen :-)
+- Efter detta är du ledigt till rasten.
+  - Tip: öva din presentation i hallen :-)
 - After rasten övar vi presentationen
 
 Tack, Richel

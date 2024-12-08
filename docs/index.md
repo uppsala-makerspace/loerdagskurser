@@ -9,7 +9,7 @@
 
 På lördag gör vi coola grejer i Uppsala Makerspace för elever i ålder 8 till 99.
 
-Inga förkunskaper krävs: 
+Inga förkunskaper krävs:
 det viktigaste i kurserna är att lära sig nya saker tillsammans.
 
 - [Kurserna](kurserna/README.md)
@@ -20,4 +20,3 @@ det viktigaste i kurserna är att lära sig nya saker tillsammans.
 - [Bilder](bilder.md)
 - [Dagschemat](dagschemat.md)
 - [Årschemat](aarschemat.md)
-

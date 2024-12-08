@@ -9,7 +9,8 @@ Det är också så att vi har undervisningsmaterial och tidigare erfarenhet av u
 ## Varför inte använda Scratch?
 
 Vår erfarenhet är att det fungerar mindre bra i en kurs av framförallt tre skäl:
-1. Det är lätt att fastna i moment som är kreativa men som har mer med konst och storytelling än programmering att göra. 
+
+1. Det är lätt att fastna i moment som är kreativa men som har mer med konst och storytelling än programmering att göra.
 2. Det är lätt att fastna i att spela olika färdiga program snarare än att skriva egna.
 3. Scratch påminner är ett visuellt sätt att programmera som inte påminner så mycket om riktiga programmeringsspråk, det gör däremot processing.
 
@@ -25,10 +26,11 @@ Men hör gärna av dig, det är möjligt att utvidga till fler programmeringsspr
 
 Ja, när:
 
- * du har fått ditt första certifikat
- * du föreslår ett lag där du och tre andra barn ingår
+* du har fått ditt första certifikat
+* du föreslår ett lag där du och tre andra barn ingår
 
 Det kan vara programmeringspråk som:
- * C++ för Arduino
- * mBot
- * Javacsript
+
+* C++ för Arduino
+* mBot
+* Javacsript

@@ -1,9 +1,9 @@
 # 2023-12-03 Hackathon
 
- * Målet: att förbättra programmeret för slutpresentationen
- * Vem: eleverna från Lördagskurser, men varje person är vällkomna också
- * Var: Uppsala Makerspace
- * Kostnad: ingenting
+* Målet: att förbättra programmeret för slutpresentationen
+* Vem: eleverna från Lördagskurser, men varje person är vällkomna också
+* Var: Uppsala Makerspace
+* Kostnad: ingenting
 
 När        |Vad
 -----------|----------------------------
@@ -32,6 +32,6 @@ Jap, det är det :-)
 
 ## Notes for next time
 
- * About 0.9 pizza per student
- * Strong preference for margarita
- * Vesuvio was second, Hawaii third
+* About 0.9 pizza per student
+* Strong preference for margarita
+* Vesuvio was second, Hawaii third

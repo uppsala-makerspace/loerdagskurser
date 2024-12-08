@@ -12,5 +12,5 @@
 2025-06-07: Eftermorsdag
 2025-06-14: Sommarlov
 
-https://bit.ly/loerdagskurser
-rjcbilderbeek@gmail.com
+<https://bit.ly/loerdagskurser>
+<rjcbilderbeek@gmail.com>

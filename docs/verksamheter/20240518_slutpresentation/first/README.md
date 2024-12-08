@@ -11,9 +11,9 @@ När  |Besökare                           | Elever
 11:30|Utvärdering med föräldrar [C]      | Anonym utvärdering [N]
 12:00|Slut                               | Slut
 
- * [C] Centralrummet
- * [F] Föräldrarhörnet
- * [N] Någonstans i Makerspacet
+* [C] Centralrummet
+* [F] Föräldrarhörnet
+* [N] Någonstans i Makerspacet
 
 Tider är bara riklinjer, ofta slutar vi tidigare.
 
@@ -37,8 +37,8 @@ Vem                            |Ålder        |Vad
 [READY] Erik                  |13            |Mjolnir
 [READY] Daniel M               |10           |Arduino: Cirkel (Processing + Arduino)
 
-- Föraldrarvårdslag: Alex, David L, Dennis, Giovanni
-- På semester: -
+* Föraldrarvårdslag: Alex, David L, Dennis, Giovanni
+* På semester: -
 
 Vem                            |Ålder        |Vad
 -------------------------------|-------------|----------------
@@ -49,5 +49,5 @@ Vem                            |Ålder        |Vad
 
 ## Notes from previous times
 
- * Build-up time was 45 minutes for 14 presentations,
+* Build-up time was 45 minutes for 14 presentations,
    hence it takes about 3 mins per presentation

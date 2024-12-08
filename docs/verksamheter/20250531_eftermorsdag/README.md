@@ -4,7 +4,7 @@
 
 > Bild av sista Efterfarsdag, en sannolikt evenemang, men bara för pappor
 
-- Målet: att undervisa programmering till moderna 
+- Målet: att undervisa programmering till moderna
 - Vem: eleverna från Programmeringskursen och moderna (dws mor, farmor, mormor, osv)
 - Var: Uppsala Makerspace
 - Kostnad: ingenting

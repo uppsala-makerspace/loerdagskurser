@@ -24,7 +24,6 @@
 
 > Presentationen är i Mallassal
 
-
 När  |Besökare                           | Elever
 -----|-----------------------------------|-----------------------
 11:00|Dör öpnas [G]                      | Dör öpnas [M]
@@ -94,7 +93,6 @@ Richel|?     |.  |Mårten    |A: Mångasladdar
 
 ### Second session
 
-
 Status|Age|Who       |What
 ------|---|----------|-------------------
 Ready |NA |Ilon      |Audience (will not present)
@@ -102,9 +100,7 @@ Ready |.  |Oskar     |P: Lutande tonet: pizza (will not present)
 Ready |.  |Lukas     |P: `width` och `height` (will not present)
 Ready |.  |Tindra    |P: [Rymdvarelse](tindra/tindra.pde) (will be absent)
 
-
 ## Notes from next time
 
 - Let all pupils present a line of code and/or a part of their 3D image.
   It slows down the presentations and makes them look into the audience more
-

@@ -4,7 +4,7 @@ Flyer to distribute at Kulturnatten about UMS.
 
 ## Flyer
 
- * Flyer [.pdf](20220910_kulturnatten.pdf) [.odg](20220910_kulturnatten.odg)
+* Flyer [.pdf](20220910_kulturnatten.pdf) [.odg](20220910_kulturnatten.odg)
 
 ## Plain-text
 
@@ -13,19 +13,19 @@ Flyer to distribute at Kulturnatten about UMS.
 Uppsala Makerspace
 Ekeby Bruk 6M
 752 63 Uppsala
-www.uppsalamakerspace.se
+<www.uppsalamakerspace.se>
 
 [map Uppsala]
 
 [map UMS]
 
-https://github.com/
+<https://github.com/>
   richelbilderbeek/
   arduinokurs
 
 [Arduino]
 
-https://github.com/
+<https://github.com/>
   richelbilderbeek/
   programmeringskurs
 
@@ -34,9 +34,9 @@ https://github.com/
 Kulturnatten
 (10-09-2022)
 
- * 11:00-21:00 
+* 11:00-21:00
    @ Stadbibliotek
- * 14:00-20:00 
+* 14:00-20:00
    @ Makerspace
 
 [map USB]

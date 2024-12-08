@@ -4,13 +4,13 @@
 
 > En tidigare slutpresentation
 
- * Vad: Slutpresentation och utvärderig
- * När: Lördag 27:e Maj
- * Målet: att elever får visar deras mästarevärk
- * Vem: varje en
- * Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
- * Kostnad: ingenting
- * Tiderna: 11.00-13.00
+* Vad: Slutpresentation och utvärderig
+* När: Lördag 27:e Maj
+* Målet: att elever får visar deras mästarevärk
+* Vem: varje en
+* Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
+* Kostnad: ingenting
+* Tiderna: 11.00-13.00
 
 När  |Besökare                           | Elever
 -----|-----------------------------------|-----------------------
@@ -21,9 +21,9 @@ När  |Besökare                           | Elever
 12:15|Utvärdering med föräldrar [M]      | Anonym utvärdering [B]
 13:00|Slut                               | Slut
 
- * [G] Grupprum brevid Mallassal
- * [M] Mallassal
- * [B] Biblioteket
+* [G] Grupprum brevid Mallassal
+* [M] Mallassal
+* [B] Biblioteket
 
 Tider är bara riklinjer, ofta slutar vi tidigare.
 
@@ -127,34 +127,11 @@ Kevin            |10   |P   |Höga Hampus
 ![](IMG_9929.jpg)
 ![](IMG_9930.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Enkelt på Hackathon
 
 Vem              |Ålder|Kurs|Vad
 -----------------|-----|----|----------------
 Teo              |12   |P   |Pizza
-
 
 När  |Frivilligare
 -----|-----------------------------------
@@ -167,8 +144,8 @@ När  |Frivilligare
 12:15|Utvärdering med föräldrar [M]
 13:00|Slut
 
- * [UMS] Uppsala Makerspace
- * [USB] Uppsala Stadsbibliotek
- * [G] Grupprum brevid Mallassal
- * [M] Mallassal
- * [B] Biblioteket
+* [UMS] Uppsala Makerspace
+* [USB] Uppsala Stadsbibliotek
+* [G] Grupprum brevid Mallassal
+* [M] Mallassal
+* [B] Biblioteket

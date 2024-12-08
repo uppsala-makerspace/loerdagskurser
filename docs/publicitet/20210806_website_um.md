@@ -13,16 +13,15 @@ Kanske vill du efter ett tag föreslå ett projekt själv och bilda ett nytt lag
 
 Ingen förkunskaper krävs.
 
- * Start: lördagen den 18:e September 2021, 10:00 (dörr öppnas) till 12:00.
- * Dag: varje lördag, utom på röda dagar, sommarlov och jullov
- * Ålder: 8-18 år
- * Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
+* Start: lördagen den 18:e September 2021, 10:00 (dörr öppnas) till 12:00.
+* Dag: varje lördag, utom på röda dagar, sommarlov och jullov
+* Ålder: 8-18 år
+* Plats: Uppsala Makerspace i Uppsala, [https://www.uppsalamakerspace.se/](https://www.uppsalamakerspace.se/),
    Ekeby Bruk 6M, 752 63 Uppsala
- * Kostnad per student:
-   * September till december: 400 kr för medlemmar i Uppsala Makerspace, 600 SEK för övriga
-   * Januari till maj: 400 kr för medlemmar i Uppsala Makerspace, 600 SEK för övriga
- * Krav: en bärbar dator med WiFi
- * Mer information: https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar
+* Kostnad per student:
+  * September till december: 400 kr för medlemmar i Uppsala Makerspace, 600 SEK för övriga
+  * Januari till maj: 400 kr för medlemmar i Uppsala Makerspace, 600 SEK för övriga
+* Krav: en bärbar dator med WiFi
+* Mer information: <https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar>
 
 ![](../pics/20180210OpenDagDjo_3.jpg)
-

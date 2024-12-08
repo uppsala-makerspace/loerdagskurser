@@ -29,11 +29,9 @@ Done?|What?
 
 ## [2] booklets and lesson cards placement
 
- * The booklets and lessond cards are ordered alphabetically from left-to-right
- * The lesson cards are closer to the students, so multiple students can search
+* The booklets and lessond cards are ordered alphabetically from left-to-right
+* The lesson cards are closer to the students, so multiple students can search
 
 Arduino books       |Blender books       |git books       |Processing books
 --------------------|--------------------|----------------|-----------------------
 Arduino lesson cards|Blender lesson cards|git lesson cards|Processing lesson cards
-
-

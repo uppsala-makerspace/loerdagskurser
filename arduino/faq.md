@@ -1,25 +1,24 @@
 # FAQ
 
- * 🇸🇪 Vanliga frågor
- * 🇬🇧 Frequently asked questions: see below the Swedish ones
- * 🇺🇦 Часті запитання: див. англійську чи шведську
-
+* 🇸🇪 Vanliga frågor
+* 🇬🇧 Frequently asked questions: see below the Swedish ones
+* 🇺🇦 Часті запитання: див. англійську чи шведську
 
 ## 🇸🇪 Vanliga frågor
 
 Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik har jag delat in dem i följande kategorier:
 
- * Komma igång
- * Ålder på deltagare
- * Kursmaterial
- * Programmeringsspråk - Arduino (C++)
- * Förväntningar på deltagande (barn)
- * Förväntningar på föräldrar
- * Förväntningar på volontärer / frivilliga
- * Kostnad för kursen
- * Köpa komponenter
- * Mer om läraren
- * Hjälp på Arduinoproject
+* Komma igång
+* Ålder på deltagare
+* Kursmaterial
+* Programmeringsspråk - Arduino (C++)
+* Förväntningar på deltagande (barn)
+* Förväntningar på föräldrar
+* Förväntningar på volontärer / frivilliga
+* Kostnad för kursen
+* Köpa komponenter
+* Mer om läraren
+* Hjälp på Arduinoproject
 
 ## Komma igång
 
@@ -33,7 +32,7 @@ Det är alltid trevligt om du skickar ett mejl först till Richel, `rjcbilderbee
 
 Javisst!
 
-Det kostar ingenting första gången, det är viktigt att deltagarna känner att de hamnat rätt! 
+Det kostar ingenting första gången, det är viktigt att deltagarna känner att de hamnat rätt!
 
 Men skicka gärna ett mejl först till Richel, `rjcbilderbeek@gmail.com`, så att är beredd att ta emot dig. :-)
 
@@ -83,7 +82,7 @@ Vi använder böcker av [Arduino för ungdomar](https://github.com/richelbilderb
 ### Få jag drycker böcker själv?
 
 Javisst! Bocker att [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
-ha en `CC-BY-NC` licens, 
+ha en `CC-BY-NC` licens,
 som innehål du får drycker böcker själv för en kommerciell sak (`NC` = 'Non Commercial').
 Också, du får ädrar texten, så långe du skriver också original version (`BY` = 'give attribution').
 
@@ -98,10 +97,10 @@ en Arduino är en dialekt av C++.
 
 ### Vad händer på ett vanligt kurstillfälle?
 
-  * du kommar hit när dörren öppnas 
-  * du ställer upp din bärbara dator
-  * du gör uppgifter i böckerna
-  * du sammarbetar med dina bordskompisar
+* du kommar hit när dörren öppnas
+* du ställer upp din bärbara dator
+* du gör uppgifter i böckerna
+* du sammarbetar med dina bordskompisar
 
 På rasten fikar vi och kopplar av lite.
 
@@ -112,7 +111,7 @@ Efter rasten förtsätter vi igen och på slutet städar vi upp.
 En presentation är ett speciellt tillfälle när vi presentera våra mästerverk.
 Det brukar bli nästa sista kurstillfället på säsongen.
 
-Du får bjuda in din familj och vänner om du vill. 
+Du får bjuda in din familj och vänner om du vill.
 (Förutsett att situationen med Covid-19 tillåter det.)
 
 Vi avslutar med en utvärdering av kursen (anonymt). Det är lite tråkigt men det är viktigt för oss för att kunna förbättra kursen!
@@ -124,7 +123,7 @@ Vi avslutar med en utvärdering av kursen (anonymt). Det är lite tråkigt men d
 ### Vad händer på ett evenemang?
 
 Om det finns intresse och tillfälle ges kan vi delta på olika evenemang, t.ex. Birdie eller SciFest.
-Där kan finnas möjlighet att både visa upp vad som åstadkommits eller undervisa andra i att programmera. 
+Där kan finnas möjlighet att både visa upp vad som åstadkommits eller undervisa andra i att programmera.
 
 ![](../pics/20180210OpenDagDjo_3.jpg)
 
@@ -134,20 +133,20 @@ Där kan finnas möjlighet att både visa upp vad som åstadkommits eller underv
 
 Det bästa sättet att lära sig är att få berätta för en kompis.
 
- * Sitter det en deltagare bredvid dig? Om ja, fråga hen.
- * Sitter det en deltagare vid ditt bord? Om ja, då är hen.
- * Om du sitter själv vid ditt bord eller ingen vet, fråga en lärare / vuxen.
+* Sitter det en deltagare bredvid dig? Om ja, fråga hen.
+* Sitter det en deltagare vid ditt bord? Om ja, då är hen.
+* Om du sitter själv vid ditt bord eller ingen vet, fråga en lärare / vuxen.
 
 ### Vad händer om en ny student kommer in?
 
- * Värd/värdinna tar hand om honom/henne:
-   * Lägg på din kappa
-   * Namnlista
-   * Länkar till en student som vill starta honom / henne: de sitter sedan vid det stora bordet
+* Värd/värdinna tar hand om honom/henne:
+  * Lägg på din kappa
+  * Namnlista
+  * Länkar till en student som vill starta honom / henne: de sitter sedan vid det stora bordet
 
-### Jag kan inte komma på ett kurstillfälle!
+### Jag kan inte komma på ett kurstillfälle
 
-Inget problem! 
+Inget problem!
 
 Men skicka gärna ett mail till Richel,`rjcbilderbeek@gmail.com` och meddela detta.
 
@@ -157,19 +156,19 @@ Men skicka gärna ett mail till Richel,`rjcbilderbeek@gmail.com` och meddela det
 
 Föräldrar är alltid välkommna att kolla lite vad som pågår på kursen.
 
-Men, oftast är det bättre om ditt barn skapar nya bekantskaper på kursen och inte vänder sig till dig när det uppstår problem. 
+Men, oftast är det bättre om ditt barn skapar nya bekantskaper på kursen och inte vänder sig till dig när det uppstår problem.
 Därför undrar vi om du kan hålla dig på lite avstånd under kursens gång -när så är möjligt- kanske ta en promenad eller göra ett ärende. Uppsala Makerspace är också rätt stort så det går att vistas i ett annat rum och hålla på med egna projekt om du är labbmedlem.
 
 Ett tips: kom 5 minuter före slutet för en kort titt :-)
 
 ### Är jag välkommen att hjälpa till?
 
-Javisst! Du kann bli en volontär. 
+Javisst! Du kann bli en volontär.
 Vi försöker då ordna så du är i en annan grupp än ditt/dina barn, se frågan ovan.
 
-### Mitt/mina barn kan inte kom på ett kurstillfälle!
+### Mitt/mina barn kan inte kom på ett kurstillfälle
 
-Inget problem! 
+Inget problem!
 
 Men skicka gärna ett mail till Richel,`rjcbilderbeek@gmail.com` och meddela detta.
 
@@ -185,8 +184,8 @@ Målsättningen är dock att barnen ska hjälpa varandra i så stor utsträcknin
 
 ### Var finns lektionerna?
 
-Lektioner finns beskrivna på webbplatsen (översättning pågår). 
-[Arduino för ungdomar] (https://github.com/richelbilderbeek/arduino_foer_ungdomar).
+Lektioner finns beskrivna på webbplatsen (översättning pågår).
+[Arduino för ungdomar] (<https://github.com/richelbilderbeek/arduino_foer_ungdomar>).
 
 ## Jag lära mig Processing och komma igång dirkt, hur går jag tillväga?
 
@@ -194,13 +193,13 @@ Kul, självklart kan du komma igång själv!
 
 [Ladda ner Arduino IDE här](https://www.arduino.cc/en/software).
 
-Arduino lektionerna finns på webbplatsen [Processing för ungdomar] (https://github.com/richelbilderbeek/arduino_foer_ungdomar).
+Arduino lektionerna finns på webbplatsen [Processing för ungdomar] (<https://github.com/richelbilderbeek/arduino_foer_ungdomar>).
 
 ## Jag vill skapa på fler sätt än med datorn, är det möjligt?
 
 Javisst, men detta är en Arduino kurs.
 
-Lyckligtvis, det finns det andra aktiviteter för Makerkids i Uppsala Makerspace, hör av dig till föreningen på kansliet@uppsalamakerspace.se eller prata med någon på våra öppna kvällar!
+Lyckligtvis, det finns det andra aktiviteter för Makerkids i Uppsala Makerspace, hör av dig till föreningen på <kansliet@uppsalamakerspace.se> eller prata med någon på våra öppna kvällar!
 Se också [tidigare aktiviteter](https://www.uppsalamakerspace.se/aktiviteter).
 
 ## Kostnader för kursen
@@ -209,8 +208,8 @@ Se också [tidigare aktiviteter](https://www.uppsalamakerspace.se/aktiviteter).
 
 [Detta är ett förslag]
 
- * 400 SEK för medlemmar
- * 600 SEK för ej-medlemmar
+* 400 SEK för medlemmar
+* 600 SEK för ej-medlemmar
 
 ### Jag har inte råd med kursavgiften. Hur ska jag göra?
 
@@ -240,39 +239,39 @@ Priserna är framräknade pessimistiskt.
 
 En kurs kräver minst 8 böcker där varje bok innehåller 30 dubbelsidiga A4 sidor.
 
- * 1 bok 100 kr (färg, paa svartvit aar 1 bok 20 kr)
+* 1 bok 100 kr (färg, paa svartvit aar 1 bok 20 kr)
 
 2 certifikat:
 
- * 1 certifikat är 54 kr (färg)
+* 1 certifikat är 54 kr (färg)
 
 Lektionskort:
 
- * Färg: 1 kort är 10 kr
+* Färg: 1 kort är 10 kr
 
 Saft:
 
- * 30 kr per flask för 10 elever
+* 30 kr per flask för 10 elever
 
 Presentation:
 
 Per elev, 30 kr:
 
- * Kaffe för 1 föräldrar, 5 kr
- * te för 1 föräldrar, 5 kr
- * limonade för barn och 1 gast, 10 kr
- * Kakor, 4 personar, 10 kr
+* Kaffe för 1 föräldrar, 5 kr
+* te för 1 föräldrar, 5 kr
+* limonade för barn och 1 gast, 10 kr
+* Kakor, 4 personar, 10 kr
 
 Per elev och termin:
 
- * 4x böcker = 400 kr
- * 1x certifikat = 54 kr
- * 1x lektionskort = 10 kr
- * 2x flaska saft = 60 kr
- * Presentation = 30 kr
+* 4x böcker = 400 kr
+* 1x certifikat = 54 kr
+* 1x lektionskort = 10 kr
+* 2x flaska saft = 60 kr
+* Presentation = 30 kr
 
-Det betyder, 
-i början när det inte finns några böcker, 
+Det betyder,
+i början när det inte finns några böcker,
 blir kostnaden 554 SEK per elev pro termin.
 Det är en pessimistisk uppskattning.
 
@@ -282,24 +281,24 @@ Det är en pessimistisk uppskattning.
 
 From poll on UMS Slack:
 
- * 2x [Conrad](https://www.conrad.com/)
- * 1x [Digikey](https://www.digikey.se/)
- * 2x [Electrokit](https://www.electrokit.com/)
- * 1x [Kjell and company](https://www.kjell.com/)
- * 1x [M](https://www.m.nu/)
- * 2x [Mouser](https://www.mouser.se/)
- * 2x [Reichelt](https://www.reichelt.com/)
+* 2x [Conrad](https://www.conrad.com/)
+* 1x [Digikey](https://www.digikey.se/)
+* 2x [Electrokit](https://www.electrokit.com/)
+* 1x [Kjell and company](https://www.kjell.com/)
+* 1x [M](https://www.m.nu/)
+* 2x [Mouser](https://www.mouser.se/)
+* 2x [Reichelt](https://www.reichelt.com/)
 
 ## Personen
 
 ### Vem är volontärer?
 
- * Björn
- * Richel
+* Björn
+* Richel
 
 ### Vem är Björn?
 
-Björn är volontär på kursen. 
+Björn är volontär på kursen.
 
 Han skapar allt som helst och ger Blender kurser också.
 
@@ -315,7 +314,7 @@ Richel är särskilt intresserad av utbildning och har
 avslut lärarutbildningen vid universitetet och har två år som
 lärare på en Högstadiet.
 
-Hans arbete kan ses på 
+Hans arbete kan ses på
 [hans webbplats med mer än 3900 sidor](http://richelbilderbeek.nl)
 och [mer än 1200 GitHub-arkiv](https://github.com/richelbilderbeek?tab=repositories).
 Självklart har han gjört [många datorspelar](https://github.com/richelbilderbeek/games).
@@ -325,15 +324,13 @@ Självklart har han gjört [många datorspelar](https://github.com/richelbilderb
 Vill du ha hjälp på din egna Arduinoproject, kan du ta kontakt med Richel.
 Den är beroende om du har bråttom:
 
- * Ingen bråttom: din project kan blir en elev project. 
+* Ingen bråttom: din project kan blir en elev project.
    Du är välkommen att komma till kursen, introducera projectet
    och kanske få en elev. Om du har en elev, kann han/hon hjälpa
-   dig. Du -självklart- betalar alla materialer, eleven gör 
-
+   dig. Du -självklart- betalar alla materialer, eleven gör
 
 ## 🇬🇧🇺🇦 Frequently asked questions
 
-In short: you are always welcome, just show up between 10:00-12:00. 
+In short: you are always welcome, just show up between 10:00-12:00.
 There is coffee and tea for parents and laptops and programming exercise
 for the kids :-)
-

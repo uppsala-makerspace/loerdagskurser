@@ -14,16 +14,16 @@ Day       |Results
 
 ![](Kerstkaart2017.png)
 
-### 8 years old: 
+### 8 years old
 
- * simple works of art, e.g `(1, 0)` and `(1, 1)`
+* simple works of art, e.g `(1, 0)` and `(1, 1)`
 
 ![](Judith20181108.png)
 
-### 11 years old: 
+### 11 years old
 
- * more complex works of art, e.g `(2, 0)` and `(2, 1)`
- * re-create simple games
+* more complex works of art, e.g `(2, 0)` and `(2, 1)`
+* re-create simple games
 
 ![](Mohammad20180902.png)
 
@@ -31,10 +31,9 @@ Day       |Results
 
 ### 14 years old
 
- * beauty in works of art, e.g `(1, 2)`
- * complex games with own ideas
+* beauty in works of art, e.g `(1, 2)`
+* complex games with own ideas
 
 ![](team_ufo_1.png)
 
 ![](team_ufo_2.png)
-

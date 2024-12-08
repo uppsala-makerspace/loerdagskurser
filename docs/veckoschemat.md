@@ -10,8 +10,8 @@ Vecka| Dag      |Vad
 38   |2024-09-21| 5.
 39   |2024-09-28| 6.
 40   |2024-10-05| 7.
-41   |2024-10-12| 8. 
-42   |2024-10-19| 9. 
+41   |2024-10-12| 8.
+42   |2024-10-19| 9.
 43   |2024-10-26|Ej kurs: höstlov
 44   |2024-11-02|Ej kurs: höstlov och Alla Helgonsdag
 45   |2024-11-09| 10.
@@ -50,6 +50,6 @@ Vecka| Dag      |Vad
 25   |2025-06-21|Sommarlov
 26   |2025-06-28|Sommarlov
 
- * Om det fins ingen plats skriven, är det på Uppsala Makerspace
- * Om det fins ingen tid skriven, är det på vanligt kurstid
- * [Tidigare aktiviteter finns här](tidagare_veckoschemar.md)
+* Om det fins ingen plats skriven, är det på Uppsala Makerspace
+* Om det fins ingen tid skriven, är det på vanligt kurstid
+* [Tidigare aktiviteter finns här](tidagare_veckoschemar.md)

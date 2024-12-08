@@ -1,16 +1,16 @@
 # Results 2023-05-27
 
-When talking to the parents, 
+When talking to the parents,
 it was reconfirmed it is OK to take pictures by all parents.
 Communication is OK, an emaillist and Discord server would be appreciated.
 
- * [x] Add link to emaillist [sent out on 2023-07-15]
- * [ ] Add link to Discord server [forgot, do in next emaillist email]
+* [x] Add link to emaillist [sent out on 2023-07-15]
+* [ ] Add link to Discord server [forgot, do in next emaillist email]
 
 There was a question how parents can assist kids when they work from home?
 
- * [x] Add link to books and Discord server [done]
-   
+* [x] Add link to books and Discord server [done]
+
 Kursen    |Grej        |Rad   |Svar
 ----------|------------|------|----------------------
 Arduino   |Kursen      |Toppen|Nästan allt
@@ -114,19 +114,19 @@ Waka Baka |Kursen      |Toppen|Det är kul för att Leonid existerar
 Waka Baka |Kursen      |Tips  |.
 Waka Baka |Frivilligare|Toppen|De är jättesnälla
 Waka Baka |Frivilligare|Tips  |.
-Waka Baka |Boken       |Toppen|Det var ett år sen jag läste dem, men de är jättebra, dock jag vill har bok 9 
+Waka Baka |Boken       |Toppen|Det var ett år sen jag läste dem, men de är jättebra, dock jag vill har bok 9
 Waka Baka |Boken       |Tips  |.
 Waka Baka |Siffra      |.     |4.8
 
- * [1] På tips till boken menar jag inte att man borde göra en till bok som är om något nytt fast att man gör en annan version av bok 1 där man lär sig samma saker och lite mer komplicerade saker inom samma område
+* [1] På tips till boken menar jag inte att man borde göra en till bok som är om något nytt fast att man gör en annan version av bok 1 där man lär sig samma saker och lite mer komplicerade saker inom samma område
 
-## 
+##
 
 ### How is the course?
 
- * Processing: Bra. lär sig micket av det är interessant
+* Processing: Bra. lär sig micket av det är interessant
 
-### What should always be in the course? 
+### What should always be in the course?
 
 Arduino: More food
 
@@ -134,8 +134,7 @@ Arduino: More food
 
 Arduino: Everything
 
-### What can be improved about the course? 
-
+### What can be improved about the course?
 
 ### What is the least fun of the course?
 
@@ -151,43 +150,56 @@ Arduino: More games or no gaming
 
 ### How are the breaks?
 
-
 ### How to improve the breaks?
 
- * Processing: mer lära lättning och struktur
- * Blender: mer mat på rasterna
+* Processing: mer lära lättning och struktur
+* Blender: mer mat på rasterna
 
 ### How are the volunteers?
+
 ### What could the volunteers do better?
-###     • Arduino: Björn, Richèl
 
- * Arduino: Richel: Good, but stressed, running
+### • Arduino: Björn, Richèl
 
-###     • Blender: Björn, Richèl
+* Arduino: Richel: Good, but stressed, running
 
- * Blender: Björn: är bra. Han kan 3d-printa
- * Blender: Richel: behöver bli snällare
+### • Blender: Björn, Richèl
 
-###     • Processing: Björn, Christoffer, Janne, Marie, Richèl
-###     • Programming teams: Björn, Christoffer, Janne, Richèl, 
-### Per volunteer (if the students do not know him/her, it’s OK):
-###     • How is he/she?
-###     • What could he/she do better?
-### For the programming teams:
-###     • How is your team leader?
-###     • How can he/she improve?
-###     • Do you use Discord?
-###     • If yes, is it used well, or is it mostly a distraction?
-###     • How could Discord usage be improved?
-### How are the students? 
+* Blender: Björn: är bra. Han kan 3d-printa
+* Blender: Richel: behöver bli snällare
+
+### • Processing: Björn, Christoffer, Janne, Marie, Richèl
+
+### • Programming teams: Björn, Christoffer, Janne, Richèl
+
+### Per volunteer (if the students do not know him/her, it’s OK)
+
+### • How is he/she?
+
+### • What could he/she do better?
+
+### For the programming teams
+
+### • How is your team leader?
+
+### • How can he/she improve?
+
+### • Do you use Discord?
+
+### • If yes, is it used well, or is it mostly a distraction?
+
+### • How could Discord usage be improved?
+
+### How are the students?
 
 Arduino: Too loud, talk and laugh too much.
 
-### How could the students do better? 
+### How could the students do better?
 
 Arduino: More focused and quiet
 
-### How is the amount of students? 
+### How is the amount of students?
+
 ### Would we enjoy more students?
 
 Arduino: Yes, but too many boys
@@ -196,7 +208,7 @@ Arduino: Yes, but too many boys
 
 Arduino: Yes
 
-### How was the Hackathon? 
+### How was the Hackathon?
 
 Arduino: Really fun and a lot of pizza!
 
@@ -219,24 +231,24 @@ Hackathon är uppskattat
 
 ## Reflection by Richel
 
-This is the first time that in a course evaluation I read 
+This is the first time that in a course evaluation I read
 'Richel skulle vara snällare' and that I am perceived as stressed.
 Apparently, some of my personal struggles slipped through the cracks
-into the classroom and behaved grumpily there. 
+into the classroom and behaved grumpily there.
 I will pay more attention to this.
 
- * TODO: Richel should keep his problems at home
+* TODO: Richel should keep his problems at home
 
 The breaks are indeed unstructured. And that is, to some extent, the point:
 it forces the students to relax.
 
- * TODO: ask students: how to do the break?
+* TODO: ask students: how to do the break?
 
 Food is important to some students.
 The Uppsala Makerspace has gotten more active in providing food
 that students can buy in the breaks.
 
- * TODO: notify students that they can buy food in the breaks
+* TODO: notify students that they can buy food in the breaks
 
 The hackathon was unexpectedly much loved!
 I guess this is because of the food?
@@ -245,8 +257,8 @@ I really have no idea.
 Every season currently has 1 hackathon
 and I would need volunteers to increase it.
 
- * TODO: ask students: what is so fun about the hackathon?
- * TODO: notify students: their parents are members, 
+* TODO: ask students: what is so fun about the hackathon?
+* TODO: notify students: their parents are members,
    so they can come in during open evenings :-)
 
 Taking a look at the grades:
@@ -272,7 +284,7 @@ Waka Baka  |4.8
 I see that Arduino and Processing are graded way below the usual average.
 I predict that this is due to me coming accross as being grumpy or unfriendly.
 
- * TODO: Richel should keep his problems at home
+* TODO: Richel should keep his problems at home
 
 It has always been hard to help at exactly the right amount:
 there have always been students that had
@@ -283,7 +295,7 @@ autonomous.
 A rule used by Richel is 'Help only when the student has zero ideas left what to do'.
 This point will remain unchanged.
 
- * Consider: optional classes, e.g. 15 minutes showing how to solve a book chapter
+* Consider: optional classes, e.g. 15 minutes showing how to solve a book chapter
 
 Although this has never been mentioned in the surveys,
 Discord has become a problem: it distract students instead of helping

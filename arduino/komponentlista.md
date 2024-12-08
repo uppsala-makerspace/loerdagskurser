@@ -25,4 +25,3 @@ Infrarood afst                   |.
 Ultrasoon afst                   |.
 Pin header M                     |.
 Batterijhouder                   |.
-
