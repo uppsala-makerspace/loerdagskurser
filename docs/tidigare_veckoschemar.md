@@ -3,13 +3,7 @@
 Den här är gammla veckoschemar.
 Senaste sajsånger är första.
 
-## Veckoschema 2024 semester 2
-
-Vecka| Dag      |Vad
------|----------|-------------------------------------
-.|.|.
-
-## Veckoschema 2024 semester 1
+## 2024
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
@@ -47,32 +41,24 @@ Vecka| Dag      |Vad
 30   |2024-07-27|Ej kurs, sommarlov
 31   |2024-08-03|Ej kurs, sommarlov
 32   |2024-08-10|Ej kurs, sommarlov
+33   |2024-08-17|Ej kurs, sommarlov
+34   |2024-08-24| 1. Första lektion igen
+35   |2024-08-31| 2.
+36   |2024-09-07| 3.
+37   |2024-09-14| 4. [Kulturnatten](verksamheter/20240914_kulturnatten/README.md) och vi är med!
+38   |2024-09-21| 5.
+39   |2024-09-28| 6.
+40   |2024-10-05| 7.
+41   |2024-10-12| 8.
+42   |2024-10-19| 9.
+43   |2024-10-26|Ej kurs: höstlov
+44   |2024-11-02|Ej kurs: höstlov och Alla Helgonsdag
+45   |2024-11-09| 10.
+46   |2024-11-16| 11. [Efterfarsdag](verksamheter/20241116_efterfarsdag/README.md) [1]
+47   |2024-11-23| 12.
+48   |2024-11-30| 13. Övning slutpresentation
 
-## Veckoschema 2023 semester 2
-
-Vecka| Dag      |Vad
------|----------|-------------------------------------
-34   |2023-08-26| 1. Kurs förtsätter igen
-35   |2023-09-02| 2.
-36   |2023-09-09| 3. [Kulturnatten](verksamheter/20230909_kulturnatten/README.md)
-37   |2023-09-16| 4.
-38   |2023-09-23| 5.
-39   |2023-09-30| 6.
-40   |2023-10-07| 7.
-41   |2023-10-14| 8.
-42   |2023-10-21| 9.
-43   |2023-10-28| Höstlov
-44   |2023-11-04| Höstlov
-45   |2023-11-11| 10. Början slutpresentation
-46   |2023-11-18| 11. [Efterfarsdag](verksamheter/20231118_efterfarsdag/README.md)
-47   |2023-11-25| 12.
-.    |.         | (efter kursen, 13.30-15.30: [programmingsworkshop för tjejer](verksamheter/202311125_girls_only_workshop/README.md) på Stadsbiblioteket)
-48   |2023-12-02| 13.
-.    |2023-12-03| [Hackathon](verksamheter/20231203_hackathon/README.md)
-49   |2023-12-09| 14. [Slutpresentation](verksamheter/20231209_slutpresentation/README.md)
-50   |2023-12-16| 15.Sista kursdag
-
-## Veckoschema 2023 semester 1
+## 2023
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
@@ -113,44 +99,27 @@ Vecka| Dag      |Vad
 31   |2023-08-05| Sommarlov, ej kurs
 32   |2023-08-12| Sommarlov, ej kurs
 33   |2023-08-19| Sommarlov, ej kurs
+34   |2023-08-26| 1. Kurs förtsätter igen
+35   |2023-09-02| 2.
+36   |2023-09-09| 3. [Kulturnatten](verksamheter/20230909_kulturnatten/README.md)
+37   |2023-09-16| 4.
+38   |2023-09-23| 5.
+39   |2023-09-30| 6.
+40   |2023-10-07| 7.
+41   |2023-10-14| 8.
+42   |2023-10-21| 9.
+43   |2023-10-28| Höstlov
+44   |2023-11-04| Höstlov
+45   |2023-11-11| 10. Början slutpresentation
+46   |2023-11-18| 11. [Efterfarsdag](verksamheter/20231118_efterfarsdag/README.md)
+47   |2023-11-25| 12.
+.    |.         | (efter kursen, 13.30-15.30: [programmingsworkshop för tjejer](verksamheter/202311125_girls_only_workshop/README.md) på Stadsbiblioteket)
+48   |2023-12-02| 13.
+.    |2023-12-03| [Hackathon](verksamheter/20231203_hackathon/README.md)
+49   |2023-12-09| 14. [Slutpresentation](verksamheter/20231209_slutpresentation/README.md)
+50   |2023-12-16| 15.Sista kursdag
 
-## Veckoschema 2022 semester 2
-
-4:e saisong, med Arduino, en lite bit av Blender och Processing.
-
-Vecka| Dag      |Vad
------|----------|-------------------------------------
-46   |2022-11-19|12. [Efterfarsdag](verksamheter/20221119_efterfarsdag/README.md) (också farfar, morfar, osv)
-47   |2022-11-26|13. Förbereda slutpresentation, 3/4
-48   |2022-12-03|14. Förbereda och öva slutpresentation, 4/4
-.    |2022-12-04|[Hackathon](verksamheter/20221204_hackathon/README.md): varje en är välkomna **12:00-18:00**
-49   |2022-12-10|15. [Slutpresentation och utvärdering](verksamheter/20221210_slutpresentation/README.md): varje en är välkomna **11:00-13:00** at **Stadsbiblioteket**
-50   |2022-12-17|16. Sista dag, [julkort](verksamheter/20221217_julkort/README.md)
-51   |2022-12-24|Jullov
-52   |2022-12-31|Jullov
-52   |2022-12-30|Jullov
-
-### Sommarlov 2022
-
-3:e saisong, med enkelt Arduino.
-
-Vecka| Dag      |Vad
------|----------|-------------------------------------
-23   |2022-06-11|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-24   |2022-06-18|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-25   |2022-06-25|Ej [Minecraft Quest](https://github.com/djog/minecraft_quest), Midsommar
-26   |2022-07-02|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-27   |2022-07-09|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-28   |2022-07-16|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-.    |2022-07-22|[Pi-approximationsdagen](https://github.com/richelbilderbeek/pi_approximation_day), 7:22 @ Uppsala Slott
-29   |2022-07-23|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-30   |2022-07-30|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-31   |2022-08-06|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-32   |2022-08-13|[Minecraft Quest](https://github.com/djog/minecraft_quest)
-
-## Veckoschema 2022 semester 1
-
-2:e saisong, med enkelt Processing.
+## 2022
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
@@ -182,10 +151,28 @@ Vecka| Dag      |Vad
 20   |2022-05-22|[Hackathon](verksamheter/20220522_hackathon/README.md) 12:00-18:00
 21   |2022-05-28|19. Slutpresentation
 22   |2022-06-04|20. Sista lektion: [Eftermorsdag](verksamheter/20220604_eftermorsdag/README.md)
+23   |2022-06-11|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+24   |2022-06-18|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+25   |2022-06-25|Ej [Minecraft Quest](https://github.com/djog/minecraft_quest), Midsommar
+26   |2022-07-02|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+27   |2022-07-09|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+28   |2022-07-16|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+.    |2022-07-22|[Pi-approximationsdagen](https://github.com/richelbilderbeek/pi_approximation_day), 7:22 @ Uppsala Slott
+29   |2022-07-23|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+30   |2022-07-30|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+31   |2022-08-06|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+32   |2022-08-13|[Minecraft Quest](https://github.com/djog/minecraft_quest)
+46   |2022-11-19|12. [Efterfarsdag](verksamheter/20221119_efterfarsdag/README.md) (också farfar, morfar, osv)
+47   |2022-11-26|13. Förbereda slutpresentation, 3/4
+48   |2022-12-03|14. Förbereda och öva slutpresentation, 4/4
+.    |2022-12-04|[Hackathon](verksamheter/20221204_hackathon/README.md): varje en är välkomna **12:00-18:00**
+49   |2022-12-10|15. [Slutpresentation och utvärdering](verksamheter/20221210_slutpresentation/README.md): varje en är välkomna **11:00-13:00** at **Stadsbiblioteket**
+50   |2022-12-17|16. Sista dag, [julkort](verksamheter/20221217_julkort/README.md)
+51   |2022-12-24|Jullov
+52   |2022-12-31|Jullov
+52   |2022-12-30|Jullov
 
-## Veckoschema 2021 semester 2
-
-1:e saisong, med enkelt Processing.
+## 2021
 
 Vecka| Dag      |Vad
 -----|----------|----------------------------

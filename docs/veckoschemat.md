@@ -1,23 +1,12 @@
-# Veckoschemat
+# 🇸🇪 Veckoschemat (🇬🇧 Weekly schedule)
+
+🇸🇪 |🇬🇧
+---|---
+Den här är vår veckoschema|This here is our weekly schedule
+Specialla aktiviteter här ett länk till mer information|Special activities have a link to more information
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-33   |2024-08-17|Ej kurs, sommarlov
-34   |2024-08-24| 1. Första lektion igen
-35   |2024-08-31| 2.
-36   |2024-09-07| 3.
-37   |2024-09-14| 4. [Kulturnatten](verksamheter/20240914_kulturnatten/README.md) och vi är med!
-38   |2024-09-21| 5.
-39   |2024-09-28| 6.
-40   |2024-10-05| 7.
-41   |2024-10-12| 8.
-42   |2024-10-19| 9.
-43   |2024-10-26|Ej kurs: höstlov
-44   |2024-11-02|Ej kurs: höstlov och Alla Helgonsdag
-45   |2024-11-09| 10.
-46   |2024-11-16| 11. [Efterfarsdag](verksamheter/20241116_efterfarsdag/README.md) [1]
-47   |2024-11-23| 12.
-48   |2024-11-30| 13. Övning slutpresentation
 .    |2024-12-01| [Hackathon](verksamheter/20241201_hackathon/README.md) 12.00-18.00
 49   |2024-12-07| 14. [Slutpresentation](verksamheter/20241207_slutpresentation/README.md)
 50   |2024-12-14| 15. Sista lektion
