@@ -8,7 +8,7 @@
 * Tiderna: samma schema som vanligt
 * När: Lördag 16:e November 2024, på den vanliga tider, se nedåt
 
-### Arduino och Blender
+## Arduino och Blender
 
 Den här är kurstider om dit barn följer Arduino- eller Blenderkursen:
 
@@ -20,7 +20,7 @@ När  |Vad
 11:15|Fortsättning
 12:00|Slut
 
-### Processing
+## Processing
 
 Den här är kurstider om dit barn följer Processingkursen:
 
