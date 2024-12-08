@@ -16,7 +16,7 @@
 
     Ingen föranmeldning kravs: bara kommer förbi!
 
-    Kollar dock på [veckoschemat](veckoschemat.md) för att
+    Kolla dock på [veckoschemat](veckoschemat.md) för att
     ser ingen speciellt evenemang pågår.
 
 === "🇬🇧"
@@ -30,14 +30,18 @@
 
 === "🇸🇪"
 
-    Du behövs inte förberada: bara kommer förbi!
+    Du behövs inte förberada: bara kommer förbi till din favoritkurs!
+    Kolla dock på [kurserna](../kurserna/README.md) för att
+    bestämma när din favoritkurs pågår.
 
     Har du ett barbär dator, gjärna tar den med.
     Om inte, du kan låna våra.
 
 === "🇬🇧"
 
-    No need to prepare: just show up!
+    No need to prepare: just show up at your favorite course!
+    Do take a look at [the courses](../kurserna/README.md) when your
+    favorite course takes place.
 
     If you have a laptop, please take it with you.
     If you don't, you can borrow ours.
@@ -75,6 +79,3 @@
 
     For parents, there are sofas, coffee and tea.
     Our volunteers will answer all your questions.
-
-
-
