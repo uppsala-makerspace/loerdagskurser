@@ -1,6 +1,6 @@
 # FAQ om Arduino
 
-## Är Arduino en programmeringsspråket?
+## Är Arduino ett programmeringsspråk?
 
-Programmeringsspråket används för att programmerar
-en Arduino är en dialekt av C++.
+Programmeringsspråket används för att programmera.
+Arduino använder en dialekt av C++.
