@@ -1,12 +1,12 @@
-# 🇸🇪 Följer oss (🇬🇧 Follow us)
+# 🇸🇪 Följ oss (🇬🇧 Follow us)
 
 === "🇸🇪"
 
-    För att blir informerad, kan du följer oss här:
+    För att bli informerad, följ oss här:
 
 === "🇬🇧"
 
-    To be informed, here you can follow us:
+    To be informed, follow us here:
 
 Logo                                           |Link
 -----------------------------------------------|---------------------------------------------------------
@@ -15,8 +15,8 @@ Logo                                           |Link
 
 === "🇸🇪"
 
-    För att kontakta oss, kolla gjärna på [kontakta oss](../kontakta_oss.md)
+    För att [kontakta oss](../kontakta_oss.md)
 
 === "🇬🇧"
 
-    To contact us, please see [how to contact us](../kontakta_oss.md).
+    See [how to contact us](../kontakta_oss.md).
