@@ -1,59 +1,59 @@
-# 🇸🇪 Din första besök (🇬🇧 Your first visit)
+# 🇸🇪 Ditt första besök (🇬🇧 Your first visit)
 
 ## 🇸🇪 Krav (🇬🇧 Eligibility)
 
 === "🇸🇪"
 
-    Om du har fylld minst 8 år är du välkommen.
+    Om du har fyllt minst 8 år är du välkommen.
 
 === "🇬🇧"
 
     When you are at least 8 years old, you are welcome!
 
-## 🇸🇪 Föranmeldning (🇬🇧 Registration)
+## 🇸🇪 Föranmälan (🇬🇧 Registration)
 
 === "🇸🇪"
 
-    Ingen föranmeldning kravs: bara kommer förbi!
+    Ingen föranmälan kravs: bara kom förbi!
 
     Kolla dock på [veckoschemat](../veckoschemat.md) för att
-    ser ingen speciellt evenemang pågår.
+    se att inget speciellt evenemang pågår.
 
 === "🇬🇧"
 
     No need to register: just show up!
 
     Do take a look at the [weekly schedule](../veckoschemat.md)
-    to see if there are no special activities that day.
+    to see if there aren't any special activities that day.
 
-## 🇸🇪 Förbereding (🇬🇧 Preparation)
+## 🇸🇪 Förberedelse (🇬🇧 Preparation)
 
 === "🇸🇪"
 
-    Du behövs inte förberada: bara kommer förbi till din favoritkurs!
+    Du behöver inte förbereda: det är bara att komma förbi till din favoritkurs!
     Kolla dock på [kurserna](../kurserna/README.md) för att
-    bestämma när din favoritkurs pågår.
+    veta när din favoritkurs pågår.
 
-    Har du ett barbär dator, gjärna tar den med.
-    Om inte, du kan låna våra.
+    Har du en barbär dator, ta gärna med den.
+    Om inte, kan du låna en av våra.
 
 === "🇬🇧"
 
     No need to prepare: just show up at your favorite course!
-    Do take a look at [the courses](../kurserna/README.md) when your
+    Do take a look at [the courses](../kurserna/README.md) to know when your
     favorite course takes place.
 
     If you have a laptop, please take it with you.
-    If you don't, you can borrow ours.
+    If you don't, you can borrow one of ours.
 
-## 🇸🇪 Att kommer i (🇬🇧 Getting in)
+## 🇸🇪 Att komma in (🇬🇧 Getting in)
 
 === "🇸🇪"
 
-    Ser på [plats](../plats/README.md) var vi är
-    och var du kan ringa.
+    Titta på [plats](../plats/README.md) för att hitta vår adress
+    och vart du kan ringa på dörren.
 
-    Om du är lämnat i, personen på receptionsbordet tar
+    Väl inne hos oss så tar personen vid receptionsbordet 
     hand om dig.
 
 === "🇬🇧"
@@ -68,14 +68,14 @@
 
 === "🇸🇪"
 
-    Under kurstider blir eleverna sätt till arbete.
+    Under kurstider blir eleverna satta i arbete.
 
-    För föräldrar finns det soffarna, kaffe och te.
-    Vår volontärer har svar till dina frågor.
+    För medföljande vuxna finns det soffor, kaffe och te.
+    Våra volontärer har svar på dina frågor.
 
 === "🇬🇧"
 
     During course hours, the learners will be put to work.
 
-    For parents, there are sofas, coffee and tea.
+    For joining adults, there are sofas, coffee and tea.
     Our volunteers will answer all your questions.
