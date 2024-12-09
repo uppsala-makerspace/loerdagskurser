@@ -13,8 +13,8 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 - Kursmaterial
 - Programmeringsspråk - Arduino (C++): se [FAQ om Arduino](faq_arduino.md)
 - Programmeringsspråk - Processing (Java): se [FAQ om Processing](faq_processing.md)
-- Förväntningar på deltagande (barn)
-- Förväntningar på föräldrar
+- Förväntningar för deltagande (barn)
+- Förväntningar för tillhörande vuxna
 - Förväntningar på volontärer / frivilliga
 - Kostnad för kursen
 - Köpa komponenter
@@ -27,7 +27,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 
 När som helst!
 
-Ser [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
+Se [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
 
 ### Kan jag prova på en gång?
 
@@ -55,17 +55,17 @@ Om du är yngre än 8 år och redan har kommit igång med att programmera
 
 Vår erfarenhet säger oss att barn under 8 år som regel kan ha svårt att
 koncentrera sig långa stunder och det krävs också mer av läraren.
-Så vår riktlinje är att man bör vara minst 8 år gammal.
+Därför är riktlinje är att man bör vara minst 8 år gammal.
 
 ### Jag är över 88 år. Är jag välkommen?
 
-Japp, du är det!
+Japp, det är du!
 
 ## Kursmaterial
 
 ### Vad ska jag ta med?
 
-Det behöver på vad du vill göra:
+Det beror på vad du vill göra:
 
 Kurs       |Tar med gjärna [1]          |Installera gjärna [2]
 -----------|----------------------------|-----------------------------------------------------
@@ -74,15 +74,15 @@ Blender    |En bärbar dator med laddare |[Blender](https://www.blender.org/down
 `git`      |En bärbar dator med laddare |`git`, till exempel [https://git-scm.com/downloads](https://git-scm.com/downloads)
 Processing |En bärbar dator med laddare |[Processing IDE](https://processing.org/download)
 
-- [1] Om du inte har någon bärbar dator eller du vil prova först, kan du låna en av oss
-- [2] Om du har inte installerat det förut, gör vi det under kursen
+- [1] Om du inte har någon bärbar dator eller du vill prova först, så kan du låna en av oss
+- [2] Om du har inte installerat programmen förut, hjälps vi åt under kursen
 
 Om du kommer i ett lag, kanske du använder också:
 
 - [Codeberg](https://codeberg.org/): en hemsida
-- [Discord](https://discord.com/download): en chat program, du behöver att vara 13 år
-- [GitHub](https://github.com/): en hemsida, du behöver att vara 13 år
-- [Matrix](https://matrix.org/): en chat program
+- [Discord](https://discord.com/download): ett chat program, du behöver vara 13 år
+- [GitHub](https://github.com/): en hemsida, du behöver vara 13 år
+- [Matrix](https://matrix.org/): ett chat program
 
 ### Behöver jag ta med mig min mobil?
 
@@ -136,7 +136,7 @@ Efter rasten förtsätter vi igen och på slutet städar vi upp.
 ### Vad händer på en presentation?
 
 En presentation är ett speciellt tillfälle när vi presentera våra mästerverk.
-Det brukar bli näst sista kurstillfället på säsongen.
+Det brukar bli näst sista kurstillfället på terminen.
 
 Du får bjuda in din familj och vänner om du vill.
 (Förutsett att situationen med Covid-19 tillåter det.)
