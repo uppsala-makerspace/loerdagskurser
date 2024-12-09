@@ -1,3 +1,3 @@
-# Presentkort
+# Närvarolista
 
-- [Presentkort (PDF)](presence_list.pdf)
+- [Närvarolista (PDF)](presence_list.pdf)
