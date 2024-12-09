@@ -136,7 +136,7 @@ Efter rasten förtsätter vi igen och på slutet städar vi upp.
 ### Vad händer på en presentation?
 
 En presentation är ett speciellt tillfälle när vi presentera våra mästerverk.
-Det brukar bli nästa sista kurstillfället på säsongen.
+Det brukar bli näst sista kurstillfället på säsongen.
 
 Du får bjuda in din familj och vänner om du vill.
 (Förutsett att situationen med Covid-19 tillåter det.)
@@ -152,9 +152,9 @@ Vi avslutar med en utvärdering av kursen (anonymt). Det är lite tråkigt men d
 Om det finns intresse och tillfälle ges kan vi delta på olika evenemang, t.ex. Birdie eller SciFest.
 Där kan finnas möjlighet att både visa upp vad som åstadkommits eller undervisa andra i att programmera.
 
-![Våra elever (i röda T-skjörtor) hjälper med på Programmeringsdag i Uppsala Stadsbibliotek](verksamheter/20220507_programmeringsdag_usb/programmeringsdag_usb_2022.jpg)
+![Våra elever (i röda T-shirts) hjälper till på Programmeringsdag på Uppsala Stadsbibliotek](verksamheter/20220507_programmeringsdag_usb/programmeringsdag_usb_2022.jpg)
 
-> Våra elever (i röda T-skjörtor) hjälper med på Programmeringsdag i Uppsala Stadsbibliotek
+> Våra elever (i röda T-shirts) hjälper med på Programmeringsdag i Uppsala Stadsbibliotek
 
 ### Vem ska jag fråga om jag fastnar?
 
@@ -166,7 +166,7 @@ Det bästa sättet att lära sig är att få berätta för en kompis.
 
 ### Vad händer om en ny student kommer in?
 
-Ser [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
+Se [ditt första besök](ditt_foersta_besoek/README.md) hur detta kan bli!
 
 ### Jag kan inte komma på ett kurstillfälle
 
@@ -176,29 +176,29 @@ Inget problem!
 
 ### Är jag välkommen att stanna?
 
-Föräldrar är alltid välkommna att kolla lite vad som pågår på kursen.
+Föräldrar är alltid välkommna att kolla lite vad som pågår under kursen.
 
 Men, oftast är det bättre om ditt barn skapar nya bekantskaper på kursen
 och inte vänder sig till dig när det uppstår problem.
 Det är att skapa vänner som är anledning att elever stannar på kursen,
 ser [den här akademiska uppsats](akademiska_uppsatser/vrieler_2024.pdf)
 för referens.
-För att vi tycker om att behålla elever,
-gjärna hålla dig på lite avstånd under kursens
+Eftersom vi tycker om att behålla elever,
+får du gärna hålla dig på lite avstånd under kursens
 gång.
 
-- Tip 1: kom 5 minuter före slutet för att tar en kort titt :-)
-- Tip 2: om du har betalat kursavgiften är du medlem av Uppsala Makerspace!
+- Tips 1: kom 5 minuter innan avslut för att tar en kort titt :-)
+- Tips 2: om du har betalat kursavgiften så är du medlem i Uppsala Makerspace!
   Uppsala Makerspace är rätt stort så det går att vistas i ett annat
   rum och hålla på med egna projekt om du är labbmedlem.
 
 ### Är jag välkommen att hjälpa till?
 
-Javisst! Du kann bli en volontär.
+Javisst! Du kan bli en volontär.
 Vi försöker då ordna så du är i en annan grupp än ditt/dina barn,
 se frågan ovan.
 
-### Mitt/mina barn kan inte kom på ett kurstillfälle
+### Mitt/mina barn kan inte komma på ett kurstillfälle
 
 Inget problem!
 
@@ -215,17 +215,17 @@ så det ska helst inte vara fler än en vuxen per fyra barn.
 
 ## Lektioner och läromedel
 
-## Jag lära mig Processing och komma igång dirkt, hur går jag tillväga?
+## Jag vill lära mig Processing och komma igång dirket, hur går jag tillväga?
 
-Kul, självklart kan du komma igång själv!
+Kul, självklart kan du börja själv!
 
 [Ladda ner Arduino IDE här](https://www.arduino.cc/en/software).
 
-Arduino lektionerna finns på webbplatsen [Processing för ungdomar] (<https://github.com/richelbilderbeek/arduino_foer_ungdomar>).
+Arduino-lektionerna finns på webbplatsen [Processing för ungdomar] (<https://github.com/richelbilderbeek/arduino_foer_ungdomar>).
 
 ## Jag vill skapa på fler sätt än med datorn, är det möjligt?
 
-Javisst, men detta är en Arduino kurs.
+Javisst, men detta är en Arduino-kurs.
 
 Lyckligtvis, det finns det andra aktiviteter för Makerkids i Uppsala Makerspace, hör av dig till föreningen på <kansliet@uppsalamakerspace.se> eller prata med någon på våra öppna kvällar!
 Se också [tidigare aktiviteter](https://www.uppsalamakerspace.se/aktiviteter).
@@ -234,11 +234,11 @@ Se också [tidigare aktiviteter](https://www.uppsalamakerspace.se/aktiviteter).
 
 ### Vad kostar kursen?
 
-Ser [Betalning](betalning.md).
+Se [Betalning](betalning.md).
 
 ### Hur betalar jag kursen?
 
-Ser [Betalning](betalning.md).
+Se [Betalning](betalning.md).
 
 ### Jag har inte råd med kursavgiften. Hur ska jag göra?
 
@@ -253,54 +253,54 @@ Kostnaderna är i huvudsak för att trycka böckerna och lite fika.
 
 För att det är lättare att administrera.
 
-### Hur är pris från kursen räknet?
+### Hur är priset på kursen beräknat?
 
-Priserna för kursen är framräknade utifrån kostnader på [Copy-Systems (Nederlands)](https://www.copy-systems.nl/).
-Priserna är framräknade pessimistiskt.
+Priset för kursen är framräknat utifrån kostnader på [Copy-Systems (Nederlands)](https://www.copy-systems.nl/).
+Priset är pessimistiskt beräknat.
 
 En kurs kräver minst 8 böcker där varje bok innehåller 30 dubbelsidiga A4 sidor.
 
-- 1 bok 100 kr (färg, paa svartvit aar 1 bok 20 kr)
+- 1 bok 100 kr (färg, i svartvit är 1 bok 20 kr)
 
 2 certifikat:
 
-- 1 certifikat är 54 kr (färg)
+- 1 certifikat: 54 kr (färg)
 
 Lektionskort:
 
-- Färg: 1 kort är 10 kr
+- Färg: 1 kort: 10 kr
 
 Saft:
 
-- 30 kr per flask för 10 elever
+- 30 kr per flaska för 10 elever
 
 Presentation:
 
-Per elev, 30 kr:
+Per elev: 30 kr:
 
-- Kaffe för 1 föräldrar, 5 kr
-- te för 1 föräldrar, 5 kr
-- limonade för barn och 1 gast, 10 kr
-- Kakor, 4 personar, 10 kr
+- Kaffe för en vuxen: 5 kr
+- Te för en vuxen: 5 kr
+- Läsk för barn och en gäst: 10 kr
+- Kakor till 4 personer: 10 kr
 
 Per elev och termin:
 
 - 4x böcker = 400 kr
 - 1x certifikat = 54 kr
 - 1x lektionskort = 10 kr
-- 2x flaska saft = 60 kr
+- 2x flaskor saft = 60 kr
 - Presentation = 30 kr
 
 Det betyder,
 i början när det inte finns några böcker,
-blir kostnaden 554 kr per elev pro termin.
+blir kostnaden 554 kr per elev per termin.
 Det är en pessimistisk uppskattning.
 
 ## Köpa komponenter
 
-### Vem är bästa webshop för att köpa komponenter?
+### Vilken är den bästa webshopen för att köpa komponenter?
 
-From poll on UMS Slack:
+Ifrån enkät på UMS Slack:
 
 - 2x [Conrad](https://www.conrad.com/)
 - 1x Digikey
@@ -312,17 +312,17 @@ From poll on UMS Slack:
 
 ## Volontärer
 
-Ser [volontärer](volontaerer.md).
+Se [volontärer](volontaerer.md).
 
 ## Hemsidan
 
 ### Varför finns ingen stavningscheck?
 
 Hemsidan har många continuous integration checks,
-men ingen för att statas rätt.
-Det är på grund av att det finns inte bara ett språk.
+men ingen för att stava rätt.
+Det är på grund av att det finns mer än ett språk.
 
-Om du vet hur att göra bättre, gjärna [bidra](CONTRIBUTING.md)
+Om du vet hur man kan göra det bättre, [bidra](CONTRIBUTING.md) gärna
 
 ## 🇬🇧🇺🇦 Frequently asked questions
 
