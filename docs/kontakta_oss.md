@@ -2,7 +2,7 @@
 
 === "🇸🇪"
 
-    För att kontakta oss, schicka ett emelj till addressen nedåt:
+    För att kontakta oss, skicka ett email till addressen nedan:
 
 === "🇬🇧"
 
@@ -14,7 +14,7 @@ rjcbilderbeek@gmail.com
 
 === "🇸🇪"
 
-    För att var informerad, kolla gjärna på [följer oss](foeljer_oss/README.md)
+    För att hålla dig informerad, kolla gärna på [följer oss](foeljer_oss/README.md)
 
 === "🇬🇧"
 
