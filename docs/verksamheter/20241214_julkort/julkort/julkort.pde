@@ -140,6 +140,11 @@ void draw_enrico() {
   enrico_Y = enrico_Y + 2;
 }
 
+void draw_felipe()
+{
+  image(felipe_image, 200, 0, 200, 200);
+}
+
 void draw_herman()
 {
   fill(#00AA00);
@@ -276,13 +281,18 @@ void draw_malek()
   }
 }
 
+void draw_pablo()
+{
+  image(pablo_image, 400, 600, 200, 200);
+}
+
 void draw()
 {
   draw_alfred();
   draw_enrico();
-  //draw_felipe();
+  draw_felipe();
   draw_herman();
   draw_leonid();
   draw_malek();
-  //draw_pablo();
+  draw_pablo();
 }
