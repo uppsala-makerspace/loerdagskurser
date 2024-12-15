@@ -26,3 +26,4 @@
 - [2024-09-12: generellt flyggblad](20240912_general_flyer/README.md)
 - [2024-11-30: hackathon och slutpresentation](20241130_hackathon_och_slutpresentation/README.md)
 - [2024-12-07: vintersemester](20241207_vintersemester/README.md)
+- [2024-12-14: vintersemester](20241214_vintersemester/README.md)
