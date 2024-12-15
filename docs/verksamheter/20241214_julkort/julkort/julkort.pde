@@ -1,3 +1,10 @@
+float alfred_x1 = 0;
+float alfred_x2 = 0;
+float alfred_x3 = 0;
+float alfred_x4 = 0;
+float alfred_x5 = 0;
+float alfred_x6 = 0;
+
 float enrico_x = -200;
 int enrico_c = -300;
 int enrico_b = -400;
@@ -11,17 +18,17 @@ int enrico_k = -1100;
 int enrico_Y = -1200;
 int enrico_j = -1300;
 
-float alfred_x1 = 0;
-float alfred_x2 = 0;
-float alfred_x3 = 0;
-float alfred_x4 = 0;
-float alfred_x5 = 0;
-float alfred_x6 = 0;
+PImage herman_julgran;
+
+void setup_herman()
+{
+  herman_julgran = loadImage("herman_julgran.png");
+}
 
 void setup()
 {
-  textSize(20);
   size(800, 800);
+  setup_herman();
 }
 
 void draw_alfred()
@@ -54,6 +61,7 @@ void draw_alfred()
 
 void draw_enrico() {
   // Enrico
+  textSize(20);
   //background(0);
   fill(0); rect(0,0,200,200); //RJCB 
   fill(255); //RJCB 
@@ -84,14 +92,20 @@ void draw_enrico() {
   enrico_Y = enrico_Y + 2;
 }
 
+void draw_herman()
+{
+  fill(#00AA00);
+  textSize(100);
+  textAlign(CENTER, CENTER);
+  text("God", 100, 300);
+  text("Jul", 100, 500);
+  image(herman_julgran, 600, 200, 200, 400);  
+}
 
 
 void draw()
 {
   draw_alfred();
   draw_enrico();
+  draw_herman();
 }
-
-
-
-  
