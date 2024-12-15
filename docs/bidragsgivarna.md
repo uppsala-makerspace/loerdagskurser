@@ -2,7 +2,7 @@
 
 === "🇸🇪"
 
-    Detta är personer som har bidragit till den här hemsida.
+    Detta är personer som har bidragit till den här hemsidan.
 
     Tack så mycket!
 

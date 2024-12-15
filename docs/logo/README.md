@@ -1,18 +1,18 @@
-# Logo
+# Logga
 
-Lördagskurserna har följande logo:
+Lördagskurserna har följande logga:
 
 Bild|Beskriving
 ----|----------
-![Lördagskurserna logo stort](loerdagskurser_logo.png)|Stort logo
-![Lördagskurserna logo lite](loerdagskurser_logo_64_x_60.png)|Mindre logo
+![Lördagskurserna logo stort](loerdagskurser_logo.png)|Stor logga
+![Lördagskurserna logo lite](loerdagskurser_logo_64_x_60.png)|Mindre logga
 
-Gjärna avändt den här logo för alla coola saker du gör!
+Andvänd gärna denna logga till alla coola saker du gör!
 
-## Historien av logon
+## Historien av loggan
 
-Richèl behövde en logo och hade bråttom.
-Han designaded den här logo under fem minuter.
-För att den här processes är ett bra exempel
-av att helre göra nåt imperfekt över att gör ingenting
-blev logon användt sedan dess.
+Richèl behövde en logga och hade bråttom.
+Han designade den här loggan på under fem minuter.
+Eftersom denna processen är ett bra exempel
+av att det är bättre att göra nåt halvdant än att göra ingenting alls
+Därför har vi använt denna logga sedan dess.
