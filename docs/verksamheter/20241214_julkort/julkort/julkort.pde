@@ -20,6 +20,9 @@ int enrico_j = -1300;
 
 PImage herman_julgran;
 
+float malekX = 610;
+float malekgron = 0;
+
 void setup_herman()
 {
   herman_julgran = loadImage("herman_julgran.png");
@@ -64,7 +67,8 @@ void draw_enrico() {
   textSize(20);
   //background(0);
   fill(0); rect(0,0,200,200); //RJCB 
-  fill(255); //RJCB 
+  fill(255); //RJCB
+  stroke(0); //RJCB
   text("merry x-mas", 50, 50);
   ellipse(enrico_x, 100, 50, 50);
   enrico_x = enrico_x + 2;
@@ -102,10 +106,27 @@ void draw_herman()
   image(herman_julgran, 600, 200, 200, 400);  
 }
 
+void draw_malek()
+{
+  stroke(malekX - 200, malekgron, random(256));
+  fill(malekX - 200, malekgron, random(256));
+  rect(malekX, height - 100, 50, 50, 50);
+  malekX = malekX + 1;
+  malekgron = malekgron + 2;
+  if (malekX > 740)
+  {
+    malekX = 610;
+  }
+  if (malekgron > 255)
+  {
+  malekgron = 0;
+  }
+}
 
 void draw()
 {
   draw_alfred();
   draw_enrico();
   draw_herman();
+  draw_malek();
 }
