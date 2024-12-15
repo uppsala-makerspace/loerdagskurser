@@ -2,6 +2,8 @@
 
 ## Arduino och Blender
 
+![Arduino julkort machine 1](arduino_julkort_1.jpg)
+![Arduino julkort machine 2](arduino_julkort_2.jpg)
 
 ## Processing
 
