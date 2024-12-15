@@ -29,6 +29,11 @@ PImage heMask;
 PGraphics lrVid;
 PGraphics heVid;
 
+// Kevin
+import gifAnimation.*;
+Gif train;
+PImage trainbg;
+
 float malekX = 610;
 float malekgron = 0;
 
@@ -42,6 +47,12 @@ void setup_felipe()
 void setup_herman()
 {
   herman_julgran = loadImage("herman_julgran.png");
+}
+
+void setup_kevin(){
+  trainbg = loadImage("trainbg.png");
+  train = new Gif(this, "lokanimation.gif");
+  train.play();
 }
 
 void setup_leonid()
@@ -74,6 +85,7 @@ void setup()
   size(800, 800);
   setup_felipe();
   setup_herman();
+  setup_kevin();
   setup_leonid();
   setup_pablo();
 }
@@ -264,6 +276,13 @@ colorMode(RGB, 255);
   //image(lrMask,0,0);
 }
 
+void draw_kevin(){
+  fill(0,145,235);
+  rect(600,0,200,200);
+  image(trainbg,600,0);
+  image(train, 600, 25);
+}
+
 void draw_malek()
 {
   stroke(malekX - 200, malekgron, random(256));
@@ -292,6 +311,7 @@ void draw()
   draw_enrico();
   draw_felipe();
   draw_herman();
+  draw_kevin();
   draw_leonid();
   draw_malek();
   draw_pablo();
