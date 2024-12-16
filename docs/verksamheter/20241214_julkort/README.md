@@ -5,6 +5,8 @@
 ![Arduino julkort machine 1](arduino_julkort_1.jpg)
 ![Arduino julkort machine 2](arduino_julkort_2.jpg)
 
+- [YouTube video](https://youtu.be/sLy01XwOzDg)
+
 ## Processing
 
 ![Julkort 2024](julkort.png)
