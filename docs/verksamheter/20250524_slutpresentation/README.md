@@ -58,9 +58,15 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ...
 
+## Notes
+
+- [ ] Book room [#6](https://github.com/uppsala-makerspace/loerdagskurser/issues/6)
+
 ## Notes from next time
 
 - 22 presentations took 45 minutes to prepare with two computers,
   i.e. `preparation_time = n_presentations * 2 minutes`
 - 22 presentations took 60 minutes
   i.e. `presention_time = n_presentations * 3 minutes`
+
+
