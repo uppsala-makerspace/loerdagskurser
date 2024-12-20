@@ -1,6 +1,6 @@
 # Slutpresentation
 
-![En tidigare slutpresentation](IMG_1522.jpg)
+![En tidigare slutpresentation](../20241207_slutpresentation/IMG_4421.JPEG)
 
 > En tidigare slutpresentation
 
