@@ -69,4 +69,3 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 - 22 presentations took 60 minutes
   i.e. `presention_time = n_presentations * 3 minutes`
 
-
