@@ -53,7 +53,7 @@
     Titta på [plats](../plats/README.md) för att hitta vår adress
     och vart du kan ringa på dörren.
 
-    Väl inne hos oss så tar personen vid receptionsbordet 
+    Väl inne hos oss så tar personen vid receptionsbordet
     hand om dig.
 
 === "🇬🇧"
