@@ -17,3 +17,5 @@
 1  |HB |A    |A  |HB
 2  |HB |HB+LR|LR|HB
 3  |A  |HB+LR|P  |M
+
+- [YouTube video](https://youtu.be/5nuEpgky-Gg)
