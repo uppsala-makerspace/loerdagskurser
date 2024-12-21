@@ -225,10 +225,9 @@ Arduino-lektionerna finns på webbplatsen [Processing för ungdomar] (<https://g
 
 ## Jag vill skapa på fler sätt än med datorn, är det möjligt?
 
-Javisst, men detta är en Arduino-kurs.
-
-Lyckligtvis, det finns det andra aktiviteter för Makerkids i Uppsala Makerspace, hör av dig till föreningen på <kansliet@uppsalamakerspace.se> eller prata med någon på våra öppna kvällar!
-Se också [tidigare aktiviteter](https://www.uppsalamakerspace.se/aktiviteter).
+Javisst, det är mojligt att skapa skapa på fler sätt än med datorn,
+med det är tufft at förenas det med kurserna.
+En undantag är att skapa T-shirts med vinylskäraren.
 
 ## Kostnader för kursen
 

@@ -14,8 +14,8 @@ rjcbilderbeek@gmail.com
 
 === "🇸🇪"
 
-    För att hålla dig informerad, kolla gärna på [följer oss](foeljer_oss/README.md)
+    För att hålla dig informerad, kolla gärna på [följer oss](foelj_oss/README.md)
 
 === "🇬🇧"
 
-    To be informed, please see [how to follow us](foeljer_oss/README.md).
+    To be informed, please see [how to follow us](foelj_oss/README.md).
