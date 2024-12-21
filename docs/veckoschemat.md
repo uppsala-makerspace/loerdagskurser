@@ -48,8 +48,8 @@ Vecka| Dag      |Vad
 
 === "🇸🇪"
 
-    - Om det fins ingen plats skriven, är det på Uppsala Makerspace
-    - Om det fins ingen tid skriven, är det på vanligt kurstid
+    - Om det finns ingen plats skriven, är det på Uppsala Makerspace
+    - Om det finns ingen tid skriven, är det på vanligt kurstid
     - [Tidigare aktiviteter finns här](tidigare_veckoschemar.md)
 
 === "🇬🇧"
