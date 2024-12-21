@@ -12,7 +12,7 @@ det vill säga avgiften för undervisningsmaterialet.
 Vuxna elever behöver bara ha ett medlemskap.
 
 Du kan betala in via antingen bankgiro (584-8056) eller Swish (123 056 57 47).
-Finast är att använder formatet här (`LK` betyder 'Lördags Kurs'):
+Finast är att använde formatet här (`LK` betyder 'Lördags Kurs'):
 
 ```text
 LK: [nam], [email]
