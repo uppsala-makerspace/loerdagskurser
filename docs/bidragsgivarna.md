@@ -13,6 +13,6 @@
     Thanks so much!
 
 - [Aui Rönnemaa](https://github.com/auironnemaa)
-- [mardub1635](https://github.com/mardub1635)
+- Jossan
 - Lars van der Nat
-- Jossan :)
+- [mardub1635](https://github.com/mardub1635)
