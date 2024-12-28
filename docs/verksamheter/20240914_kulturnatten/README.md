@@ -64,3 +64,7 @@ Kort svar: ingenting :-). Du får tar med dig dina egna grejer på egen risk.
    kursdatorer, men det behövs inte håller i evigheten)
 * Arduino: samma sak som datorer. Du får utställa dina Arduino projekter,
    men vi kan aldrig vara säkert att dina grejer är trygg
+
+![Redo för Kulturnatten](20240914_kulturnatten.jpg)
+
+> Redo för Kulturnatten!
