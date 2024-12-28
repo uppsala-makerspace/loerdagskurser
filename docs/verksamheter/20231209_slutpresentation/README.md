@@ -56,6 +56,12 @@ UFO                   |13   |P   |UFO 2D2
 * Isaac's lag med konsigt namn: Felipe, Isaac, Pablo
 * Felipe och Pablo's lag: Felipe, Pablo
 
+## Preparation
+
+![Preparation](20240511_ovningspresentation.jpg)
+
+> Preparation done the week before
+
 ## Pictures
 
 ![2023-12-09 final presentation](IMG_1436.JPEG)
