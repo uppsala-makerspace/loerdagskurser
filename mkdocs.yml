@@ -1,6 +1,8 @@
 site_name: Lördagskurserna
 
 repo_url: https://github.com/uppsala-makerspace/loerdagskurser
+edit_uri: blob/main/docs/
+
 
 nav:
   - Kurserna: kurserna/README.md
