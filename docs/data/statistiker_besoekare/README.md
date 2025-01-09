@@ -11,4 +11,6 @@ As a plot:
 
 Predictions:
 
+![Predictions 2025](predictions_2025_linear.png)
+
 ![Predictions 2025](predictions_2025.png)
