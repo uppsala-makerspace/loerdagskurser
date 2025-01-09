@@ -53,6 +53,9 @@
     Titta på [plats](../plats/README.md) för att hitta vår adress
     och vart du kan ringa på dörren.
 
+    Det betyder att komma i kl. 10.00-10:15 eller 12.00-12.15,
+    inte tidigare :-)
+
     Väl inne hos oss så tar personen vid receptionsbordet
     hand om dig.
 
@@ -60,6 +63,9 @@
 
     See at [location](../plats/README.md) where we are
     and where you can ring the bell.
+
+    This means coming in between 10:00-10:15 or 12:00-12:15,
+    not earlier :-)
 
     After coming in, the person at the reception desk
     will take care of you.
