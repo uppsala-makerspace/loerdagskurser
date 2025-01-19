@@ -13,7 +13,11 @@ Predictions:
 
 ![Predictions 2025 by human](n_per_day_per_course_and_predictions.png)
 
-> Predictions 2025 by human, using a Gompertz fit
+> Predictions 2025 by human, using a Gompertz fit.
+> Note that both Arduino and Blender did not converge,
+> hence they are both set to zero. Due to this,
+> the predicted Blender values exactly overlap the
+> predicted Arduino values.
 
 ![Predictions 2025 by AI](predictions_2025_linear.png)
 
