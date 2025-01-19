@@ -11,6 +11,21 @@ As a plot:
 
 Predictions:
 
-![Predictions 2025](predictions_2025_linear.png)
+![Predictions 2025 by human](n_per_day_per_course_and_predictions.png)
 
-![Predictions 2025](predictions_2025.png)
+> Predictions 2025 by human, using a Gompertz fit
+
+![Predictions 2025 by AI](predictions_2025_linear.png)
+
+> Predictions 2025 by AI. Note how bad it does its predictions:
+> instead of taking the last amount of learners to predict on
+> (which is, for example, around 20 for Processing),
+> it takes the average amount of learners of the entire period.
+
+![Predictions 2025 by AI](predictions_2025.png)
+
+> Predictions 2025 by AI taking seasonality into account.
+> Note how bad it does its predictions:
+> instead of taking the last amount of learners to predict on
+> (which is, for example, around 20 for Processing),
+> it takes the average amount of learners of the entire period.
