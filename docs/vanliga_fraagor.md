@@ -319,9 +319,10 @@ Se [volontärer](volontaerer.md).
 
 Hemsidan har många continuous integration checks,
 men ingen för att stava rätt.
-Det är på grund av att det finns mer än ett språk.
+Det är på grund av att det finns mer än ett språk
+i texterna.
 
-Om du vet hur man kan göra det bättre, [bidra](CONTRIBUTING.md) gärna
+Om du vet hur man kan göra det bättre, gärna [bidra](CONTRIBUTING.md).
 
 ## 🇬🇧🇺🇦 Frequently asked questions
 
