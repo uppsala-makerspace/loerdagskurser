@@ -3,27 +3,20 @@
 Under Lördagskurserna är vi bara frivilliga som jobbar.
 Du får vara med i laget!
 
-## Björn
-
-Vi har flera Björnar på kurserna:
-
-- Atombjörn
-- Store Björn
-
-### AtomBjörn
+## Björn 'AtomBjörn'
 
 Björn är volontär på kursen.
 
 Han sittar mest vid receptionsbordet
 och kan svara på de flesta av era frågor.
 
-### Store Björn
+## Björn 'Store Björn'
 
 Björn är volontär på kursen.
 
 Han är bäst på Arduino och Blender.
 
-Han skapar allt möjligt och ger också kurser i Blender.
+Han är chef över Blenderkursen.
 
 ## Bogdan
 
@@ -51,19 +44,19 @@ Hon är bäst på Blender.
 
 ## Lily
 
-Lily är volontär på kursen.
+Lily var volontär på kursen.
 
 Hon är bäst på Processing.
 
 ## Ludvig
 
-Ludvig är volontär på kursen.
+Ludvig var volontär på kursen.
 
 Han är bäst på Arduino.
 
 ## Mathias
 
-Mathias är volontär på kursen.
+Mathias är volontär på kursen om någon kann inte vara där.
 
 Han är bäst på Arduino och programmering.
 
