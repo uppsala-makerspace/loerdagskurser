@@ -60,7 +60,7 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Notes
 
-- [ ] Book room [#6](https://github.com/uppsala-makerspace/loerdagskurser/issues/6)
+- [x] Book room [#6](https://github.com/uppsala-makerspace/loerdagskurser/issues/6)
 
 ## Notes from next time
 
