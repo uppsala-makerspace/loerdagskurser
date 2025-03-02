@@ -1,3 +1,14 @@
+---
+tags:
+  - dagschemat
+  - daily
+  - day
+  - schedule
+  - timetable
+  - time
+  - table
+---
+
 # Dagschemat
 
 När  |Arduino och Blender|Processing

@@ -1,3 +1,12 @@
+---
+tags:
+  - weekly
+  - schedule
+  - veckoschemat
+  - vecka
+  - schemat
+---
+
 # 🇸🇪 Veckoschemat (🇬🇧 Weekly schedule)
 
 === "🇸🇪"

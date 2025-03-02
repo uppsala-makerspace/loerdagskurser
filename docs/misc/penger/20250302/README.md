@@ -1,3 +1,8 @@
+---
+tags:
+  - funding request
+---
+
 # Penger
 
 Dear funder,

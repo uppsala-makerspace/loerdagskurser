@@ -1,3 +1,11 @@
+---
+tags:
+  - Kontakta oss
+  - Contact us
+  - email
+  - ask
+---
+
 # 🇸🇪 Kontakta oss (🇬🇧 Contact us)
 
 === "🇸🇪"

@@ -1,3 +1,10 @@
+---
+tags:
+  - volunteers
+  - frivilligare
+  - volontäre
+---
+
 # Volontärer
 
 Under Lördagskurserna är vi bara frivilliga som jobbar.
@@ -29,6 +36,12 @@ Han är bäst på programmering.
 Christoffer är volontär på kursen.
 
 Han är bäst på programmering.
+
+## Fredrik
+
+Fredrik är volontär på kursen.
+
+Han är bäst på Arduino och programmering.
 
 ## Janne
 

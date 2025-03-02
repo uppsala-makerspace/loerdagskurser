@@ -1,3 +1,11 @@
+---
+tags:
+  - årschema
+  - yearly
+  - year
+  - schedule
+---
+
 # Årschema
 
 Detta är det övergripande schemat. Ser veckoschema för detaljerna.

@@ -1,3 +1,12 @@
+---
+tags:
+  - Lördagskurserna
+  - Lördagskurser
+  - Lördags kurser
+  - Saturdaycourses
+  - Saturday courses
+---
+
 # Lördagskurserna
 
 ![Lördagskurser logo](logo/loerdagskurser_logo_64_x_60.png)

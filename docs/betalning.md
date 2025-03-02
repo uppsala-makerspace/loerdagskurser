@@ -1,3 +1,13 @@
+---
+tags:
+  - betalning
+  - payment
+  - contribution
+  - money
+  - penger
+  - kostnader
+---
+
 # Betalning
 
 Grundavgiften för en ny (minderårig) elev är 600 kronor,
