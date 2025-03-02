@@ -47,7 +47,7 @@ These evaluation results are publicly available at
 One of the things I am most proud of, is that I can say/write that,
 for my courses, money is never a problem. The Lördagskurser only uses
 volunteers for teaching and we are hosted by the Uppsala Makerspace,
-which has similar idealistic ideas. 
+which has similar idealistic ideas.
 The course asks 900 kroner per minor. This money is used to cover expenses,
 mostly electronic components, printing costs and the obligatory pizza
 at a hackathon.
@@ -89,7 +89,7 @@ We don't need much, I mostly need them to be reliable. Taking a look at
 baseline.
 
 Here, I request 150,000 kronor, which is the financial means to buy 30
-laptops of 5000 kronor. 
+laptops of 5000 kronor.
 
 This amount of money may not be much to this fund, but to me it would
 mean a world of difference, in which my students would finally be able
