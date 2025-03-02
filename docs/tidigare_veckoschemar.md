@@ -57,6 +57,7 @@ Vecka| Dag      |Vad
 46   |2024-11-16| 11. [Efterfarsdag](verksamheter/20241116_efterfarsdag/README.md) [1]
 47   |2024-11-23| 12.
 48   |2024-11-30| 13. Övning slutpresentation
+49   |2024-12-07| [Slutpresentation](verksamheter/20241207_slutpresentation/README.md)
 
 ## 2023
 
