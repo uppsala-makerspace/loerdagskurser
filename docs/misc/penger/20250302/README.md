@@ -85,7 +85,7 @@ The laptops we need do not need to be the best, nor be bought first-hand,
 nor have a proprierary operating system. However,
 they must not be Chromebooks, as these are unsuitable for programming.
 We don't need much, I mostly need them to be reliable. Taking a look at
-[webhallen.com](webhallen.com) it seems 5000 kr per laptops is a reasonable
+[webhallen.com](https://webhallen.com) it seems 5000 kr per laptops is a reasonable
 baseline.
 
 Here, I request 150,000 kronor, which is the financial means to buy 30
