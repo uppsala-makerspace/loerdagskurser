@@ -254,7 +254,8 @@ För att det är lättare att administrera.
 
 ### Hur är priset på kursen beräknat?
 
-Priset för kursen är framräknat utifrån kostnader på [Copy-Systems (Nederlands)](https://www.copy-systems.nl/).
+Priset för kursen är framräknat utifrån kostnader på
+vår tryckare (Copy-Systems, i Nederländerna).
 Priset är pessimistiskt beräknat.
 
 En kurs kräver minst 8 böcker där varje bok innehåller 30 dubbelsidiga A4 sidor.
