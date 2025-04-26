@@ -2,10 +2,10 @@
 
 <!-- markdownlint-disable MD013 --><!-- Table rows must be put on one line, hence 80 chars is unavoidable -->
 
-[![Check bash style](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_bash_style.yaml/badge.svg?branch=master)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_bash_style.yaml)
-[![Check links](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml/badge.svg?branch=master)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml)
-[![Check markdown](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_markdown.yaml/badge.svg?branch=master)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_markdown.yaml)
-[![Create website](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/create_website.yaml/badge.svg?branch=master)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/create_website.yaml)
+[![Check bash style](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_bash_style.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_bash_style.yaml)
+[![Check links](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml)
+[![Check markdown](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_markdown.yaml)
+[![Create website](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/create_website.yaml)
 
 <!-- markdownlint-enable MD013 -->
 
