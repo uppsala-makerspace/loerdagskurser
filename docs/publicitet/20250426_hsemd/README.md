@@ -1,3 +1,3 @@
-# 2023-11-11 Efterfarsdag, hackathon och slutpresentation
+# 2025-04-26 Hackathon, slutpresentation och eftermorsdag
 
-- [20231111_efdhs.pdf](20231111_efdhs.pdf)
+- [20250426_hsemd.pdf](20250426_hsemd.pdf)
