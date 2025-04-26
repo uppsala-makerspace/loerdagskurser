@@ -68,4 +68,6 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
   i.e. `preparation_time = n_presentations * 2 minutes`
 - 22 presentations took 60 minutes
   i.e. `presention_time = n_presentations * 3 minutes`
+- Let all pupils present a line of code and/or a part of their 3D image.
+  It slows down the presentations and makes them look into the audience more
 
