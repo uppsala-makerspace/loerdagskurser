@@ -56,7 +56,13 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-...
+Namn                 |Titel                                  |Notiser
+---------------------|---------------------------------------|------------------
+.                    |.                                      |.
+.                    |.                                      |.
+.                    |.                                      |.
+.                    |.                                      |.
+.                    |.                                      |.
 
 ## Notes
 
