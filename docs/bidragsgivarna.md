@@ -13,6 +13,7 @@
     Thanks so much!
 
 - [Aui Rönnemaa](https://github.com/auironnemaa)
+- Jarita
 - Jossan
 - Lars van der Nat
 - [mardub1635](https://github.com/mardub1635)
