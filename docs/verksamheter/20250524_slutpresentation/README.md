@@ -56,13 +56,46 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-Namn                 |Titel                                  |Notiser
----------------------|---------------------------------------|------------------
-.                    |.                                      |.
-.                    |.                                      |.
-.                    |.                                      |.
-.                    |.                                      |.
-.                    |.                                      |.
+### 10:00-12:00
+
+Namn                   |Ålder|Titel                                  |Notiser
+-----------------------|-----|---------------------------------------|------------------
+Dennis                 |.    |WeFree                                 |A
+Gordii                 |.    |Ljus                                   |A
+Björn och Love         |.    |Disco                                  |A
+Linus                  |.    |Armeé                                  |B
+Ilon                   |.    |Joystick                               |A
+Sixten                 |.    |Sixtenprojekt                          |A
+Adam                   |.    |Jobbiga ljud 2.0                       |A
+Emil                   |.    |Space cannon                           |B
+Ahmet                  |.    |Samurai                                |B
+Jacob                  |.    |Tre lampor lyser                       |A
+Alfred, Daniel och Vide|.    |Grodcasino                             |Roblox
+
+### 12:00-14:00
+
+Namn                   |Ålder|Titel                                  |Notiser
+-----------------------|-----|---------------------------------------|------------------
+Tindra                 |.    |Tindraprojekt                          |P
+Noah                   |.    |Three In One                           |P
+Enrico                 |.    |Stay In The Square                     |P
+Philip                 |.    |Philipprojekt                          |P
+Luca                   |.    |Superbollen                            |P
+Yusef                  |.    |-                                      |-
+Mats                   |.    |Retrogolf                              |P
+Stefan                 |.    |-                                      |-
+Malek                  |.    |Error 666                              |P
+Herman och Leonid      |.    |Train Game                             |P
+Niko                   |.    |Book Of Program                        |P
+Axel                   |.    |Axelprojekt                            |P
+Felipe                 |.    |Fire Rain                              |P
+Isaac och Pablo        |.    |Platformer 2D                          |Godot
+Gabriel                |.    |Ultimate Pong                          |P
+Otto                   |.    |Ottoprojekt                            |P
+Oskar                  |.    |Oskarprojekt                           |P
+Diesel                 |.    |?                                      |?
+Elis                   |.    |?                                      |?
+
 
 ## Notes
 
