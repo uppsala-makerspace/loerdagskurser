@@ -29,6 +29,7 @@ När  |Besökare                           | Elever
 -----|-----------------------------------|-----------------------
 11:00|Dör öpnas [G]                      | Dör öpnas [M]
 11:01|Väntar med kaffe, te och kakor [G] | Förbereda presentation [M]
+11:01|Store Björn pratar [G]             | .
 11:30|Kollar på presentationer  [M]      | Ger presentationer  [M]
 12:00|Rast [M]                           | Rast  [M]
 12:15|Utvärdering med föräldrar [M]      | Anonym utvärdering [B]
@@ -56,8 +57,6 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-TODAY
-
 Namn                          |Ålder|Titel                                  |Notiser
 ------------------------------|-----|---------------------------------------|------------------
 Björn (Store)                 |-Inf |Blender                                |B, live demo
@@ -68,7 +67,7 @@ Jacob                         |0    |Tio lampor lyser                       |A
 Philip                        |1    |Philipprojekt                          |P
 Ilon                          |9    |Joystick                               |A
 Björn och Love                |?10  |Disco                                  |A
-Gordii                        |?10  |Ljus                                   |A, need to bring code
+[TODO] Gordii                 |?10  |Ljus                                   |A, need to bring code
 Dennis                        |10   |WeFree                                 |A
 Emil                          |10   |Space cannon                           |B
 Morten                        |10   |Mortenproject                          |A
@@ -78,7 +77,7 @@ Ben and Leo                   |11   |.                                      |P
 Enrico                        |11   |Stay In The Square                     |P
 Shushanti                     |11   |House                                  |P
 Tindra                        |11   |Delfin                                 |P
-Ahmet                         |12   |Revolver                          |B, redo
+Ahmet                         |12   |Revolver                               |B
 Gabriel                       |12   |Pong Infinite Mode                     |P
 Otto                          |12   |Bouncecounter                          |P
 Isaac och Pablo               |?13  |Platformer 2D                          |Godot, will present from own computer
