@@ -56,65 +56,66 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-### 10:00-12:00
+TODAY
 
-Namn                   |Ålder|Titel                                  |Notiser
------------------------|-----|---------------------------------------|------------------
-Adam                   |0    |Jobbiga ljud 2.0                       |A, kommer till hackathon, redo efter rasten
-Jacob                  |0    |Tio lampor lyser                       |A, kommer till hackathon, placebi idag
-Philip                 |1    |Philipprojekt                          |P, kommer til hackathon, placobo idag
-Björn och Love         |.    |Disco                                  |A, redo
-Ilon                   |9    |Joystick                               |A, kommer till hackathon, placebo idag
-Dennis                 |10   |WeFree                                 |A, redo 
-Emil                   |10   |Space cannon                           |B, kommer till hackathon, placebo idag
-Morten                 |10   |Mortenproject                          |A, kommer till hackathon, placebo
-Sixten                 |10   |Sixtenprojekt                          |A, kommer till hackathon, placebo
-Alfred, Daniel och Vide|11   |Grodcasino                             |Roblox, tag med egen dator till USB, placeco, kommer till hackathn
-Ahmet                  |12   |Revolver                               |B, redo
-Gordii                 |.    |Ljus                                   |A, ?absent today
-Linus                  |.    |Armeé                                  |B, ?absent today
+Namn                          |Ålder|Titel                                  |Notiser
+------------------------------|-----|---------------------------------------|------------------
+Björn (Store)                 |-Inf |Blender                                |B, live demo
+Fredrik                       |-Inf |Arduino                                |A
+Richel                        |-Inf |Processing                             |P
+[TODO] Adam                   |0    |Jobbiga ljud 2.0                       |A, will give code
+Jacob                         |0    |Tio lampor lyser                       |A
+Philip                        |1    |Philipprojekt                          |P
+Ilon                          |9    |Joystick                               |A
+Björn och Love                |?10  |Disco                                  |A
+Gordii                        |?10  |Ljus                                   |A, need to bring code
+Dennis                        |10   |WeFree                                 |A
+Emil                          |10   |Space cannon                           |B
+Morten                        |10   |Mortenproject                          |A
+Sixten                        |10   |Sixtenprojekt                          |A
+Alfred, Daniel och Vide       |11   |Grodcasino                             |Use their own computer
+Ben and Leo                   |11   |.                                      |P
+Enrico                        |11   |Stay In The Square                     |P
+Shushanti                     |11   |House                                  |P
+Tindra                        |11   |Delfin                                 |P
+Ahmet                         |12   |Revolver                          |B, redo
+Gabriel                       |12   |Pong Infinite Mode                     |P
+Otto                          |12   |Bouncecounter                          |P
+Isaac och Pablo               |?13  |Platformer 2D                          |Godot, will present from own computer
+Felipe                        |?13  |Fire Rain                              |P
+Axel                          |13   |Lavaball                               |P, will practice today
+Niko                          |13   |Book Of Programs                        |Uses own computer
+[TODO] Kevin                  |?14   |Minesweeper                            |P, will send me new code
+Mats                          |15   |Retrogolf                              |P, will give code, will practice present
+Herman och Leonid             |99    |Train Game                             |Use their own computer
+[TODO] Linus                         |.    |Armeé                                  |B, Need drawing
+[TODO] Noah                          |.    |Three In One                           |P, no code yet
+[TODO] Luca                          |.    |Superbollen                            |P, no code yet
+[TODO] Malek                         |.    |Error 666                              |P, no code yet
+[TODO] Diesel                        |.    |?                                      |?, no code yet
+[TODO] Elis                          |.    |?                                      |?, no code yet
+[TODO] Oskar        |.    |Oskarprojekt                     |P
 
+## Absent
 
-### 12:00-14:00
+- Pelle
 
-Namn                   |Ålder|Titel                                  |Notiser
------------------------|-----|---------------------------------------|------------------
-[REAL, DONE] Oskar     |.    |Oskarprojekt                     |P
-[REAL, DONE] Kevin     |.    |Minesweeper                            |P, 
-[REAL, DONE] Felipe      |.    |Fire Rain                              |P, will be at hackaton
+## Audience
 
-Tindra                 |.    |Tindraprojekt                          |P
-Noah                   |.    |Three In One                           |P
-Luca                   |.    |Superbollen                            |P
-Yusef                  |.    |-                                      |-
-Stefan                 |.    |-                                      |-
-Malek                  |.    |Error 666                              |P
-Herman och Leonid      |.    |Train Game                             |P
-Niko                   |.    |Book Of Program                        |P
-Axel                   |.    |Axelprojekt                            |P
-Gabriel                |.    |Ultimate Pong                          |P
-Otto                   |.    |Ottoprojekt                            |P
-Diesel                 |.    |?                                      |?
-Elis                   |.    |?                                      |?
-[SKIP] Isaac och Pablo        |.    |Platformer 2D                          |Godot, will present from own computer
-[SKIP] Enrico          |.    |Stay In The Square                     |P, at hackathon
-[SKIP] Ben and Leo     |11   |.                                      |P, 
-[SKIP] Mats            |.    |Retrogolf                              |P, tomorrow hackathon, 
-[SKIP] Shushanti       |.    |                                       |P, at hackathon, 
-[NO] Emil              |.    |?                                      |P, no presention, will be audience
-[NO] Kinuli            |.    |                                       |P, no presentation, will help
-[NO] Alice             |.    |                                       |No prensetation, will help
-[NO] William           |.    |                                       |No prensetation, will help
-[NO] Li                |.    |                                       |No preseyayopm, will help
-[NO] Lukas             |.    |                                       |No presentation, will 
-[SKIP] Herman and Leonid|99   |.                                      |At hackathon
-[NO] Felix                  |.   |.                                  |No presentation, will be audenice
+- Emil
+- Felix
+- Yusef
+- Stefan
 
+## Volunteers
 
+- Alice
+- Kinuli
+- Li
+- Lukas
+- William
 
 ## Notes
-
-- [x] Book room [#6](https://github.com/uppsala-makerspace/loerdagskurser/issues/6)
 
 ## Notes from next time
 
