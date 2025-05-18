@@ -60,41 +60,56 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Namn                   |Ålder|Titel                                  |Notiser
 -----------------------|-----|---------------------------------------|------------------
-Dennis                 |.    |WeFree                                 |A
-Gordii                 |.    |Ljus                                   |A
-Björn och Love         |.    |Disco                                  |A
-Linus                  |.    |Armeé                                  |B
-Ilon                   |.    |Joystick                               |A
-Sixten                 |.    |Sixtenprojekt                          |A
-Adam                   |.    |Jobbiga ljud 2.0                       |A
-Emil                   |.    |Space cannon                           |B
-Ahmet                  |.    |Samurai                                |B
-Jacob                  |.    |Tre lampor lyser                       |A
-Alfred, Daniel och Vide|.    |Grodcasino                             |Roblox
+Adam                   |0    |Jobbiga ljud 2.0                       |A, kommer till hackathon, redo efter rasten
+Jacob                  |0    |Tio lampor lyser                       |A, kommer till hackathon, placebi idag
+Philip                 |1    |Philipprojekt                          |P, kommer til hackathon, placobo idag
+Björn och Love         |.    |Disco                                  |A, redo
+Ilon                   |9    |Joystick                               |A, kommer till hackathon, placebo idag
+Dennis                 |10   |WeFree                                 |A, redo 
+Emil                   |10   |Space cannon                           |B, kommer till hackathon, placebo idag
+Morten                 |10   |Mortenproject                          |A, kommer till hackathon, placebo
+Sixten                 |10   |Sixtenprojekt                          |A, kommer till hackathon, placebo
+Alfred, Daniel och Vide|11   |Grodcasino                             |Roblox, tag med egen dator till USB, placeco, kommer till hackathn
+Ahmet                  |12   |Revolver                               |B, redo
+Gordii                 |.    |Ljus                                   |A, ?absent today
+Linus                  |.    |Armeé                                  |B, ?absent today
+
 
 ### 12:00-14:00
 
 Namn                   |Ålder|Titel                                  |Notiser
 -----------------------|-----|---------------------------------------|------------------
+[REAL, DONE] Oskar     |.    |Oskarprojekt                     |P
+[REAL, DONE] Kevin     |.    |Minesweeper                            |P, 
+[REAL, DONE] Felipe      |.    |Fire Rain                              |P, will be at hackaton
+
 Tindra                 |.    |Tindraprojekt                          |P
 Noah                   |.    |Three In One                           |P
-Enrico                 |.    |Stay In The Square                     |P
-Philip                 |.    |Philipprojekt                          |P
 Luca                   |.    |Superbollen                            |P
 Yusef                  |.    |-                                      |-
-Mats                   |.    |Retrogolf                              |P
 Stefan                 |.    |-                                      |-
 Malek                  |.    |Error 666                              |P
 Herman och Leonid      |.    |Train Game                             |P
 Niko                   |.    |Book Of Program                        |P
 Axel                   |.    |Axelprojekt                            |P
-Felipe                 |.    |Fire Rain                              |P
-Isaac och Pablo        |.    |Platformer 2D                          |Godot
 Gabriel                |.    |Ultimate Pong                          |P
 Otto                   |.    |Ottoprojekt                            |P
-Oskar                  |.    |Oskarprojekt                           |P
 Diesel                 |.    |?                                      |?
 Elis                   |.    |?                                      |?
+[SKIP] Isaac och Pablo        |.    |Platformer 2D                          |Godot, will present from own computer
+[SKIP] Enrico          |.    |Stay In The Square                     |P, at hackathon
+[SKIP] Ben and Leo     |11   |.                                      |P, 
+[SKIP] Mats            |.    |Retrogolf                              |P, tomorrow hackathon, 
+[SKIP] Shushanti       |.    |                                       |P, at hackathon, 
+[NO] Emil              |.    |?                                      |P, no presention, will be audience
+[NO] Kinuli            |.    |                                       |P, no presentation, will help
+[NO] Alice             |.    |                                       |No prensetation, will help
+[NO] William           |.    |                                       |No prensetation, will help
+[NO] Li                |.    |                                       |No preseyayopm, will help
+[NO] Lukas             |.    |                                       |No presentation, will 
+[SKIP] Herman and Leonid|99   |.                                      |At hackathon
+[NO] Felix                  |.   |.                                  |No presentation, will be audenice
+
 
 
 ## Notes
