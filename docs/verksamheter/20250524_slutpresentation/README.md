@@ -61,7 +61,7 @@ Namn                          |Ålder|Titel                                  |No
 ------------------------------|-----|---------------------------------------|------------------
 Björn (Store)                 |-Inf |Blender                                |B, live demo
 Fredrik                       |-Inf |Arduino                                |A
-Richel                        |-Inf |Processing                             |P
+Richel                        |-Inf |ProPokeVolley                          |P, needs two volunteers, from the volunteers
 [TODO] Adam                   |0    |Jobbiga ljud 2.0                       |A, will give code
 Jacob                         |0    |Tio lampor lyser                       |A
 Philip                        |1    |Philipprojekt                          |P
@@ -93,10 +93,10 @@ Herman och Leonid             |99    |Train Game                             |Us
 [TODO] Malek                         |.    |Error 666                              |P, no code yet
 [TODO] Diesel                        |.    |?                                      |?, no code yet
 [TODO] Elis                          |.    |?                                      |?, no code yet
-[TODO] Oskar        |.    |Oskarprojekt                     |P
 
 ## Absent
 
+- Oskar
 - Pelle
 
 ## Audience
