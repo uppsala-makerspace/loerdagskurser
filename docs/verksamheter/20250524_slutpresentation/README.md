@@ -64,7 +64,8 @@ Fredrik                       |-Inf |Arduino                                |A
 Richel                        |-Inf |ProPokeVolley                          |P, needs two volunteers, from the volunteers
 [TODO] Adam                   |0    |Jobbiga ljud 2.0                       |A, will give code
 Jacob                         |0    |Tio lampor lyser                       |A
-Philip                        |1    |Philipprojekt                          |P
+Philip                        |1    |Philipprojekt                          |P, needs to present early
+Gabriel                       |2    |Pong Infinite Mode                     |P, needs to present early
 Ilon                          |9    |Joystick                               |A
 Björn och Love                |?10  |Disco                                  |A
 [TODO] Gordii                 |?10  |Ljus                                   |A, need to bring code
@@ -78,7 +79,6 @@ Enrico                        |11   |Stay In The Square                     |P
 Shushanti                     |11   |House                                  |P
 Tindra                        |11   |Delfin                                 |P
 Ahmet                         |12   |Revolver                               |B
-Gabriel                       |12   |Pong Infinite Mode                     |P
 Otto                          |12   |Bouncecounter                          |P
 Isaac och Pablo               |?13  |Platformer 2D                          |Godot, will present from own computer
 Felipe                        |?13  |Fire Rain                              |P
