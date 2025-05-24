@@ -124,14 +124,13 @@ Herman och Leonid             |99    |Train Game                             |Us
 - Courses changes:
 
     - We moved up
-
-![Number of learners per course](franvaro_2025_1_n_per_course.png)
-
     - We added a reception desk
     - Team of volunteers:
         - 'veteran' volunteers: Janne (Processing), Kristoffer (Processing), Store Björn (Blender)
         - volunteers that left: Leslie (Blender)
         - new volunteers: Atom Björn (reception desk), Dennis (Processing), Elisha (Processing), Fredrik (Arduino), Nikita (Processing)
+
+![Number of learners per course](franvaro_2025_1_n_per_course.png)
 
 - Future plans:
 
