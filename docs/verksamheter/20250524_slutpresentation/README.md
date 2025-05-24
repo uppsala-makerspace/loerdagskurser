@@ -116,6 +116,29 @@ Herman och Leonid             |99    |Train Game                             |Us
 
 ## Presentation parents
 
+- Don't forget:
+    - Next week: no course, because of klämdag
+    - In two weeks: last course day, which is an Eftermorsdag
+    - Next season starts 2025-08-23
+
+- Courses changes:
+
+    - We moved up
+
+![Number of learners per course](franvaro_2025_1_n_per_course.png)
+
+    - We added a reception desk
+    - Team of volunteers:
+        - 'veteran' volunteers: Janne (Processing), Kristoffer (Processing), Store Björn (Blender)
+        - volunteers that left: Leslie (Blender)
+        - new volunteers: Atom Björn (reception desk), Dennis (Processing), Elisha (Processing), Fredrik (Arduino), Nikita (Processing)
+
+- Future plans:
+
+    - Cooking course, 9:00-10:00, as part of the regular course
+
+- Extra thanks to these kids:
+
 ![How often learners offered to help new learners](n_offer_help_per_person_2025_1.png)
 
 ## Notes
