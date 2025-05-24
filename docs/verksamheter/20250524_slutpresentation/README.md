@@ -62,7 +62,7 @@ Namn                          |Ålder|Titel                                  |No
 Björn (Store)                 |-Inf |Blender                                |B, live demo
 Fredrik                       |-Inf |Arduino                                |A
 Richel                        |-Inf |ProPokeVolley                          |P, needs two volunteers, from the volunteers
-[TODO] Adam                   |0    |Jobbiga ljud 2.0                       |A
+Adam                          |0    |Jobbiga ljud 2.0                       |A
 Jacob                         |0    |Discoled                               |A
 Philip                        |1    |Philipprojekt                          |P, needs to present early
 Gabriel                       |2    |Pong Infinite Mode                     |P, needs to present early
@@ -88,6 +88,7 @@ Niko                          |13   |Book Of Programs                        |Us
 [TODO] Kevin                  |?14   |Minesweeper                            |P, will send me new code
 Mats                          |15   |Retrogolf                              |P, will give code, will practice present
 Herman och Leonid             |99    |Train Game                             |Use their own computer
+
 [TODO] Linus                         |.    |Armeé                                  |B, Need drawing
 [TODO] Noah                          |.    |Three In One                           |P, no code yet
 [TODO] Malek                         |.    |Error 666                              |P, no code yet
