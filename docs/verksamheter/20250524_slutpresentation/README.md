@@ -62,8 +62,8 @@ Namn                          |Ålder|Titel                                  |No
 Björn (Store)                 |-Inf |Blender                                |B, live demo
 Fredrik                       |-Inf |Arduino                                |A
 Richel                        |-Inf |ProPokeVolley                          |P, needs two volunteers, from the volunteers
-[TODO] Adam                   |0    |Jobbiga ljud 2.0                       |A, will give code
-Jacob                         |0    |Tio lampor lyser                       |A
+[TODO] Adam                   |0    |Jobbiga ljud 2.0                       |A
+Jacob                         |0    |Discoled                               |A
 Philip                        |1    |Philipprojekt                          |P, needs to present early
 Gabriel                       |2    |Pong Infinite Mode                     |P, needs to present early
 Ilon                          |9    |Joystick                               |A
@@ -71,6 +71,7 @@ Björn och Love                |?10  |Disco                                  |A
 [TODO] Gordii                 |?10  |Ljus                                   |A, need to bring code
 Dennis                        |10   |WeFree                                 |A
 Emil                          |10   |Space cannon                           |B
+Luca                          |10   |Superbollen                            |P
 Morten                        |10   |Mortenproject                          |A
 Sixten                        |10   |Sixtenprojekt                          |A
 Alfred, Daniel och Vide       |11   |Grodcasino                             |Use their own computer
@@ -89,7 +90,6 @@ Mats                          |15   |Retrogolf                              |P, 
 Herman och Leonid             |99    |Train Game                             |Use their own computer
 [TODO] Linus                         |.    |Armeé                                  |B, Need drawing
 [TODO] Noah                          |.    |Three In One                           |P, no code yet
-[TODO] Luca                          |.    |Superbollen                            |P, no code yet
 [TODO] Malek                         |.    |Error 666                              |P, no code yet
 [TODO] Diesel                        |.    |?                                      |?, no code yet
 [TODO] Elis                          |.    |?                                      |?, no code yet
