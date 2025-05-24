@@ -114,6 +114,10 @@ Herman och Leonid             |99    |Train Game                             |Us
 - Lukas
 - William
 
+## Presentation parents
+
+![How often learners offered to help new learners](n_offer_help_per_person_2025_1.png)
+
 ## Notes
 
 ## Notes from next time
