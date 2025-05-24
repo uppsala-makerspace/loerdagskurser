@@ -31,8 +31,8 @@ När  |Besökare                           | Elever
 11:01|Väntar med kaffe, te och kakor [G] | Förbereda presentation [M]
 11:01|Store Björn pratar [G]             | .
 11:30|Kollar på presentationer  [M]      | Ger presentationer  [M]
-12:00|Rast [M]                           | Rast  [M]
-12:15|Utvärdering med föräldrar [M]      | Anonym utvärdering [B]
+12:30|Rast [M]                           | Rast  [M]
+12:45|Utvärdering med föräldrar [M]      | Anonym utvärdering [B]
 13:00|Slut                               | Slut
 
 - [G] Grupprum brevid Mallassal
