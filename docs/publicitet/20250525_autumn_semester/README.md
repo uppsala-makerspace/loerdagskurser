@@ -1,5 +1,7 @@
 # 20250525_autumn_semester
 
+- 2025-05-31 Klämdag, ej kurs
+
 - 2025-06-07 Eftermorsdag
 
 - 2025-06-14-2025-08-16
