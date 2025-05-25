@@ -17,8 +17,8 @@
       Store Björn (Blender): it is great having such experienced
       volunteers.
     - volunteers that left: Leslie (Blender): it is too bad, but, indeed,
-      the Blender course's attendance did go down. 
-    - new volunteers: Atom Björn (reception desk), 
+      the Blender course's attendance did go down.
+    - new volunteers: Atom Björn (reception desk),
       Dennis (Processing), Elisha (Processing), Fredrik (Arduino),
       Nikita (Processing): these are all great volunteers and I am
       very happy to have them.
@@ -109,8 +109,4 @@ If there are volunteers for this, I'd be happy to help them!
 I think the breaks should be 15 minutes, as 11 is quite an unexpected
 duration that makes the schedule look all funky.
 I hope the cooking course reduces the need for cookies and pan pizzas.
-
-
-
-
 
