@@ -1,5 +1,61 @@
 # Reflection 2025-05-24 by Richel
 
+I think this season went great,
+thanks to all people (volunteers, parents, kids) involved.
+
+One event that showed how awesome the team of volunteers is,
+is when I had to leave unexpectedly due to personal reasons:
+Atom Björn took over being boss and the regular volunteers
+took over all other matters. This went super smooth and I had never
+found the teaching room as clear.
+
+Things that are being worked on:
+
+- Getting a registerutdrag for all volunteers.
+  I've been working on this, but slowly, as there were
+  matters of higher priority.
+  The UMS styrelse is helping me with this
+- Collecting the emergency telephone numbers of parents.
+  The procedure to do so has been delegated to Atom Björn and Store Björn:
+  it's in good hands.
+- Rules about
+  [reporting concern for a child's welfare](https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/barn-och-unga/barn-som-far-illa/):
+  I think it's great someone found this out. I'll discuss the details
+  with Styrelsen.
+- Rules about kids staying longer than me: this is now forbidden, according
+  to a UMS flyer. Great that Styrelsen made it explicit and I will
+  absolutely leave that flyer with our reception desk.
+- Printing certificates: the Dutch company I used to print certificates
+  has closed. I have trouble finding another one.
+
+Things that can be improved:
+
+- More learner helpers.
+- Having fewer new learners leave the course. I feel the main reason is
+  that there is no proper first contact. This first contact must be done
+  with a social fellow learner at the right level.
+- The electronics workshop's routines. Last time, I had to clean 46 minutes,
+  due to 3 kids leaving a mess. I will discuss this with the kids.
+  Also, I am worried about the safety of the kids. 
+  I will add the rule: 'If working with a capacitor, wear safety glasses'.
+  There is a rule already 'Do not solder batteries'.
+  Maybe the kids should be trained for safety first?
+  I consider to only
+  open up the workshop if there is a volunteer to keep an eye on the kids.
+- Active scheduling for volunteers.
+  Now it is unclear who will be there and for multiple occassions, I was
+  the only one teaching. I think this will help the volunteers into
+  showing up too
+- Improvements to booklets
+    - Processing website to MkDocs
+    - Add a 3rd lesson card
+
+
+To discuss with Styrelse:
+
+- [Reporting concern for a child's welfare](https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/barn-och-unga/barn-som-far-illa/):
+  are we at Lördagskurser recommended or required to do so?
+
 
 ## Courses changes
 
@@ -30,7 +86,6 @@
 ## Extra thanks to these kids
 
 ![How often learners offered to help new learners](n_offer_help_per_person_2025_1.png)
-
 
 ## Previous reflection
 
