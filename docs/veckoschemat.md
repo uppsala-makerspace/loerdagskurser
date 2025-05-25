@@ -25,7 +25,7 @@ Vecka| Dag      |Vad
 -----|----------|-------------------------------------
 21   |2025-05-24| 15. [Slutpresentation](verksamheter/20250524_slutpresentation/README.md)
 22   |2025-05-31|Ej kurs, pga klämdag
-23   |2025-06-07| 16. [Eftermorsdag](verksamheter/20250531_eftermorsdag/README.md)
+23   |2025-06-07| 16. [Eftermorsdag](verksamheter/20250607_eftermorsdag/README.md)
 24   |2025-06-14|Sommarlov
 25   |2025-06-21|Sommarlov
 26   |2025-06-28|Sommarlov
