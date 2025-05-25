@@ -1,7 +1,38 @@
 # Reflection 2025-05-24 by Richel
 
-## Previous reflection
 
+## Courses changes
+
+- We moved to the new upper floor. We had too: we got too big
+
+- We added a reception desk, commonly manned by Atom Björn: it
+  makes the course room so much more quiet, with all the paperwork out
+  of the way. Also parents now have someone to ask questions to that
+  actually has/takes the time to do so. Adding the reception desk has
+  been a genius idea
+
+- Team of volunteers:
+    - 'veteran' volunteers that continue:
+      Janne (Processing), Kristoffer (Processing),
+      Store Björn (Blender): it is great having such experienced
+      volunteers.
+    - volunteers that left: Leslie (Blender): it is too bad, but, indeed,
+      the Blender course's attendance did go down. 
+    - new volunteers: Atom Björn (reception desk), 
+      Dennis (Processing), Elisha (Processing), Fredrik (Arduino),
+      Nikita (Processing): these are all great volunteers and I am
+      very happy to have them.
+
+## Future plans
+
+- Cooking course, 9:00-10:00, as part of the regular course
+
+## Extra thanks to these kids
+
+![How often learners offered to help new learners](n_offer_help_per_person_2025_1.png)
+
+
+## Previous reflection
 
 > - Ask UMS for +30 person limit on Eftermorsdag
 
@@ -63,14 +94,23 @@ This is put into issues.
 This I cannot control.
 
 - More courses
-    - Game programming
+
     - Roblox
     - Java
     - Minecraft mods
 
+If there are volunteers for this, I'd be happy to help them!
 
 - Breaks:
     - 11 minutes (instead of 15)
     - 2x Cookies
     - More pan pizzas
+
+I think the breaks should be 15 minutes, as 11 is quite an unexpected
+duration that makes the schedule look all funky.
+I hope the cooking course reduces the need for cookies and pan pizzas.
+
+
+
+
 
