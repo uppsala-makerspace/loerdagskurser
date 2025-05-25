@@ -1,6 +1,6 @@
 # 2025-05-24 Evaluation results
 
-- [Evaluation results](../../../utvaerderingar/20250524/README.md)
+- [Evaluation results](../../../data/utvaerderingar/20250524/README.md)
 - [Reflection](../../../reflektioner/20250524_richel/README.md)
 
 Here I type over the evaluations results as truthfully as I can,
