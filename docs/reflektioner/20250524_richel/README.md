@@ -46,15 +46,15 @@ states that 'allt' went well.
 What could be improved, according to the learners
 
 - More time
-  - Start earlier
+    - Start earlier
 
 This will come true with the next cooking course. Maybe this learners will
 also come in at 9:00 and start his/her course then already.
 
 - More books
-  - [Explain sine and cosine better in the Processing books](https://github.com/richelbilderbeek/processing_foer_ungdomar/issues/8)
-  - [Add a Processing lesson on how to detect a mouse click](https://github.com/richelbilderbeek/processing_foer_ungdomar/issues/9)
-  - [Add an Arduino lesson on a color sensor](https://github.com/richelbilderbeek/arduino_foer_ungdomar/issues/8)
+    - [Explain sine and cosine better in the Processing books](https://github.com/richelbilderbeek/processing_foer_ungdomar/issues/8)
+    - [Add a Processing lesson on how to detect a mouse click](https://github.com/richelbilderbeek/processing_foer_ungdomar/issues/9)
+    - [Add an Arduino lesson on a color sensor](https://github.com/richelbilderbeek/arduino_foer_ungdomar/issues/8)
 
 This is put into issues.
 
@@ -63,16 +63,14 @@ This is put into issues.
 This I cannot control.
 
 - More courses
-  - Game programming
-  - Roblox
-  - Java
-  - Minecraft mods
+    - Game programming
+    - Roblox
+    - Java
+    - Minecraft mods
 
 
 - Breaks:
-  - 11 minutes (instead of 15)
-  - 2x Cookies
-  - More pan pizzas
-
-
+    - 11 minutes (instead of 15)
+    - 2x Cookies
+    - More pan pizzas
 
