@@ -17,11 +17,11 @@
 
     Om du är ännu mer avancerade, kann du också göra:
 
-    Kurs                                                         |Bok
-    -------------------------------------------------------------|---------------------------------------------------------------------------------------------------------
-    ![git logo](git_logo_32_x_32.png) **git**                    | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
-    ![laser warning](warning_laser_28_x_28.png) **laserskärare** | [laserskärare](https://uppsala-makerspace.github.io/laser_cutter_guide/)
-    **vinylskärare**                                             | [vinylskärare](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+    Kurs                                                             |Bok
+    -----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------
+    ![git logo](git_logo_32_x_32.png) **git**                        | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+    ![Laser cutter logo](warning_laser_28_x_28.png) **laserskärare** | [laserskärare](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+    ![Vinyl cutter logo](t_shirt_33_x_32.png) **vinylskärare**       | [vinylskärare](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
 === "🇬🇧"
 
@@ -40,8 +40,9 @@
 
     When you are even more advanced, you can also do:
 
-    Course                                                       |Book
-    -------------------------------------------------------------|-------------------------------------------------------------------------------------------
-    ![git logo](git_logo_32_x_32.png) **git**                    | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
-    ![laser warning](warning_laser_28_x_28.png) **laser cutter** | [laser cutter](https://uppsala-makerspace.github.io/laser_cutter_guide/)
-    **vinylcutter**                                              | [vinyl cutter](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+    Course                                                           |Book
+    -----------------------------------------------------------------|-------------------------------------------------------------------------------------------
+    ![git logo](git_logo_32_x_32.png) **git**                        | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+    ![Laser cutter logo](warning_laser_28_x_28.png) **laser cutter** | [laser cutter](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+    ![Vinyl cutter logo](t_shirt_33_x_32.png) **vinyl cutter**       | [vinyl cutter](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+
