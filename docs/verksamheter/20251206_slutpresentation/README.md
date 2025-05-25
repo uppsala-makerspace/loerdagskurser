@@ -33,7 +33,7 @@ När  |Besökare                           | Elever
 11:30|Kollar på presentationer  [M]      | Ger presentationer  [M]
 13:00|Slut                               | Slut
 
-- [B] Biblioteket, [G] Grupprum brevid Mallassal, [M] Mallassal, 
+- [B] Biblioteket, [G] Grupprum brevid Mallassal, [M] Mallassal,
 - `AB`: AtomBjörn, `R`: Richèl, `SB`: Store Björn
 
 Tider är bara riklinjer, ofta slutar vi tidigare.

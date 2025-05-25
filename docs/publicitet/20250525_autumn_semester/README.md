@@ -19,7 +19,7 @@
 
 - 2025-11-30 (Söndag!)
   kl 12.00-18.00
-  Hackathon 
+  Hackathon
 
 - 2025-12-06 kl 11.00-13.00
   hos Stadsbiblioteket:

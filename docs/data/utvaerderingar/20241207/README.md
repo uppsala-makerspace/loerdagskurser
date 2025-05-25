@@ -24,5 +24,3 @@ Jag trot kurserna är för korta
 Fler böcker som är mer avancerade och komplicerade
 ```
 
-
-
