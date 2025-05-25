@@ -1,5 +1,7 @@
 # 2023-12-09
 
+- [All evaluation results](../README.md)
+
 Evaluation.
 
 ## Results
@@ -23,9 +25,9 @@ No     |No     |Yes       |No       |No   |5     |Kakor
 No     |No     |Yes       |No       |No   |3.5   |Vid Processing borde det finnas pixelart snea gimp. Också sound deseing??? int vet ord :(
 Yes    |Yes    |Yes       |No       |No   |4     |-
 
-* Average all: 4.448125
-* Average Arduino: 3.875
-* Average Blender: 4.2
-* Average Processing: 4.3475
-* Average Soldering: 4.5
-* Average Other: 4
+- Average all: 4.448125
+- Average Arduino: 3.875
+- Average Blender: 4.2
+- Average Processing: 4.3475
+- Average Soldering: 4.5
+- Average Other: 4

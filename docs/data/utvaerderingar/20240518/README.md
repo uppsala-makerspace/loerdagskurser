@@ -1,5 +1,7 @@
 # 2024-05-18
 
+- [All evaluation results](../README.md)
+
 Evaluation.
 
 ## Results

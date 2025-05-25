@@ -1,5 +1,6 @@
 # 2024-12-07 Evaluation results
 
+- [All evaluation results](../README.md)
 - [analyse.R](analyse.R)
 - [results.csv](results.csv)
 

@@ -1,5 +1,6 @@
 # 2025-05-24 Evaluation results
 
+- [All evaluation results](../README.md)
 - [Evaluation results](../../../data/utvaerderingar/20250524/README.md)
 - [Reflection](../../../reflektioner/20250524_richel/README.md)
 
