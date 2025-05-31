@@ -30,12 +30,12 @@
     I elverkstaden:
 
     - Det måste alltid finnas en vuxen, för att ungdomar får jobba här.
-      Målet är att förekomma olyckor.
-    - Ungdomarna måste alltid fråga en vuxen före att tar isär saker som är
-      komplex eller stor eller tungt eller ser dyr ut.
-      Målet är att hålla kurskostnaderna lågt.
-    - Ugdomar får använder 5 volt maximumalt
-      Målet är att förekomma olyckor.
+      Målet är att förebygga olyckor.
+    - Ungdomarna måste alltid fråga en vuxen före de tar isär saker som är
+      komplexa eller stora eller tungt eller ser dyr ut.
+      Målet är att hålla kurskostnaderna låga.
+    - Ungdomar får använder 5 volt maximalt
+      Målet är att förebygga olyckor.
     - Allmänna elektronik säkerhet:
         - Aldrig löda batterier
 
