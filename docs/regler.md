@@ -60,14 +60,14 @@
 
     För att använda laserskärare:
 
-    - Ungdomar måste vara certifierade laser operatörer,
-      före dem får använda icke-lärare vuxna för att tar ansvar över dem.
-      Målet är att förekomma olyckor.
-    - För unga certifierade laser operatörer, det måste finnas en
-      vuxen för atyt får använda laserskäraren.
-      Målet är att förekomma olyckor.
-    - Ungdomar måsta jobba i gruppor av minst 2 personer.
-      Målet är att förekomma olyckor.
+    - Ungdomar måste vara certifierade laseroperatörer,
+      innan de får använda laserskärare med icke-lärare vuxna som ansvariga.
+      Målet är att förebygga olyckor.
+    - För unga certifierade laseroperatörer, måste finnas en
+      vuxen för att få använda laserskäraren.
+      Målet är att förebygga olyckor.
+    - Ungdomar måsta jobba i grupper av 2 personer.
+      Målet är att förebygga olyckor.
 
 === "🇬🇧"
 
@@ -79,7 +79,7 @@
     - For young certified laser operators, there must be an adult present
       to be allowed to use the laser cutter.
       The goal is to prevent accidents.
-    - Minors must work in groups of at least 2.
+    - Minors must work in groups of 2.
       The goal is to prevent accidents.
 
 ## 🇸🇪 Matlagning (🇬🇧 Cooking course)
