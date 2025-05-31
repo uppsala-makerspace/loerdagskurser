@@ -36,7 +36,7 @@ Things that can be improved:
   with a social fellow learner at the right level.
 - The electronics workshop's routines. Last time, I had to clean 46 minutes,
   due to 3 kids leaving a mess. I will discuss this with the kids.
-  Also, I am worried about the safety of the kids. 
+  Also, I am worried about the safety of the kids.
   I will add the rule: 'If working with a capacitor, wear safety glasses'.
   There is a rule already 'Do not solder batteries'.
   Maybe the kids should be trained for safety first?
