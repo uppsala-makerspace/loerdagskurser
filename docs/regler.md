@@ -4,7 +4,7 @@
 
     Den här är våra reglar.
 
-    Målet är att lära oss saker trygg.
+    Målet är att lära oss saker tryggt.
 
 === "🇬🇧"
 
@@ -16,7 +16,7 @@
 
 === "🇸🇪"
 
-    In allmänheten, vi följer reglerna av Uppsala Makerspacet.
+    In allmänhet följer vi reglerna av Uppsala Makerspacet.
 
 === "🇬🇧"
 
