@@ -1,8 +1,6 @@
 # 2025-07-22 Pi Approximations Dag
 
-# 🇸🇪 Pi Approximations Dag (🇬🇧 Pi Approximation Day)
-
-=== "🇸🇪"
+=== "🇸🇪 Pi Approximations Dag"
 
     Pi Approximation Day är en viktig dag för att fira talet pi,
     eller mer exakt: dess beräkning ('approximation').
@@ -18,7 +16,7 @@
     - Övriga: det kommer att finnas pizza!
     - [Exempel på tidigare Pi-approximationsdagar](https://richelbilderbeek.github.io/pi_approximation_day/)
 
-=== "🇬🇧"
+=== "🇬🇧 Pi Approximation Day"
 
     Pi Approximation Day is an important day to celebrate the number pi,
     or more precise: how to calculate it (i.e. 'to approximate it').
