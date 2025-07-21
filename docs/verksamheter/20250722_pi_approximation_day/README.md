@@ -1,5 +1,7 @@
 # 2025-07-22 Pi Approximations Dag
 
+![Pi Approxination Day in 2021](2021_4.jpg)
+
 === "🇸🇪 Pi Approximations Dag"
 
     Pi Approximation Day är en viktig dag för att fira talet pi,
