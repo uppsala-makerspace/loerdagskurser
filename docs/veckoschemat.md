@@ -23,15 +23,13 @@ tags:
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-21   |2025-05-24| 15. [Slutpresentation](verksamheter/20250524_slutpresentation/README.md)
-22   |2025-05-31|Ej kurs, pga klämdag
-23   |2025-06-07| 16. [Eftermorsdag](verksamheter/20250607_eftermorsdag/README.md)
 24   |2025-06-14|Sommarlov
 25   |2025-06-21|Sommarlov
 26   |2025-06-28|Sommarlov
 27   |2025-07-05|Sommarlov
 28   |2025-07-12|Sommarlov
 29   |2025-07-19|Sommarlov
+.    |2025-07-22|[Pi Approximation Day](verksamheter/20250722_pi_approximation_day/README.md)
 30   |2025-07-26|Sommarlov
 31   |2025-08-02|Sommarlov
 32   |2025-08-09|Sommarlov

@@ -28,6 +28,9 @@ Vecka| Dag      |Vad
 19   |2025-05-10| 13.
 20   |2025-05-17| 14. (Övning av presentation hos UMS)
 .    |2025-05-18|[Hackathon](verksamheter/20250518_hackathon/README.md) 12.00-18.00
+21   |2025-05-24| 15. [Slutpresentation](verksamheter/20250524_slutpresentation/README.md)
+22   |2025-05-31|Ej kurs, pga klämdag
+23   |2025-06-07| 16. [Eftermorsdag](verksamheter/20250607_eftermorsdag/README.md)
 
 
 ## 2024
