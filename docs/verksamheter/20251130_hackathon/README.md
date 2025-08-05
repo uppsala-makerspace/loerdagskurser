@@ -20,15 +20,28 @@ När        |Vad
 17.00-17.30|Rast
 17.15-18.00|Jobba 6, övningspresentation
 
+Namn   |Roll
+-------|---------------------------
+Richel |Ansvar för allt utom mat
+Björn  |Ansvar för maten
+Johanna|Att laga pizzor med elever
+
 ## Vanliga frågor
 
 ### Jag kommer senare/tidigare, är det OK?
 
-Jap, det är det :-)
+Japp, det är det :-)
 
 ### Jag stickar senare/tidigare, är det OK?
 
-Jap, det är det :-)
+Japp, det är det :-)
+
+### Jag vill laga pizzor, är det OK?
+
+Japp, det är det :-) .
+
+Det är bara att dyker upp före kl. 12.15,
+så får du vara med.
 
 ## Notes from previous time
 
