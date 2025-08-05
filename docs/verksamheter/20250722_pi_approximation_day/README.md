@@ -55,10 +55,10 @@
     på Uppsala Makerspace.
     Den är lämplig för alla som är minst sex år gammal
     och uppskattar numret pi och/eller njuter av pizza.
-    Mer information finns [här](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20250722_pi_approximation_day/)
+    [Mer information](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20250722_pi_approximation_day/)
 
     🇬🇧 Tomorrow/Tuesday 18:15-20:00 we will celebrate Pi Approximation Day
     at the Uppsala Makerspace. It is suitable for all that are at least
     six years old and appreciate the number pi and/or enjoy pizza.
-    Details can be found [here](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20250722_pi_approximation_day/)
+    [More information](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20250722_pi_approximation_day/)
 
