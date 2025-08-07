@@ -19,6 +19,8 @@ Richel Bilderbeek            |Samordnare
 ?Christoffer Ramqvist        |Lärare Processing
 ?Fredrik Eldh                |Lärare Processing
 ?Janne Holmberg              |Lärare Processing
+?Dennis Leenheer             |Lärare Processing
+?Nikita Churikov             |Lärare Processing
 
 ## Tidigare volontärer
 
