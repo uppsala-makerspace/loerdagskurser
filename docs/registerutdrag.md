@@ -79,7 +79,7 @@ tags:
 === "🇸🇪"
 
     Nu kommer du att få frågan igen vilken typ av Registerutdrag du behöver.
-    Välj återigen "Annan verksamhet än skola och barnomsorg". 
+    Välj återigen "Annan verksamhet än skola och barnomsorg".
 
     Klicka på "Nästa" för att komma till skärmen "Begäran".
 
