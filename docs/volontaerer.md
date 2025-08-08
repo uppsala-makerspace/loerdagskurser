@@ -13,14 +13,14 @@ Du får vara med i laget!
 Namn                         |Ansvar
 -----------------------------|----------
 Richel Bilderbeek            |Samordnare
-?Mathias Palmer              |Infall
-?Björn 'AtomBjörn' Pihlgren  |Receptionsbordet
-?Björn 'Store Björn' Engström|Blender kursledare
-?Christoffer Ramqvist        |Lärare Processing
-?Fredrik Eldh                |Lärare Processing
-?Janne Holmberg              |Lärare Processing
-?Dennis Leenheer             |Lärare Processing
-?Nikita Churikov             |Lärare Processing
+Mathias Palmer               |Infall
+Björn 'AtomBjörn' Pihlgren   |Receptionsbordet
+Björn 'Store Björn' Engström |Blender kursledare
+Christoffer Ramqvist         |Lärare Processing
+Fredrik Eldh                 |Lärare Processing
+Janne Holmberg               |Lärare Processing
+Dennis Leenheer              |Lärare Processing
+Nikita Churikov              |Lärare Processing
 
 ## Tidigare volontärer
 
