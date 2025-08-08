@@ -34,7 +34,7 @@
     - Ungdomarna måste alltid fråga en vuxen före de tar isär saker som är
       komplexa eller stora eller tungt eller ser dyr ut.
       Målet är att hålla kurskostnaderna låga.
-    - Ungdomar får använder 5 volt maximalt
+    - Ungdomar får använder 5 volt maximalt.
       Målet är att förebygga olyckor.
     - Allmänna elektronik säkerhet:
         - Aldrig löda batterier
@@ -48,7 +48,7 @@
     - Minors must ask an adult before taking apart things that are
       complex or big or heavy or look expensive.
       The goal is to keep the course affordable.
-    - Minors work with maximally 5 volts
+    - Minors work with maximally 5 volts.
       The goal is to prevent accidents.
     - General electronics safety:
         - Never solder batteries
