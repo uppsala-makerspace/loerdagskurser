@@ -27,42 +27,6 @@ tags:
 
 === "🇬🇧"
 
-    > Dear volunteers,
-    >
-    > To help assure the Lördagskurserna are a safe environment,
-    > every volunteer needs a so-called 'Registerutdrag'.
-    >
-    > The procedure is as follows:
-    >
-    > - You request a 'Registerutdrag'. It is free :-)
-    > - You show it to the course coordinator (i.e. Richel)
-    > - Done!
-    >
-    > Although googling for 'request registerudrag' and/or going to
-    > [the website of polismyndigheten]([polisen](https://polisen.se/tjanster-tillstand/belastningsregistret/)
-    > are quite straightforward, I've documented the steps here too.
-    > 
-    > I do not like asking the volunteers for these admin things,
-    > but in this case it seems worth it. I will be grateful for your effort!
-    >
-    > Thanks, Richel
-
-=== "🇸🇪"
-
-    På den här sidan går vi tillväga för att begära ett så kallat Registerutdrag.
-
-    För att hjälpa till att säkerställa att Lördagskurserna är en säker miljö,
-    varje volontär behöver ett så kallat Registerutdrag.
-
-    Den kan beställas gratis hos
-    [polisen](https://polisen.se/tjanster-tillstand/belastningsregistret/).
-
-    Gå till
-    [https://polisen.se/tjanster-tillstand/belastningsregistret/](https://polisen.se/tjanster-tillstand/belastningsregistret/)
-    och klicka på 'Annan verksamhet än skola och barnomsorg':
-
-=== "🇬🇧"
-
     This page shows the procedure how to request a so-called 'Registerutdrag'.
 
     To help assure the Lördagskurserna are a safe environment,
