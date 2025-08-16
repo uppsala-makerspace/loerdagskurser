@@ -34,9 +34,10 @@ Saw Simeon           |Lärare Processing
 
 ## 🇸🇪 Almänna regler (🇬🇧 General rules)
 
+
 === "🇸🇪"
 
-Här är några riktlinjer för volontärer.
+    Här är några riktlinjer för volontärer.
 
     - **Du är chefen**!
       Det betyder att du har friheten att göra saker på ditt sätt,
