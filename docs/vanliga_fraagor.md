@@ -18,7 +18,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 - Förväntningar på volontärer / frivilliga
 - Kostnad för kursen
 - Köpa komponenter
-- [Volontärer](volontaerer.md)
+- [Volontärer](volontaerer/README.md)
 - Hemsidan
 
 ## Komma igång
