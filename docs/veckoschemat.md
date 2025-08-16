@@ -23,16 +23,6 @@ tags:
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-24   |2025-06-14|Sommarlov
-25   |2025-06-21|Sommarlov
-26   |2025-06-28|Sommarlov
-27   |2025-07-05|Sommarlov
-28   |2025-07-12|Sommarlov
-29   |2025-07-19|Sommarlov
-.    |2025-07-22|[Pi Approximation Day](verksamheter/20250722_pi_approximation_day/README.md)
-30   |2025-07-26|Sommarlov
-31   |2025-08-02|Sommarlov
-32   |2025-08-09|Sommarlov
 33   |2025-08-16|Sommarlov
 34   |2025-08-23| 1. Första lektion
 35   |2025-08-30| 2.
