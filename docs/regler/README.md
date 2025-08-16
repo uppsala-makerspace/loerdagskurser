@@ -38,6 +38,10 @@
       Målet är att förebygga olyckor.
     - Allmänna elektronik säkerhet:
         - Aldrig löda batterier
+    - Städa efter dig.
+      Målet är att behålla vanskapen med Elverkstaden :-) .
+      Om du glömmer at städa, ingen fara: du får städa två minuter
+      för varje minut det tog en vuxen att städa efter dig.
 
 === "🇬🇧"
 
@@ -52,8 +56,12 @@
       The goal is to prevent accidents.
     - General electronics safety:
         - Never solder batteries
+    - Clean after you.
+      The goal is to keep our friendship with the electronic workshop :-) .
+      If you forgot to clean up after you, no problem:
+      you'll be allowed to clean up two minutes for each
+      minute it took an adult to clean after you.
       
-
 ## 🇸🇪 Laserkärare (🇬🇧 Laser cutter)
 
 === "🇸🇪"
