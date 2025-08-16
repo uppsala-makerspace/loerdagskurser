@@ -119,7 +119,7 @@ Saw Simeon           |Lärare Processing
       en del av matlagning.
       En Coop ligger 200 meter bort.
       [Karta (schematisk)](where_is_coop_schematic_annotated.png)
-      [Karta (satellit)](where_is_coop_satellite_annotated.png)
+      [Karta (satellit)](where_is_coop_sattelite_annotated.png)
       Tar med kvittot, snälla!
     - Du uppmuntras att **inte förbereda ingredienser**:
       att skära grönsaker är också en del av kursen,
@@ -154,10 +154,10 @@ Saw Simeon           |Lärare Processing
 
     Alla volontärer är frågat att visar en registerutdrag.
 
-    [Procedyren att få Registerutdrag](registerutdrag.md).
+    [Procedyren att få Registerutdrag](../registerutdrag/README.md).
 
 === "🇬🇧"
 
     All volunteers are asked to provide a so-called 'Registerutdrag'.
 
-    [The procedure to get a 'Registerutdrag'](registerutdrag.md).
+    [The procedure to get a 'Registerutdrag'](../registerutdrag/README.md).

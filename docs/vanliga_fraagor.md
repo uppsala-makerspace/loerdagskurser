@@ -312,7 +312,7 @@ Ifrån enkät på UMS Slack:
 
 ## Volontärer
 
-Se [volontärer](volontaerer.md).
+Se [volontärer](volontaerer/README.md).
 
 ## Hemsidan
 
