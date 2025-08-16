@@ -1,8 +1,5 @@
 ---
 tags:
-  - volunteers
-  - frivilligare
-  - volontäre
   - registerutdrag
   - polis
   - police
