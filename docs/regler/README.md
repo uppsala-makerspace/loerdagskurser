@@ -25,6 +25,9 @@
 
 ## 🇸🇪 Elverkstad (🇬🇧 Electronics workshop)
 
+- [rules_electronics.odt](rules_electronics.odt)
+- [rules_electronics.pdf](rules_electronics.pdf)
+
 === "🇸🇪"
 
     I elverkstaden:
@@ -63,6 +66,9 @@
       minute it took an adult to clean after you.
       
 ## 🇸🇪 Laserkärare (🇬🇧 Laser cutter)
+
+- [rules_laser_cutter.odt](rules_laser_cutter.odt)
+- [rules_laser_cutter.pdf](rules_laser_cutter.pdf)
 
 === "🇸🇪"
 
