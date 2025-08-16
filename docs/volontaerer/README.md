@@ -34,6 +34,8 @@ Saw Simeon           |Lärare Processing
 
 ## 🇸🇪 Almänna regler (🇬🇧 General rules)
 
+- [general_volunteer_rules.odt](general_volunteer_rules.odt)
+- [general_volunteer_rules.pdf](general_volunteer_rules.pdf)
 
 === "🇸🇪"
 
@@ -101,11 +103,14 @@ Saw Simeon           |Lärare Processing
 
 ## 🇸🇪 Regler för matlagning (🇬🇧 General rules)
 
+- [cooking_volunteer_rules.odt](cooking_volunteer_rules.odt)
+- [cooking_volunteer_rules.pdf](cooking_volunteer_rules.pdf)
+
 === "🇸🇪"
 
     Här är några riktlinjer för volontärer på matlagningskursen:
 
-    - Du behandlas som **en vanlig volontär**,
+    - Du är **en vanlig volontär**,
       med de allmänna reglerna ovan.
       Sammanfattningsvis: du är chefen och du är ansvarig
     - Om du vill kan du få **en volontär som hjälper** dig att komma igång
@@ -129,7 +134,7 @@ Saw Simeon           |Lärare Processing
 
     These are some guidelines for volunteers of the cooking course:
 
-    - You are treated as **a regular volunteer**,
+    - You are **a regular volunteer**,
       with the general rules above. In summary: you are boss and you are
       responsible
     - If you want, you can get **a volunteer to help** you get started
