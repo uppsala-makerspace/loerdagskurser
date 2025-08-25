@@ -4,7 +4,7 @@
 
 [![Check bash style](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_bash_style.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_bash_style.yaml)
 [![Check links](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_links.yaml)
-[![Check markdown](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_markdown.yaml)
+[![Check Markdown](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/check_markdown.yaml)
 [![Create website](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/uppsala-makerspace/loerdagskurser/actions/workflows/create_website.yaml)
 
 <!-- markdownlint-enable MD013 -->
@@ -19,8 +19,8 @@
 
 Filename                                  |Descriptions
 ------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------
-[mlc_config.json](mlc_config.json)        |Configuration of the link checker, use `markdown-link-check --config mlc_config.json --quiet docs/**/*.md` to do link checking locally
-[.markdownlint.jsonc](.markdownlint.jsonc)|Configuration of the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
-[.markdownlintignore](.markdownlintignore)|Files ignored by the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
+[`mlc_config.json`](mlc_config.json)        |Configuration of the link checker, use `markdown-link-check --config mlc_config.json --quiet docs/**/*.md` to do link checking locally
+[`.markdownlint.jsonc`](.markdownlint.jsonc)|Configuration of the Markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
+[`.markdownlintignore`](.markdownlintignore)|Files ignored by the Markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
 
 <!-- markdownlint-enable MD013 -->
