@@ -72,6 +72,7 @@ Kurs       |Tar med gjärna [1]          |Installera gjärna [2]
 Arduino    |En bärbar dator med laddare |[Arduino IDE](https://www.arduino.cc/en/software)
 Blender    |En bärbar dator med laddare |[Blender](https://www.blender.org/download/)
 `git`      |En bärbar dator med laddare |`git`, till exempel [https://git-scm.com/downloads](https://git-scm.com/downloads)
+Matlagning |.                           |.
 Processing |En bärbar dator med laddare |[Processing IDE](https://processing.org/download)
 
 - [1] Om du inte har någon bärbar dator eller du vill prova först, så kan du låna en av oss
