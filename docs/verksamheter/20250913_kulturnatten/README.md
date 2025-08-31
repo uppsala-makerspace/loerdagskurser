@@ -37,6 +37,9 @@ När        |Vem
 17:00-18:00|Richel,
 18:00-19:00|Richel,
 
+Japp, slutet är klockan nitton. Det fanns en fel meddelande av Richel.
+Själva han har fel ibland :-)
+
 ### Hur länge skulle jag hjälpa med?
 
 Om du hjälper med en timme är Richel redan riktigt nöjd.
