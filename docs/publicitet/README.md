@@ -1,3 +1,11 @@
+---
+tags:
+  - publicitet
+  - publicity
+  - flyers
+  - posters
+---
+
 # Publicitet
 
 - [2021-08-06: hemsida UMS](20210806_website_ums/README.md)
