@@ -72,3 +72,12 @@ Kort svar: ingenting :-). Du får tar med dig dina egna grejer på egen risk.
 ![Redo för Kulturnatten](20240914_kulturnatten.jpg)
 
 > Redo för Kulturnatten!
+
+## Statistics
+
+- Estimated visitors: 250
+- Number of guests being taught: 4.5 computers x (8 hours / 30 mins / guest) = 70
+- Estimated flyers given away: 100
+- Estimated number of minor volunteers: 18
+- Number of adult volunteers: 2
+
