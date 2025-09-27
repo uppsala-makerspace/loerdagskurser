@@ -10,3 +10,4 @@ Written-down preparation, usually in English.
 - <20231007/README.md>
 - <20240309/README.md>
 - <20240316/README.md>
+- <20250927/README.md>
