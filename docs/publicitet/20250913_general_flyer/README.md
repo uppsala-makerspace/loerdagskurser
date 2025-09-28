@@ -1,3 +1,3 @@
-# 2023-09-12 General flyer
+# 2025-09-13 General flyer
 
-- [20240912_general_flyer_2.pdf](20240912_general_flyer_2.pdf)
+- [2025-09-13 general flyer](20250913_general_flyer.pdf)
