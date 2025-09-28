@@ -28,15 +28,15 @@ Schemat är här:
 
 När        |Vem
 -----------|------------------
-10:00-11:00|Richel, Leonid, Herman, Axel, 
+10:00-11:00|Richel, Leonid, Herman, Axel,
 11:00-12:00|Richel, Leonid, Herman, Axel, 1/2 Alice, 1/2 William
 12:00-13:00|Richel, Leonid, Herman, 1/2 Axel, Alice, William
 13:00-14:00|Richel, Leonid, Herman, Morten, Linus, Ilon
 14:00-15:00|Richel, Leonid, Herman
-15:00-16:00|Richel, Leonid, Herman, Daniel, Vide, Alfred 
-16:00-17:00|Richel, Leonid, Herman 
-17:00-18:00|Richel, Leonid, Herman 
-18:00-19:00|Richel, Leonid, Herman 
+15:00-16:00|Richel, Leonid, Herman, Daniel, Vide, Alfred
+16:00-17:00|Richel, Leonid, Herman
+17:00-18:00|Richel, Leonid, Herman
+18:00-19:00|Richel, Leonid, Herman
 
 Japp, slutet är klockan nitton. Det fanns en fel meddelande av Richel.
 Själva han har fel ibland :-)
@@ -75,9 +75,9 @@ Kort svar: ingenting :-). Du får tar med dig dina egna grejer på egen risk.
 
 ## Statistics
 
-- Estimated visitors: 250
-- Number of guests being taught: 4.5 computers x (8 hours / 30 mins / guest) = 70
-- Estimated flyers given away: 100
-- Estimated number of minor volunteers: 18
-- Number of adult volunteers: 2
+* Estimated visitors: 250
+* Number of guests being taught: 4.5 computers x (8 hours / 30 mins / guest) = 70
+* Estimated flyers given away: 100
+* Estimated number of minor volunteers: 18
+* Number of adult volunteers: 2
 
