@@ -11,14 +11,15 @@ Under Lördagskurserna är vi bara frivilliga som jobbar.
 Du får vara med i laget!
 
 Namn                         |Ansvar
------------------------------|----------
+-----------------------------|---------------------------------------------
 Richel Bilderbeek            |Samordnare
 Mathias Palmer               |Infall
 Björn 'AtomBjörn' Pihlgren   |Receptionsbordet
-Björn 'Store Björn' Engström |Blender kursledare
+Björn 'Store Björn' Engström |Matlagningskurs ledare och Blender kursledare 
 Christoffer Ramqvist         |Lärare Processing
 Fredrik Eldh                 |Lärare Processing
 Janne Holmberg               |Lärare Processing
+Johanna Söderström           |Lärare Matlagningskurs
 Dennis Leenheer              |Lärare Processing
 Nikita Churikov              |Lärare Processing
 

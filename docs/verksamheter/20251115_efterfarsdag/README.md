@@ -76,6 +76,7 @@ Year|Number of learners|Number of fathers|Number of donuts needed|Number of beer
 ----|------------------|-----------------|-----------------------|----------------------
 2023|25                |11               |25                     |?
 2024|37                |12               |40                     |10
+2025|.                 |.                |                       |.
 
-* `n_donuts_needed = n_elever`
-* `n_oel_needed = n_elever / 3`
+* `n_donuts_needed = n_elever` I will buy 50
+* `n_oel_needed = n_elever / 3` I will buy 18
