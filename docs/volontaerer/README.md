@@ -15,7 +15,7 @@ Namn                         |Ansvar
 Richel Bilderbeek            |Samordnare
 Mathias Palmer               |Infall
 Björn 'AtomBjörn' Pihlgren   |Receptionsbordet
-Björn 'Store Björn' Engström |Matlagningskurs ledare och Blender kursledare 
+Björn 'Store Björn' Engström |Matlagningskurs ledare och Blender kursledare
 Christoffer Ramqvist         |Lärare Processing
 Fredrik Eldh                 |Lärare Processing
 Janne Holmberg               |Lärare Processing
