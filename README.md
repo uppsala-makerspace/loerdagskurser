@@ -17,8 +17,8 @@
 
 <!-- markdownlint-disable MD013 --><!-- Table rows must be put on one line, hence 80 chars is unavoidable -->
 
-Filename                                  |Descriptions
-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------
+Filename                                    |Descriptions
+--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------
 [`mlc_config.json`](mlc_config.json)        |Configuration of the link checker, use `markdown-link-check --config mlc_config.json --quiet docs/**/*.md` to do link checking locally
 [`.markdownlint.jsonc`](.markdownlint.jsonc)|Configuration of the Markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
 [`.markdownlintignore`](.markdownlintignore)|Files ignored by the Markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
