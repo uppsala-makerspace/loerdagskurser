@@ -37,23 +37,23 @@ Vecka| Dag      |Vad
 05   |2026-01-31| 4.
 06   |2026-02-07| 5.
 07   |2026-02-14| 6.
-08   |2026-02-21| 7. Ej kurs, Sportlov
-09   |2026-02-28| 8. Ej kurs, Sportlov
-10   |2026-03-07| 9.
-11   |2026-03-14| 10.
-12   |2026-03-21| 11.
+08   |2026-02-21| Ej kurs, Sportlov
+09   |2026-02-28| Ej kurs, Sportlov
+10   |2026-03-07| 7.
+11   |2026-03-14| 8.
+12   |2026-03-21| 9.
 13   |2026-03-28| [Påsklov](https://skollov-se.se/skollov-uppsala/)
 14   |2026-04-04| [Påsklov](https://skollov-se.se/skollov-uppsala/)
-15   |2026-04-11| 12.
-16   |2026-04-18| 13.
-17   |2026-04-25| 14.
+15   |2026-04-11| 10.
+16   |2026-04-18| 11.
+17   |2026-04-25| 12.
 18   |2026-05-02| Ej kurs, [Valborg](https://xn--rda-dagar-07a.se/2026/svenska-helgdagar-2026/valborgsmassoafton-2026/)
-19   |2026-05-09| 15. Övning presentation
+19   |2026-05-09| 13. Övning presentation
 .    |2026-05-10| Hackathon
 20   |2026-05-16| Ej kurs, pga Kristihimmel
-21   |2026-05-23| 17. Slupresentation
-22   |2026-05-30| 18. [Föremorsdag](https://www.kalender-365.se/helgdagar/mors-dag.html)
-23   |2026-06-06| Ej kurs
+21   |2026-05-23| 14. Slutpresentation
+22   |2026-05-30| 15. [Föremorsdag](https://www.kalender-365.se/helgdagar/mors-dag.html)
+23   |2026-06-06| Ej kurs, pga en röda dag
 24   |2026-06-13| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
 25   |2026-06-20| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
 26   |2026-06-27| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
