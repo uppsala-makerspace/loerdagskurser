@@ -47,13 +47,13 @@ Vecka| Dag      |Vad
 15   |2026-04-11| 12.
 16   |2026-04-18| 13.
 17   |2026-04-25| 14.
-18   |2026-05-02| [Valborg](https://xn--rda-dagar-07a.se/2026/svenska-helgdagar-2026/valborgsmassoafton-2026/)
-19   |2026-05-09| 15.
-20   |2026-05-16| 16.
-21   |2026-05-23| 17. Övning presentation
-.    |2026-05-24| Hackathon
-22   |2026-05-30| 18. Slupresentation
-23   |2026-06-06| 19. [Eftermorsdag](https://www.kalender-365.se/helgdagar/mors-dag.html)
+18   |2026-05-02| Ej kurs, [Valborg](https://xn--rda-dagar-07a.se/2026/svenska-helgdagar-2026/valborgsmassoafton-2026/)
+19   |2026-05-09| 15. Övning presentation
+.    |2026-05-10| Hackathon
+20   |2026-05-16| Ej kurs, pga Kristihimmel
+21   |2026-05-23| 17. Slupresentation
+22   |2026-05-30| 18. [Föremorsdag](https://www.kalender-365.se/helgdagar/mors-dag.html)
+23   |2026-06-06| Ej kurs
 24   |2026-06-13| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
 25   |2026-06-20| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
 26   |2026-06-27| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
