@@ -23,23 +23,9 @@ tags:
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-33   |2025-08-16|Sommarlov
-34   |2025-08-23| 1. Första lektion
-35   |2025-08-30| 2.
-36   |2025-09-06| 3.
-37   |2025-09-13| 4. [Vi är hos Kulturnatten](verksamheter/20250913_kulturnatten/README.md)
-38   |2025-09-20| 5.
-39   |2025-09-27| 6.
-40   |2025-10-04| 7.
-41   |2025-10-11| 8. (also: SciFest)
-42   |2025-10-18| 9.
-43   |2025-10-25|Höstlov
-44   |2025-11-01|Höstlov och alla helgons dag
-45   |2025-11-08| 10.
-46   |2025-11-15| 11. [Efterfarsdag](verksamheter/20251115_efterfarsdag/README.md)
 47   |2025-11-22| 12.
 48   |2025-11-29| 13.
-.    |2025-11-30| 13. [Hackathon](verksamheter/20251130_hackathon/README.md)
+.    |2025-11-30| [Hackathon](verksamheter/20251130_hackathon/README.md)
 49   |2025-12-06| 14. [Slutpresentation](verksamheter/20251206_slutpresentation/README.md)
 50   |2025-12-13| 15. Sista kursdag
 51   |2025-12-20|Jullov
@@ -47,6 +33,39 @@ Vecka| Dag      |Vad
 01   |2026-01-03|Jullov
 02   |2026-01-10| 1. Första lektion
 03   |2026-01-17| 2.
+04   |2026-01-24| 3.
+05   |2026-01-31| 4.
+06   |2026-02-07| 5.
+07   |2026-02-14| 6.
+08   |2026-02-21| 7.
+09   |2026-02-28| 8.
+10   |2026-03-07| 9.
+11   |2026-03-14| 10.
+12   |2026-03-21| 11.
+13   |2026-03-28| [Påsklov](https://skollov-se.se/skollov-uppsala/)
+14   |2026-04-04| [Påsklov](https://skollov-se.se/skollov-uppsala/)
+15   |2026-04-11| 12.
+16   |2026-04-18| 13.
+17   |2026-04-25| 14.
+18   |2026-05-02| [Valborg](https://xn--rda-dagar-07a.se/2026/svenska-helgdagar-2026/valborgsmassoafton-2026/)
+19   |2026-05-09| 15.
+20   |2026-05-16| 16.
+21   |2026-05-23| 17. Övning presentation
+.    |2026-05-24| Hackathon
+22   |2026-05-30| 18. Slupresentation
+23   |2026-06-06| 19. [Eftermorsdag](https://www.kalender-365.se/helgdagar/mors-dag.html)
+24   |2026-06-13| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
+25   |2026-06-20| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
+26   |2026-06-27| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
+27   |2026-07-04| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
+28   |2026-07-11| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
+29   |2026-07-18| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
+30   |2026-07-25| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
+31   |2026-08-01| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
+32   |2026-08-08| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
+33   |2026-08-15| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
+34   |2026-08-22| 1. Första lektion
+35   |2026-08-29| 2. 
 
 === "🇸🇪"
 

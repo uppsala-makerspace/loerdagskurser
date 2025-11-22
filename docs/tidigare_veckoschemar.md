@@ -41,7 +41,20 @@ Vecka| Dag      |Vad
 30   |2025-07-26|Sommarlov
 31   |2025-08-02|Sommarlov
 32   |2025-08-09|Sommarlov
-
+33   |2025-08-16|Sommarlov
+34   |2025-08-23| 1. Första lektion
+35   |2025-08-30| 2.
+36   |2025-09-06| 3.
+37   |2025-09-13| 4. [Vi är hos Kulturnatten](verksamheter/20250913_kulturnatten/README.md)
+38   |2025-09-20| 5.
+39   |2025-09-27| 6.
+40   |2025-10-04| 7.
+41   |2025-10-11| 8. (also: SciFest)
+42   |2025-10-18| 9.
+43   |2025-10-25|Höstlov
+44   |2025-11-01|Höstlov och alla helgons dag
+45   |2025-11-08| 10.
+46   |2025-11-15| 11. [Efterfarsdag](verksamheter/20251115_efterfarsdag/README.md)
 
 ## 2024
 
