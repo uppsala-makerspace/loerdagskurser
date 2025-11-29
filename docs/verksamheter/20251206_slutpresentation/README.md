@@ -57,6 +57,8 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 Namn                          |Ålder|Titel                                  |Notiser
 ------------------------------|-----|---------------------------------------|------------------
 Richel                        |-Inf |ProPokeVolley                          |P, needs two volunteers, from the volunteers
+Björn                         |-Inf |.                                      |.
+
 
 ## Absent
 
