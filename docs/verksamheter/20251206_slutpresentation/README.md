@@ -64,24 +64,19 @@ Luca   |-Inf
 Enrico |-Inf
 
 - Danylo, 10, tar med allt själv, pres ochså idag
-- Gordii, 11, tar med allt själv, pres ochså idag
+- Luca, 11, Ball, pres ochså idag, folder `Luca`
+- Gabriel, 12, USB stuck,  Minispel, pres ochså idag, folder `Gabriel`
+- Mats, 15, RetroGolf på Itch: pres på egen dator, ochså idag, https://matsmanhej.itch.io/retro-golf
 
 
-- Luca, 11, tar USB till mig , Ball, pres ochså idag
-- Gabriel, 12, USB stuck,  Minispel, pres ochså idag
-
-
-- Otto, 12, USB före 17:00, obekant, pres men inte idag
-- Isaac, 13, tar med egen dator el scickarkod, pres bara på slutpres
-- Axel, 13: tar med egen dator, pres på slutpres if det finns något
-- Niko, 13: tar med egen dator, pres på slutpres
-- Mats, 15, RetroGolf på Itch: pres ochså idag
+- Gordii, 11, tar med allt själv, pres på slutpres
 - Kevin, schickar koden til mig för Fredag midtat, pres på slutpres
 - Herman och Leonid, 14, 16: tar med egen dator, pres på slutpres
-
-- Vide och Alfred och Daniel: ????
-- 
-
+- Niko, 13: tar med egen dator, pres på slutpres
+- Isaac, 13, tar med egen dator el scickarkod, pres bara på slutpres
+- Axel, 13: tar med egen dator, pres på slutpres if det finns något
+- Otto, 12, USB före 17:00, obekant, pres men inte idag
+- Vide och Alfred och Daniel: Roblox tar med egne datorer
 - Emil, inget
 - Wilmer, inget
 - Ilon, inget, publik
