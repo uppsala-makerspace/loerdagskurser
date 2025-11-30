@@ -1,7 +1,7 @@
-float width = 140;
-float height = 140;
+float width = 100;
+float height = 100;
 float y = 100;
-float x = 150;
+float x = 100;
 float hastighet = 2;
 void setup()
 {
@@ -13,12 +13,12 @@ void draw()
   y = y + hastighet;
   {
   }
-  if(y > 300)
+  if(y > 100)
   {
     hastighet=-hastighet;
   
   }
-  if(y<70)
+  if(y<100)
 {
   hastighet=+2;
 }
