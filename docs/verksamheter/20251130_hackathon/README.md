@@ -45,5 +45,5 @@ så får du vara med.
 
 ## Notes from previous time
 
-- n_vesuvio = `n_students * 0.2`
-- n_margarita = `n_students * 0.55`
+- n_vesuvio = `n_students * 0.2` = 5
+- n_margarita = `n_students * 0.55` = 12

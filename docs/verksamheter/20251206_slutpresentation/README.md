@@ -58,13 +58,13 @@ Namn                          |Ålder|Titel                                  |No
 ------------------------------|-----|---------------------------------------|------------------
 Richel                        |-Inf |ProPokeVolley                          |P, needs two volunteers, from the volunteers
 Björn                         |-Inf |.                                      |.
-
-
-Luca   |-Inf
-Enrico |-Inf
+Fredrik                       |-Inf |Snake game, in `Fredrik` folder        |.
+Luca   |-Inf|folder `Luca`
+Enrico |-Inf|???
 
 - Danylo, 10, tar med allt själv, pres ochså idag
 - Luca, 11, Ball, pres ochså idag, folder `Luca`
+- Emil, 11, tar med eget sak
 - Gabriel, 12, USB stuck,  Minispel, pres ochså idag, folder `Gabriel`
 - Mats, 15, RetroGolf på Itch: pres på egen dator, ochså idag, https://matsmanhej.itch.io/retro-golf
 
@@ -77,7 +77,6 @@ Enrico |-Inf
 - Axel, 13: tar med egen dator, pres på slutpres if det finns något
 - Otto, 12, USB före 17:00, obekant, pres men inte idag
 - Vide och Alfred och Daniel: Roblox tar med egne datorer
-- Emil, inget
 - Wilmer, inget
 - Ilon, inget, publik
 
