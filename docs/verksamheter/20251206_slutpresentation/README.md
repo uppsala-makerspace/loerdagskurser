@@ -79,6 +79,7 @@ Enrico |-Inf|???
 - Vide och Alfred och Daniel: Roblox tar med egne datorer
 - Wilmer, inget
 - Ilon, inget, publik
+- Philip, inte, publik
 
 ## Absent
 
