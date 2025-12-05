@@ -59,8 +59,8 @@ Namn                          |Ålder|Titel                                  |No
 Richel                        |-Inf |ProPokeVolley                          |P, needs two volunteers, from the volunteers
 Björn                         |-Inf |.                                      |.
 Fredrik                       |-Inf |Snake game, in `Fredrik` folder        |.
-Luca   |-Inf|folder `Luca`
-Enrico |-Inf|???
+Luca                          |-Inf |Space                                  |Processing, in folder `Luca`
+Enrico                        |-Inf |Pong                                   |Processing, in folder `Enrico`
 
 - Danylo, 10, tar med allt själv, pres ochså idag
 - Luca, 11, Ball, pres ochså idag, folder `Luca`
