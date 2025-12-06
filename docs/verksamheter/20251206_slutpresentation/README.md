@@ -61,15 +61,13 @@ Björn                         |-Inf |.                                      |.
 Fredrik                       |-Inf |Snake game, in `Fredrik` folder        |.
 Luca                          |-Inf |Space                                  |Processing, in folder `Luca`
 Enrico                        |-Inf |Pong                                   |Processing, in folder `Enrico`
+Danylo                        |10   |Superhiss                              |Tar med allt själv
+Gordii                        |11   |Superhiss                              |Tar med allt själv
+Emil                          |11   |Superlampan                            |Tar med eget sak
+Gabriel                       |12   |Minispel                               |Processing, in folder `Gabriel`
+Mats                          |15   |RetroGolf på Itch                      |Använder egen dator
 
-- Danylo, 10, tar med allt själv, pres ochså idag
-- Luca, 11, Ball, pres ochså idag, folder `Luca`
-- Emil, 11, tar med eget sak
-- Gabriel, 12, USB stuck,  Minispel, pres ochså idag, folder `Gabriel`
-- Mats, 15, RetroGolf på Itch: pres på egen dator, ochså idag, https://matsmanhej.itch.io/retro-golf
 
-
-- Gordii, 11, tar med allt själv, pres på slutpres
 - Kevin, schickar koden til mig för Fredag midtat, pres på slutpres
 - Herman och Leonid, 14, 16: tar med egen dator, pres på slutpres
 - Niko, 13: tar med egen dator, pres på slutpres
