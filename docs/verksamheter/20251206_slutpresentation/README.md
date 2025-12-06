@@ -25,13 +25,13 @@
 
 > Presentationen är i Mallassal
 
-När  |Besökare                           | Elever
------|-----------------------------------|-----------------------------------------------
-11:00|Dör öpnas [G]                      | Dör öpnas [M]
-11:01|Fika [G]                           | `SB` förbereder presentationer [M]
-11:01|`R` pratar [G]                     | `AB` hjälper elever med anonym utvärdering [M]
-11:30|Kollar på presentationer  [M]      | Ger presentationer  [M]
-13:00|Slut                               | Slut
+När  |Besökare                            | Elever
+-----|------------------------------------|-----------------------------------------------
+11.00|Dör öpnas [G]                       | Dör öpnas [M]
+11.01|Fika [G], `SB` presenterar [G]      | Presenterar [G]
+11.01|`R` förberedar med elever [M]       | Förbereder presentationer [M]
+11.30|Kollar på presentationer  [M]       | Ger presentationer  [M]
+13.00|Slut                                | Slut
 
 - [B] Biblioteket, [G] Grupprum brevid Mallassal, [M] Mallassal,
 - `AB`: AtomBjörn, `R`: Richèl, `SB`: Store Björn
@@ -54,51 +54,66 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
+!!! info "Inte glöm"
+
+    Fråga alla elever att berätta om en linje av sina kod, eller del
+    av sina 3D ritningar: det hjälper att presentationen går lite
+    långsammare och får dem att kolla i publiken mer
+
 Namn                          |Ålder|Titel                                  |Notiser
 ------------------------------|-----|---------------------------------------|------------------
-Richel                        |-Inf |ProPokeVolley                          |P, needs two volunteers, from the volunteers
+Richel                        |-Inf |Conquer Chess                          |Behövs 2 volontärer, [store page](https://store.steampowered.com/app/3873940/Conquer_Chess/?beta=1)
 Björn                         |-Inf |.                                      |.
-Fredrik                       |-Inf |Snake game, in `Fredrik` folder        |.
-Luca                          |-Inf |Space                                  |Processing, in folder `Luca`
-Enrico                        |-Inf |Pong                                   |Processing, in folder `Enrico`
+Fredrik                       |-Inf |Snake game                             |Processing, in `Fredrik` folder
+Luca                          |-Inf |Space                                  |Processing, in `Luca` folder
+Enrico                        |-Inf |Pong                                   |Processing, in `Enrico folder`
 Danylo                        |10   |Superhiss                              |Tar med allt själv
 Gordii                        |11   |Superhiss                              |Tar med allt själv
 Emil                          |11   |Superlampan                            |Tar med eget sak
-Gabriel                       |12   |Minispel                               |Processing, in folder `Gabriel`
-Mats                          |15   |RetroGolf på Itch                      |Använder egen dator
-
-
-- Kevin, schickar koden til mig för Fredag midtat, pres på slutpres
-- Herman och Leonid, 14, 16: tar med egen dator, pres på slutpres
-- Niko, 13: tar med egen dator, pres på slutpres
-- Isaac, 13, tar med egen dator el scickarkod, pres bara på slutpres
-- Axel, 13: tar med egen dator, pres på slutpres if det finns något
-- Otto, 12, USB före 17:00, obekant, pres men inte idag
-- Vide och Alfred och Daniel: Roblox tar med egne datorer
-- Wilmer, inget
-- Ilon, inget, publik
-- Philip, inte, publik
-
-## Absent
-
-- .
-
-## Audience
-
-- .
-
-## Volunteers
-
-- .
+Gabriel                       |12   |Minispel                               |Processing, in `Gabriel` folder
+??? Otto ???                  |12   |Ingen Kod Skickat                      |Ej kod skickat, använder egen dator?
+!!! Niko !!!                  |13   |Gun range                              |Använder egen dator
+!!! Isaac och Pablo!!!        |13,?13|Godotspel?                            |Använder egen dator
+!!! Isaac och Felipe!!!       |13,?13|Blobbish Adventure                    |Använder egen dator
+??? Shushanti ???             |?13  |Hus                                    |Ej kod skickat, använder egen dator?
+??? Axel ???                  |13   |Fundamentum                        |Ej kod skickat, använder egen dator?
+??? Kevin ???                 |?    |3D motor                               |Ej kod skickat, använder egen dator?
+!!! Alfred och Daniel och Vide !!!    |?14  |Roxblox                                |Använder egen dator
+!!! Mats !!!                  |15   |RetroGolf på Itch                      |Använder egen dator
+!!! Herman och Leonid !!!     |14,16|Turngame                               |Använder egen dator
+Richel                        |Inf  |Hemlig                                 |Också hemliga :-)
 
 ## Notes
 
-## Notes from next time
+???- info "Checklist"
 
-- 22 presentations took 45 minutes to prepare with two computers,
-  i.e. `preparation_time = n_presentations * 2 minutes`
-- 22 presentations took 60 minutes
-  i.e. `presention_time = n_presentations * 3 minutes`
-- Let all pupils present a line of code and/or a part of their 3D image.
-  It slows down the presentations and makes them look into the audience more
+    - Coffee
+    - Hot water (for tea)
+    - Teabags
+    - Paper cups (for coffee and tea)
+    - Sugar (for coffee and tea)
+    - Milk (for coffee and tea)
+    - Evaluation forms
+    - Pens
+    - Laptop
+    - Camera
+    - Extension cord
+
+???- info "Notes from December 2026"
+
+    - 10 presentations that need preparation are predicted to take 20
+      minutes to prepare with 10 computers
+    - 17 presentations are predicted to take 51 minutes,
+      i.e. `presention_time = n_presentations * 3 minutes`
+    - Let all pupils present a line of code and/or a part of their 3D image.
+      It slows down the presentations and makes them look into the audience more
+
+???- info "Notes from July 2025"
+
+    - 22 presentations took 45 minutes to prepare with two computers,
+      i.e. `preparation_time = n_presentations * 2 minutes`
+    - 22 presentations took 60 minutes
+      i.e. `presention_time = n_presentations * 3 minutes`
+    - Let all pupils present a line of code and/or a part of their 3D image.
+      It slows down the presentations and makes them look into the audience more
 
