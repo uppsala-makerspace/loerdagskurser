@@ -63,10 +63,10 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 Namn                          |Ålder|Titel                                  |Notiser
 ------------------------------|-----|---------------------------------------|------------------
 Richel                        |-Inf |Conquer Chess                          |Behövs 2 volontärer, [store page](https://store.steampowered.com/app/3873940/Conquer_Chess/?beta=1)
-Björn                         |-Inf |.                                      |.
+Björn                         |-Inf |Supermotor                             |Arduino
 Fredrik                       |-Inf |Snake game                             |Processing, in `Fredrik` folder
-Luca                          |-Inf |Space                                  |Processing, in `Luca` folder
 Enrico                        |-Inf |Pong                                   |Processing, in `Enrico folder`
+Luca                          |-Inf |Space                                  |Processing, in `Luca` folder
 Danylo                        |10   |Superhiss                              |Tar med allt själv
 Gordii                        |11   |Superhiss                              |Tar med allt själv
 Emil                          |11   |Superlampan                            |Tar med eget sak
@@ -87,17 +87,20 @@ Richel                        |Inf  |Hemlig                                 |Ock
 
 ???- info "Checklist"
 
-    - Coffee
+    - [x] Coffee
     - Hot water (for tea)
-    - Teabags
+    - [x] Teabags
     - Paper cups (for coffee and tea)
-    - Sugar (for coffee and tea)
+    - [x] Sugar (for coffee and tea)
     - Milk (for coffee and tea)
-    - Evaluation forms
-    - Pens
-    - Laptop
-    - Camera
-    - Extension cord
+    - [x] Evaluation forms
+    - [x] Pens
+    - [x] Mouse
+    - [x] Laptop
+    - [x] Camera
+    - [x] USB cable
+    - [x] Extension cord
+    
 
 ???- info "Notes from December 2026"
 
