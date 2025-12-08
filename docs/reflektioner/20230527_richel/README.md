@@ -118,7 +118,7 @@ Waka Baka  | Frivilligare | Toppen | De är jättesnälla
 Waka Baka  | Frivilligare | Tips   | .
 Waka Baka  | Boken        | Toppen | Det var ett år sen jag läste dem, men de är jättebra, dock jag vill har bok 9
 Waka Baka  | Boken        | Tips   | .
-Waka Baka  | Siffra       | .      | 4.8                                                                                                      |
+Waka Baka  | Siffra       | .      | 4.8
 
 <!-- markdownlint-enable MD013 -->
 
@@ -126,7 +126,7 @@ Waka Baka  | Siffra       | .      | 4.8                                        
   om något nytt fast att man gör en annan version av bok 1 där man lär sig
   samma saker och lite mer komplicerade saker inom samma område
 
-##
+## Answers
 
 ### How is the course?
 
