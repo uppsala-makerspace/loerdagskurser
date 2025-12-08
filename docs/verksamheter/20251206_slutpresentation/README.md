@@ -67,20 +67,20 @@ Björn                         |-Inf |Supermotor                             |Ar
 Fredrik                       |-Inf |Snake game                             |Processing, in `Fredrik` folder
 Enrico                        |-Inf |Pong                                   |Processing, in `Enrico folder`
 Luca                          |-Inf |Space                                  |Processing, in `Luca` folder
-Danylo                        |10   |Superhiss                              |Tar med allt själv
-Gordii                        |11   |Superhiss                              |Tar med allt själv
+Danylo och Gordii             |10,11|Superpump                              |Tar med allt själva
 Emil                          |11   |Superlampan                            |Tar med eget sak
 Gabriel                       |12   |Minispel                               |Processing, in `Gabriel` folder
-??? Otto ???                  |12   |Ingen Kod Skickat                      |Ej kod skickat, använder egen dator?
-!!! Niko !!!                  |13   |Gun range                              |Använder egen dator
-!!! Isaac och Pablo!!!        |13,?13|Godotspel?                            |Använder egen dator
-!!! Isaac och Felipe!!!       |13,?13|Blobbish Adventure                    |Använder egen dator
-??? Shushanti ???             |?13  |Hus                                    |Ej kod skickat, använder egen dator?
-??? Axel ???                  |13   |Fundamentum                        |Ej kod skickat, använder egen dator?
-??? Kevin ???                 |?    |3D motor                               |Ej kod skickat, använder egen dator?
-!!! Alfred och Daniel och Vide !!!    |?14  |Roxblox                                |Använder egen dator
-!!! Mats !!!                  |15   |RetroGolf på Itch                      |Använder egen dator
-!!! Herman och Leonid !!!     |14,16|Turngame                               |Använder egen dator
+Otto                          |12   |Ingen Kod Skickat                      |Processing, in `Otto` folder
+Adam                          |10   |Lagning av mobil                       |Använder egen dator
+Ben                           |12   |Minecraft mod                          |Använder egen dator
+Daniel                        |12   |Mattemästare                           |Använder egen dator
+Niko                          |13   |Gun range                              |Använder egen dator
+Isaac                         |13   |Bouncing cube                          |Använder egen dator
+Axel                          |13   |Ludbert                                |Använder egen dator?
+Alfred och Daniel och Vide    |?14  |Islands                                |Använder egen dator
+Vide                          |13   |Skill Framework                        |Använder egen dator
+Mats                          |15   |RetroGolf på Itch                      |Använder egen dator
+Herman och Leonid             |14,16|Turngame                               |Använder egen dator
 Richel                        |Inf  |Hemlig                                 |Också hemliga :-)
 
 ## Notes
@@ -100,7 +100,23 @@ Richel                        |Inf  |Hemlig                                 |Ock
     - [x] Camera
     - [x] USB cable
     - [x] Extension cord
-    
+
+## Pictures
+
+![Image from presentation 1](1.jpg)
+
+![Image from presentation 2](2.jpg)
+
+![Image from presentation 3](3.jpg)
+
+![Image from presentation 4](4.jpg)
+
+![Image from presentation 5](5.jpg)
+
+![Image from presentation 6](6.jpg)
+
+![Image from presentation 7](7.jpg)
+
 
 ???- info "Notes from December 2026"
 

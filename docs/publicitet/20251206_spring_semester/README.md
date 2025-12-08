@@ -18,7 +18,7 @@
   hos Stadsbiblioteket:
   Slutpresentation
 
-- 2026-05-30: Föremorsdag 
+- 2026-05-30: Föremorsdag
   och sista kursdag
 
 - 2026-08-22: Kursen börjar igen

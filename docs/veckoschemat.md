@@ -65,7 +65,7 @@ Vecka| Dag      |Vad
 32   |2026-08-08| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
 33   |2026-08-15| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
 34   |2026-08-22| 1. Första lektion
-35   |2026-08-29| 2. 
+35   |2026-08-29| 2.
 
 === "🇸🇪"
 
