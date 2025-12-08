@@ -21,31 +21,24 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Vi startar -gissning!- typ 10.36 ...
 
-Vem                            |Ålder        |Vad
--------------------------------|-------------|----------------
-[READY] Hilding                |13           |Arduino: Dörröppnare
-[READY] Angela                 |9            |Blender: Tropiska frukter
-[READY] Dahlia                 |9            |Blender: Damu
-[READY] David H                |10           |Blender: Airpods
-[READY] Alfred                 |11           |Arduino: Vår Mus
-[READY] Felipe                 |11           |Processing: Confetti
-[READY] Isaac                  |11           |Processing: Gold mystery
-[READY] Isaac + Felipe + Pablo |11           |Processing: Halcony Infyniti
-[READY] Rees                   |11           |Blender: Smileykub
-[READY] Daniel H               |12           |Blender: The Real Sea
-[READY] Vide                   |12           |Blender: Toy collection
-[READY] Erik                  |13            |Mjolnir
-[READY] Daniel M               |10           |Arduino: Cirkel (Processing + Arduino)
+Vem                    |Ålder        |Vad
+-----------------------|-------------|----------------
+Hilding                |13           |Arduino: Dörröppnare
+Angela                 |9            |Blender: Tropiska frukter
+Dahlia                 |9            |Blender: Damu
+David H                |10           |Blender: Airpods
+Alfred                 |11           |Arduino: Vår Mus
+Felipe                 |11           |Processing: Confetti
+Isaac                  |11           |Processing: Gold mystery
+Isaac + Felipe + Pablo |11           |Processing: Halcony Infyniti
+Rees                   |11           |Blender: Smileykub
+Daniel H               |12           |Blender: The Real Sea
+Vide                   |12           |Blender: Toy collection
+Erik                   |13           |Mjolnir
+Daniel M               |10           |Arduino: Cirkel (Processing + Arduino)
 
 * Föraldrarvårdslag: Alex, David L, Dennis, Giovanni
 * På semester: -
-
-Vem                            |Ålder        |Vad
--------------------------------|-------------|----------------
-[?] Emil                   |9            |Arduino: Mood Cue
-[?] Alejandro              |12           |Blender: Råttkrokodil
-[?] Christian             |?            |Anden
-[?] Teo                   |?            |iPhone 720
 
 ## Notes from previous times
 
