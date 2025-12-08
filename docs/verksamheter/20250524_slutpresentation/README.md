@@ -84,16 +84,10 @@ Otto                          |12   |Bouncecounter                          |P
 Isaac och Pablo               |?13  |Platformer 2D                          |Godot, will present from own computer
 Felipe                        |?13  |Fire Rain                              |P
 Axel                          |13   |Lavaball                               |P, will practice today
-Niko                          |13   |Book Of Programs                        |Uses own computer
-[TODO] Kevin                  |?14   |Minesweeper                            |P, will send me new code
+Niko                          |13   |Book Of Programs                       |Uses own computer
+[TODO] Kevin                  |?14  |Minesweeper                            |P, will send me new code
 Mats                          |15   |Retrogolf                              |P, will give code, will practice present
-Herman och Leonid             |99    |Train Game                             |Use their own computer
-
-[TODO] Linus                         |.    |Armeé                                  |B, Need drawing
-[TODO] Noah                          |.    |Three In One                           |P, no code yet
-[TODO] Malek                         |.    |Error 666                              |P, no code yet
-[TODO] Diesel                        |.    |?                                      |?, no code yet
-[TODO] Elis                          |.    |?                                      |?, no code yet
+Herman och Leonid             |99   |Train Game                             |Use their own computer
 
 ## Absent
 
