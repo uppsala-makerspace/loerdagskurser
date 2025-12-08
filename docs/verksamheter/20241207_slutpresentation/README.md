@@ -56,30 +56,30 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ## Presentationsschema
 
-Go to |Status|Age|Who           |What
-------|------|---|--------------|-------------------
-Richel|Ready |14 |Hilding       |A: Hildingproject
-Björn |Ready |13 |Erik          |B: Erikprojected
-Richel|Done  |9  |Noah          |P: Ett Vackert Program
-Björn |Ready |10 |Angela        |X: T-shirt projectet
-Richel|Done  |.  |Adam          |A: Jobbiga ljudet
-Björn |Ready |10 |Leo           |B: Cat with boban
-Richel|Done  |10 |Enrico        |P: [Alien](enrico/enrico.pde)
-Björn |Ready |11 |David H       |B: Davidprojectet
-Richel|Done  |10 |Shushanti     |P: [Slow Aliens](shushanti/shushanti.pde)
-Richel|Done  |10 |Adam + Ebbe y |P: Blandat (Ebbe or both will present)
-Björn |Ready |12 |Vide          |B: Videprojectet
-Richel|Done  |11 |Alfred        |A: Day Night Cycle
-Björn |Ready |13 |Daniel H      |B: Arsenal
-Richel|Done  |.  |Dahlia        |P: Spirit och Sprit 2
-Richel|Done  |11 |Daniel M      |A: Laserprojectet
-Richel|Done  |.  |Luca          |P: [luca/luca.pde](luca/luca.pde)
-Björn |Done  |.  |Sannah        |B: `#RIP_BOZO`
-Richel|Done  |98 |The Crew: Felipe, Isaac, Pablo |Halcony Infyniti
-Björn |None  |11 |Ben           |X: Minecraft song
-Richel|Done  |12 |Felipe        |P: Fire rain
+Go to |Status|Age|Who                                            |What
+------|------|---|-----------------------------------------------|-------------------
+Richel|Ready |14 |Hilding                                        |A: Hildingproject
+Björn |Ready |13 |Erik                                           |B: Erikprojected
+Richel|Done  |9  |Noah                                           |P: Ett Vackert Program
+Björn |Ready |10 |Angela                                         |X: T-shirt projectet
+Richel|Done  |.  |Adam                                           |A: Jobbiga ljudet
+Björn |Ready |10 |Leo                                            |B: Cat with boban
+Richel|Done  |10 |Enrico                                         |P: [Alien](enrico/enrico.pde)
+Björn |Ready |11 |David H                                        |B: Davidprojectet
+Richel|Done  |10 |Shushanti                                      |P: [Slow Aliens](shushanti/shushanti.pde)
+Richel|Done  |10 |Adam + Ebbe y                                  |P: Blandat (Ebbe or both will present)
+Björn |Ready |12 |Vide                                           |B: Videprojectet
+Richel|Done  |11 |Alfred                                         |A: Day Night Cycle
+Björn |Ready |13 |Daniel H                                       |B: Arsenal
+Richel|Done  |.  |Dahlia                                         |P: Spirit och Sprit 2
+Richel|Done  |11 |Daniel M                                       |A: Laserprojectet
+Richel|Done  |.  |Luca                                           |P: [luca/luca.pde](luca/luca.pde)
+Björn |Done  |.  |Sannah                                         |B: `#RIP_BOZO`
+Richel|Done  |98 |The Crew: Felipe, Isaac, Pablo                 |Halcony Infyniti
+Björn |None  |11 |Ben                                            |X: Minecraft song
+Richel|Done  |12 |Felipe                                         |P: Fire rain
 Richel|Done  |99 |Cloudformer: Herman, Leonid, Malek, Mats, Niko |P: Project X
-Björn |None  |.  |Sebbe         |B: Ficklampan Till Gris
+Björn |None  |.  |Sebbe                                          |B: Ficklampan Till Gris
 
 ## Bilder
 
