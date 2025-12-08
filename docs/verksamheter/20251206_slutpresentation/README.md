@@ -117,6 +117,21 @@ Richel                        |Inf  |Hemlig                                 |Ock
 
 ![Image from presentation 7](7.jpg)
 
+![Image from presentation 8](8.jpg)
+
+![Image from presentation 9](9.jpg)
+
+![Image from presentation 10](10.jpg)
+
+![Image from presentation 11](11.jpg)
+
+![Image from presentation 12](12.jpg)
+
+![Image from presentation 13](13.jpg)
+
+![Image from presentation 14](14.jpg)
+
+![Image from presentation 15](15.jpg)
 
 ???- info "Notes from December 2026"
 
