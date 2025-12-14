@@ -6,7 +6,7 @@
 
 Here I type over the evaluations results as truthfully as I can,
 keeping spelling errors. If there were two suggestions in one form,
-I split these up in two. I have replaced an explicity name by `[name]`.
+I split these up in two.
 
 ## What goes well?
 
