@@ -37,7 +37,7 @@ I split these up in two.
   Personalen är mycket hjälpsam och snäll
 - Fortsätt som ni gör, allt är toppen
 - Laga mat
-- Tack för allt ni gör 
+- Tack för allt ni gör
 - Ni har en välkommande undervisning som
   passar barnens utveckling!
 - All is perfect! Thanks you for offering this

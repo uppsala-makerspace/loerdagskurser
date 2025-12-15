@@ -9,5 +9,5 @@
 
 ## Skrythörnan
 
-- [Gun Range](https://absolutly-nothing.itch.io/gun-range)
+* [Gun Range](https://absolutly-nothing.itch.io/gun-range)
 

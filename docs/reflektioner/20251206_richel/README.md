@@ -67,7 +67,7 @@ Blender   |-0.0619                   |-1.857
 Arduino is growing for unknown reasons. I really have no idea
 what is so attractive there ...? Blender and Processing are the courses
 that are taking the biggest dives. Also here, I have no idea
-why this is. In summary: 
+why this is. In summary:
 **I have no idea why the attendance of courses go up or down**.
 
 Before deciding to take action, let's take at the bigger picture:
@@ -84,7 +84,7 @@ Let's zoom in a bit on regular course attendance:
 Based on this graph, I would say
 **course attendance has a high variability and seems stable**.
 
-In conclusion, I would say that 
+In conclusion, I would say that
 **attendance and course attendance have stopped growing**.
 and **no action seems needed**.
 
@@ -100,7 +100,7 @@ Reception desk|AtomBjörn                      |AtomBjörn                |A per
 Laser         |Lars                           |Lars                     |Unpredictable when someone is present
 Vinyl cutter  |None                           |None                     |Could use a volunteer here
 
-The team consists out of 7 people, of which 1 new. 
+The team consists out of 7 people, of which 1 new.
 I am quite proud how this -quite experienced- team rolls.
 
 ## Finances
@@ -108,15 +108,15 @@ I am quite proud how this -quite experienced- team rolls.
 As I have no access to the finances, I have no idea how many parents
 pay the half-yearly course fee. I can imagine AtomBjörn gets questions
 about this and that parents pay their dues. On the other hand, I can
-perfectly imagine parents forgetting this. 
+perfectly imagine parents forgetting this.
 
 - [ ] Check with finances person (I do not remember the name)
-  how many people paid for the course the last half year 
+  how many people paid for the course the last half year
 
 ## Evaluation results
 
 New is that also parents were allowed to fill in suggestions:
-these are quite helpful ones. 
+these are quite helpful ones.
 
 What goes well:
 
@@ -147,7 +147,7 @@ What goes well:
   Personalen är mycket hjälpsam och snäll
 - Fortsätt som ni gör, allt är toppen
 - Laga mat
-- Tack för allt ni gör 
+- Tack för allt ni gör
 - Ni har en välkommande undervisning som
   passar barnens utveckling!
 - All is perfect! Thanks you for offering this
@@ -229,9 +229,5 @@ will encourage them even more to do so.
   alla ska fika samtidigt
 
 
-
 - Veckobrev, tack!
-
-
-
 
