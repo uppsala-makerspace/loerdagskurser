@@ -1,7 +1,7 @@
 # Reflection 2025-12-06 by Richel
 
-- [Evaluation results](../../../data/utvaerderingar/20251206/README.md)
-- [Reflection](../../../reflektioner/20251206_richel/README.md)
+- [Evaluation results](../../data/utvaerderingar/20251206/README.md)
+- [Reflection](../../reflektioner/20251206_richel/README.md)
 
 I think this season went well.
 
