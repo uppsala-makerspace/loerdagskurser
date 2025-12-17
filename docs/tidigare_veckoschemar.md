@@ -55,6 +55,11 @@ Vecka| Dag      |Vad
 44   |2025-11-01|Höstlov och alla helgons dag
 45   |2025-11-08| 10.
 46   |2025-11-15| 11. [Efterfarsdag](verksamheter/20251115_efterfarsdag/README.md)
+47   |2025-11-22| 12.
+48   |2025-11-29| 13.
+.    |2025-11-30| [Hackathon](verksamheter/20251130_hackathon/README.md)
+49   |2025-12-06| 14. [Slutpresentation](verksamheter/20251206_slutpresentation/README.md)
+50   |2025-12-13| 15. Sista kursdag
 
 ## 2024
 

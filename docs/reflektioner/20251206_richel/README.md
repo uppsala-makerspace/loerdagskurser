@@ -110,8 +110,9 @@ pay the half-yearly course fee. I can imagine AtomBjörn gets questions
 about this and that parents pay their dues. On the other hand, I can
 perfectly imagine parents forgetting this.
 
-- [ ] Check with finances person (I do not remember the name)
+- [/] Check with finances person (I do not remember the name)
   how many people paid for the course the last half year
+    - Contacted person on 2025-12-14
 
 ## Evaluation results
 
@@ -159,18 +160,12 @@ This is all nice.
 - Jag önskar att barnen kan ha fler lektionstillfällen
   i veckan, speciellt för de barn som är
   intresserade och vill fördjupa sig mer
-
-This will be impossible without more volunteers
-
 - Lördag + söndag + lärogutecreater
 
 This will be impossible without more volunteers
 
 - Minecraft modding kurs
-
-This will be impossible without a volunteer teaching this
-
-- Making couse för minecraft and roboxs
+- Making couse for Minecraft and Robloxs
 
 This will be impossible without a volunteer teaching this
 
@@ -180,7 +175,8 @@ This will be impossible without a volunteer teaching this
 I think this is an interesting suggestion!
 I am not the boss about this course, but I will let them know :-)
 
-- [ ] Store Björn: share this suggestion
+- [ ] Let cooking course know about a suggestion to learn to cook food that does
+  not require heating (and hence, can be done when home alone)
 
 - Programmering: her ett project från början av terminen
   (type: jag ska lära mig att skriva 10 rader kod,
@@ -221,13 +217,28 @@ willing to help. I will forward this suggestion to the cooking course.
 I know the cooking course is pondering doing so. Maybe this suggestion
 will encourage them even more to do so.
 
-- [ ] Let cooking course know about this suggestion
+- [ ] Let cooking course know about a suggestion to create a recipe book
 
 - Peppa gärna barnen att göra projekt, eller
   saker, tillsammans. Vissa barn kan behöva
   lite social training. Även push för att
   alla ska fika samtidigt
 
-
 - Veckobrev, tack!
+
+There is an emaillist, but it is not used weekly.
+I see that there are twenty people on the list, including me twice,
+hence 18 real users :-)
+
+## Future plans
+
+- [ ] Consider how to get more project-based work in
+- [ ] Let cooking course know about a suggestion to learn to cook food that does
+  not require heating (and hence, can be done when home alone)
+- [ ] Let cooking course know that parents can help to do the shopping
+- [ ] Let cooking course know about a suggestion to create a recipe book
+
+
+
+
 

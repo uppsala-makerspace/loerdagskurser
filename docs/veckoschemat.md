@@ -23,11 +23,6 @@ tags:
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------
-47   |2025-11-22| 12.
-48   |2025-11-29| 13.
-.    |2025-11-30| [Hackathon](verksamheter/20251130_hackathon/README.md)
-49   |2025-12-06| 14. [Slutpresentation](verksamheter/20251206_slutpresentation/README.md)
-50   |2025-12-13| 15. Sista kursdag
 51   |2025-12-20|Jullov
 52   |2025-12-27|Jullov
 01   |2026-01-03|Jullov
