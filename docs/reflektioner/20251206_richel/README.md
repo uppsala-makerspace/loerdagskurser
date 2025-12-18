@@ -238,7 +238,27 @@ hence 18 real users :-)
 - [ ] Let cooking course know that parents can help to do the shopping
 - [ ] Let cooking course know about a suggestion to create a recipe book
 
+Also, there needs to be more booklets about Arduino: we
+have our first ever Swedish learner that finished all booklets!
 
+Offline Simulators:
 
+- Fritzing: awesome, 8 USD, programming does not work yet
+- Proteus: commerial, not free
+- SimulIDE:
 
+- UNOArdusim: Windows only, [download](https://sites.google.com/site/unoardusim/simulator-download)
+
+![UNOArdusim looks quite ugly, maybe because of WINE](UNOArdusim.png)
+
+Arduino IO Simulator|
+Paulware Arduino Simulator
+
+Online Simulators:
+
+- Tinkercad: requires an email address, strict on COPPA
+- PICSIMLAB
+- WOKWI
+- Microsoft Maker Code
+- Virtualbreadboard
 
