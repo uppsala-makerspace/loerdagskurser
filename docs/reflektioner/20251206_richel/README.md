@@ -114,6 +114,20 @@ perfectly imagine parents forgetting this.
   how many people paid for the course the last half year
     - Contacted person on 2025-12-14
 
+Additionally, Uppsala Kommun donated 250k kroner to UMS, largely to the LK.
+Below the relevant snippet from the UMS Newsletter:
+
+> Uppsala Municipality has granted our association an operating grant of SEK 
+> 250,000 for children's and young people's free time for 2026. 
+> The support depends largely on our Saturday courses, 
+> where there are many children. 
+> The municipality also takes into account that children and young people 
+> under 26 are members of our association and enjoy the workshops
+> to work on their own projects.
+
+With that donation, I think we cannot be in the negative whatever I would
+do :-)
+
 ## Evaluation results
 
 New is that also parents were allowed to fill in suggestions:
