@@ -138,11 +138,11 @@ perfectly imagine parents forgetting this.
 Additionally, Uppsala Kommun donated 250k kroner to UMS, largely to the LK.
 Below the relevant snippet from the UMS Newsletter:
 
-> Uppsala Municipality has granted our association an operating grant of SEK 
-> 250,000 for children's and young people's free time for 2026. 
-> The support depends largely on our Saturday courses, 
-> where there are many children. 
-> The municipality also takes into account that children and young people 
+> Uppsala Municipality has granted our association an operating grant of SEK
+> 250,000 for children's and young people's free time for 2026.
+> The support depends largely on our Saturday courses,
+> where there are many children.
+> The municipality also takes into account that children and young people
 > under 26 are members of our association and enjoy the workshops
 > to work on their own projects.
 
