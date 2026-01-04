@@ -89,6 +89,22 @@ course:
 
 ![How long do learners stay?](how_long_do_learners_stay.png)
 
+n_terms|n_learners
+-------|----------
+1      |157
+2      |42
+3      |19
+4      |13
+5      |11
+6      |3
+7      |5
+
+This means that from the 157 there are (157 - 42 - 19 - 13 - 11 - 3 - 5 =)
+64 that leave the course within one season. This means ((157 - 64) / 157 =)
+60% have properly been part of the course.
+
+I tend to reflect after a season of Lördagskurserna. In case you are interested, my thoughts about the courses can be found at this LK webpage. Some highlights:
+
 In conclusion, I would say that
 **attendance and course attendance have stopped growing**.
 and **no action seems needed**.
@@ -281,3 +297,13 @@ Online Simulators:
 - Microsoft Maker Code
 - Virtualbreadboard
 
+## Conclusion
+
+- Course attendance seems stable (i.e. not growing anymore)
+- Learners stay long: we have 5 that have stayed all 7 seasons (!)
+- The team is experienced (hence easy to works with), yet too small
+- The evaluation results are very positive,
+  although there is a selection bias that happy participants
+  tend to stay :-)
+- Much praise and suggestions for the new cooking course
+- Financially we seem to do fine
