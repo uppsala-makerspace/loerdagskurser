@@ -84,6 +84,11 @@ Let's zoom in a bit on regular course attendance:
 Based on this graph, I would say
 **course attendance has a high variability and seems stable**.
 
+Learners stay long, with seven that have stayed all seven seasons of the
+course:
+
+![How long do learners stay?](how_long_do_learners_stay.png)
+
 In conclusion, I would say that
 **attendance and course attendance have stopped growing**.
 and **no action seems needed**.
