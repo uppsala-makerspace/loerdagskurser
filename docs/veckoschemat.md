@@ -40,7 +40,7 @@ Vecka| Dag      |Vad
 13   |2026-03-28| [Påsklov](https://skollov-se.se/skollov-uppsala/)
 14   |2026-04-04| [Påsklov](https://skollov-se.se/skollov-uppsala/)
 15   |2026-04-11| 10.
-16   |2026-04-18| 11. [Prinsendagen](verksamheter/20260418_prinsesdagen/README.md))
+16   |2026-04-18| 11. [Prinsessdagen](verksamheter/20260418_prinsessdagen/README.md))
 17   |2026-04-25| 12.
 18   |2026-05-02| Ej kurs, [Valborg](https://xn--rda-dagar-07a.se/2026/svenska-helgdagar-2026/valborgsmassoafton-2026/)
 19   |2026-05-09| 13. 
