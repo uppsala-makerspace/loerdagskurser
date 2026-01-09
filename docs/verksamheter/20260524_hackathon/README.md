@@ -1,4 +1,4 @@
-# 2026-05-10 Hackathon
+# 2026-05-24 Hackathon
 
 - Målet: att förbättra programmeret för slutpresentationen
 - Vem: eleverna från Lördagskurser, men varje person är vällkomna också

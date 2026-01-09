@@ -5,7 +5,7 @@
 > En tidigare slutpresentation
 
 - Vad: Slutpresentation och utvärderig
-- När: Lördag 23:e Mai 2026
+- När: Lördag 30:e Mai 2026
 - Tiderna: 11.00-13.30
 - Målet: att elever får visar deras mästarevärk
 - Vem: varje en
