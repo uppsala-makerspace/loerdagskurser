@@ -1,12 +1,22 @@
+int n = 0;
+
 void setup()
 {
-  pinMode(13, OUTPUT);  
+  pinMode(12, OUTPUT);  
+  pinMode(13, INPUT);  
 }
 
 void loop()
 {
-  digitalWrite(13, HIGH);
-  delay(0);  
-  digitalWrite(13, LOW);
-  delay(0);
+  if (digitalRead(13))
+  {
+    n = 100;
+    digitalWrite(12, HIGH);
+  }
+  n = n - 1;
+  if (n == 0)
+  {
+    digitalWrite(12, LOW);    
+  }
+  delay(1);  
 }
