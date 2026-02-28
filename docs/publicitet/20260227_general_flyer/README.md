@@ -1,3 +1,6 @@
-# 2025-09-13 General flyer
+# 2026-02-27 general flyer
 
-- [2025-09-13 general flyer](20250913_general_flyer.pdf)
+- [2026-02-27 general flyer (.pdf)](20260227_general_flyer.odg)
+- [2026-02-27 general flyer (.odg))](20260227_general_flyer.odg)
+
+
