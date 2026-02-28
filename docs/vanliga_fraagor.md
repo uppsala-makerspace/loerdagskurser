@@ -23,6 +23,27 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 
 ## Komma igång
 
+### 🇸🇪 När kan jag börja? 🇬🇧 When can I start?
+
+=== "🇸🇪"
+
+  Du kan börja när som helst!
+
+  Det är bäst att börjar med en kurs under en vanligt vecka:
+  [Veckoschemat](veckoschemat.md) visar vad händer varje vecka.
+
+  Se [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
+
+
+=== "🇬🇧"
+
+  You can start any day!
+
+  It is best to start a course on a regular day:
+  [the weekly schedule](veckoschemat.md) shows what happens each week.
+
+  Se [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
+
 ### När kan jag börja?
 
 När som helst!
@@ -70,6 +91,7 @@ Det beror på vad du vill göra:
 Kurs       |Tar med gjärna [1]          |Installera gjärna [2]
 -----------|----------------------------|-----------------------------------------------------
 Arduino    |En bärbar dator med laddare |[Arduino IDE](https://www.arduino.cc/en/software)
+Biomaking  |.                           |.
 Blender    |En bärbar dator med laddare |[Blender](https://www.blender.org/download/)
 `git`      |En bärbar dator med laddare |`git`, till exempel [https://git-scm.com/downloads](https://git-scm.com/downloads)
 Matlagning |.                           |.
