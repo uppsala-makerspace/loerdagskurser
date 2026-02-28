@@ -43,24 +43,41 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 
     Se [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
 
-### När kan jag börja?
 
-När som helst!
+### 🇸🇪 Kan jag prova på en gång? 🇬🇧 Can I try out the course first?
 
-Se [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
+=== "🇸🇪"
 
-### Kan jag prova på en gång?
+    Javisst!
 
-Javisst!
+    Det kostar ingenting första gången,
+    det är viktigt att deltagarna känner att de hamnat rätt!
 
-Det kostar ingenting första gången, det är viktigt att deltagarna känner att de hamnat rätt!
+=== "🇬🇧"
 
-### Om jag inte trivs, kan jag sluta när som helst?
+    Absolutely!
 
-Självklart!
+    There is no need to pay the first few times,
+    as it is more important that our learners feel right being with us.
 
-Våra kurser är inte en hobby för alla.
-Det är jättebra att du säger till om du har upptäckt att du gillar andra saker mer!
+### 🇸🇪 Kan jag sluta när som helst? 🇬🇧 Can I quit any time?
+
+=== "🇸🇪"
+
+    Självklart kan du sluta när som helst!
+
+    Våra kurser är inte en hobby för alla.
+
+    Det är jättebra att du har upptäckt
+    att du gillar andra saker mer!
+
+=== "🇬🇧"
+
+    Of course can you quit anytime!
+
+    Our courses are not a suitable hobby for all.
+
+    It is great when you discover that you like other things (even) more!
 
 ## Ålder på deltagare
 
