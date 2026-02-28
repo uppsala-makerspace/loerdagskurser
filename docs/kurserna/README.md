@@ -6,7 +6,7 @@
 
     Kurs                                                                            |Tid        |Vad                                                                    |Bok
     --------------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------
-    ![Cooking logo](cooking_logo_28_x_32.png) **Matlagning**                        |9.00-10.00 |Att skapa och äta frukost                                              | [Matlagningskurs](https://richelbilderbeek.github.io/matlagningkurs/)
+    ![Cooking logo](cooking_logo_28_x_32.png) **Matlagning**                        |9.00-10.00 |Att skapa och äta frukost                                              | .
     ![Arduino logo](arduino_community_logo_65x32.png) **Arduino**                   |10.15-12.00|Ett kretskort som programmeras för att bygga maskiner                  | [Arduino för ungdomar](https://richelbilderbeek.github.io/arduino_foer_ungdomar/)
     ![Blender logo](blender_community_badge_white_39_x_32.png) **Blender**          |10.15-12.00|Ett 3D ritnings program för, t.ex. 3D skrivning                        | [Grundkurs i Blender](https://github.com/richelbilderbeek/grundkurs_i_blender)
     ![Processing logo](processing4_logo_36_x_32.png) **Programmering**              |12.15-14.00|Skapa datorspel, med bland annat, programmerspråket Processing         | [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar)
@@ -30,7 +30,7 @@
 
     Course                                                                          |Time       |What                                                                    |Book
     --------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------
-    ![Cooking logo](cooking_logo_28_x_32.png) **Cooking**                           |9:00-10:00 |Preparing and having breakfast                                          | [Matlagningskurs](https://richelbilderbeek.github.io/matlagningkurs/)
+    ![Cooking logo](cooking_logo_28_x_32.png) **Cooking**                           |9:00-10:00 |Preparing and having breakfast                                          | .
     ![Arduino logo](arduino_community_logo_65x32.png) **Arduino**                   |10:15-12:00|A programmable printed circuit board to build electronical machines with| [Arduino för ungdomar](https://richelbilderbeek.github.io/arduino_foer_ungdomar/)
     ![Blender logo](blender_community_badge_white_39_x_32.png) **Blender**          |10:15-12:00|A program to create 3D models for, among others, 3D printing            | [Grundkurs i Blender](https://github.com/richelbilderbeek/grundkurs_i_blender)
     ![Processing logo](processing4_logo_36_x_32.png) **Programmering**              |12:15-14:00|Create games with, among others, the programming language Processing    | [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar)
