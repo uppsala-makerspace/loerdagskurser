@@ -27,22 +27,21 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 
 === "🇸🇪"
 
-  Du kan börja när som helst!
+    Du kan börja när som helst!
 
-  Det är bäst att börjar med en kurs under en vanligt vecka:
-  [Veckoschemat](veckoschemat.md) visar vad händer varje vecka.
+    Det är bäst att börjar med en kurs under en vanligt vecka:
+    [Veckoschemat](veckoschemat.md) visar vad händer varje vecka.
 
-  Se [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
-
+    Se [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
 
 === "🇬🇧"
 
-  You can start any day!
+    You can start any day!
 
-  It is best to start a course on a regular day:
-  [the weekly schedule](veckoschemat.md) shows what happens each week.
+    It is best to start a course on a regular day:
+    [the weekly schedule](veckoschemat.md) shows what happens each week.
 
-  Se [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
+    Se [ditt första besök](ditt_foersta_besoek/README.md) har detta ska bli!
 
 ### När kan jag börja?
 
