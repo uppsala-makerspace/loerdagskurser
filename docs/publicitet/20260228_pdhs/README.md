@@ -1,3 +1,3 @@
-# 2025-10-11 Efterfarsdag, hackathon och slutpresentation
+# 2026-02-28 Pi Dag, hackathon och slutpresentation
 
-- [`20251011_efdhs.pdf`](20251011_efdhs.pdf)
+- [`20260228_pdhs.pdf`](20260228_pdhs.pdf)
