@@ -28,12 +28,27 @@ Parameter                  |2023|2024|2025
 Total course visits        |637 |833 |1353
 Total Arduino visits       |113 |135 |326
 Total Blender visits       |110 |255 |253
-Total Cooking course visits|.   |.   |87
-Total Laser cutting visits |.   |.   |16
-Total Programming visits   |409 |443 |608
+Total cooking course visits|.   |.   |87
+Total laser cutting visits |.   |.   |16
+Total Processing  visits   |409 |443 |608
 Total female visits        |83  |120 |154
 Total male visits          |554 |713 |1199
 Unique female visitors     |16  |30  |37
 Unique male visitors       |85  |93  |120
 
-- A `.` means 'Not applicable', as these courses did not exists then
+- 'Total course visits' is the amount of courses visited.
+  If a learner
+  visits two courses on a day (e.g. the cooking course and the Blender
+  course), this counts as two visits
+- 'Total female visits' is the amount of courses visited by females.
+  If a female
+  visits two courses on a day (e.g. the cooking course and the Blender
+  course), this counts as two visits
+- 'Unique female visitors' is the amount of unique/different females
+  that visited one or more courses.
+  If a female
+  visits two courses on a day (e.g. the cooking course and the Blender
+  course), she is still counted as 1 unique person
+- The dot (`.`) means 'Not applicable',
+  as these courses did not exists then and/or were not formally measured
+  then
