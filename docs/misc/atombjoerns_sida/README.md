@@ -4,6 +4,8 @@ Den här sida är för Atombjörn,
 så han kann hitta saker lättare.
 Det är ofta bråttom under Lördagskurserna :-) .
 
+![Atombjörn](atombjoern.jpeg)
+
 - [Franvarolista](../presenskort/presence_list.pdf)
 - Arduino böcker
     - [Arduino bok 1](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_1.pdf)
