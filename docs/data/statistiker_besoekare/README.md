@@ -54,4 +54,3 @@ Percentage of learners willing to help a new learner:
 
 ![Percentage of learners willing to help a new learner](franvaro_2025_1_percentage_helpers_per_day_per_course.png)
 
-

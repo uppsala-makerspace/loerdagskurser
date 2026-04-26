@@ -30,4 +30,3 @@ Det är ofta bråttom under Lördagskurserna :-) .
     - [Processing bok 7](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/boecker/haefte_7.pdf)
     - [Processing bok 8](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/boecker/haefte_8.pdf)
 
-
