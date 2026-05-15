@@ -76,6 +76,21 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
     - [ ] USB cable
     - [ ] Extension cord
 
+
+Notes:
+
+Dahlia och Elena: först av all presentation, 'Blender figur'
+Danylo och Gordii: 'Luftrensare'
+Kai: (Processing)
+Leonid och Herman: Raycasting
+Felix: Labyrinth
+Niko: Nikospelet
+Axel: Luddberts första steg
+Mats: Zombie
+Luca: Lucaspelet
+Stefan: Lab in a Box
+
+
 ???- info "Notes from December 2026"
 
     - 10 presentations that need preparation are predicted to take 20

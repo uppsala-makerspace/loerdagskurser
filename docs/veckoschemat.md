@@ -61,6 +61,24 @@ Vecka| Dag      |Vad
 33   |2026-08-15| [Sommarlov](https://skollov-se.se/skollov-uppsala/)
 34   |2026-08-22| 1. Första lektion
 35   |2026-08-29| 2.
+36   |2026-09-05|.
+37   |2026-09-12|Kulturnatten
+38   |2026-09-19|.
+39   |2026-09-26|.
+40   |2026-10-03|.
+41   |2026-10-10|.
+42   |2026-10-17|.
+43   |2026-10-24|.
+44   |2026-10-31|Ej kurs, pga Alla Helgons dag
+45   |2026-11-07|.
+46   |2026-11-14|.
+47   |2026-11-21|Mandagen
+48   |2026-11-28|.
+49   |2026-12-05|?Ovningspresentation
+.    |2026-12-06|?Hackathon
+50   |2026-12-12|?Slutpresentation
+51   |2026-12-19|.
+52   |2026-12-26|Ej kurs, pga jul
 
 === "🇸🇪"
 
