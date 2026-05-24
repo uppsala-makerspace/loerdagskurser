@@ -79,16 +79,28 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Notes:
 
-Dahlia och Elena: först av all presentation, 'Blender figur'
-Danylo och Gordii: 'Luftrensare'
-Kai: (Processing)
-Leonid och Herman: Raycasting
-Felix: Labyrinth
-Niko: Nikospelet
-Axel: Luddberts första steg
-Mats: Zombie
-Luca: Lucaspelet
-Stefan: Lab in a Box
+Vem                     |Vad                  |Notiser
+------------------------|---------------------|-------------------------
+[DONE] Dahlia och Elena |Blender demonstration  |Först av all presentation, Brings own laptop
+[DONE] Malte            |Vapen              |Brings own laptop
+[DONE] Daniel           |C++ projekt         |Brings own laptop
+[DONE] Enrico           |Project             |Brings own laptop
+[DONE] Ben              |House with a chinese hat on top|Brings own laptop, we have practiced
+[DONE] Philip           |Pong|Brings own laptop
+Danylo och Gordii       |Luftrensare          |
+Kai                     |(Processing)
+[DONE] Leonid och Herman|Raycasting|Use own dator
+[DONE] Niko             |Jump |Use own dator
+[DONE] Axel             |Luddberts första steg|Use own dator
+[DONE] Felix            |Felixproject|Use own dator
+[DONE] Mats             |Zombie|Use own dator
+[DONE] Luca             |Game retro|Brings own laptop
+[DONE] Stefan           |Lab in a Box
+
+
+
+
+
 
 
 ???- info "Notes from December 2026"
