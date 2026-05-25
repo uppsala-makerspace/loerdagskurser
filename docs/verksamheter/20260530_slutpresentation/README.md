@@ -79,28 +79,23 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Notes:
 
-Vem                     |Vad                  |Notiser
-------------------------|---------------------|-------------------------
-[DONE] Dahlia och Elena |Blender demonstration  |Först av all presentation, Brings own laptop
-[DONE] Malte            |Vapen              |Brings own laptop
-[DONE] Daniel           |C++ projekt         |Brings own laptop
-[DONE] Enrico           |Project             |Brings own laptop
-[DONE] Ben              |House with a chinese hat on top|Brings own laptop, we have practiced
-[DONE] Philip           |Pong|Brings own laptop
-Danylo och Gordii       |Luftrensare          |
-Kai                     |(Processing)
-[DONE] Leonid och Herman|Raycasting|Use own dator
-[DONE] Niko             |Jump |Use own dator
-[DONE] Axel             |Luddberts första steg|Use own dator
-[DONE] Felix            |Felixproject|Use own dator
-[DONE] Mats             |Zombie|Use own dator
-[DONE] Luca             |Game retro|Brings own laptop
-[DONE] Stefan           |Lab in a Box
-
-
-
-
-
+Vem                     |Vad                            |Notiser
+------------------------|-------------------------------|-------------------------
+[DONE] Stefan           |Lab in a Box                   |First example presentation, need camera
+[DONE] Dahlia och Elena |Blender demonstration          |First pupil presentation, bring own laptop
+[DONE] Malte            |Vapen                          |Brings own laptop
+[DONE] Daniel           |C++ projekt                    |Brings own laptop
+[DONE] Enrico           |Project                        |Brings own laptop
+[DONE] Ben              |House with a chinese hat on top|Brings own laptop
+[DONE] Philip           |Pong                           |Brings own laptop
+Danylo och Gordii       |Luftrensare                    |Need camera
+Kai                     |?(Processing)                  |?Brings own laptop
+[DONE] Leonid och Herman|Raycasting                     |Brings own laptop
+[DONE] Niko             |Jump                           |Brings own laptop
+[DONE] Axel             |Luddberts första steg          |Brings own laptop
+[DONE] Felix            |Felixproject                   |Brings own laptop
+[DONE] Mats             |Zombie                         |Brings own laptop
+[DONE] Luca             |Game retro                     |Brings own laptop
 
 
 ???- info "Notes from December 2026"
