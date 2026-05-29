@@ -83,11 +83,11 @@ Vem                     |Vad                            |Notiser
 ------------------------|-------------------------------|-------------------------
 [DONE] Stefan           |Lab in a Box                   |First example presentation, need camera
 [DONE] Dahlia och Elena |Blender demonstration          |First pupil presentation, bring own laptop
+[DONE] Philip           |Pong                           |Early pupil presentation, brings own laptop
 [DONE] Malte            |Vapen                          |Brings own laptop
 [DONE] Daniel           |C++ projekt                    |Brings own laptop
 [DONE] Enrico           |Project                        |Brings own laptop
 [DONE] Ben              |House with a chinese hat on top|Brings own laptop
-[DONE] Philip           |Pong                           |Brings own laptop
 Danylo och Gordii       |Luftrensare                    |Need camera
 Kai                     |?(Processing)                  |?Brings own laptop
 [DONE] Leonid och Herman|Raycasting                     |Brings own laptop
