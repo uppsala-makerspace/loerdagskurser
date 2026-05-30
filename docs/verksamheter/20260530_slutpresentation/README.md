@@ -62,19 +62,28 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 ???- info "Checklist"
 
-    - [ ] Coffee
-    - [ ] Hot water (for tea)
-    - [ ] Teabags
-    - [ ] Paper cups (for coffee and tea)
-    - [ ] Sugar (for coffee and tea)
-    - [ ] Milk (for coffee and tea)
-    - [ ] Evaluation forms
-    - [ ] Pens
-    - [ ] Mouse
-    - [ ] Laptop
-    - [ ] Camera
-    - [ ] USB cable
-    - [ ] Extension cord
+    To do:
+
+    - Prepare questions for parents
+      - Show who helped most
+
+    - Buy 19 pens
+
+    - [x] Coffee
+    - [x] Hot water (for tea)
+    - [x] Paper cups (for coffee and tea) (20 is enough, took 30, needed ?)
+    - [x] Evaluation forms (took 60, needed ?)
+    - [x] Laptop
+    - [x] Camera
+    - [x] USB cable
+    - [x] Mouse
+    - [x] Spoons for stirring (took 10)
+    - [x] Mouse mat
+    - [x] Extension cord
+    - [x] Teabags
+    - [x] Sugar (for coffee and tea)
+    - [x] Milk (for coffee and tea)
+    - [x] Pens (have 30, needed ?)
 
 
 Notes:
@@ -84,26 +93,34 @@ Vem                     |Vad                            |Notiser
 [DONE] Stefan           |Lab in a Box                   |First example presentation, need camera
 [DONE] Dahlia och Elena |Blender demonstration          |First pupil presentation, bring own laptop
 [DONE] Philip           |Pong                           |Early pupil presentation, brings own laptop
-[DONE] Malte            |Vapen                          |Brings own laptop
-[DONE] Daniel           |C++ projekt                    |Brings own laptop
+[DONE] Luca             |Game retro                     |Brings own laptop
 [DONE] Enrico           |Project                        |Brings own laptop
 [DONE] Ben              |House with a chinese hat on top|Brings own laptop
 Danylo och Gordii       |Luftrensare                    |Need camera
-Kai                     |?(Processing)                  |?Brings own laptop
-[DONE] Leonid och Herman|Raycasting                     |Brings own laptop
-[DONE] Niko             |Jump                           |Brings own laptop
-[DONE] Axel             |Luddberts första steg          |Brings own laptop
+[DONE] Malte            |Vapen                          |Brings own laptop
 [DONE] Felix            |Felixproject                   |Brings own laptop
+[DONE] Axel             |Luddberts första steg          |Brings own laptop
+Kai                     |?(Processing)                  |?Brings own laptop
+[DONE] Niko             |Jump                           |Brings own laptop
+[DONE] Daniel           |C++ projekt                    |Brings own laptop
 [DONE] Mats             |Zombie                         |Brings own laptop
-[DONE] Luca             |Game retro                     |Brings own laptop
+[DONE] Leonid och Herman|Raycasting                     |Brings own laptop
 
 
-???- info "Notes from December 2026"
+???- info "Notes from December 2025"
 
     - 10 presentations that need preparation are predicted to take 20
       minutes to prepare with 10 computers. This became 30 minutes, hence
-      `presention_time = n_presentations * 3 minutes`
+      `preparation_time = n_presentations * 3 minutes`
     - 20 presentations were predicted to take 60 minutes,
       i.e. `presention_time = n_presentations * 3 minutes`. This was correct.
     - Let all pupils present a line of code and/or a part of their 3D image.
       It slows down the presentations and makes them look into the audience more
+
+???- info "Presentation parents"
+
+    - Thanks parents
+    - Show parents which kids helped most:
+
+    ![](n_offer_help_per_person_2026_1.png)
+

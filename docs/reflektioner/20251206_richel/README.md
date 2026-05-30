@@ -210,7 +210,7 @@ This will be impossible without a volunteer teaching this
 I think this is an interesting suggestion!
 I am not the boss about this course, but I will let them know :-)
 
-- [ ] Let cooking course know about a suggestion to learn to cook food that does
+- [x] Let cooking course know about a suggestion to learn to cook food that does
   not require heating (and hence, can be done when home alone)
 
 - Programmering: her ett project från början av terminen
@@ -240,7 +240,7 @@ it helps enforce stricter rules.
 I am sure -even more thanks to this suggestions- that parents are quite
 willing to help. I will forward this suggestion to the cooking course.
 
-- [ ] Let cooking course know that parents can help to do the shopping
+- [x] Let cooking course know that parents can help to do the shopping
 
 - Barn är mycket gläda att de ha ett plats
   att göra någonting
@@ -252,7 +252,7 @@ willing to help. I will forward this suggestion to the cooking course.
 I know the cooking course is pondering doing so. Maybe this suggestion
 will encourage them even more to do so.
 
-- [ ] Let cooking course know about a suggestion to create a recipe book
+- [x] Let cooking course know about a suggestion to create a recipe book
 
 - Peppa gärna barnen att göra projekt, eller
   saker, tillsammans. Vissa barn kan behöva
@@ -268,10 +268,10 @@ hence 18 real users :-)
 ## Future plans
 
 - [ ] Consider how to get more project-based work in
-- [ ] Let cooking course know about a suggestion to learn to cook food that does
+- [x] Let cooking course know about a suggestion to learn to cook food that does
   not require heating (and hence, can be done when home alone)
-- [ ] Let cooking course know that parents can help to do the shopping
-- [ ] Let cooking course know about a suggestion to create a recipe book
+- [x] Let cooking course know that parents can help to do the shopping
+- [x] Let cooking course know about a suggestion to create a recipe book
 
 Also, there needs to be more booklets about Arduino: we
 have our first ever Swedish learner that finished all booklets!
