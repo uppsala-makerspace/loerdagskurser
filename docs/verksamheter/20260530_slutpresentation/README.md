@@ -88,23 +88,23 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
 Notes:
 
-Vem                     |Vad                            |Notiser
-------------------------|-------------------------------|-------------------------
-[DONE] Stefan           |Lab in a Box                   |First example presentation, need camera
-[DONE] Dahlia och Elena |Blender demonstration          |First pupil presentation, bring own laptop
-[DONE] Philip           |Pong                           |Early pupil presentation, brings own laptop
-[DONE] Luca             |Game retro                     |Brings own laptop
-[DONE] Enrico           |Project                        |Brings own laptop
-[DONE] Ben              |House with a chinese hat on top|Brings own laptop
-Danylo och Gordii       |Luftrensare                    |Need camera
-[DONE] Malte            |Vapen                          |Brings own laptop
-[DONE] Felix            |Felixproject                   |Brings own laptop
-[DONE] Axel             |Luddberts första steg          |Brings own laptop
-Kai                     |?(Processing)                  |?Brings own laptop
-[DONE] Niko             |Jump                           |Brings own laptop
-[DONE] Daniel           |C++ projekt                    |Brings own laptop
-[DONE] Mats             |Zombie                         |Brings own laptop
-[DONE] Leonid och Herman|Raycasting                     |Brings own laptop
+Vem                      |Vad                            |Notiser
+-------------------------|-------------------------------|-------------------------
+[DONE] Stefan            |Lab in a Box                   |First example presentation, need camera
+[DONE] Dahlia och Elena  |Blender figur                  |First pupil presentation, bring own laptop
+[DONE ] Philip           |Pong                           |Early pupil presentation, brings own laptop
+[DONE] Luca              |Game retro                     |Brings own laptop
+[DONE] Enrico            |Project                        |Brings own laptop
+[DONE] Ben               |House with a chinese hat on top|Brings own laptop
+[DONE] Danylo            |Luftrensare                    |Need camera
+[DONE] Adam              |Program och machine            |Brings own laptop, uses camera
+[DONE] Malte             |Vapen                          |Brings own laptop
+[DONE] Felix             |Felixproject                   |Brings own laptop
+[DONE] Axel              |Luddberts första steg          |Brings own laptop
+[DONE] Daniel            |C++ projekt                    |Brings own laptop
+[DONE] Mats              |Zombie                         |Brings own laptop
+[DONE] Felipe och Pablo  |Mysterioa                    |Brings own laptop
+[DONE] Leonid och Herman |Raycasting                     |Brings own laptop
 
 
 ???- info "Notes from December 2025"
@@ -124,3 +124,31 @@ Kai                     |?(Processing)                  |?Brings own laptop
 
     ![](n_offer_help_per_person_2026_1.png)
 
+
+
+## Bilder
+
+![](WhatsApp_Image_2026-05-30_at_23.48.12.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.13.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.13_1.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.14.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.14_1.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.14_2.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.15.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.15_1.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.16.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.16_1.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.17.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.17_1.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.18.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.18_1.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.18_2.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.19.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.19_1.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.19_2.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.19_3.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.19_4.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.19_5.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.20.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.20_1.jpeg)
+![](WhatsApp_Image_2026-05-30_at_23.48.20_2.jpeg
