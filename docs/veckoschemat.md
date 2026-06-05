@@ -36,7 +36,7 @@ Vecka| Dag      |Vad
 44   |2026-10-31|Ej kurs, pga Alla Helgons dag
 45   |2026-11-07|.
 46   |2026-11-14|.
-47   |2026-11-21|Mandagen
+47   |2026-11-21|Mandagen <!-- Ej Johanna -->
 48   |2026-11-28|.
 49   |2026-12-05|?Ovningspresentation
 .    |2026-12-06|?Hackathon
