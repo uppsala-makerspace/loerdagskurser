@@ -128,6 +128,8 @@ Vem                      |Vad                            |Notiser
 
 ## Bilder
 
+Tack Johanna Söderström för att tar den bilderna!
+
 ![](WhatsApp_Image_2026-05-30_at_23.48.12.jpeg)
 ![](WhatsApp_Image_2026-05-30_at_23.48.13.jpeg)
 ![](WhatsApp_Image_2026-05-30_at_23.48.13_1.jpeg)
