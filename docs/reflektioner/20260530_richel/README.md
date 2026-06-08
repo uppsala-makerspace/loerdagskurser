@@ -5,7 +5,65 @@
 
 I think this season went well.
 
-### Percentage of adult visitors is decreasing
+## Number of learners seems stable
+
+The number of visits seems stable or slightly decreasing:
+
+![Number of total visits](franvaro_2026_1_n.png)
+
+The low amount of visitors at the practice presentations is a recurring thing.
+
+The number of visitors still increases:
+
+![Average number of visitors per year](average_number_of_learners_per_year.png)
+
+This can be caused by the introduction of the cooking course: most learners
+that follow this course, do take another course afterwards.
+
+Which courses are visited seems stable:
+
+![Number of visits per day per course](n_per_day_per_course.png)
+
+The prediction model assuming a logistic growth for
+courses now states that Blender and Processing are
+now at carrying capactity, where Arduino and the cooking course
+are still growing:
+
+![Number of visits per day per course and predictions](n_per_day_per_course_and_predictions.png)
+
+Some learners stay very long:
+
+![How long do learners stay](how_long_do_learners_stay.png)
+
+I have my worries with an old/veteran/in-crowd group that stays
+and new learners that drop out.
+I do see that, for example, the Gyllene Rummet is comfortable with
+absorbing new learners, even though the room is crowded.
+
+And I do see that it is the veterans that ruthlessly
+offer to help (and hence help newbies to stay)
+at all places (i.e. Gyllene Rummet, Platina Rummet, Electronik verstad)
+with 2 out of the top-14 helpers being newbies themselves:
+
+![Number of times a person offered to help](n_offer_help_per_person_2026_1.png)
+
+## New Biomaking course worked fine
+
+This season had two occurrances of the Biomaking course,
+the first English-only course,
+taking place from 13:00-15:00,
+with 4 and 3 learners being present, with
+4 (or 6?) weeks between the two sessions.
+The language seemed not to be a deterrant.
+The time the course took place, however, may have reduced attendance:
+at the same time, in the programming course, there are stable
+groups of friends, that will be hard to break up.
+
+## Gyllene rummet
+
+## Platina rummet
+
+## Percentage of adult visitors is decreasing
 
 ![](franvaro_2026_1_n_per_age.png)
 
@@ -15,7 +73,11 @@ I failed to increase the percentage of adults in the LK.
 One reason for this is that I used the Extratimme -the hour for adults-
 to lead an advanced programming team: I could only do one thing.
 
-### Volunteers
+One of the volunteers intends to start teaching something himself,
+at hours outside of the LK. Maybe he can be the connecting factor here.
+If will do I all can to make that happen :+1:
+
+## The shortage of volunteers is stable
 
 Most volunteers have been active for at least a year now
 and it a joy to work with all of them:
@@ -23,20 +85,40 @@ they know what to do and could take over would something urgent pop up.
 I did fail to attract more volunteers, even though I have been
 actively visiting UMS events that I can use to recruit new volunteers.
 
+There **was** a very enthusiastic volunteer. However, after three times
+showing up (and teaching the whole day!) he suddenly disappeared.
+His first name is common and I failed to remember his last name,
+so I could not contact him. I hope he is OK.
+
+These are some number showing how much percentage of the times there
+is a volunteer, where 100% denotes that there is 1 volunteer on average:
+
+Course      |Volunteer density
+------------|-----------------
+Arduino     |110%
+Biomaking   |100%
+Blender     |100%
+Cooking     |175%
+Laser cutter|10%
+Processing  |50%
+
+## Percentage of females is increasing
+
+![](franvaro_2026_1_n_per_sex.png)
+
+In the 2026 data so far, I see that 12% of all visits is by a female.
+and 29% of all unique visitors is a female.
+Compared to 2025, where 11% of all visits is by a female.
+and 24% of all unique visitors is a female,
+this is a 10-20% increase.
+I feel the cooking course is the main cause of this,
+with 2 girls (out of 8 learners) being part of the core group.
 
 
-![](average_number_of_learners_per_year.png)
-![](franvaro_2026_1_n.png)
 ![](franvaro_2026_1_n_per_course.png)
 ![](franvaro_2026_1_n_per_course_stacked.png)
-![](franvaro_2026_1_n_per_sex.png)
 ![](franvaro_2026_1_percentage_helpers_per_day_per_course.png)
-![](n_offer_help_per_person_2026_1.png)
-![](how_long_do_learners_stay.png)
 ![](learners_attendance_over_the_year.png)
-![](n_offer_help_per_person_2026_1.png)
-![](n_per_day_per_course_and_predictions.png)
-![](n_per_day_per_course.png)
 
 
 <!-- 
