@@ -6,6 +6,14 @@
 
 I think this season went well.
 
+![](franvaro_2026_1_n.png)
+![](franvaro_2026_1_n_per_age.png)
+![](franvaro_2026_1_n_per_course.png)
+![](franvaro_2026_1_n_per_course_stacked.png)
+![](franvaro_2026_1_n_per_sex.png)
+![](franvaro_2026_1_percentage_helpers_per_day_per_course.png)
+![](n_offer_help_per_person_2026_1.png)
+
 <!-- 
 
 The biggest changes were:
