@@ -12,3 +12,4 @@ Reflections that are written down digitally.
 - [2024-12-07 by Richel](20241207_richel/README.md)
 - [2025-05-24 by Richel](20250524_richel/README.md)
 - [2025-12-06 by Richel](20251206_richel/README.md)
+- [2026-05-30 by Richel](20260530_richel/README.md)
