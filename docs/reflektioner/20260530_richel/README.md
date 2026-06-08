@@ -3,16 +3,41 @@
 - [Evaluation results](../../data/utvaerderingar/20260630/README.md)
 - [Reflection](../../reflektioner/20260530_richel/README.md)
 
-
 I think this season went well.
 
-![](franvaro_2026_1_n.png)
+### Percentage of adult visitors is decreasing
+
 ![](franvaro_2026_1_n_per_age.png)
+
+I enjoy having adults. The minors -from earlier evaluations- like having
+adults. Even though I put extra care into keeping adults,
+I failed to increase the percentage of adults in the LK.
+One reason for this is that I used the Extratimme -the hour for adults-
+to lead an advanced programming team: I could only do one thing.
+
+### Volunteers
+
+Most volunteers have been active for at least a year now
+and it a joy to work with all of them:
+they know what to do and could take over would something urgent pop up.
+I did fail to attract more volunteers, even though I have been
+actively visiting UMS events that I can use to recruit new volunteers.
+
+
+
+![](average_number_of_learners_per_year.png)
+![](franvaro_2026_1_n.png)
 ![](franvaro_2026_1_n_per_course.png)
 ![](franvaro_2026_1_n_per_course_stacked.png)
 ![](franvaro_2026_1_n_per_sex.png)
 ![](franvaro_2026_1_percentage_helpers_per_day_per_course.png)
 ![](n_offer_help_per_person_2026_1.png)
+![](how_long_do_learners_stay.png)
+![](learners_attendance_over_the_year.png)
+![](n_offer_help_per_person_2026_1.png)
+![](n_per_day_per_course_and_predictions.png)
+![](n_per_day_per_course.png)
+
 
 <!-- 
 
