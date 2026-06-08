@@ -1,6 +1,6 @@
 # Reflection 2026-05-30 by Richel
 
-- [Evaluation results](../../data/utvaerderingar/20260630/README.md)
+- [Evaluation results](../../data/utvaerderingar/20260530/README.md)
 - [Reflection](../../reflektioner/20260530_richel/README.md)
 
 I think this season went well.
@@ -20,7 +20,17 @@ The number of visitors still increases:
 This can be caused by the introduction of the cooking course: most learners
 that follow this course, do take another course afterwards.
 
+Over the year, the number of learners is stable:
+
+![Learners over the year](learners_attendance_over_the_year.png)
+
+## Number of learners per course seems stable
+
 Which courses are visited seems stable:
+
+![Number of visits per day per course](franvaro_2026_1_n_per_course.png)
+
+Here I use that same data to make predictions:
 
 ![Number of visits per day per course](n_per_day_per_course.png)
 
@@ -31,7 +41,10 @@ are still growing:
 
 ![Number of visits per day per course and predictions](n_per_day_per_course_and_predictions.png)
 
-Some learners stay very long:
+## One in five learners stays
+
+One in five learners stays longer than 1 season
+and some learners stay very long:
 
 ![How long do learners stay](how_long_do_learners_stay.png)
 
@@ -40,12 +53,18 @@ and new learners that drop out.
 I do see that, for example, the Gyllene Rummet is comfortable with
 absorbing new learners, even though the room is crowded.
 
+## A quarter of all learners help out
+
 And I do see that it is the veterans that ruthlessly
 offer to help (and hence help newbies to stay)
 at all places (i.e. Gyllene Rummet, Platina Rummet, Electronik verstad)
 with 2 out of the top-14 helpers being newbies themselves:
 
 ![Number of times a person offered to help](n_offer_help_per_person_2026_1.png)
+
+When people help is unpredictable, but it is around 25%:
+
+![Percentage of helpers per day per course](franvaro_2026_1_percentage_helpers_per_day_per_course.png)
 
 ## New Biomaking course worked fine
 
@@ -59,13 +78,57 @@ The time the course took place, however, may have reduced attendance:
 at the same time, in the programming course, there are stable
 groups of friends, that will be hard to break up.
 
-## Gyllene rummet
+## Reception desk
 
-## Platina rummet
+The reception desk is a joy.
+
+The main volunteer running it is given more responsibility (read:
+admin!) and seems to be happy with that:
+
+- maintain a list of learner, parents and phone numbers:
+  ongoing, I estimate 2 out of 3 learners is on this list
+- maintain a list of allergies:
+  ongoing, started later, I estimate 1 out of 5 learners
+  is on this list. This needs more work
+
+Additionally, the reception desk is happy to take up another
+task: the presence lists. I will happily instruct him
+how to do so :+1:
+
+The reception desk is also a great place for questions.
+I happily and commonly redirect people to the reception desk
+under course hours.
+
+## Gyllene Rummet
+
+The Gyllene Rummet is lead by two learners,
+holds many veteran learners and can be recognized
+from its liveliness (i.e. noise). I think the leaders of the
+room do an excellent job at running this room: they even
+have stricter rules than the other rooms.
+
+I want to keep the Gyllene Rummet as it is,
+keep its leadership and and follow the rules they decide upon.
+
+## Platina Rummet
+
+The Platina Rummet is not lead by one or more people,
+holds many veteran and more individualistic
+learners and can be recognized from its high focus and silence.
+It is this room where, during the Extratimme, we have a shared project.
+The shared project, however, is not the main project for any of the
+learners, but at 14:15 they seem to agree to work on it.
+Due to this, progress is slow. However, I am happy with how it is
+going: it is the first time that these people see code
+written by others.
+
+I want to keep the Platina Rummet as it is
+and I hope that an extra term will help the people
+in the Platina Rummet to become more of a group.
 
 ## Percentage of adult visitors is decreasing
 
-![](franvaro_2026_1_n_per_age.png)
+![Percentage of adults](franvaro_2026_1_n_per_age.png)
 
 I enjoy having adults. The minors -from earlier evaluations- like having
 adults. Even though I put extra care into keeping adults,
@@ -114,11 +177,9 @@ this is a 10-20% increase.
 I feel the cooking course is the main cause of this,
 with 2 girls (out of 8 learners) being part of the core group.
 
+## Prinsessdagen
 
-![](franvaro_2026_1_n_per_course.png)
-![](franvaro_2026_1_n_per_course_stacked.png)
-![](franvaro_2026_1_percentage_helpers_per_day_per_course.png)
-![](learners_attendance_over_the_year.png)
+
 
 
 <!-- 
