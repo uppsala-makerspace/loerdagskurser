@@ -167,7 +167,7 @@ Processing  |50%
 
 ## Percentage of females is increasing
 
-![](franvaro_2026_1_n_per_sex.png)
+![Percentage of females in time](franvaro_2026_1_n_per_sex.png)
 
 In the 2026 data so far, I see that 12% of all visits is by a female.
 and 29% of all unique visitors is a female.
@@ -178,8 +178,6 @@ I feel the cooking course is the main cause of this,
 with 2 girls (out of 8 learners) being part of the core group.
 
 ## Prinsessdagen
-
-
 
 
 <!-- 

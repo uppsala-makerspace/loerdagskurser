@@ -45,7 +45,7 @@ I split these up in two.
 - Ta bort godsakerna från kiosken
 - Ta bort godsakerna från kiosken!
 - C++ kurs på processing tid som Blender och Arduino
-- Kakor mysterybox 
+- Kakor mysterybox
 - Vet inte
 - Mer datorer de tar slut
 - Göra en Processing games course
