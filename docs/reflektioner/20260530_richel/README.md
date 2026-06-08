@@ -24,23 +24,6 @@ Over the year, the number of learners is stable:
 
 ![Learners over the year](learners_attendance_over_the_year.png)
 
-## Number of learners per course seems stable
-
-Which courses are visited seems stable:
-
-![Number of visits per day per course](franvaro_2026_1_n_per_course.png)
-
-Here I use that same data to make predictions:
-
-![Number of visits per day per course](n_per_day_per_course.png)
-
-The prediction model assuming a logistic growth for
-courses now states that Blender and Processing are
-now at carrying capactity, where Arduino and the cooking course
-are still growing:
-
-![Number of visits per day per course and predictions](n_per_day_per_course_and_predictions.png)
-
 ## One in five learners stays
 
 One in five learners stays longer than 1 season
@@ -65,6 +48,39 @@ with 2 out of the top-14 helpers being newbies themselves:
 When people help is unpredictable, but it is around 25%:
 
 ![Percentage of helpers per day per course](franvaro_2026_1_percentage_helpers_per_day_per_course.png)
+
+## Courses
+
+## Number of learners per course seems stable
+
+Which courses are visited seems stable:
+
+![Number of visits per day per course](franvaro_2026_1_n_per_course.png)
+
+Here I use that same data to make predictions:
+
+![Number of visits per day per course](n_per_day_per_course.png)
+
+The prediction model assuming a logistic growth for
+courses now states that Blender and Processing are
+now at carrying capactity, where Arduino and the cooking course
+are still growing:
+
+![Number of visits per day per course and predictions](n_per_day_per_course_and_predictions.png)
+
+## Arduino
+
+The Arduino course has had its first certificates since a long time,
+with two learners having finished the first lesson card.
+
+
+## Blender
+
+## Cooking
+
+## Laser cutter
+
+## Processing
 
 ## New Biomaking course worked fine
 
