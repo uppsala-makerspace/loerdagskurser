@@ -41,6 +41,7 @@ Vecka| Dag      |Vad
 49   |2026-12-05|?Ovningspresentation
 .    |2026-12-06|?Hackathon
 50   |2026-12-12|?Slutpresentation
+.    |2026-12-13|Ej kurs, volontärfest
 51   |2026-12-19|.
 52   |2026-12-26|Ej kurs, pga jul
 

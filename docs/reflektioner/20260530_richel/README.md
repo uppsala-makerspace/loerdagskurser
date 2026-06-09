@@ -68,19 +68,78 @@ are still growing:
 
 ![Number of visits per day per course and predictions](n_per_day_per_course_and_predictions.png)
 
-## Arduino
+## Arduino does fine
+
+The Arduino course still has a weakness:
+
+- [ ] Update the connect-buttons lesson (?8) on the first lesson card
 
 The Arduino course has had its first certificates since a long time,
 with two learners having finished the first lesson card.
+I have started working on the next lesson card, but the lessons
+there were rushed and I am not happy with them yet.
 
+One thing I did wrong with designing the learning line of lesson card 2,
+is that I followed the same structure as in lesson card 1, with 1 lesson
+on connecting a component, 1 lesson on measuring a component and 1 lesson
+on using an Arduino to use a component: this does not work anymore
+for the more complex components. Instead, I want lesson card 2 to focus more
+on **combining multiple components**.
 
-## Blender
+- [ ] Work on lesson card two
 
-## Cooking
+## Blender does fine
 
-## Laser cutter
+The Blender course seems to do fine.
 
-## Processing
+The amount of learners seems to be stable.
+Me and the Blender course leader are always on the lookout
+to make Blender more important, such as by asking learners to create
+3D printed things for the Arduino or cooking course.
+One example is a 3D printed thing/?shield to get powdery sugar into a text
+on a cake.
+
+The Blender books seems to be fine. We have our first learner
+that is on track to do all the lessons and get the first Blender
+certificate ever. Let's see if he finishes that lesson card :+1:
+
+The Blender course learners have found the 3D printers.
+In the background, a UMS member fixes these outside of course hours
+and he notices that 3D printers break too often.
+To help him out and to make sure the 3D printers are in good shape,
+we've added two rules about 3D printing: 
+
+- For the first print, you need to see the print from start to end
+- For the second and later prints, you need to be within hearing distance 
+
+## Cooking does fine
+
+The cooking course seems to do fine.
+
+The course has a stable group of participants.
+
+The course does not use a booklet yet.
+
+They have developed a lesson card and the first learner
+finishing it is near.
+
+## Laser cutter seems dormant
+
+The laser cutter course seems to be dormant.
+
+Only few times the laser cutter volunteer was present.
+Due to this, few learners learned to use the laser cutter.
+
+## Processing seems fine
+
+The programming course seems to do fine.
+
+The amount of learners seems to be stable.
+
+The course has two lesson cards, which have been completed by multiple
+learners. The Gyllene and Platinum Rummet are where these elite programmers
+end up. In both rooms, these learners seem to develop into doing group
+projects.
 
 ## New Biomaking course worked fine
 
@@ -156,6 +215,11 @@ One of the volunteers intends to start teaching something himself,
 at hours outside of the LK. Maybe he can be the connecting factor here.
 If will do I all can to make that happen :+1:
 
+## Team
+
+The team consists out of 7 people, of which 1 new.
+I am quite proud how this -quite experienced- team rolls.
+
 ## The shortage of volunteers is stable
 
 Most volunteers have been active for at least a year now
@@ -181,6 +245,17 @@ Cooking     |175%
 Laser cutter|10%
 Processing  |50%
 
+## Thank you meeting for volunteers
+
+I organized the first thank-you meeting for the direct volunteers,
+with 3 out of 7 volunteers showing up. I can be blamed for this low
+amount, as I organized this last-minute.
+
+- [x] Schedule thank-you meeting earlier
+
+I do intend to add a thank-you meeting for all volunteers at UMS:
+there are so many that indirectly help LK.
+
 ## Percentage of females is increasing
 
 ![Percentage of females in time](franvaro_2026_1_n_per_sex.png)
@@ -195,127 +270,21 @@ with 2 girls (out of 8 learners) being part of the core group.
 
 ## Prinsessdagen
 
+The Prinsessdagen was visited well
+and worked out great. As we use 'prinsess' instead of 'mor', some
+learners brought a classmate. I think that that is superior,
+so I want to stick to the females-in-general theme.
 
-<!-- 
+I did not like the title however
+and I will use 
+[International Women's Day](https://en.wikipedia.org/wiki/International_Women's_Day)
+next time, around March 8th.
 
-The biggest changes were:
+I already started this, by using International Men's Day instead of
+Efterfarsdag.
 
-- The addition of a cooking course, as lead by Store Björn and assisted by
-  Johanna
-- Maturation of the Gyllene Rummet, as lead by Leonid and Herman
-- No Arduino volunteer, yet more Arduino learners
-- AtomBjörn upgrading the reception desk
-- AtomBjörn collecting parents' phone numbers
 
-## Course attendance
-
-Taking the average number of learners per year,
-the course seems to grow:
-
-![Average number of learners per year](average_number_of_learners_per_year.png)
-
-However, this growth can be explained by how attendance is measured:
-if a learners takes more courses, he/she is counted multiple times.
-We can conclude that **we have increased attendance over the day**.
-
-By other means, the numbers of learners seems to have stabilized:
-here we plot the distribution of the learners over the year:
-
-![Normalized learners attendace over the yar](learners_attendance_over_the_year.png)
-
-This graph shows when in the year, most learners are present. Where
-2022 shows that most learners attend at the end of the year, this
-shows a growth. Where 2024 and 2025 show that learners show up equally
-over the year. This hints that **growth may have stopped**.
-
-When looking at the last season on its own, we
-see a slight decrease:
-
-![Learners' presence in season 2 of 2025](franvaro_2025_2_n.png)
-
-This decrease, however, seems to be most explained by the outlier
-at the end. Removing it, seems to hint that **growth may have stopped**.
-
-Taking a look at course attendence over the last season:
-
-![Learners' presence in season 2 of 2025 per course](franvaro_2025_2_n_per_course.png)
-
-Adding a trendline and showing the equation to get the slope:
-
-![Learners' presence in season 2 of 2025 per course](franvaro_2025_2_n_per_course_with_stats.png)
-
-From this, per course, we can see how many learners for a course
-per month:
-
-Course    |Change of learners per day|Change of learners per 30 days
-----------|--------------------------|------------------------------
-Arduino   |0.018                     |0.54
-Laser     |-0.0122                   |-0.366
-Roblox    |-0.0264                   |-0.792
-Cooking   |-0.0309                   |-0.927
-Godot     |-0.0383                   |-1.149
-Processing|-0.0594                   |-1.782
-Blender   |-0.0619                   |-1.857
-
-Arduino is growing for unknown reasons. I really have no idea
-what is so attractive there ...? Blender and Processing are the courses
-that are taking the biggest dives. Also here, I have no idea
-why this is. In summary:
-**I have no idea why the attendance of courses go up or down**.
-
-Before deciding to take action, let's take at the bigger picture:
-
-![Attendence per course](n_per_day_per_course.png)
-
-The vertical scale has a big range, because of
-**Efterfarsdag was a big success**.
-
-Let's zoom in a bit on regular course attendance:
-
-![Attendence per course](n_per_day_per_course_zoom.png)
-
-Based on this graph, I would say
-**course attendance has a high variability and seems stable**.
-
-Learners stay long, with seven that have stayed all seven seasons of the
-course:
-
-![How long do learners stay?](how_long_do_learners_stay.png)
-
-n_terms|n_learners
--------|----------
-1      |157
-2      |42
-3      |19
-4      |13
-5      |11
-6      |3
-7      |5
-
-This means that from the 157 there are (157 - 42 - 19 - 13 - 11 - 3 - 5 =)
-64 that leave the course within one season. This means ((157 - 64) / 157 =)
-60% have properly been part of the course.
-
-I tend to reflect after a season of Lördagskurserna. In case you are interested, my thoughts about the courses can be found at this LK webpage. Some highlights:
-
-In conclusion, I would say that
-**attendance and course attendance have stopped growing**.
-and **no action seems needed**.
-
-## Team
-
-Course        |Team before                    |Team after               |Verdict
---------------|-------------------------------|-------------------------|-------------------------------------
-Cooking       |Store Björn                    |Store Björn, Johanna     |Great!
-Arduino       |Fredrik                        |None                     |Could use a volunteer here
-Blender       |Store Björn                    |Store Björn              |Seems good
-Processing    |Christoffer,Dennis,Janne,Sjoerd|Christoffer,Fredrik,Janne|A group that can be relied upon
-Reception desk|AtomBjörn                      |AtomBjörn                |A person that can be relied upon
-Laser         |Lars                           |Lars                     |Unpredictable when someone is present
-Vinyl cutter  |None                           |None                     |Could use a volunteer here
-
-The team consists out of 7 people, of which 1 new.
-I am quite proud how this -quite experienced- team rolls.
+<!--
 
 ## Finances
 
