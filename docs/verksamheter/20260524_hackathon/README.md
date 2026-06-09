@@ -49,10 +49,10 @@ så får du vara med.
     - We bought `n_margarita = n_students * 0.55` = 10 margeritas
     - Kebabpizzas run out first, then the vesuvios. Hence: buy much more
       kebebpizza, more vesuvios and less margerita
-    - As the matlagningcourse also had created and eaten pizzas themselves, 
+    - As the matlagningcourse also had created and eaten pizzas themselves,
       and we invited at least 3 guests, the pizzas that were left give us
       less information. Still: these were 3 margeritas.
     - Suggestion for next time:
-      - `n_margarita = n_pupils * 0.4`
-      - `n_vesuvio = n_pupils * 0.2`
-      - `n_kebab = n_pupils * 0.15`
+        - `n_margarita = n_pupils * 0.4`
+        - `n_vesuvio = n_pupils * 0.2`
+        - `n_kebab = n_pupils * 0.15`

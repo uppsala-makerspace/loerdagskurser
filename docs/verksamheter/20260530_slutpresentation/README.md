@@ -64,11 +64,8 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
 
     To do:
 
-    - Prepare questions for parents
-      - Show who helped most
-
+    - Prepare questions for parents: show who helped most
     - Buy 19 pens
-
     - [x] Coffee
     - [x] Hot water (for tea)
     - [x] Paper cups (for coffee and tea) (20 is enough, took 30, needed ?)
@@ -86,7 +83,7 @@ Tider är bara riklinjer, ofta slutar vi tidigare.
     - [x] Pens (have 30, needed ?)
 
 
-Notes:
+Presentations:
 
 Vem                      |Vad                            |Notiser
 -------------------------|-------------------------------|-------------------------
@@ -103,9 +100,8 @@ Vem                      |Vad                            |Notiser
 [DONE] Axel              |Luddberts första steg          |Brings own laptop
 [DONE] Daniel            |C++ projekt                    |Brings own laptop
 [DONE] Mats              |Zombie                         |Brings own laptop
-[DONE] Felipe och Pablo  |Mysterioa                    |Brings own laptop
+[DONE] Felipe och Pablo  |Mysterioa                      |Brings own laptop
 [DONE] Leonid och Herman |Raycasting                     |Brings own laptop
-
 
 ???- info "Notes from December 2025"
 
@@ -122,7 +118,7 @@ Vem                      |Vad                            |Notiser
     - Thanks parents
     - Show parents which kids helped most:
 
-    ![](n_offer_help_per_person_2026_1.png)
+    ![Offer help per person](n_offer_help_per_person_2026_1.png)
 
 
 ## Bilder
