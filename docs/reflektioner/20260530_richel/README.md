@@ -70,6 +70,12 @@ are still growing:
 
 ## Arduino does fine
 
+The Arduino course does fine.
+
+One innovation is an Arduino-specific electronic component organizers,
+where the drawers are organized based on the lessons, with the top-left
+drawer having the component for lesson 1.
+
 The Arduino course still has a weakness:
 
 - [ ] Update the connect-buttons lesson (?8) on the first lesson card
@@ -78,6 +84,8 @@ The Arduino course has had its first certificates since a long time,
 with two learners having finished the first lesson card.
 I have started working on the next lesson card, but the lessons
 there were rushed and I am not happy with them yet.
+These new lessons also required an investment, as new components needed to be
+bought.
 
 One thing I did wrong with designing the learning line of lesson card 2,
 is that I followed the same structure as in lesson card 1, with 1 lesson
@@ -284,149 +292,27 @@ I already started this, by using International Men's Day instead of
 Efterfarsdag.
 
 
-<!--
-
 ## Finances
 
 As I have no access to the finances, I have no idea how many parents
-pay the half-yearly course fee. I can imagine AtomBjörn gets questions
-about this and that parents pay their dues. On the other hand, I can
-perfectly imagine parents forgetting this.
+pay the half-yearly course fee. I do know that Uppsala Kommun
+donates a sum of money to UMS
+that easily covers all course expenses.
 
-- [/] Check with finances person (I do not remember the name)
-  how many people paid for the course the last half year
-    - Contacted person on 2025-12-14
-
-Additionally, Uppsala Kommun donated 250k kroner to UMS, largely to the LK.
-Below the relevant snippet from the UMS Newsletter:
-
-> Uppsala Municipality has granted our association an operating grant of SEK
-> 250,000 for children's and young people's free time for 2026.
-> The support depends largely on our Saturday courses,
-> where there are many children.
-> The municipality also takes into account that children and young people
-> under 26 are members of our association and enjoy the workshops
-> to work on their own projects.
-
-With that donation, I think we cannot be in the negative whatever I would
-do :-)
+This season, there were more expenses, due to some Arduino
+learners going through new lessons of which the components
+had not yet been bought.
 
 ## Evaluation results
 
-New is that also parents were allowed to fill in suggestions:
-these are quite helpful ones.
-
 What goes well:
 
-- Bra som det är, kommer inte på ngt
-- Matlagning
-- Ha kul!
-- Kul
-- Lektioner
-- Matlagningskurser (allt på den)!
-- Mentorskop (äldre barn lär yngre/nyare)
-- Keep all the patience you have
-- Great job!
-- Jättebra. Tack för allt jobb ni gör!
-- Fortsätt vara som det är. Uppsala Makerspace är bäst!
-- Keep working like it is!
-- Nästan allt
-- Baka mera kakor
-- Vi är otroligt nöjda med allt!
-  Speciellt att deltagarna får mer ansvar,
-  får hjälpa varandra unsv. Tack!
-- The cooking courses are such a nice addition
-  this year. Our kid loves his time at Makerspace.
-  Thanks so much for volunteering your time
-  to enrich kids' lives. You are making
-  good memories for them
-- Kurserna är lärorik och inspirerande.
-  Många praktiska övning. Väl organiserade.
-  Personalen är mycket hjälpsam och snäll
-- Fortsätt som ni gör, allt är toppen
-- Laga mat
-- Tack för allt ni gör
-- Ni har en välkommande undervisning som
-  passar barnens utveckling!
-- All is perfect! Thanks you for offering this
 
-This is all nice.
 
-### What could be improved?
+What could be improved?
 
-- Jag önskar att barnen kan ha fler lektionstillfällen
-  i veckan, speciellt för de barn som är
-  intresserade och vill fördjupa sig mer
-- Lördag + söndag + lärogutecreater
 
-This will be impossible without more volunteers
-
-- Minecraft modding kurs
-- Making couse for Minecraft and Robloxs
-
-This will be impossible without a volunteer teaching this
-
-- Matlagningskurs: mera mat som inte kräver värme (some kan göra
-  ensam nima hemma)
-
-I think this is an interesting suggestion!
-I am not the boss about this course, but I will let them know :-)
-
-- [x] Let cooking course know about a suggestion to learn to cook food that does
-  not require heating (and hence, can be done when home alone)
-
-- Programmering: her ett project från början av terminen
-  (type: jag ska lära mig att skriva 10 rader kod,
-  jag ska få min 3D modell utprintad)
-
-I think this is an interesting idea.
-
-- [ ] Consider how to get more project-based work in
-
-- Tomt
-- Empty
-- Kanske hitta ett störe rum för det Gyllene Rummet
-
-I enjoy the suggestion. I do think it is even better that the room is small:
-it helps enforce stricter rules.
-
-- Tuggummi i shopen
-- [A heart]
-- I honestly cannot think of anything.
-  Maybe eile parents who can
-  contribute can be told how?
-  I'm sure some of the food and ingredients
-  cost money, for example. We parents
-  can always offer, though
-
-I am sure -even more thanks to this suggestions- that parents are quite
-willing to help. I will forward this suggestion to the cooking course.
-
-- [x] Let cooking course know that parents can help to do the shopping
-
-- Barn är mycket gläda att de ha ett plats
-  att göra någonting
-  speciellt och rolig. Tack!
-- Som vi upplever de verkar allt fungera jättebra.
-  Sonen är väldigt nöjd och trivs
-- Skapa en bok/häfte med recepter
-
-I know the cooking course is pondering doing so. Maybe this suggestion
-will encourage them even more to do so.
-
-- [x] Let cooking course know about a suggestion to create a recipe book
-
-- Peppa gärna barnen att göra projekt, eller
-  saker, tillsammans. Vissa barn kan behöva
-  lite social training. Även push för att
-  alla ska fika samtidigt
-
-- Veckobrev, tack!
-
-There is an emaillist, but it is not used weekly.
-I see that there are twenty people on the list, including me twice,
-hence 18 real users :-)
-
+<!--
 ## Future plans
 
 - [ ] Consider how to get more project-based work in
