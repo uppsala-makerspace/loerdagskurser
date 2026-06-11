@@ -291,7 +291,6 @@ next time, around March 8th.
 I already started this, by using International Men's Day instead of
 Efterfarsdag.
 
-
 ## Finances
 
 As I have no access to the finances, I have no idea how many parents
@@ -303,57 +302,176 @@ This season, there were more expenses, due to some Arduino
 learners going through new lessons of which the components
 had not yet been bought.
 
+What was new is that I now follow the general UMS spreadsheets
+to specify costs, where there is a seperation between investments
+and consumable.
+
+In total, in this season, I spent 24,152.54 kr.
+Of these, 17,890.82 kr were not yet split between investments
+and consumables. The later spending consisted of 4,194 kr investments
+and 2,067.72 kr in consumable. From that last spending, two thirds
+were investments. Assuming from this that one third of the costs
+are for consumables, and that this ratio is the same for the unsplit
+cost, it means that all courses in total cost 8k kr in consumables.
+
+With 75 unique minor visitors,
+and assuming 50% to stay another season (as 25% (30 out of 180 learners) make it
+into the second year, so 50% times 50% to pass two seasons)
+this means we've had ((75 / 2) = 37 learners that I can imagine having
+paid. With 300 kr per minor * 37 minor = 11,100 kr. This number (even though
+it is a back-of-the-envelope calculation) is more than the 8k kr needed.
+It means that the course, from its own income, made a loss
+(as total costs was 24k kr) due to 16k kr investments,
+but it did make a net positive of 11k - 8k = 3k after
+paying for the consumables.
+
+Due to this, I think the course cost of 300 kr per minor is still fair.
+
 ## Evaluation results
+
+Here I use the evaluations results. I mix them around and fix some spelling
+errors if it annoys me enough.
 
 What goes well:
 
+- Göra saker bra
+- Många av sakerna
+- I feel like the course already is amazing and
+  I can't really think of anything that needs improvising
+- Good
 
+These are some neutral and positive things.
+
+- Matlagning
+
+Great that the cooking course is appreciated!
+
+- Ha kvar gyllene rummet
+- Gyllene rymmet ska va kvar
+- Fortsätta na gyllene rummet
+- Ha kvar gyllene rummet
+- Har kvar gyllene rummet
+
+I am happy the Gyllene Rummet is appreviated!
+
+- Att grupper på den avansera tiden ska göra ett spel
+
+I am happy to hear that this is appreciated! I am unsure
+how much the Platinum Room's shared game is appreciated. 
+
+- Biomaking
+
+Great the the Biomaking course is appreciated!
+
+- 3D printa
+
+I will forward this compliment to the 3D printer repair man :-)
+
+- [ ] Forward compliment to the 3D printer repair man
+
+- Hjälpa elever är bra!
+
+Great!
+
+- Fortsätta gå till sofforna
+- Fortsätta gå till sofforna
+
+Sure! I wonder what is so special about my messages ...?
+
+- Processing and cheap 1kr sweets
+
+Great! I will forward the kiosk-relevant compliment to the kiosk.
+
+- [ ] Forward kiosk-relevant compliment to the kiosk
+
+- Bjoritowo + PI-day
+
+Interesting: we did not have either of these activities ...?
+
+- Jag ska göra betere min rök botare makin
+- Vet inte
+
+:-)
 
 What could be improved?
 
+- En tävling om vem som ska få vara i gyllene rummet
 
-<!--
+I already forwarded this to the leaders of the Gyllene Rummet
+and I told them they are free to listen yes/no.
+
+- Lite mer personal
+- More than 1 day
+
+I agree that that would be great!
+
+- Bättre bord som inte vicks ihop av sig själva (särkilt gyllene rummet)
+- Bättre bord i gyllene rummet
+- Bättre bord som inte viker ihop sig
+- Bättre bord i gyllene rummet
+
+I am happy that the Gyllene Rum has such a concensus.
+This improvement item, by chance (?) has already been fixed,
+as the Book Binding Workshop (i.e. the workshop in that same room)
+needed better tables.
+
+- Ta bort godsakerna från kiosken
+- Ta bort godsakerna från kiosken!
+
+I will forward this to the kiosk
+
+- [ ] forward this suggestion to the kiosk
+
+- Göra en Processing games course
+- Böcker för programmeri att läsa och lära
+
+The latter is a common suggestion and we do have books for programming (among
+others, Processing and C++). From earlier evaluations, as well as the first
+suggestion, it is more Processing booklets meant by this. Making more booklets
+is a lot of work. 
+
+- [ ] Consider making lesson card 3 for Processing,
+  after finishing the Arduino lesson card 2
+
+- C++ kurs på processing tid som Blender och Arduino
+
+If I would have a volunteer, I'd be happy to do so.
+
+- [ ] Ask for volunteer to teach C++
+
+- Mer datorer de tar slut
+
+I agree. I am already always hunting for more laptops...
+
+- Kakor mysterybox
+
+No idea what is meant by this.
+
+- [ ] Forward this to the cooking course
+
+- Minecraft modding kurs
+
+If I would have a volunteer, I'd be happy to do so.
+
+- [ ] Ask for volunteer to teach Minecraft modding
+
+- Vet inte
+- Allt er bra
+- Jag vet inte
+- Nothing
+
 ## Future plans
 
-- [ ] Consider how to get more project-based work in
-- [x] Let cooking course know about a suggestion to learn to cook food that does
-  not require heating (and hence, can be done when home alone)
-- [x] Let cooking course know that parents can help to do the shopping
-- [x] Let cooking course know about a suggestion to create a recipe book
-
-Also, there needs to be more booklets about Arduino: we
-have our first ever Swedish learner that finished all booklets!
-
-Offline Simulators:
-
-- Fritzing: awesome, 8 USD, programming does not work yet
-- Proteus: commerial, not free
-- SimulIDE:
-
-- UNOArdusim: Windows only, [download](https://sites.google.com/site/unoardusim/simulator-download)
-
-![UNOArdusim looks quite ugly, maybe because of WINE](UNOArdusim.png)
-
-Arduino IO Simulator|
-Paulware Arduino Simulator
-
-Online Simulators:
-
-- Tinkercad: requires an email address, strict on COPPA
-- PICSIMLAB
-- WOKWI
-- Microsoft Maker Code
-- Virtualbreadboard
+Keep going.
 
 ## Conclusion
 
+These are nearly the same as previously:
+
 - Course attendance seems stable (i.e. not growing anymore)
-- Learners stay long: we have 5 that have stayed all 7 seasons (!)
+- Learners stay long: we have 5 that have stayed all 8 seasons (!)
 - The team is experienced (hence easy to works with), yet too small
 - The evaluation results are very positive,
   although there is a selection bias that happy participants
   tend to stay :-)
-- Much praise and suggestions for the new cooking course
 - Financially we seem to do fine
-
--->
