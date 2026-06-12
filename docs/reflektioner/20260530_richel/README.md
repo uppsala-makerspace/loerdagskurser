@@ -126,10 +126,10 @@ The Blender course learners have found the 3D printers.
 In the background, a UMS member fixes these outside of course hours
 and he notices that 3D printers break too often.
 To help him out and to make sure the 3D printers are in good shape,
-we've added two rules about 3D printing: 
+we've added two rules about 3D printing:
 
 - For the first print, you need to see the print from start to end
-- For the second and later prints, you need to be within hearing distance 
+- For the second and later prints, you need to be within hearing distance
 
 ## The cooking course is thriving
 
@@ -302,7 +302,7 @@ learners brought a classmate. I think that that is superior,
 so I want to stick to the females-in-general theme.
 
 I did not like the title however
-and I will use 
+and I will use
 [International Women's Day](https://en.wikipedia.org/wiki/International_Women's_Day)
 next time, around March 8th.
 
@@ -342,8 +342,8 @@ n_terms  |n_learners
 With 75 unique minor visitors,
 and assuming (114 / 179 =) 64% to make it
 into the second or later year,
-this means we've had (75 * 64%) = 48 learners that I can imagine having
-paid. With 300 kr per minor * 48 minor = 14k kr. This number (even though
+this means we've had (75 *64%) = 48 learners that I can imagine having
+paid. With 300 kr per minor* 48 minor = 14k kr. This number (even though
 it is a back-of-the-envelope calculation) is more than the 8k kr needed.
 It means that the course, from its own income, made a loss
 (as total costs was 24k kr, income 14k kr, hence a loss of 10k).
@@ -382,7 +382,7 @@ I am happy the Gyllene Rummet is appreviated!
 - Att grupper på den avansera tiden ska göra ett spel
 
 I am happy to hear that this is appreciated! I am unsure
-how much the Platinum Room's shared game is appreciated. 
+how much the Platinum Room's shared game is appreciated.
 
 - Biomaking
 
@@ -453,7 +453,7 @@ I will forward this to the kiosk
 The latter is a common suggestion and we do have books for programming (among
 others, Processing and C++). From earlier evaluations, as well as the first
 suggestion, it is more Processing booklets meant by this. Making more booklets
-is a lot of work. 
+is a lot of work.
 
 - [ ] Consider making lesson card 3 for Processing,
   after finishing the Arduino lesson card 2
