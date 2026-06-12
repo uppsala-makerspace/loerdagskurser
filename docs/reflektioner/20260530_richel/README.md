@@ -31,6 +31,17 @@ and some learners stay very long:
 
 ![How long do learners stay](how_long_do_learners_stay.png)
 
+n_terms|n_learners
+-------|----------
+1      |179
+2      |52
+3      |22
+4      |12
+5      |13
+6      |8
+7      |2
+8      |5
+
 I have my worries with an old/veteran/in-crowd group that stays
 and new learners that drop out.
 I do see that, for example, the Gyllene Rummet is comfortable with
@@ -120,23 +131,30 @@ we've added two rules about 3D printing:
 - For the first print, you need to see the print from start to end
 - For the second and later prints, you need to be within hearing distance 
 
-## Cooking does fine
+## The cooking course is thriving
 
-The cooking course seems to do fine.
+The cooking course seems to thrive.
 
-The course has a stable group of participants.
+The course has a stable group of both teachers and participants.
 
-The course does not use a booklet yet.
+The teachers are structuring the course and have developed a lesson card
+for the learners to follow.
+The first learner finishing the lesson card is near!
+The course does not use a booklet yet, but the teachers are informally
+talking about doing so.
 
-They have developed a lesson card and the first learner
-finishing it is near.
+The course has a special feeling to it, with kids coming early to cook and
+have breakfast together. It adds a bit of a family feeling into the LK mix.
 
-## Laser cutter seems dormant
+## Laser cutter course has become dormant
 
 The laser cutter course seems to be dormant.
 
 Only few times the laser cutter volunteer was present.
 Due to this, few learners learned to use the laser cutter.
+This is fine, as we cannot force people to be at UMS.
+
+I will consider the laser cutter course dormant for now.
 
 ## Processing seems fine
 
@@ -253,7 +271,7 @@ Cooking     |175%
 Laser cutter|10%
 Processing  |50%
 
-## Thank you meeting for volunteers
+## Thank-you meeting for volunteers
 
 I organized the first thank-you meeting for the direct volunteers,
 with 3 out of 7 volunteers showing up. I can be blamed for this low
@@ -298,9 +316,11 @@ pay the half-yearly course fee. I do know that Uppsala Kommun
 donates a sum of money to UMS
 that easily covers all course expenses.
 
-This season, there were more expenses, due to some Arduino
-learners going through new lessons of which the components
-had not yet been bought.
+This season, there were more expenses, due to:
+
+- some Arduino learners going through new lessons of which the components
+  had not yet been bought
+- the cooking course
 
 What was new is that I now follow the general UMS spreadsheets
 to specify costs, where there is a seperation between investments
@@ -314,16 +334,21 @@ were investments. Assuming from this that one third of the costs
 are for consumables, and that this ratio is the same for the unsplit
 cost, it means that all courses in total cost 8k kr in consumables.
 
+n_terms  |n_learners
+---------|----------
+1        |179
+2 or more|52+22+12+13+8+2+5=114
+
 With 75 unique minor visitors,
-and assuming 50% to stay another season (as 25% (30 out of 180 learners) make it
-into the second year, so 50% times 50% to pass two seasons)
-this means we've had ((75 / 2) = 37 learners that I can imagine having
-paid. With 300 kr per minor * 37 minor = 11,100 kr. This number (even though
+and assuming (114 / 179 =) 64% to make it
+into the second or later year,
+this means we've had (75 * 64%) = 48 learners that I can imagine having
+paid. With 300 kr per minor * 48 minor = 14k kr. This number (even though
 it is a back-of-the-envelope calculation) is more than the 8k kr needed.
 It means that the course, from its own income, made a loss
-(as total costs was 24k kr) due to 16k kr investments,
-but it did make a net positive of 11k - 8k = 3k after
-paying for the consumables.
+(as total costs was 24k kr, income 14k kr, hence a loss of 10k).
+However, the course does pay for its own consumables
+(as income is 14k kr and consumables 8k kr).
 
 Due to this, I think the course cost of 300 kr per minor is still fair.
 
