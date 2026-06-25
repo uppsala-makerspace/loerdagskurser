@@ -30,3 +30,18 @@ Det är ofta bråttom under Lördagskurserna :-) .
     - [Processing bok 7](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/boecker/haefte_7.pdf)
     - [Processing bok 8](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/boecker/haefte_8.pdf)
 
+## Hur att digitalisera närvarolista
+
+Här har vi en exampel närvarolista:
+
+![Exampel närvarolista](naervarolista_with_text.png)
+
+Den måste blir till texten:
+
+```text
+2026-03-14,Sven,A,N
+2026-03-14,Helga,M,J
+2026-03-14,Helga,B,J
+```
+
+Texten kan blir skapad hur som helst :+1:
