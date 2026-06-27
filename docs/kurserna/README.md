@@ -19,11 +19,12 @@
 
     Om du är ännu mer avancerad, kan du också göra:
 
-    Kurs                                                             |Bok
-    -----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------
-    ![git logo](git_logo_32_x_32.png) **git**                        | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
-    ![Laser cutter logo](warning_laser_28_x_28.png) **laserskärare** | [laserskärare](https://uppsala-makerspace.github.io/laser_cutter_guide/)
-    ![Vinyl cutter logo](t_shirt_33_x_32.png) **vinylskärare**       | [vinylskärare](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+    Kurs                                                                            |Bok
+    --------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------
+    ![3D printing course logo](3d_skrivningskurs_logo_32_x_32.png) **3D skrivning** | [3D skrivningskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+    ![git logo](git_logo_32_x_32.png) **git**                                       | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+    ![Laser cutter logo](warning_laser_28_x_28.png) **laserskärare**                | [laserskärare](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+    ![Vinyl cutter logo](t_shirt_33_x_32.png) **vinylskärare**                      | [vinylskärare](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
 === "🇬🇧"
 
@@ -44,9 +45,9 @@
 
     When you are even more advanced, you can also do:
 
-    Course                                                           |Book
-    -----------------------------------------------------------------|-------------------------------------------------------------------------------------------
-    ![git logo](git_logo_32_x_32.png) **git**                        | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
-    ![Laser cutter logo](warning_laser_28_x_28.png) **laser cutter** | [laser cutter](https://uppsala-makerspace.github.io/laser_cutter_guide/)
-    ![Vinyl cutter logo](t_shirt_33_x_32.png) **vinyl cutter**       | [vinyl cutter](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
-
+    Course                                                                         |Book
+    -------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------
+    ![3D printing course logo](3d_skrivningskurs_logo_32_x_32.png) **3D printing** | [3D printing course](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+    ![git logo](git_logo_32_x_32.png) **git**                                      | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+    ![Laser cutter logo](warning_laser_28_x_28.png) **laser cutter**               | [laser cutter](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+    ![Vinyl cutter logo](t_shirt_33_x_32.png) **vinyl cutter**                     | [vinyl cutter](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
