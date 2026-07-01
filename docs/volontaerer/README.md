@@ -247,4 +247,3 @@ Du får vara med i laget!
     Nikita Churikov      |Teacher Processing course
     Saw Simeon           |Teacher Processing course
 
-

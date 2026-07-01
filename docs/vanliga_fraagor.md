@@ -23,7 +23,7 @@
 - Kursmaterial
 - Programmeringsspråk - Arduino (C++): se [FAQ om Arduino](faq_arduino.md)
 - Programmeringsspråk - Processing (Java): se [FAQ om Processing](faq_processing.md)
-- Förväntningar för deltagande barn 
+- Förväntningar för deltagande barn
 - Förväntningar för tillhörande vuxna
 - Kostnad för kursen
 - Köpa komponenter
