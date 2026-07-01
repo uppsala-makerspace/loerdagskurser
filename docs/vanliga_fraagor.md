@@ -34,7 +34,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 - [Volontärer](volontaerer/README.md)
 - Hemsidan
 
-## Att komma igång
+## 🇸🇪 Att komma igång 🇬🇧 Getting started
 
 ### 🇸🇪 När kan jag börja? 🇬🇧 When can I start?
 
@@ -92,26 +92,47 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 
     It is great when you discover that you like other things (even) more!
 
-## Ålder på deltagare
+## 🇸🇪 Ålder på deltagare 🇬🇧 Age of our participants
 
-### Jag är under 8 år. Är jag välkommen?
+### 🇸🇪 Jag är under 8 år. Är jag välkommen? 🇬🇧 I am younger than 8 years. Am I welcome?
 
-Tack för att du läste detta, för 8 år är bara en riktlinje!
-Denna riktlinje finns av en anledning: programmering eller 3D ritning är en
-svår (men cool!) hobby.
+=== "🇸🇪"
 
-Om du är yngre än 8 år och redan har kommit igång med att programmera
-är du mycket välkommen!
+    Tack för att du läste detta, för 8 år är bara en riktlinje!
 
-Vår erfarenhet säger oss att barn under 8 år som regel kan ha svårt att
-koncentrera sig långa stunder och det krävs också mer av läraren.
-Därför är riktlinje är att man bör vara minst 8 år gammal.
+    Denna riktlinje finns av en anledning: våra kurser kräver att vara
+    mogen nog att lära sig nya (och ibland frustrerande) saker.
+    Så om du är yngre än 8 år och redan har kommit igång med att
+    en av kurserna helt själva är du mycket välkommen!
 
-### Jag är över 88 år. Är jag välkommen?
+    Vår erfarenhet säger oss att barn under 8 år som regel kan ha svårt att
+    koncentrera sig långa stunder och det krävs
+    mer uppmärksamhet av våra få lärarna.
 
-Japp, det är du!
+=== "🇬🇧"
 
-## Kursmaterial
+    Thanks for reading this, as 8 years is only a guideline!
+
+    This guideline exists, because our courses require our participants
+    to be mature enough to learn new (and sometimes frustrating) things.
+    So if you are younger than 8 years old and you have already been working
+    on a course yourself, you are super welcome!
+
+    Our experiences tells us that kids younger than 8 years can struggle
+    with focussing for such long hours and this demands more attention
+    of our few teachers.
+
+### 🇸🇪 Jag är över 88 år. Är jag välkommen? 🇬🇧 I am older than 88 years. Am I welcome?
+
+=== "🇸🇪"
+
+    Japp, det är du!
+
+=== "🇬🇧"
+
+    Yes, you are!
+
+## 🇸🇪 Kursmaterial 🇬🇧 Course material
 
 ### Vad ska jag ta med?
 
@@ -363,12 +384,6 @@ Det är på grund av att det finns mer än ett språk
 i texterna.
 
 Om du vet hur man kan göra det bättre, gärna [bidra](CONTRIBUTING.md).
-
-## 🇬🇧🇺🇦 Frequently asked questions
-
-In short: you are always welcome, just show up during course hours.
-There is coffee and tea for parents and laptops and exercises
-for the kids :-)
 
 ### Länkar
 
