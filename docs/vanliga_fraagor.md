@@ -17,19 +17,6 @@
     Коротко кажучи: вам завжди раді, просто приходьте під час занять.
     Для батьків є кава та чай, а для дітей ноутбуки та вправи для дітей :-)
 
-
-- Komma igång
-- Ålder på deltagare
-- Kursmaterial
-- Programmeringsspråk - Arduino (C++): se [FAQ om Arduino](faq_arduino.md)
-- Programmeringsspråk - Processing (Java): se [FAQ om Processing](faq_processing.md)
-- Förväntningar för deltagande barn
-- Förväntningar för tillhörande vuxna
-- Kostnad för kursen
-- Köpa komponenter
-- [🇸🇪 Volontärer 🇬🇧 Volunteers](volontaerer/README.md)
-- Hemsidan
-
 ## 🇸🇪 Att komma igång 🇬🇧 Getting started
 
 ### 🇸🇪 När kan jag börja? 🇬🇧 When can I start?
