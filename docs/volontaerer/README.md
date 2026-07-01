@@ -60,8 +60,9 @@ Du får vara med i laget!
       är det vanligt att du blir tillfrågad om din åsikt
       i olika frågor, som till exempel hur man kan förbättra kurserna
     - När du börjar undervisa regelbundet, kommer du att bli ombedd att visar
-      ett **[Registerutdrag](#registerutdrag)**.
-      Du hittar informationen i [avsnittet 'Registerutdrag'](#registerutdrag).
+      ett **[Registerutdrag](registerutdrag/README.md)**.
+      Du hittar informationen
+      [på 'Registerutdrag' sida](registerutdrag/README.md).
     <!-- - Vissa kurser har extra regler, se nedan denna text :-) -->
 
 === "🇬🇧"
@@ -91,9 +92,10 @@ Du får vara med i laget!
       it is common that you will be asked for your opinion on matters,
       such as on how to improve the courses
     - When you start teaching at a regular basis,
-      you will be asked to provide a **[Registerutdrag](#registerutdrag)**.
+      you will be asked to provide
+      a **['Registerutdrag'](registerutdrag/README.md)**.
       You can find the details at
-      [the 'Registerutdrag' section](#registerutdrag).
+      [the 'Registerutdrag' page](registerutdrag/README.md).
     <!-- - Some courses have extra rules, see below this text :-) -->
 
 
