@@ -1,8 +1,22 @@
-# FAQ
+# 🇸🇪 Vanliga frågor 🇬🇧 Frequently asked questions 🇺🇦 Часті запитання
 
-- 🇸🇪 Vanliga frågor
-- 🇬🇧 Frequently asked questions: see below the Swedish ones
-- 🇺🇦 Часті запитання: див. англійську чи шведську
+=== "🇸🇪"
+
+    Kort sagt: ni är alltid välkomna, det är bara att dyka upp under kursens
+    öppettider. Det finns kaffe och te för föräldrar och bärbara
+    datorer och övningar för barnen :-)
+
+=== "🇬🇧"
+
+    In short: you are always welcome, just show up during course hours.
+    There is coffee and tea for parents and laptops and exercises
+    for the kids :-)
+
+=== "🇺🇦"
+
+    Коротко кажучи: вам завжди раді, просто приходьте під час занять.
+    Для батьків є кава та чай, а для дітей ноутбуки та вправи для дітей :-)
+
 
 ## 🇸🇪 Vanliga frågor
 
@@ -20,7 +34,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 - [Volontärer](volontaerer/README.md)
 - Hemsidan
 
-## Komma igång
+## Att komma igång
 
 ### 🇸🇪 När kan jag börja? 🇬🇧 When can I start?
 
