@@ -164,15 +164,15 @@ ha en `CC-BY-SA` licens,
 som innehåll du får trycka böcker själv för en kommerciell sak (`NC` = 'Non Commercial').
 Också, du får ädra i texten, så långe du skriver också original version (`BY` = 'give attribution').
 
-## Arduino (programmeringsspråket)
+## 🇸🇪 Arduino 🇬🇧 Arduino
 
-se [FAQ om Arduino](faq_arduino.md).
+Ser [FAQ om Arduino](faq_arduino.md).
 
-## Processing (programmeringsspråket)
+## 🇸🇪 Processing 🇬🇧 Processing
 
-se [FAQ om Processing](faq_processing.md)
+Ser [FAQ om Processing](faq_processing.md)
 
-## Förväntningar på deltagande (barn)
+## 🇸🇪 Förväntningar av vår deltagare 🇬🇧 Expectations of our participants
 
 ### Vad händer på ett vanligt kurstillfälle?
 
@@ -228,7 +228,7 @@ Se [ditt första besök](ditt_foersta_besoek/README.md) hur detta kan bli!
 
 Inget problem!
 
-## Förväntningar på föräldrar
+## 🇸🇪 Förväntningar av vår föräldrar 🇬🇧 Expectations of our parents
 
 ### Är jag välkommen att stanna?
 
@@ -248,17 +248,29 @@ gång.
   Uppsala Makerspace är rätt stort så det går att vistas i ett annat
   rum och hålla på med egna projekt om du är labbmedlem.
 
-### Är jag välkommen att hjälpa till?
+### 🇸🇪 Är jag välkommen att hjälpa till? 🇬🇧 Am I welcome to assist?
 
-Javisst! Du kan bli en volontär.
-Vi försöker då ordna så du är i en annan grupp än ditt/dina barn,
-se frågan ovan.
+=== "🇸🇪"
+
+    Japp, efter ett år.
+
+    Anledning av den här försening är så att våra deltagare kann bygga
+    upp sitt eget socialt värld i våra kurser.
+
+
+=== "🇬🇧"
+
+    Yes, after a year.
+
+    The reason for this delay is that our participants must be able to
+    builds up his/her own social world in our courses.
 
 ### Mitt/mina barn kan inte komma på ett kurstillfälle
 
 Inget problem!
 
-Men skicka gärna ett mail till Richel,`rjcbilderbeek@gmail.com` och meddela detta.
+Men skicka gärna ett mail till Richel,
+`rjcbilderbeek@gmail.com` och meddela detta.
 
 ## Lektioner och läromedel
 
@@ -276,7 +288,7 @@ Javisst, det är mojligt att skapa skapa på fler sätt än med datorn,
 med det är tufft at förenas det med kurserna.
 En undantag är att skapa T-shirts med vinylskäraren.
 
-## Kostnader för kursen
+## 🇸🇪 Kostnader 🇬🇧 Costs
 
 ### Vad kostar kursen?
 
@@ -292,8 +304,9 @@ Hör av dig till Richel, han har förmodligen en lösning.
 
 ### Varför kostar kursen så lite?
 
-För att kursen bedrivs med frivilliga krafter och det finns ett intresse att sprida kunskap om programmering i samhället.
-Kostnaderna är i huvudsak för att trycka böckerna och lite fika.
+För att kursen bedrivs med frivilliga krafter
+och det finns ett intresse att sprida kunskap i samhället.
+Kostnaderna är i huvudsak för att trycka böckerna och fika lite.
 
 ### Varför kostar kursen samma mellan höst och vår?
 
@@ -343,6 +356,16 @@ i början när det inte finns några böcker,
 blir kostnaden 554 kr per elev per termin.
 Det är en pessimistisk uppskattning.
 
+## 🇸🇪 Volontärer 🇬🇧 Volunteers
+
+=== "🇸🇪"
+
+    Ser [vår 'Volontärer' sida](volontaerer/README.md).
+
+=== "🇬🇧"
+
+    See [our 'Volunteers' page](volontaerer/README.md).
+
 ## Köpa komponenter
 
 ### Vilken är den bästa webshopen för att köpa komponenter?
@@ -357,7 +380,7 @@ Ifrån enkät på UMS Slack:
 - 2x [Mouser](https://www.mouser.se/)
 - 2x [Reichelt](https://www.reichelt.com/)
 
-## Hemsidan
+## 🇸🇪 Hemsidan 🇬🇧 Website
 
 ### Varför finns ingen stavningscheck?
 
