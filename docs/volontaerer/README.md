@@ -10,30 +10,25 @@ tags:
 Under Lördagskurserna är vi bara frivilliga som jobbar.
 Du får vara med i laget!
 
-Namn                         |Ansvar
------------------------------|---------------------------------------------
-Richel Bilderbeek            |Samordnare
-Mathias Palmer               |Infall
-Björn 'AtomBjörn' Pihlgren   |Receptionsbordet
-Björn 'Store Björn' Engström |Matlagningskurs ledare och Blender kursledare
-Christoffer Ramqvist         |Lärare Processing
-Fredrik Eldh                 |Lärare Processing
-Janne Holmberg               |Lärare Processing
-Johanna Söderström           |Lärare Matlagningskurs
-Dennis Leenheer              |Lärare Processing
-Nikita Churikov              |Lärare Processing
+## 🇸🇪 Hur kan jag blir volontär? 🇬🇧 How can I become a volunteer?
 
-## Tidigare volontärer
+=== "🇸🇪"
 
-Namn                 |Ansvar
----------------------|----------
-Bogdan Nicolae       |Lärare Processing
-Leslie Solorzano     |Lärare Blender
-Lily Lindstrand Hogan|Lärare Processing
-Ludvig Ahnlund Groiss|Lärare Arduino
-Saw Simeon           |Lärare Processing
+    Med att säger detta till oss :-)
 
-## 🇸🇪 Almänna regler (🇬🇧 General rules)
+    Bäst är att [kontakta kurs samordnaren](../kontakta_oss.md)
+    så att det finns gott om tid för all dina frågor och idéer.
+    Annars är det att dyka upp under Lördagskurserna och vi improviserar.
+
+=== "🇬🇧"
+
+    By letting us know :-)
+
+    Ideally, you [contact the course coordinator](../kontakta_oss.md)
+    and there will be proper time for all your questions and ideas.
+    Else show up a Lördagskurser day and we'll improvise.
+
+## 🇸🇪 Vad är riktlinjer för volontärer? 🇬🇧 What are guidelines for volunteers
 
 - [general_volunteer_rules.odt](general_volunteer_rules.odt)
 - [general_volunteer_rules.pdf](general_volunteer_rules.pdf)
@@ -67,7 +62,7 @@ Saw Simeon           |Lärare Processing
     - När du börjar undervisa regelbundet, kommer du att bli ombedd att visar
       ett **[Registerutdrag](#registerutdrag)**.
       Du hittar informationen i [avsnittet 'Registerutdrag'](#registerutdrag).
-    - Vissa kurser har extra regler, se nedan denna text :-)
+    <!-- - Vissa kurser har extra regler, se nedan denna text :-) -->
 
 === "🇬🇧"
 
@@ -99,10 +94,12 @@ Saw Simeon           |Lärare Processing
       you will be asked to provide a **[Registerutdrag](#registerutdrag)**.
       You can find the details at
       [the 'Registerutdrag' section](#registerutdrag).
-    - Some courses have extra rules, see below this text :-)
+    <!-- - Some courses have extra rules, see below this text :-) -->
 
 
-## 🇸🇪 Regler för matlagning (🇬🇧 General rules)
+<!--
+
+## 🇸🇪 Vad är riktlinjer för matlagningskurs volontärer? 🇬🇧 What are guidelines for volunteers of the cooking course?
 
 - [cooking_volunteer_rules.odt](cooking_volunteer_rules.odt)
 - [cooking_volunteer_rules.pdf](cooking_volunteer_rules.pdf)
@@ -154,16 +151,100 @@ Saw Simeon           |Lärare Processing
       also cutting vegetable is part of the course,
       so let the learners do it :+1:
 
-## Registerutdrag
+-->
+
+## 🇸🇪 Vad är riktlinjerna för att starta en ny kurs? 🇬🇧 What are the guidelines for starting a new course?
 
 === "🇸🇪"
 
-    Alla volontärer är frågat att visar en registerutdrag.
+    Den viktigaste riktlinjen är: **Du är chefen**!
 
-    [Procedyren att få Registerutdrag](../registerutdrag/README.md).
+    Det betyder att du har friheten att göra saker på ditt sätt,
+    när du också tar ansvar för detta
+    och följer de allmänna Uppsala Makerspace-reglerna.
+
+    Det betyder att du får bestämma allt detta:
+
+    - Vad är ämnet för din kurs
+    - Vilket/vilka språk din kurs ges på
+    - I vilken sal din kurs ges
+    - När din kurs ges
+    - Hur du undervisar din kurs
+    - Minsta och högsta antal elever
+    - Lägsta och högsta ålder för eleverna
 
 === "🇬🇧"
 
-    All volunteers are asked to provide a so-called 'Registerutdrag'.
+    The most important guideline is: **You are boss**!
 
-    [The procedure to get a 'Registerutdrag'](../registerutdrag/README.md).
+    This means you have the freedom to do things your way,
+    when you also take the responsibility for this
+    and follow the general Uppsala Makerspace rules.
+
+    This means you are allowed to decide all of these:
+
+    - What the topic of your course is
+    - The language(s) your course is taught in
+    - In which room your course is taught
+    - When your course is taught
+    - How your teach your course
+    - The minimum and maximum amount of learners
+    - The minimum and maximum age of learners
+
+## 🇸🇪 Vem är nuvarande volontärerna? 🇬🇧 Who are the current volunteers?
+
+=== "🇸🇪"
+
+    Namn                         |Ansvar
+    -----------------------------|---------------------------------------------
+    Richèl Bilderbeek            |Samordnare
+    Mathias Palmer               |Infall
+    Björn 'AtomBjörn' Pihlgren   |Receptionsbordet
+    Björn 'Store Björn' Engström |Kursledare av Matlagnings- och Blenderkurser
+    Christoffer Ramqvist         |Lärare Processing
+    Janne Holmberg               |Lärare Processing
+    Johanna Söderström           |Lärare Matlagningskurs
+
+=== "🇬🇧"
+
+    Name                         |Role
+    -----------------------------|---------------------------------------------
+    Richèl Bilderbeek            |Coordinator
+    Mathias Palmer               |Reserve
+    Björn 'AtomBjörn' Pihlgren   |Reception desk
+    Björn 'Store Björn' Engström |Course leader of cooking and Blender courses
+    Christoffer Ramqvist         |Teacher Processing course
+    Janne Holmberg               |Teacher Processing course
+    Johanna Söderström           |Teacher cooking course
+
+## 🇸🇪 Vem har varit volontär tidigare? 🇬🇧 Who has been a volunteer in the past?
+
+=== "🇸🇪"
+
+    Namn                 |Ansvar
+    ---------------------|----------
+    Bogdan Nicolae       |Lärare Processing kurs
+    Christian            |Allt-i-allo lärare
+    Dennis Leenheer      |Lärare Processing kurs
+    Fredrik Eldh         |Lärare Processing kurs
+    Leslie Solorzano     |Lärare Blender kurs
+    Lily Lindstrand Hogan|Lärare Processing kurs
+    Ludvig Ahnlund Groiss|Lärare Arduino kurs
+    Nikita Churikov      |Lärare Processing kurs
+    Saw Simeon           |Lärare Processing kurs
+
+=== "🇬🇧"
+
+    Name                 |Role
+    ---------------------|----------
+    Bogdan Nicolae       |Teacher Processing course
+    Christian            |All round teacher
+    Dennis Leenheer      |Teacher Processing course
+    Fredrik Eldh         |Teacher Processing course
+    Leslie Solorzano     |Teacher Blender course
+    Lily Lindstrand Hogan|Teacher Processing course
+    Ludvig Ahnlund Groiss|Teacher Arduino course
+    Nikita Churikov      |Teacher Processing course
+    Saw Simeon           |Teacher Processing course
+
+

@@ -13,9 +13,8 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 - Kursmaterial
 - Programmeringsspråk - Arduino (C++): se [FAQ om Arduino](faq_arduino.md)
 - Programmeringsspråk - Processing (Java): se [FAQ om Processing](faq_processing.md)
-- Förväntningar för deltagande (barn)
+- Förväntningar för deltagande barn 
 - Förväntningar för tillhörande vuxna
-- Förväntningar på volontärer / frivilliga
 - Kostnad för kursen
 - Köpa komponenter
 - [Volontärer](volontaerer/README.md)
@@ -243,15 +242,6 @@ Inget problem!
 
 Men skicka gärna ett mail till Richel,`rjcbilderbeek@gmail.com` och meddela detta.
 
-## Förväntningar på volontärer / frivilliga
-
-### Är jag välkommen?
-
-Javisst!
-
-Målsättningen är dock att barnen ska hjälpa varandra i så stor utsträckning som möjligt,
-så det ska helst inte vara fler än en vuxen per fyra barn.
-
 ## Lektioner och läromedel
 
 ## Jag vill lära mig Processing och komma igång dirket, hur går jag tillväga?
@@ -348,10 +338,6 @@ Ifrån enkät på UMS Slack:
 - 1x [M](https://www.m.nu/)
 - 2x [Mouser](https://www.mouser.se/)
 - 2x [Reichelt](https://www.reichelt.com/)
-
-## Volontärer
-
-Se [volontärer](volontaerer/README.md).
 
 ## Hemsidan
 
