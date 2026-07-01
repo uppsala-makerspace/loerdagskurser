@@ -18,7 +18,7 @@ När                     |Vad                          | Klockan     | Var
 
 * Dörr öppet: 12:00, början: 12:15
 * Vem: eleverna Programmeringskursen
-* Mer information: <https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar>
+* Mer information: `https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar`
 
 För eleverna från Programmeringskursen är den en extra dag att andå
 förbättra programmet för Slutpresentation.
@@ -29,7 +29,7 @@ Aktivitätet är gratis och hos UMS.
 
 * Dörr öppet: 10:00, början: 10:15
 * Vem: varje en
-* Mer information: <https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar>
+* Mer information: `https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar`
 
 Eleverna från Programmeringskursen visar deras mästervärker
 till varje en! Vi tar bra hand om gästerna till presentationen
@@ -39,7 +39,7 @@ börjar! Efter det finns det en unvärdering.
 
 * Dörr öppet: 10:00, början: 10:15
 * Vem: moderna och eleverna programmeringskurs
-* Mer information: <https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar>
+* Mer information: `https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar`
 
 Den dag här är sista lektion från terminen av Programmeringskursen
 och är en bra moment för våra eleverna att ta mor/farmor/mormor
@@ -83,7 +83,7 @@ galen aktivität här. Richel bringer kaffe för föräldrarna.
 
 * Dörr öppet: 10:00, början: 10:15
 * Vem: varje en från 8 år yng
-* Mer information: <https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar>
+* Mer information: `https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar`
 
 Den Programmeringskurs försätter, för ungdomer men också för vuxen.
 Vi lära oss at programmera i Processing (en Java dialekt) och
@@ -105,7 +105,7 @@ undervisa varann att göra det.
 
 * Dörr öppet: 10:00, början: 11:00
 * Vem: varje en som vill hjälpa med
-* Mer information: <https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar>
+* Mer information: `https://github.com/richelbilderbeek/programmeringskurs_foer_ungdomar`
 
 Kulturnatten är en viktigt evenemang våra elverna from Programmeringskurs
 och Arduinokurs ska undervisa den (5000 i totalt!) besökare från
