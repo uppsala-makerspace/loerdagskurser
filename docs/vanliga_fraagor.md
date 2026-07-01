@@ -18,10 +18,6 @@
     Для батьків є кава та чай, а для дітей ноутбуки та вправи для дітей :-)
 
 
-## 🇸🇪 Vanliga frågor
-
-Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik har jag delat in dem i följande kategorier:
-
 - Komma igång
 - Ålder på deltagare
 - Kursmaterial
@@ -31,7 +27,7 @@ Nedan har jag listat ett antal vanliga frågor / fakta. För bättre översik ha
 - Förväntningar för tillhörande vuxna
 - Kostnad för kursen
 - Köpa komponenter
-- [Volontärer](volontaerer/README.md)
+- [🇸🇪 Volontärer 🇬🇧 Volunteers](volontaerer/README.md)
 - Hemsidan
 
 ## 🇸🇪 Att komma igång 🇬🇧 Getting started
