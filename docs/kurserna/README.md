@@ -1,5 +1,7 @@
 # 🇸🇪 Kurserna (🇬🇧 The courses)
 
+<!--
+
 ```mermaid
 gantt
     title Dagsplan i timmar
@@ -20,14 +22,7 @@ gantt
     Break           : 14:00, 14:15
 ```
 
-Course    |9:00-10:00                               |10:15-11:00                                               |11:15-12:00                                               |12:15-13:00                                     |13:15-14:00                                     |14:15-15:00
-----------|-----------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|------------------------------------------------|-------------------------------------------
-Cooking   |![Cooking logo](cooking_logo_28_x_32.png)|.                                                         |.                                                         |.                                               |.                                               |.
-Arduino   |.                                        |![Arduino logo](arduino_community_logo_65x32.png)         |![Arduino logo](arduino_community_logo_65x32.png)         |.                                               |.                                               |.
-Blender   |.                                        |![Blender logo](blender_community_badge_white_39_x_32.png)|![Blender logo](blender_community_badge_white_39_x_32.png)|.                                               |.                                               |.
-Processing|.                                        |.                                                         |.                                                         |![Processing logo](processing4_logo_36_x_32.png)|![Processing logo](processing4_logo_36_x_32.png)|.
-OpenSCAD  |.                                        |.                                                         |.                                                         |.                                               |![OpenSCAD logo](openscad_logo_32_x_32.png)     |![OpenSCAD logo](openscad_logo_32_x_32.png)
-Adults    |.                                        |.                                                         |.                                                         |.                                               |.                                               |Any course
+-->
 
 === "🇸🇪"
 
@@ -55,6 +50,16 @@ Adults    |.                                        |.                          
     ![Laser cutter logo](warning_laser_28_x_28.png) **laserskärare**                | [laserskärare](https://uppsala-makerspace.github.io/laser_cutter_guide/)
     ![Vinyl cutter logo](t_shirt_33_x_32.png) **vinylskärare**                      | [vinylskärare](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
+    Här är ett översikt av när vilken kurs är:
+
+    Course    |9:00-10:00                               |10:15-11:00                                               |11:15-12:00                                               |12:15-13:00                                     |13:15-14:00                                     |14:15-15:00
+    ----------|-----------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|------------------------------------------------|-------------------------------------------
+    Matlagning|![Cooking logo](cooking_logo_28_x_32.png)|.                                                         |.                                                         |.                                               |.                                               |.
+    Arduino   |.                                        |![Arduino logo](arduino_community_logo_65x32.png)         |![Arduino logo](arduino_community_logo_65x32.png)         |.                                               |.                                               |.
+    Blender   |.                                        |![Blender logo](blender_community_badge_white_39_x_32.png)|![Blender logo](blender_community_badge_white_39_x_32.png)|.                                               |.                                               |.
+    Processing|.                                        |.                                                         |.                                                         |![Processing logo](processing4_logo_36_x_32.png)|![Processing logo](processing4_logo_36_x_32.png)|.
+    OpenSCAD  |.                                        |.                                                         |.                                                         |.                                               |![OpenSCAD logo](openscad_logo_32_x_32.png)     |![OpenSCAD logo](openscad_logo_32_x_32.png)
+
 === "🇬🇧"
 
     These are the courses we teach at the Saturday courses:
@@ -80,3 +85,13 @@ Adults    |.                                        |.                          
     ![git logo](git_logo_32_x_32.png) **git**                                      | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
     ![Laser cutter logo](warning_laser_28_x_28.png) **laser cutter**               | [laser cutter](https://uppsala-makerspace.github.io/laser_cutter_guide/)
     ![Vinyl cutter logo](t_shirt_33_x_32.png) **vinyl cutter**                     | [vinyl cutter](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+
+    Here is an overview when which course takes place:
+
+    Course    |9:00-10:00                               |10:15-11:00                                               |11:15-12:00                                               |12:15-13:00                                     |13:15-14:00                                     |14:15-15:00
+    ----------|-----------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|------------------------------------------------|-------------------------------------------
+    Cooking   |![Cooking logo](cooking_logo_28_x_32.png)|.                                                         |.                                                         |.                                               |.                                               |.
+    Arduino   |.                                        |![Arduino logo](arduino_community_logo_65x32.png)         |![Arduino logo](arduino_community_logo_65x32.png)         |.                                               |.                                               |.
+    Blender   |.                                        |![Blender logo](blender_community_badge_white_39_x_32.png)|![Blender logo](blender_community_badge_white_39_x_32.png)|.                                               |.                                               |.
+    Processing|.                                        |.                                                         |.                                                         |![Processing logo](processing4_logo_36_x_32.png)|![Processing logo](processing4_logo_36_x_32.png)|.
+    OpenSCAD  |.                                        |.                                                         |.                                                         |.                                               |![OpenSCAD logo](openscad_logo_32_x_32.png)     |![OpenSCAD logo](openscad_logo_32_x_32.png)
