@@ -20,6 +20,15 @@ gantt
     Break           : 14:00, 14:15
 ```
 
+Course    |9:00-10:00                               |10:15-11:00                                               |11:15-12:00                                               |12:15-13:00                                     |13:15-14:00                                     |14:15-15:00
+----------|-----------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------------------------------------|------------------------------------------------|-------------------------------------------
+Cooking   |![Cooking logo](cooking_logo_28_x_32.png)|.                                                         |.                                                         |.                                               |.                                               |.
+Arduino   |.                                        |![Arduino logo](arduino_community_logo_65x32.png)         |![Arduino logo](arduino_community_logo_65x32.png)         |.                                               |.                                               |.
+Blender   |.                                        |![Blender logo](blender_community_badge_white_39_x_32.png)|![Blender logo](blender_community_badge_white_39_x_32.png)|.                                               |.                                               |.
+Processing|.                                        |.                                                         |.                                                         |![Processing logo](processing4_logo_36_x_32.png)|![Processing logo](processing4_logo_36_x_32.png)|.
+OpenSCAD  |.                                        |.                                                         |.                                                         |.                                               |![OpenSCAD logo](openscad_logo_32_x_32.png)     |![OpenSCAD logo](openscad_logo_32_x_32.png)
+Adults    |.                                        |.                                                         |.                                                         |.                                               |.                                               |Any course
+
 === "🇸🇪"
 
     Dessa är kurserna vi lär ut under Lördagskurserna:
