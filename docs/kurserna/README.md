@@ -1,5 +1,25 @@
 # 🇸🇪 Kurserna (🇬🇧 The courses)
 
+```mermaid
+gantt
+    title Dagsplan i timmar
+    dateFormat  HH:mm
+    axisFormat  %H:%M
+
+    Matlagning      : matlagning, 09:00, 10:00
+    Arduino         : 10:15, 12:00
+    Blender         : 10:15, 12:00
+    Processing      : 12:15, 14:00
+    OpenSCAD        : 13:15, 15:00
+    Adults hour     : 14:15, 15:00
+    Advanced hour   : 14:15, 15:00
+    Break           : 10:00, 10:15
+    Break           : 11:00, 11:15
+    Break           : 12:00, 12:15
+    Break           : 13:00, 13:15
+    Break           : 14:00, 14:15
+```
+
 === "🇸🇪"
 
     Dessa är kurserna vi lär ut under Lördagskurserna:
