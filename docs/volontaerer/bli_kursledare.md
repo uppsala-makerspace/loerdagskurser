@@ -5,71 +5,30 @@ tags:
   - volontäre
 ---
 
-# 🇸🇪 Volontärer 🇬🇧 Volunteers
+# Bli kursledare
 
-## 🇸🇪 Varför finns det en sida om volontärer? 🇬🇧 Why is there a page about volunteers?
+Under Lördagskurserna är vi bara frivilliga som jobbar.
+Du får vara med i laget!
 
-=== "🇸🇪"
-
-    För att under Lördagskurserna, är det bara volontärer som hjälpas åt.
-    Och dem kunde behöver lite hjälp till :+1:
-
-=== "🇬🇧"
-
-    Because at the Lördagskurserna, it is only volunteers that are helping out.
-    And they could use a little help too :+1:
-
-## 🇸🇪 Vilka uppgifter finns? 🇬🇧 Which tasks are there? 
+## 🇸🇪 Hur kan jag blir volontär? 🇬🇧 How can I become a volunteer?
 
 === "🇸🇪"
 
-    Den här är den nuvarande uppgifterna:
+    Med att säger detta till oss :-)
 
-    - Samordare: säkerställer att alla kurser kan löpa smidigt
-      och är slutansvarig.
-      Du kan [bli samordnare](bli_samordnare.md).
-    - Kursledare: leder en kurs.
-      Du kan [bli kursledare](bli_kursledare.md).
-    - Lärare: hjälper till med undervisningen.
-      Du kan [bli lärare](bli_laerare.md).
-    - Värd: välkomnar våra deltagare och tar hand om administrationen.
-      Du kan [bli värd](bli_vaerd.md).
+    Bäst är att [kontakta kurs samordnaren](../kontakta_oss.md)
+    så att det finns gott om tid för all dina frågor och idéer.
+    Annars är det att dyka upp under Lördagskurserna och vi improviserar.
 
 === "🇬🇧"
 
-    These are the current tasks:
+    By letting us know :-)
 
-    - Coordinator: ensures all courses can run smoothly and is end responsible.
-      You can [become a coordinator](bli_samordnare.md).
-    - Course leader: leads a course.
-      You can [become a course leader](bli_kursledare.md).
-    - Teacher: helps teach.
-      You can [become a teacher](bli_laerare.md).
-    - Host: welcomes our participants and takes care of the administration.
-      You can [become a host](bli_vaerd.md).
+    Ideally, you [contact the course coordinator](../kontakta_oss.md)
+    and there will be proper time for all your questions and ideas.
+    Else show up a Lördagskurser day and we'll improvise.
 
-
-## 🇸🇪 Hur blir man volontär? 🇬🇧 How to become a volunteer?
-
-=== "🇸🇪"
-
-    Det beror på vad du vill göra:
-
-    - Samordare: [bli samordnare](bli_samordnare.md).
-    - Kursledare: [bli kursledare](bli_kursledare.md).
-    - Lärare: [bli lärare](bli_laerare.md).
-    - Värd: [bli värd](bli_vaerd.md).
-
-=== "🇬🇧"
-
-    That depends on what you want to do:
-
-    - Coordinator: [become a coordinator](bli_samordnare.md).
-    - Course leader: [become a course leader](bli_kursledare.md).
-    - Teacher: [become a teacher](bli_laerare.md).
-    - Host: [become a host](bli_vaerd.md).
-
-## 🇸🇪 Vad är riktlinjer för volontärer? 🇬🇧 What are guidelines for volunteers?
+## 🇸🇪 Vad är riktlinjer för volontärer? 🇬🇧 What are guidelines for volunteers
 
 - [general_volunteer_rules.odt](general_volunteer_rules.odt)
 - [general_volunteer_rules.pdf](general_volunteer_rules.pdf)
@@ -104,6 +63,7 @@ tags:
       ett **[Registerutdrag](registerutdrag/README.md)**.
       Du hittar informationen
       [på 'Registerutdrag' sida](registerutdrag/README.md).
+    <!-- - Vissa kurser har extra regler, se nedan denna text :-) -->
 
 === "🇬🇧"
 
@@ -136,6 +96,102 @@ tags:
       a **['Registerutdrag'](../registerutdrag/README.md)**.
       You can find the details at
       [the 'Registerutdrag' page](registerutdrag/README.md).
+    <!-- - Some courses have extra rules, see below this text :-) -->
+
+
+<!--
+
+## 🇸🇪 Vad är riktlinjer för matlagningskurs volontärer? 🇬🇧 What are guidelines for volunteers of the cooking course?
+
+- [cooking_volunteer_rules.odt](cooking_volunteer_rules.odt)
+- [cooking_volunteer_rules.pdf](cooking_volunteer_rules.pdf)
+
+=== "🇸🇪"
+
+    Här är några riktlinjer för volontärer på matlagningskursen:
+
+    - Du är **en vanlig volontär**,
+      med de allmänna reglerna ovan.
+      Sammanfattningsvis: du är chefen och du är ansvarig
+    - Om du vill kan du få **en volontär som hjälper** dig att komma igång
+    - Du får bara **en timme** undervisning:
+      måltiderna kommer att vara enkla.
+      Om du oväntat behöver mer tid -såklart- får du det :+1:
+    - Föredrar att **undervisa alla elever**, inte bara en eller två.
+      Försök att låta alla arbeta så mycket som möjligt
+    - Du uppmuntras att **köpa ingredienserna under kurstiden**.
+      Detta sparar tid att förbereda och *är*
+      en del av matlagning.
+      En Coop ligger 200 meter bort.
+      [Karta (schematisk)](where_is_coop_schematic_annotated.png)
+      [Karta (satellit)](where_is_coop_sattelite_annotated.png)
+      Tar med kvittot, snälla!
+    - Du uppmuntras att **inte förbereda ingredienser**:
+      att skära grönsaker är också en del av kursen,
+      så låt eleverna göra det :+1:
+
+=== "🇬🇧"
+
+    These are some guidelines for volunteers of the cooking course:
+
+    - You are **a regular volunteer**,
+      with the general rules above. In summary: you are boss and you are
+      responsible
+    - If you want, you can get **a volunteer to help** you get started
+    - You get only have **one hour** of teaching:
+      meals will be simple.
+      If you unexpectedly need more time, you will -of course- get it :+1:
+    - Prefer to **teach all learners**, not just one or two.
+      Try to set all of them to work as much as possible
+    - You are encouraged to **buy the ingredients under course time**.
+      This saves you time to prepare and *is* part of regular cooking.
+      A Coop is 200 meters away.
+      [Map (schematic)](where_is_coop_schematic_annotated.png)
+      [Map (sattelite)](where_is_coop_sattelite_annotated.png)
+      Do get a receipt!
+    - You are encouraged **not to prepare ingredients**:
+      also cutting vegetable is part of the course,
+      so let the learners do it :+1:
+
+-->
+
+## 🇸🇪 Vad är riktlinjerna för att starta en ny kurs? 🇬🇧 What are the guidelines for starting a new course?
+
+=== "🇸🇪"
+
+    Den viktigaste riktlinjen är: **Du är chefen**!
+
+    Det betyder att du har friheten att göra saker på ditt sätt,
+    när du också tar ansvar för detta
+    och följer de allmänna Uppsala Makerspace-reglerna.
+
+    Det betyder att du får bestämma allt detta:
+
+    - Vad är ämnet för din kurs
+    - Vilket/vilka språk din kurs ges på
+    - I vilken sal din kurs ges
+    - När din kurs ges
+    - Hur du undervisar din kurs
+    - Minsta och högsta antal elever
+    - Lägsta och högsta ålder för eleverna
+
+=== "🇬🇧"
+
+    The most important guideline is: **You are boss**!
+
+    This means you have the freedom to do things your way,
+    when you also take the responsibility for this
+    and follow the general Uppsala Makerspace rules.
+
+    This means you are allowed to decide all of these:
+
+    - What the topic of your course is
+    - The language(s) your course is taught in
+    - In which room your course is taught
+    - When your course is taught
+    - How your teach your course
+    - The minimum and maximum amount of learners
+    - The minimum and maximum age of learners
 
 ## 🇸🇪 Vem är nuvarande volontärerna? 🇬🇧 Who are the current volunteers?
 
@@ -145,7 +201,7 @@ tags:
     -----------------------------|---------------------------------------------
     Richèl Bilderbeek            |Samordnare
     Mathias Palmer               |Infall
-    Björn 'AtomBjörn' Pihlgren   |Värd
+    Björn 'AtomBjörn' Pihlgren   |Receptionsbordet
     Björn 'Store Björn' Engström |Kursledare av Matlagnings- och Blenderkurser
     Christoffer Ramqvist         |Lärare Processing
     Janne Holmberg               |Lärare Processing
@@ -157,7 +213,7 @@ tags:
     -----------------------------|---------------------------------------------
     Richèl Bilderbeek            |Coordinator
     Mathias Palmer               |Reserve
-    Björn 'AtomBjörn' Pihlgren   |Host
+    Björn 'AtomBjörn' Pihlgren   |Reception desk
     Björn 'Store Björn' Engström |Course leader of cooking and Blender courses
     Christoffer Ramqvist         |Teacher Processing course
     Janne Holmberg               |Teacher Processing course
