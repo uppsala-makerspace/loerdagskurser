@@ -27,13 +27,13 @@ tags:
 
     - Värd: välkomnar våra deltagare och tar hand om administrationen.
       Du kan [bli värd](bli_vaerd.md).
-      Du kan [bli samordnare](bli_samordnare.md).
     - Lärare: hjälper till med undervisningen.
       Du kan [bli lärare](bli_laerare.md).
     - Kursledare: leder en kurs.
       Du kan [bli kursledare](bli_kursledare.md).
     - Samordare: säkerställer att alla kurser kan löpa smidigt
       och är slutansvarig.
+      Du kan [bli samordnare](bli_samordnare.md).
     - Vad du än vill göra :-)
       [Kontakta oss](../kontakta_oss.md)!
 
