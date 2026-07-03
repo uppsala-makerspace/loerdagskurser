@@ -121,14 +121,18 @@
 
 Det beror på vad du vill göra:
 
-Kurs       |Tar med gjärna [1]          |Installera gjärna [2]
------------|----------------------------|-----------------------------------------------------
-Arduino    |En bärbar dator med laddare |[Arduino IDE](https://www.arduino.cc/en/software)
-Biomaking  |.                           |.
-Blender    |En bärbar dator med laddare |[Blender](https://www.blender.org/download/)
-`git`      |En bärbar dator med laddare |`git`, till exempel [https://git-scm.com/downloads](https://git-scm.com/downloads)
-Matlagning |.                           |.
-Processing |En bärbar dator med laddare |[Processing IDE](https://processing.org/download)
+Kurs        |Tar med gjärna [1]          |Installera gjärna [2]
+------------|----------------------------|-----------------------------------------------------
+3D skrivning|En bärbar dator med laddare |[PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/)
+Arduino     |En bärbar dator med laddare |[Arduino IDE](https://www.arduino.cc/en/software)
+Biomaking   |.                           |.
+Blender     |En bärbar dator med laddare |[Blender](https://www.blender.org/download/)
+`git`       |En bärbar dator med laddare |`git`, till exempel [https://git-scm.com/downloads](https://git-scm.com/downloads)
+Laserskärare|.                           |.
+Matlagning  |.                           |.
+OpenSCAD    |En bärbar dator med laddare |[OpenSCAD](https://openscad.org/)
+Processing  |En bärbar dator med laddare |[Processing IDE](https://processing.org/download)
+Vinylskärare|.                           |.
 
 - [1] Om du inte har någon bärbar dator eller du vill prova först, så kan du låna en av oss
 - [2] Om du har inte installerat programmen förut, hjälps vi åt under kursen
@@ -252,7 +256,8 @@ gång.
 
 === "🇸🇪"
 
-    Japp, efter ett år.
+    Japp, efter ett år,
+    ser [vår sida om volontärer](volontaerer/README.md).
 
     Anledning av den här försening är så att våra deltagare kann bygga
     upp sitt eget socialt värld i våra kurser.
@@ -260,7 +265,8 @@ gång.
 
 === "🇬🇧"
 
-    Yes, after a year.
+    Yes, after a year,
+    see [our page about volunteering](volontaerer/README.md).
 
     The reason for this delay is that our participants must be able to
     builds up his/her own social world in our courses.
@@ -300,7 +306,7 @@ Se [Betalning](betalning.md).
 
 ### Jag har inte råd med kursavgiften. Hur ska jag göra?
 
-Hör av dig till Richel, han har förmodligen en lösning.
+Hör av dig till kurs samordnaren, han har förmodligen en lösning.
 
 ### Varför kostar kursen så lite?
 
