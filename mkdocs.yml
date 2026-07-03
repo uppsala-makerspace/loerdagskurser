@@ -22,6 +22,7 @@ nav:
   - Kontakta oss: kontakta_oss.md
   - Misc:
     - Akademiska_uppsatser: akademiska_uppsatser/README.md
+    - Bidragande: CONTRIBUTING.md
     - Bidragsgivarna: bidragsgivarna.md
     - Bilder: bilder.md
     - Dagschemat: dagschemat.md
@@ -34,9 +35,157 @@ nav:
     - Reflektioner: reflektioner/README.md
     - Registerutdrag: registerutdrag/README.md
     - Statistiker av besökare: data/statistiker_besoekare/README.md
+    - Uppförandekod: CODE_OF_CONDUCT.md
     - Utvärderingar: data/utvaerderingar/README.md
     - Årschemat: aarschemat.md
     - Exempel på elevernas framsteg: exempel_framsteg/README.md
+
+not_in_nav: |
+  index.md
+  faq_arduino.md
+  faq_processing.md
+  matlagningsschemat.md
+  naer_aaker_jag_hemma.md
+  qr_kod.md
+  tidigare_veckoschemar.md
+  data/utvaerderingar/20211211/README.md
+  data/utvaerderingar/20211211/20211211.md
+  data/utvaerderingar/20220528/README.md
+  data/utvaerderingar/20220528/questions_parents.md
+  data/utvaerderingar/20220528/results.md
+  data/utvaerderingar/20221210/README.md
+  data/utvaerderingar/20221210/questions_parents.md
+  data/utvaerderingar/20221210/results.md
+  data/utvaerderingar/20230527/README.md
+  data/utvaerderingar/20230527/results.md
+  data/utvaerderingar/20231209/README.md
+  data/utvaerderingar/20240518/README.md
+  data/utvaerderingar/20241207/README.md
+  data/utvaerderingar/20250524/README.md
+  data/utvaerderingar/20251206/README.md
+  data/utvaerderingar/20260530/README.md
+  foerberedning/README.md
+  lektionsplaner/20221022_form_teams/README.md
+  lektionsplaner/20230826/README.md
+  lektionsplaner/20230916/README.md
+  lektionsplaner/20230923/README.md
+  lektionsplaner/20230930/README.md
+  lektionsplaner/20231007/README.md
+  lektionsplaner/20240309/README.md
+  lektionsplaner/20240316/README.md
+  lektionsplaner/20250927/README.md
+  misc/README.md
+  misc/pedigree.md
+  misc/20250301_survey/README.md
+  misc/atombjoerns_sida/README.md
+  misc/den_stora_foeraendring_2023/README.md
+  misc/parent_information/README.md
+  misc/penger/20250302/README.md
+  misc/use_chromecast/README.md
+  publicitet/20210806_website_ums/README.md
+  publicitet/20211211_presentation/README.md
+  publicitet/20220223_1st_season/README.md
+  publicitet/20220514_sommarlov/README.md
+  publicitet/20220805_hoestsemester/README.md
+  publicitet/20220910_kulturnatten/README.md
+  publicitet/20220923_dart/README.md
+  publicitet/20221118_vintersemester/README.md
+  publicitet/20221214_vintersemester/README.md
+  publicitet/20230310_foeraendring/README.md
+  publicitet/20230325_foeraendring/README.md
+  publicitet/20230414_flyer_usb/README.md
+  publicitet/20230501_general/README.md
+  publicitet/20230506_hsemd/README.md
+  publicitet/20230609_flyer_summer/README.md
+  publicitet/20230715_email_parents/README.md
+  publicitet/20231111_efdhs/README.md
+  publicitet/20240209_vaarsemester/README.md
+  publicitet/20240413_plats_slutpresentation/README.md
+  publicitet/20240420_plats_slutpresentation/README.md
+  publicitet/20240525_emdkn/README.md
+  publicitet/20240817_vaarsemester/README.md
+  publicitet/20240818_kickoff/README.md
+  publicitet/20240912_general_flyer/README.md
+  publicitet/20241130_hackathon_och_slutpresentation/README.md
+  publicitet/20241207_vintersemester/README.md
+  publicitet/20241214_vintersemester/README.md
+  publicitet/20250322_dna_workshop/README.md
+  publicitet/20250426_hsemd/README.md
+  publicitet/20250525_autumn_semester/README.md
+  publicitet/20250828_kulturnatten/README.md
+  publicitet/20250913_general_flyer/README.md
+  publicitet/20250920_makerspace/README.md
+  publicitet/20251011_efdhs/README.md
+  publicitet/20251206_spring_semester/README.md
+  publicitet/20260109_spring_semester/README.md
+  publicitet/20260227_general_flyer/README.md
+  publicitet/20260228_intro_to_biomaking/README.md
+  publicitet/20260228_pdhs/README.md
+  publicitet/20260228_spring_semester/README.md
+  reflektioner/20211211_richel/README.md
+  reflektioner/20220528_richel/README.md
+  reflektioner/20221210_richel/README.md
+  reflektioner/20230527_richel/README.md
+  reflektioner/20230827_richel/README.md
+  reflektioner/20231209_richel/README.md
+  reflektioner/20240518_richel/README.md
+  reflektioner/20241207_richel/README.md
+  reflektioner/20250524_richel/README.md
+  reflektioner/20251206_richel/README.md
+  reflektioner/20260530_richel/README.md
+  verksamheter/README.md
+  verksamheter/20211009_galenlektion/README.md
+  verksamheter/20211113_richel_demo/README.md
+  verksamheter/20211120_richel_demo/README.md
+  verksamheter/20211211_presentation/README.md
+  verksamheter/20211218_julkort/README.md
+  verksamheter/20220112_a_lot/README.md
+  verksamheter/20220226_foersta_diplomanter/README.md
+  verksamheter/20220507_programmeringsdag_usb/README.md
+  verksamheter/20220522_hackathon/README.md
+  verksamheter/20220528_slutpresentation/README.md
+  verksamheter/20220528_slutpresentation/anton_och_max/README.md
+  verksamheter/20220604_eftermorsdag/README.md
+  verksamheter/20220910_kulturnatten/README.md
+  verksamheter/20220924_lektion_debugging/README.md
+  verksamheter/20220926_dart_mission/README.md
+  verksamheter/20221119_efterfarsdag/README.md
+  verksamheter/20221123_stenhagen/README.md
+  verksamheter/20221204_hackathon/README.md
+  verksamheter/20221210_slutpresentation/README.md
+  verksamheter/20221217_julkort/README.md
+  verksamheter/20230311_efterkvinnansdag/README.md
+  verksamheter/20230521_hackathon/README.md
+  verksamheter/20230527_slutpresentation/README.md
+  verksamheter/20230527_slutpresentation/team_slumpen/README.md
+  verksamheter/20230603_eftermorsdag/README.md
+  verksamheter/20230909_kulturnatten/README.md
+  verksamheter/20231118_efterfarsdag/README.md
+  verksamheter/20231125_girls_only_workshop/README.md
+  verksamheter/20231203_hackathon/README.md
+  verksamheter/20231209_slutpresentation/README.md
+  verksamheter/20231216_julkort/README.md
+  verksamheter/20240512_hackathon/README.md
+  verksamheter/20240518_slutpresentation/README.md
+  verksamheter/20240518_slutpresentation/first/README.md
+  verksamheter/20240518_slutpresentation/second/README.md
+  verksamheter/20240601_eftermorsdag/README.md
+  verksamheter/20240914_kulturnatten/README.md
+  verksamheter/20241116_efterfarsdag/README.md
+  verksamheter/20241201_hackathon/README.md
+  verksamheter/20241207_slutpresentation/README.md
+  verksamheter/20241214_julkort/README.md
+  verksamheter/20250518_hackathon/README.md
+  verksamheter/20250524_slutpresentation/README.md
+  verksamheter/20250607_eftermorsdag/README.md
+  verksamheter/20250722_pi_approximation_day/README.md
+  verksamheter/20250913_kulturnatten/README.md
+  verksamheter/20251115_efterfarsdag/README.md
+  verksamheter/20251130_hackathon/README.md
+  verksamheter/20251206_slutpresentation/README.md
+  verksamheter/20260418_prinsessdagen/README.md
+  verksamheter/20260524_hackathon/README.md
+  verksamheter/20260530_slutpresentation/README.md
 
 theme:
   name: material

@@ -104,9 +104,9 @@ tags:
       är det vanligt att du blir tillfrågad om din åsikt
       i olika frågor, som till exempel hur man kan förbättra kurserna
     - När du börjar undervisa regelbundet, kommer du att bli ombedd att visar
-      ett **[Registerutdrag](registerutdrag/README.md)**.
+      ett **[Registerutdrag](../registerutdrag/README.md)**.
       Du hittar informationen
-      [på 'Registerutdrag' sida](registerutdrag/README.md).
+      [på 'Registerutdrag' sida](../registerutdrag/README.md).
 
 === "🇬🇧"
 
@@ -141,7 +141,7 @@ tags:
       you will be asked to provide
       a **['Registerutdrag'](../registerutdrag/README.md)**.
       You can find the details at
-      [the 'Registerutdrag' page](registerutdrag/README.md).
+      [the 'Registerutdrag' page](../registerutdrag/README.md).
 
 ## 🇸🇪 Vem är nuvarande volontärerna? 🇬🇧 Who are the current volunteers?
 
