@@ -19,7 +19,7 @@ tags:
     Because at the Lördagskurserna, it is only volunteers that are helping out.
     And they could use a little help too :+1:
 
-## 🇸🇪 Vilka uppgifter finns? 🇬🇧 Which tasks are there? 
+## 🇸🇪 Vilka uppgifter finns? 🇬🇧 Which tasks are there?
 
 === "🇸🇪"
 
