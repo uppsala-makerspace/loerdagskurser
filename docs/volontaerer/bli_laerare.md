@@ -1,11 +1,10 @@
 ---
 tags:
-  - volunteers
-  - frivilligare
-  - volontäre
+  - teacher
+  - lärare
 ---
 
-# Bli lärare
+# 🇸🇪 Bli lärare 🇬🇧 Become a teacher
 
 ## 🇸🇪 Hur kan jag blir lärare? 🇬🇧 How can I become a teacher?
 
@@ -24,7 +23,6 @@ tags:
     Ideally, you [contact the course coordinator](../kontakta_oss.md)
     and there will be proper time for all your questions and ideas.
     Else show up a Lördagskurser day and we'll improvise.
-
 
 
 <!--

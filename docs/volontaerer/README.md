@@ -25,29 +25,32 @@ tags:
 
     Den här är den nuvarande uppgifterna:
 
-    - Samordare: säkerställer att alla kurser kan löpa smidigt
-      och är slutansvarig.
-      Du kan [bli samordnare](bli_samordnare.md).
-    - Kursledare: leder en kurs.
-      Du kan [bli kursledare](bli_kursledare.md).
-    - Lärare: hjälper till med undervisningen.
-      Du kan [bli lärare](bli_laerare.md).
     - Värd: välkomnar våra deltagare och tar hand om administrationen.
       Du kan [bli värd](bli_vaerd.md).
+      Du kan [bli samordnare](bli_samordnare.md).
+    - Lärare: hjälper till med undervisningen.
+      Du kan [bli lärare](bli_laerare.md).
+    - Kursledare: leder en kurs.
+      Du kan [bli kursledare](bli_kursledare.md).
+    - Samordare: säkerställer att alla kurser kan löpa smidigt
+      och är slutansvarig.
+    - Vad du än vill göra :-)
+      [Kontakta oss](../kontakta_oss.md)!
 
 === "🇬🇧"
 
     These are the current tasks:
 
-    - Coordinator: ensures all courses can run smoothly and is end responsible.
-      You can [become a coordinator](bli_samordnare.md).
-    - Course leader: leads a course.
-      You can [become a course leader](bli_kursledare.md).
-    - Teacher: helps teach.
-      You can [become a teacher](bli_laerare.md).
     - Host: welcomes our participants and takes care of the administration.
       You can [become a host](bli_vaerd.md).
-
+    - Teacher: helps teach.
+      You can [become a teacher](bli_laerare.md).
+    - Course leader: leads a course.
+      You can [become a course leader](bli_kursledare.md).
+    - Coordinator: ensures all courses can run smoothly and is end responsible.
+      You can [become a coordinator](bli_samordnare.md).
+    - Whatever you want to do more :-)
+      [Contact us](../kontakta_oss.md)!
 
 ## 🇸🇪 Hur blir man volontär? 🇬🇧 How to become a volunteer?
 
@@ -55,26 +58,26 @@ tags:
 
     Det beror på vad du vill göra:
 
-    - Samordare: [bli samordnare](bli_samordnare.md).
-    - Kursledare: [bli kursledare](bli_kursledare.md).
-    - Lärare: [bli lärare](bli_laerare.md).
     - Värd: [bli värd](bli_vaerd.md).
+    - Lärare: [bli lärare](bli_laerare.md).
+    - Kursledare: [bli kursledare](bli_kursledare.md).
+    - Samordare: [bli samordnare](bli_samordnare.md).
 
 === "🇬🇧"
 
     That depends on what you want to do:
 
-    - Coordinator: [become a coordinator](bli_samordnare.md).
-    - Course leader: [become a course leader](bli_kursledare.md).
-    - Teacher: [become a teacher](bli_laerare.md).
     - Host: [become a host](bli_vaerd.md).
+    - Teacher: [become a teacher](bli_laerare.md).
+    - Course leader: [become a course leader](bli_kursledare.md).
+    - Coordinator: [become a coordinator](bli_samordnare.md).
 
 ## 🇸🇪 Vad är riktlinjer för volontärer? 🇬🇧 What are guidelines for volunteers?
 
-- [general_volunteer_rules.odt](general_volunteer_rules.odt)
-- [general_volunteer_rules.pdf](general_volunteer_rules.pdf)
-
 === "🇸🇪"
+
+    - [general_volunteer_rules.odt](general_volunteer_rules.odt)
+    - [general_volunteer_rules.pdf](general_volunteer_rules.pdf)
 
     Här är några riktlinjer för volontärer.
 
@@ -106,6 +109,9 @@ tags:
       [på 'Registerutdrag' sida](registerutdrag/README.md).
 
 === "🇬🇧"
+
+    - [general_volunteer_rules.odt](general_volunteer_rules.odt)
+    - [general_volunteer_rules.pdf](general_volunteer_rules.pdf)
 
     These are some guidelines for volunteers.
 
