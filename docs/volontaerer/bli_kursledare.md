@@ -39,6 +39,7 @@ tags:
     - Vilket/vilka språk din kurs ges på
     - I vilken sal din kurs ges
     - När din kurs ges
+    - Hur ofta hursen tar plats
     - Hur du undervisar din kurs
     - Minsta och högsta antal elever
     - Lägsta och högsta ålder för eleverna
@@ -57,6 +58,7 @@ tags:
     - The language(s) your course is taught in
     - In which room your course is taught
     - When your course is taught
+    - How often your course takes place
     - How your teach your course
     - The minimum and maximum amount of learners
     - The minimum and maximum age of learners
