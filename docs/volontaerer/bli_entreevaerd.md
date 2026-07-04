@@ -1,13 +1,14 @@
 ---
 tags:
   - värd
+  - entrévärd
   - host
   - reception
 ---
 
-# 🇸🇪 Bli värd 🇬🇧 Become a host
+# 🇸🇪 Bli entrévärd 🇬🇧 Become a host
 
-## 🇸🇪 Hur kan jag blir värd? 🇬🇧 How can I become a host?
+## 🇸🇪 Hur kan jag blir entrévärd? 🇬🇧 How can I become a host?
 
 === "🇸🇪"
 

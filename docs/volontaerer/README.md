@@ -26,7 +26,7 @@ tags:
     Den här är den nuvarande uppgifterna:
 
     - Värd: välkomnar våra deltagare och tar hand om administrationen.
-      Du kan [bli värd](bli_vaerd.md).
+      Du kan [bli entrévärd](bli_entreevaerd.md).
     - Lärare: hjälper till med undervisningen.
       Du kan [bli lärare](bli_laerare.md).
     - Kursledare: leder en kurs.
@@ -42,7 +42,7 @@ tags:
     These are the current tasks:
 
     - Host: welcomes our participants and takes care of the administration.
-      You can [become a host](bli_vaerd.md).
+      You can [become a host](bli_entreevaerd.md).
     - Teacher: helps teach.
       You can [become a teacher](bli_laerare.md).
     - Course leader: leads a course.
@@ -58,7 +58,7 @@ tags:
 
     Det beror på vad du vill göra:
 
-    - Värd: [bli värd](bli_vaerd.md).
+    - Värd: [bli entrévärd](bli_entreevaerd.md).
     - Lärare: [bli lärare](bli_laerare.md).
     - Kursledare: [bli kursledare](bli_kursledare.md).
     - Samordare: [bli samordnare](bli_samordnare.md).
@@ -67,7 +67,7 @@ tags:
 
     That depends on what you want to do:
 
-    - Host: [become a host](bli_vaerd.md).
+    - Host: [become a host](bli_entreevaerd.md).
     - Teacher: [become a teacher](bli_laerare.md).
     - Course leader: [become a course leader](bli_kursledare.md).
     - Coordinator: [become a coordinator](bli_samordnare.md).
@@ -151,7 +151,7 @@ tags:
     -----------------------------|---------------------------------------------
     Richèl Bilderbeek            |Samordnare
     Mathias Palmer               |Infall
-    Björn 'AtomBjörn' Pihlgren   |Värd
+    Björn 'AtomBjörn' Pihlgren   |Entrévärd
     Björn 'Store Björn' Engström |Kursledare av Matlagnings- och Blenderkurser
     Christoffer Ramqvist         |Lärare Processing
     Janne Holmberg               |Lärare Processing
