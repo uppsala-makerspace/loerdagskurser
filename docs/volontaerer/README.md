@@ -72,6 +72,24 @@ tags:
     - Course leader: [become a course leader](bli_kursledare.md).
     - Coordinator: [become a coordinator](bli_samordnare.md).
 
+## 🇸🇪 Hur viktigt är det att kunna prata Svenska? 🇬🇧 How important is it to be able to speak Swedish?
+
+=== "🇸🇪"
+
+    Inte.
+
+    Kurserna är undervisa på Svenska, så inget möjlighet att slippa detta.
+    Men, alla gäster kan prata Engelska.
+    Att blir volontär är en bra sätt att öva svenska.
+
+=== "🇬🇧"
+
+    Not.
+
+    The courses are taught in Swedish, so there is no avoiding it.
+    However, all our participants can speak English.
+    Volunteering is a great way to practice Swedish.
+
 ## 🇸🇪 Vad är riktlinjer för volontärer? 🇬🇧 What are guidelines for volunteers?
 
 === "🇸🇪"
