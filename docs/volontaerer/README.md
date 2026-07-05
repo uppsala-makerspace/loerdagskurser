@@ -167,25 +167,27 @@ tags:
 
     Namn                         |Ansvar
     -----------------------------|---------------------------------------------
-    Richèl Bilderbeek            |Samordnare
-    Mathias Palmer               |Infall
-    Björn 'AtomBjörn' Pihlgren   |Entrévärd
+    Björn 'AtomBjörn' Pihlgren   |Entrévärd och lärare
     Björn 'Store Björn' Engström |Kursledare av Matlagnings- och Blenderkurser
     Christoffer Ramqvist         |Lärare Processing
     Janne Holmberg               |Lärare Processing
     Johanna Söderström           |Lärare Matlagningskurs
+    Mathias Palmer               |Infall
+    Pontus 'AtomKid' Pihlgren    |Infall
+    Richèl Bilderbeek            |Samordnare
 
 === "🇬🇧"
 
     Name                         |Role
     -----------------------------|---------------------------------------------
-    Richèl Bilderbeek            |Coordinator
-    Mathias Palmer               |Reserve
     Björn 'AtomBjörn' Pihlgren   |Host
     Björn 'Store Björn' Engström |Course leader of cooking and Blender courses
     Christoffer Ramqvist         |Teacher Processing course
     Janne Holmberg               |Teacher Processing course
     Johanna Söderström           |Teacher cooking course
+    Mathias Palmer               |Reserve
+    Pontus 'AtomKid' Pihlgren    |Reserve
+    Richèl Bilderbeek            |Coordinator
 
 ## 🇸🇪 Vem har varit volontär tidigare? 🇬🇧 Who has been a volunteer in the past?
 
