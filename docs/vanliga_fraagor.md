@@ -161,7 +161,7 @@ De är listade på [våra kurser](kurserna/README.md).
 
 Alla finns både online och i pappersform.
 
-### Få jag trycka böckerna själv?
+### Får jag trycka böckerna själv?
 
 Javisst! Böcker att [Arduino för ungdomar](https://github.com/richelbilderbeek/arduino_foer_ungdomar)
 ha en `CC-BY-SA` licens,
