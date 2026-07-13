@@ -18,6 +18,6 @@ if [[ "$PWD" =~ scripts$ ]]; then
     exit 42
 fi
 
-Rscript -e 'splimata::split_tabs(input_file_name = "docs/kurserna/README.md", output_file_prefix = "generated/courses")'
+Rscript -e 'splimata::split_tabs(input_file_name = "docs/kurserna/README.md", output_file_prefix = "docs/kurserna/generated")'
 
 
