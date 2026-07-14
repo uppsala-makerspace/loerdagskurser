@@ -40,6 +40,9 @@ get_abs_url <- function(
   abs_url_with_readme <- httr2::url_build(httr2::url_parse(rel_url, base_url = base_url))
   abs_url_with_md <- stringr::str_replace(abs_url_with_readme, pattern = "README.md", "")
   abs_url <- stringr::str_replace(abs_url_with_md, pattern = "\\.md", "")
+  if (!RCurl::url.exists(abs_url)) {
+    message("Warning: abs_url '", abs_url, "' does not exist. base_url: '", base_url, '"')
+  }
   abs_url
 }
 
