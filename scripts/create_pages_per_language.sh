@@ -39,8 +39,9 @@ Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/readme_generated_s
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/volontaerer/bli_entreevaerd.md", output_file_prefix = "docs/volontaerer/bli_entreevaerd_generated")'
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_entreevaerd_generated_en.md
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_entreevaerd_generated_sv.md
-Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_entreevaerd_generated_en.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/
-Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_entreevaerd_generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/
+# We need to use a fake base URL, as the R script assumes that all base URLs are a README.md in their own folder
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_entreevaerd_generated_en.md https://uppsala-makerspace.github.io/loerdagskurser/bli_entreevaerd/
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_entreevaerd_generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/bli_entreevaerd/
 
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/volontaerer/bli_kursledare.md", output_file_prefix = "docs/volontaerer/bli_kursledare_generated")'
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_kursledare_generated_en.md

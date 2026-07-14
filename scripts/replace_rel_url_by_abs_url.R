@@ -11,10 +11,17 @@
 args <- commandArgs(trailingOnly = TRUE)
 
 if (1 == 2) {
+  setwd("/home/richel/GitHubs/loerdagskurser")
   args <- c(
     "/home/richel/GitHubs/loerdagskurser/docs/kurserna/README.md",
     "https://uppsala-makerspace.github.io/loerdagskurser/kurserna/"
   )
+  args <- c(
+    "docs/volontaerer/bli_entreevaerd_generated_en.md",
+    "https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/"
+  )
+  #Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_entreevaerd_generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/
+
 }
 
 testthat::expect_equal(2, length(args))
@@ -31,7 +38,9 @@ get_abs_url <- function(
   rel_url
 ) {
   abs_url_with_readme <- httr2::url_build(httr2::url_parse(rel_url, base_url = base_url))
-  stringr::str_replace(abs_url_with_readme, pattern = "README.md", "")
+  abs_url_with_md <- stringr::str_replace(abs_url_with_readme, pattern = "README.md", "")
+  abs_url <- stringr::str_replace(abs_url_with_md, pattern = "\\.md", "")
+  abs_url
 }
 
 testthat::expect_equal(
@@ -41,6 +50,18 @@ testthat::expect_equal(
   ),
   "https://uppsala-makerspace.github.io/loerdagskurser/ditt_foersta_besoek/"
 )
+
+# Fake base URL
+testthat::expect_equal(
+  get_abs_url(
+    base_url = "https://uppsala-makerspace.github.io/loerdagskurser/bli_entreevaerd/",
+    rel_url = "../kontakta_oss.md"
+  ),
+  "https://uppsala-makerspace.github.io/loerdagskurser/kontakta_oss"
+)
+
+
+
 
 # testthat::expect_equal(
 #   get_abs_url(
