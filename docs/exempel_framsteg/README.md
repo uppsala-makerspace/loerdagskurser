@@ -1,4 +1,4 @@
-# 🇸🇪 Exempel på elevernas framsteg (🇬🇧 Examples of learners' progression)
+# 🇸🇪 Exempel på elevernas framsteg 🇬🇧 Examples of learners' progression
 
 ![Exempel program](Kerstkaart2017.png)
 
@@ -22,7 +22,7 @@
     - `(1, 0): one square right of the top-left square
     - `(0, 1): one square down of the top-left square
 
-## 🇸🇪 8 år (🇬🇧 8 year)
+## 🇸🇪 8 år 🇬🇧 8 year)
 
 === "🇸🇪"
 
@@ -34,7 +34,7 @@
 
 ![Exempel program](Judith20181108.png)
 
-## 🇸🇪 11 år (🇬🇧 11 year)
+## 🇸🇪 11 år 🇬🇧 11 year)
 
 === "🇸🇪"
 
@@ -50,7 +50,7 @@
 
 ![Exempel program](Jasper20181102_1.png)
 
-## 🇸🇪 14 år (🇬🇧 14 year)
+## 🇸🇪 14 år 🇬🇧 14 year)
 
 === "🇸🇪"
 

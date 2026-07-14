@@ -7,7 +7,7 @@ tags:
   - schemat
 ---
 
-# 🇸🇪 Veckoschemat (🇬🇧 Weekly schedule)
+# 🇸🇪 Veckoschemat 🇬🇧 Weekly schedule
 
 === "🇸🇪"
 

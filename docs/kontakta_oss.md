@@ -6,7 +6,7 @@ tags:
   - ask
 ---
 
-# 🇸🇪 Kontakta oss (🇬🇧 Contact us)
+# 🇸🇪 Kontakta oss 🇬🇧 Contact us
 
 === "🇸🇪"
 

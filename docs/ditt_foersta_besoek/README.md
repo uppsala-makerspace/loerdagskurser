@@ -1,6 +1,6 @@
-# 🇸🇪 Ditt första besök (🇬🇧 Your first visit)
+# 🇸🇪 Ditt första besök 🇬🇧 Your first visit
 
-## 🇸🇪 Krav (🇬🇧 Eligibility)
+## 🇸🇪 Krav 🇬🇧 Eligibility)
 
 === "🇸🇪"
 
@@ -10,7 +10,7 @@
 
     When you are at least 8 years old, you are welcome!
 
-## 🇸🇪 Föranmälan (🇬🇧 Registration)
+## 🇸🇪 Föranmälan 🇬🇧 Registration
 
 === "🇸🇪"
 
@@ -26,7 +26,7 @@
     Do take a look at the [weekly schedule](../veckoschemat.md)
     to see if there aren't any special activities that day.
 
-## 🇸🇪 Förberedelse (🇬🇧 Preparation)
+## 🇸🇪 Förberedelse 🇬🇧 Preparation
 
 === "🇸🇪"
 
@@ -46,7 +46,7 @@
     If you have a laptop, please take it with you.
     If you don't, you can borrow one of ours.
 
-## 🇸🇪 Att komma in (🇬🇧 Getting in)
+## 🇸🇪 Att komma in 🇬🇧 Getting in
 
 === "🇸🇪"
 
@@ -70,7 +70,7 @@
     After coming in, the person at the reception desk
     will take care of you.
 
-## 🇸🇪 Under kurstider (🇬🇧 During course hours)
+## 🇸🇪 Under kurstider 🇬🇧 During course hours
 
 === "🇸🇪"
 

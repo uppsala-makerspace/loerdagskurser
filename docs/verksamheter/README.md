@@ -1,4 +1,4 @@
-# 🇸🇪 Verksamheter (🇬🇧 Activities)
+# 🇸🇪 Verksamheter 🇬🇧 Activities
 
 === "🇸🇪"
 

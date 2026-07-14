@@ -1,4 +1,4 @@
-# 🇸🇪 Regler (🇬🇧 Rules)
+# 🇸🇪 Regler 🇬🇧 Rules
 
 === "🇸🇪"
 
@@ -12,7 +12,7 @@
 
     The goal of these rules is to be able to learn safely.
 
-## 🇸🇪 Generellt (🇬🇧 General)
+## 🇸🇪 Generellt 🇬🇧 General
 
 === "🇸🇪"
 
@@ -72,7 +72,7 @@
       and share experiences.
     - I respect that others sometimes need to concentrate and think before interrupting someone.
 
-## 🇸🇪 Elverkstad (🇬🇧 Electronics workshop)
+## 🇸🇪 Elverkstad 🇬🇧 Electronics workshop
 
 - [rules_electronics.odt](rules_electronics.odt)
 - [rules_electronics.pdf](rules_electronics.pdf)
@@ -114,7 +114,7 @@
       you'll be allowed to clean up two minutes for each
       minute it took an adult to clean after you.
 
-## 🇸🇪 Laserkärare (🇬🇧 Laser cutter)
+## 🇸🇪 Laserkärare 🇬🇧 Laser cutter
 
 - [rules_laser_cutter.odt](rules_laser_cutter.odt)
 - [rules_laser_cutter.pdf](rules_laser_cutter.pdf)
@@ -145,7 +145,7 @@
     - Minors must work in groups of 2.
       The goal is to prevent accidents.
 
-## 🇸🇪 Matlagning (🇬🇧 Cooking course)
+## 🇸🇪 Matlagning 🇬🇧 Cooking course
 
 === "🇸🇪"
 

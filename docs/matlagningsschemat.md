@@ -6,7 +6,7 @@ tags:
   - schemat
 ---
 
-# 🇸🇪 Matlagningsschemat (🇬🇧 Cooking schedule)
+# 🇸🇪 Matlagningsschemat 🇬🇧 Cooking schedule
 
 Vecka| Dag      |Vad
 -----|----------|-------------------------------------

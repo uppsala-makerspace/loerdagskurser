@@ -1,4 +1,4 @@
-# 🇸🇪 Bidragsgivarna (🇬🇧 Contributors)
+# 🇸🇪 Bidragsgivarna 🇬🇧 Contributors
 
 === "🇸🇪"
 
