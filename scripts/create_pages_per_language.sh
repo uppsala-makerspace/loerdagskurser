@@ -21,6 +21,8 @@ fi
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/kurserna/README.md", output_file_prefix = "docs/kurserna/generated")'
 sed -i '/^---$/,/^---$/d' docs/kurserna/generated_en.md
 sed -i '/^---$/,/^---$/d' docs/kurserna/generated_sv.md
+Rscript scripts/replace_rel_url_by_abs_url.R docs/kurserna/generated_en.md https://uppsala-makerspace.github.io/loerdagskurser/kurserna/
+Rscript scripts/replace_rel_url_by_abs_url.R docs/kurserna/generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/kurserna/
 
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/plats/README.md", output_file_prefix = "docs/plats/generated")'
 sed -i '/^---$/,/^---$/d' docs/plats/generated_en.md
