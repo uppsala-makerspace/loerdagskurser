@@ -4,9 +4,9 @@ tags:
   - lärare
 ---
 
-#  Become a teacher
+# Become a teacher
 
-##  How can I become a teacher?
+## How can I become a teacher?
 
 
 By letting us know :-)
@@ -18,7 +18,7 @@ Else show up a Lördagskurser day and we'll improvise.
 
 <!--
 
-##  What are guidelines for volunteers of the cooking course?
+## What are guidelines for volunteers of the cooking course?
 
 - [cooking_volunteer_rules.odt](cooking_volunteer_rules.odt)
 - [cooking_volunteer_rules.pdf](cooking_volunteer_rules.pdf)

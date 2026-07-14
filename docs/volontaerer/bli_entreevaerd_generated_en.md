@@ -6,9 +6,9 @@ tags:
   - reception
 ---
 
-#  Become a host
+# Become a host
 
-##  How can I become a host?
+## How can I become a host?
 
 
 By letting us know :-)

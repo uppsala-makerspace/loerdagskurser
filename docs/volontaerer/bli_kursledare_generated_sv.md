@@ -5,9 +5,9 @@ tags:
   - volontäre
 ---
 
-#  Bli kursledare
+# Bli kursledare
 
-##  Hur kan jag blir kursledare?
+## Hur kan jag blir kursledare?
 
 
 Med att säger detta till oss :-)
@@ -15,7 +15,7 @@ Med att säger detta till oss :-)
 Bäst är att [kontakta kurs samordnaren](../kontakta_oss.md)
 så att det finns gott om tid för all dina frågor och idéer.
 
-##  Vad är riktlinjerna för att starta en ny kurs?
+## Vad är riktlinjerna för att starta en ny kurs?
 
 
 Den viktigaste riktlinjen är: **Du är chefen**!

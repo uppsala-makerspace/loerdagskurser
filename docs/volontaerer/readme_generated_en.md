@@ -5,15 +5,15 @@ tags:
   - volontäre
 ---
 
-#  Volunteers
+# Volunteers
 
-##  Why is there a page about volunteers?
+## Why is there a page about volunteers?
 
 
 Because at the Lördagskurserna, it is only volunteers that are helping out.
 And they could use a little help too :+1:
 
-##  Which tasks are there?
+## Which tasks are there?
 
 
 These are the current tasks:
@@ -29,7 +29,7 @@ These are the current tasks:
 - Whatever you want to do more :-)
   [Contact us](../kontakta_oss.md)!
 
-##  How to become a volunteer?
+## How to become a volunteer?
 
 
 That depends on what you want to do:
@@ -39,7 +39,7 @@ That depends on what you want to do:
 - Course leader: [become a course leader](bli_kursledare.md).
 - Coordinator: [become a coordinator](bli_samordnare.md).
 
-##  How important is it to be able to speak Swedish?
+## How important is it to be able to speak Swedish?
 
 
 Not.
@@ -48,7 +48,7 @@ The courses are taught in Swedish, so there is no avoiding it.
 However, all our participants can speak English.
 Volunteering is a great way to practice Swedish.
 
-##  What are guidelines for volunteers?
+## What are guidelines for volunteers?
 
 
 - [general_volunteer_rules.odt](general_volunteer_rules.odt)
@@ -84,7 +84,7 @@ These are some guidelines for volunteers.
   You can find the details at
   [the 'Registerutdrag' page](../registerutdrag/README.md).
 
-##  Who are the current volunteers?
+## Who are the current volunteers?
 
 
 Name                         |Role
@@ -98,7 +98,7 @@ Mathias Palmer               |Reserve
 Pontus 'AtomKid' Pihlgren    |Reserve
 Richèl Bilderbeek            |Coordinator
 
-##  Who has been a volunteer in the past?
+## Who has been a volunteer in the past?
 
 
 Name                 |Role

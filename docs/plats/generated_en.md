@@ -1,4 +1,4 @@
-#  Location
+# Location
 
 
 The Saturday course are at Uppsala Makerspace in Ekeby Bruk:

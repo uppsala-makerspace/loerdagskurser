@@ -5,9 +5,9 @@ tags:
   - volontäre
 ---
 
-#  Become a course leader
+# Become a course leader
 
-##  How can I become a course leader?
+## How can I become a course leader?
 
 
 By letting us know :-)
@@ -15,7 +15,7 @@ By letting us know :-)
 Ideally, you [contact the course coordinator](../kontakta_oss.md)
 and there will be proper time for all your questions and ideas.
 
-##  What are the guidelines for starting a new course?
+## What are the guidelines for starting a new course?
 
 
 The most important guideline is: **You are boss**!

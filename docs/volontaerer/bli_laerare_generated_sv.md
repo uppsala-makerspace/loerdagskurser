@@ -4,9 +4,9 @@ tags:
   - lärare
 ---
 
-#  Bli lärare
+# Bli lärare
 
-##  Hur kan jag blir lärare?
+## Hur kan jag blir lärare?
 
 
 Med att säger detta till oss :-)
@@ -17,7 +17,7 @@ Annars är det att dyka upp under Lördagskurserna och vi improviserar.
 
 <!--
 
-##  Vad är riktlinjer för matlagningskurs volontärer?
+## Vad är riktlinjer för matlagningskurs volontärer?
 
 - [cooking_volunteer_rules.odt](cooking_volunteer_rules.odt)
 - [cooking_volunteer_rules.pdf](cooking_volunteer_rules.pdf)

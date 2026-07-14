@@ -5,9 +5,9 @@ tags:
   - koordinator
 ---
 
-#  Become a course coordinator
+# Become a course coordinator
 
-##  How can I become a course coordinator?
+## How can I become a course coordinator?
 
 
 By letting us know :-)
