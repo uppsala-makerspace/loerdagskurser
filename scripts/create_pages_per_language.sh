@@ -19,5 +19,6 @@ if [[ "$PWD" =~ scripts$ ]]; then
 fi
 
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/kurserna/README.md", output_file_prefix = "docs/kurserna/generated")'
+Rscript -e 'splimata::split_tabs(input_file_name = "docs/plats/README.md", output_file_prefix = "docs/plats/generated")'
 
 
