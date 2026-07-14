@@ -1,9 +1,3 @@
----
-tags:
-  - volunteers
-  - frivilligare
-  - volontäre
----
 
 # Volunteers
 
@@ -88,21 +82,6 @@ These are some guidelines for volunteers.
 
 
 Name                         |Role
------------------------------|---------------------------------------------
-Björn 'AtomBjörn' Pihlgren   |Host
-Björn 'Store Björn' Engström |Course leader of cooking and Blender courses
-Christoffer Ramqvist         |Teacher Processing course
-Janne Holmberg               |Teacher Processing course
-Johanna Söderström           |Teacher cooking course
-Mathias Palmer               |Reserve
-Pontus 'AtomKid' Pihlgren    |Reserve
-Richèl Bilderbeek            |Coordinator
-
-## Who has been a volunteer in the past?
-
-
-Name                 |Role
----------------------|----------
 Bogdan Nicolae       |Teacher Processing course
 Christian            |All round teacher
 Dennis Leenheer      |Teacher Processing course

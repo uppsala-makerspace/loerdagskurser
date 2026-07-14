@@ -1,9 +1,3 @@
----
-tags:
-  - volunteers
-  - frivilligare
-  - volontäre
----
 
 # Volontärer
 
@@ -88,21 +82,6 @@ Här är några riktlinjer för volontärer.
 
 
 Namn                         |Ansvar
------------------------------|---------------------------------------------
-Björn 'AtomBjörn' Pihlgren   |Entrévärd och lärare
-Björn 'Store Björn' Engström |Kursledare av Matlagnings- och Blenderkurser
-Christoffer Ramqvist         |Lärare Processing
-Janne Holmberg               |Lärare Processing
-Johanna Söderström           |Lärare Matlagningskurs
-Mathias Palmer               |Infall
-Pontus 'AtomKid' Pihlgren    |Infall
-Richèl Bilderbeek            |Samordnare
-
-## Vem har varit volontär tidigare?
-
-
-Namn                 |Ansvar
----------------------|----------
 Bogdan Nicolae       |Lärare Processing kurs
 Christian            |Allt-i-allo lärare
 Dennis Leenheer      |Lärare Processing kurs

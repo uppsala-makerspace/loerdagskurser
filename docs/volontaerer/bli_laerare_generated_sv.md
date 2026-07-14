@@ -1,8 +1,3 @@
----
-tags:
-  - teacher
-  - lärare
----
 
 # Bli lärare
 

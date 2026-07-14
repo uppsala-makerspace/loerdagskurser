@@ -1,10 +1,3 @@
----
-tags:
-  - värd
-  - entrévärd
-  - host
-  - reception
----
 
 # Become a host
 
