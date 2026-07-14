@@ -1,9 +1,3 @@
----
-tags:
-  - coordinator
-  - samordnare
-  - koordinator
----
 
 # Become a course coordinator
 

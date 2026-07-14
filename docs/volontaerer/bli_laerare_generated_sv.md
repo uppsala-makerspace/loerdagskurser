@@ -10,8 +10,6 @@ Bäst är att [kontakta kurs samordnaren](../kontakta_oss.md)
 så att det finns gott om tid för all dina frågor och idéer.
 Annars är det att dyka upp under Lördagskurserna och vi improviserar.
 
-<!--
-
 ## Vad är riktlinjer för matlagningskurs volontärer?
 
 - [cooking_volunteer_rules.odt](cooking_volunteer_rules.odt)
@@ -40,4 +38,3 @@ Här är några riktlinjer för volontärer på matlagningskursen:
   att skära grönsaker är också en del av kursen,
   så låt eleverna göra det :+1:
 
--->

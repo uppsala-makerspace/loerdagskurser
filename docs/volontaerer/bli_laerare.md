@@ -25,8 +25,6 @@ tags:
     Else show up a Lördagskurser day and we'll improvise.
 
 
-<!--
-
 ## 🇸🇪 Vad är riktlinjer för matlagningskurs volontärer? 🇬🇧 What are guidelines for volunteers of the cooking course?
 
 - [cooking_volunteer_rules.odt](cooking_volunteer_rules.odt)
@@ -78,5 +76,3 @@ tags:
     - You are encouraged **not to prepare ingredients**:
       also cutting vegetable is part of the course,
       so let the learners do it :+1:
-
--->

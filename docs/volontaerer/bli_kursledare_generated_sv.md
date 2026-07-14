@@ -1,9 +1,3 @@
----
-tags:
-  - volunteers
-  - frivilligare
-  - volontäre
----
 
 # Bli kursledare
 

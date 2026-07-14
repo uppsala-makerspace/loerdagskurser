@@ -1,9 +1,3 @@
----
-tags:
-  - volunteers
-  - frivilligare
-  - volontäre
----
 
 # Become a course leader
 

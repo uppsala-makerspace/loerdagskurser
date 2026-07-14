@@ -11,8 +11,6 @@ and there will be proper time for all your questions and ideas.
 Else show up a Lördagskurser day and we'll improvise.
 
 
-<!--
-
 ## What are guidelines for volunteers of the cooking course?
 
 - [cooking_volunteer_rules.odt](cooking_volunteer_rules.odt)
@@ -39,5 +37,3 @@ These are some guidelines for volunteers of the cooking course:
 - You are encouraged **not to prepare ingredients**:
   also cutting vegetable is part of the course,
   so let the learners do it :+1:
-
--->
