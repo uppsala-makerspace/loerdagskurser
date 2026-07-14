@@ -63,4 +63,4 @@ for (line_index in  lines_with_rel_urls) {
   text[line_index] <- new_line
 }
 
-readr::write_lines(file_name, text)
+readr::write_lines(text, file_name)
