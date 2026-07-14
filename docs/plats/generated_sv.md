@@ -1,4 +1,4 @@
-#  Plats (
+#  Plats 
 
 
 Lördagskurserna är hos Uppsala Makerspace i Ekeby Bruk:
