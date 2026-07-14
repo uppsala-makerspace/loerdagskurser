@@ -27,27 +27,38 @@ Rscript scripts/replace_rel_url_by_abs_url.R docs/kurserna/generated_sv.md https
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/plats/README.md", output_file_prefix = "docs/plats/generated")'
 sed -i '/^---$/,/^---$/d' docs/plats/generated_en.md
 sed -i '/^---$/,/^---$/d' docs/plats/generated_sv.md
+Rscript scripts/replace_rel_url_by_abs_url.R docs/plats/generated_en.md https://uppsala-makerspace.github.io/loerdagskurser/plats/
+Rscript scripts/replace_rel_url_by_abs_url.R docs/plats/generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/plats/
 
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/volontaerer/README.md", output_file_prefix = "docs/volontaerer/readme_generated")'
 sed -i '/^---$/,/^---$/d' docs/volontaerer/readme_generated_en.md
 sed -i '/^---$/,/^---$/d' docs/volontaerer/readme_generated_sv.md
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/readme_generated_en.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/readme_generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/
 
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/volontaerer/bli_entreevaerd.md", output_file_prefix = "docs/volontaerer/bli_entreevaerd_generated")'
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_entreevaerd_generated_en.md
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_entreevaerd_generated_sv.md
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_entreevaerd_generated_en.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_entreevaerd_generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/
 
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/volontaerer/bli_kursledare.md", output_file_prefix = "docs/volontaerer/bli_kursledare_generated")'
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_kursledare_generated_en.md
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_kursledare_generated_sv.md
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_kursledare_generated_en.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare/
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_kursledare_generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare/
 
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/volontaerer/bli_laerare.md", output_file_prefix = "docs/volontaerer/bli_laerare_generated")'
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_laerare_generated_en.md
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_laerare_generated_sv.md
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_laerare_generated_en.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare/
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_laerare_generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare/
 
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/volontaerer/bli_samordnare.md", output_file_prefix = "docs/volontaerer/bli_samordnare_generated")'
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_samordnare_generated_en.md
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_samordnare_generated_sv.md
-
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_samordnare_generated_en.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare/
+Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_samordnare_generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare/
 
 
 
