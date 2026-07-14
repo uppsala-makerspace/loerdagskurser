@@ -2,7 +2,7 @@
 
 ## Varför ska jag lära mig just Processing?
 
-Processing är ett programmeringsspråk som är framtaget för att ge en bra introduktion till programmering. Processing är också en dialekt av det populära programmeringsspråket Java och kan därmed bli ett naturligt steg mot mer avancerad programmering.  
+Processing är ett programmeringsspråk som är framtaget för att ge en bra introduktion till programmering. Processing är också en dialekt av det populära programmeringsspråket Java och kan därmed bli ett naturligt steg mot mer avancerad programmering.
 
 Det är också så att vi har undervisningsmaterial och tidigare erfarenhet av undervisning i Processing vilket gör att du kan få bra hjälp.
 

@@ -5,15 +5,15 @@ tags:
   - volontäre
 ---
 
-#  Volontärer 
+#  Volontärer
 
-##  Varför finns det en sida om volontärer? 
+##  Varför finns det en sida om volontärer?
 
 
 För att under Lördagskurserna, är det bara volontärer som hjälpas åt.
 Och dem kunde behöver lite hjälp till :+1:
 
-##  Vilka uppgifter finns? 
+##  Vilka uppgifter finns?
 
 
 Den här är den nuvarande uppgifterna:
@@ -30,7 +30,7 @@ Den här är den nuvarande uppgifterna:
 - Vad du än vill göra :-)
   [Kontakta oss](../kontakta_oss.md)!
 
-##  Hur blir man volontär? 
+##  Hur blir man volontär?
 
 
 Det beror på vad du vill göra:
@@ -40,7 +40,7 @@ Det beror på vad du vill göra:
 - Kursledare: [bli kursledare](bli_kursledare.md).
 - Samordare: [bli samordnare](bli_samordnare.md).
 
-##  Hur viktigt är det att kunna prata Svenska? 
+##  Hur viktigt är det att kunna prata Svenska?
 
 
 Inte.
@@ -49,7 +49,7 @@ Kurserna är undervisa på Svenska, så inget möjlighet att slippa detta.
 Men, alla gäster kan prata Engelska.
 Att blir volontär är en bra sätt att öva svenska.
 
-##  Vad är riktlinjer för volontärer? 
+##  Vad är riktlinjer för volontärer?
 
 
 - [general_volunteer_rules.odt](general_volunteer_rules.odt)
@@ -84,7 +84,7 @@ Här är några riktlinjer för volontärer.
   Du hittar informationen
   [på 'Registerutdrag' sida](../registerutdrag/README.md).
 
-##  Vem är nuvarande volontärerna? 
+##  Vem är nuvarande volontärerna?
 
 
 Namn                         |Ansvar
@@ -98,7 +98,7 @@ Mathias Palmer               |Infall
 Pontus 'AtomKid' Pihlgren    |Infall
 Richèl Bilderbeek            |Samordnare
 
-##  Vem har varit volontär tidigare? 
+##  Vem har varit volontär tidigare?
 
 
 Namn                 |Ansvar

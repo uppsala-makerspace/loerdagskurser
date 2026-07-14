@@ -166,7 +166,7 @@ work out!
 * Idea is to learn how to program 45 mins, then 15 mins break,
    then work together on a presentation, and present at 11:30.
    Best mom wins a box of chocolate cookies :-) . Great idea?
-  
+
 ## Costs
 
 The course costs 400 kr (members) or 600 kr (non-members) per half year,

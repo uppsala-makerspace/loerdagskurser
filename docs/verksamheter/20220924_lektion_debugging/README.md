@@ -130,13 +130,13 @@ String numeral_generate(int Input, String[] Generated, int Pointer,int Value,Str
 ```processing
 void skulle_vara_samma(final String resultat, final String expected)
 {
-  if (!resultat.equals(expected)) 
-  { 
-    print("'"); 
-    print(resultat); 
+  if (!resultat.equals(expected))
+  {
+    print("'");
+    print(resultat);
     print("' skulle vara '");
     print(expected);
-    println("'"); 
+    println("'");
   }
 }
 
@@ -166,7 +166,7 @@ void setup()
   // andra tester
   skulle_vara_samma(rumeral(44), "IVXL"); // Funkar
   skulle_vara_samma(rumeral(444), "IVXLCD"); // Funkar
-} 
+}
 ```
 
 ## Vad har vi just gjört?
@@ -210,7 +210,7 @@ String rumeral(int number)
   if (number % 1000 == 300) s += "CCC";
   if (number % 1000 == 400) s += "CD";
   if (number % 1000 == 500) s += "D";
-  
+
   if (number % 10000 == 1000) s += "M";
   if (number % 10000 == 2000) s += "MM";
   if (number % 10000 == 3000) s += "MMM";
@@ -221,13 +221,13 @@ return s;
 
 void skulle_vara_samma(final String resultat, final String expected)
 {
-  if (!resultat.equals(expected)) 
-  { 
-    print("'"); 
-    print(resultat); 
+  if (!resultat.equals(expected))
+  {
+    print("'");
+    print(resultat);
     print("' skulle vara '");
     print(expected);
-    println("'"); 
+    println("'");
   }
 }
 

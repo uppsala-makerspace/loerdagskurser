@@ -58,7 +58,7 @@ Blender    | Boken        | Tips   | Lite mer förklarande
 Blender    | Siffra       | .      | 4.5
 Processing | Kursen       | Toppen | Raster bra, skönt att få 'gandre' 'nilz'
 Processing | Kursen       | Tips   | Skull vilja lära sig Pixelart. Raster lite mer uppstyrde - vet inte riktigt vad man ska göra på rasterna
-Processing | Frivilligare | Toppen | Hjälper när man kört fast. Hjälper så att man utveckles. Det blir inte för att får lista ut lagom själv  
+Processing | Frivilligare | Toppen | Hjälper när man kört fast. Hjälper så att man utveckles. Det blir inte för att får lista ut lagom själv
 Processing | Frivilligare | Tips   | .
 Processing | Boken        | Toppen | Här kan man hitta saker om man kör fast, finns på GitHub - lätt at hitta. Mycket 'lillvach' Arduinoboken
 Processing | Boken        | Tips   | Gör Arduinoböker lire tydligare. Kopplingarna kan vara svare att förstå och komma ihag

@@ -11,7 +11,7 @@ flowchart TD
   conquer_chess_repo
 
   cpp[C++] --> qt_creator
-  
+
   sfml[SFML] --> run
   other_libraries[Other libraries] --> run
   qt_creator[Qt Creator] --> run

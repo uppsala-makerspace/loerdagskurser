@@ -1,7 +1,7 @@
 # Pedigree
 
 ```mermaid
-FD 
+FD
 {
   Philip --> Stefan
   Gordii --> Jack

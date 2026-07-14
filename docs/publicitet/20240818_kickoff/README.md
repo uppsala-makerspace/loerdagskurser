@@ -85,4 +85,4 @@ Because:
   and you'd enjoy to profit from the Lördagskurser, you're welcome to add a new course to the Lördagskurser.
   You will have full autonomy, all I need to know is how to work together.
   As a course leader, you'll increase the diversity of the student population
-  
+
