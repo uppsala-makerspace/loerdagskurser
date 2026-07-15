@@ -13,7 +13,7 @@ if [[ "$PWD" =~ scripts$ ]]; then
     echo " "
     echo "Tip: like this"
     echo " "
-    echo "  ./scripts/create_pages_per_language.sh"
+    echo "  ./scripts/create_pages_for_umstutorial.sh"
     echo " "
     exit 42
 fi
@@ -48,7 +48,7 @@ sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_entreevaerd_generated_sv.md
 Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_entreevaerd_generated_en.md https://uppsala-makerspace.github.io/loerdagskurser/bli_entreevaerd/
 Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_entreevaerd_generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/bli_entreevaerd/
 sed -i 's/^# .*$/# How to become a reception desk host at the Saturday courses?/g' docs/volontaerer/bli_entreevaerd_generated_en.md
-sed -i 's/^# .*$/# Hur bli man entrévärd hos Lördagskurserna?/g' docs/volontaerer/bli_entreevaerd_generated_en.md
+sed -i 's/^# .*$/# Hur bli man entrévärd hos Lördagskurserna?/g' docs/volontaerer/bli_entreevaerd_generated_sv.md
 
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/volontaerer/bli_kursledare.md", output_file_prefix = "docs/volontaerer/bli_kursledare_generated")'
 sed -i '/^---$/,/^---$/d' docs/volontaerer/bli_kursledare_generated_en.md

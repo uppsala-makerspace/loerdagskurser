@@ -1,5 +1,5 @@
 
-# Hur bli man entrévärd hos Lördagskurserna?
+# How to become a reception desk host at the Saturday courses?
 
 ## How can I become a host?
 
