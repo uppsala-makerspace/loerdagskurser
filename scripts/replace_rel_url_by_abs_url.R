@@ -40,9 +40,6 @@ get_abs_url <- function(
   abs_url_with_readme <- httr2::url_build(httr2::url_parse(rel_url, base_url = base_url))
   abs_url_with_md <- stringr::str_replace(abs_url_with_readme, pattern = "README.md", "")
   abs_url <- stringr::str_replace(abs_url_with_md, pattern = "\\.md", "")
-  if (!RCurl::url.exists(abs_url)) {
-    message("Warning: abs_url '", abs_url, "' does not exist. base_url: '", base_url, '"')
-  }
   abs_url
 }
 
@@ -74,6 +71,9 @@ testthat::expect_equal(
 #   "https://github.com/uppsala-makerspace/loerdagskurser/blob/main/docs/ditt_foersta_besoek/README.md"
 # )
 
+all_abs_urls <- c()
+
+
 text <- readr::read_lines(file_name)
 lines_with_rel_urls <- stringr::str_which(text, pattern = "\\[.*\\]\\(.*.md\\)")
 for (line_index in  lines_with_rel_urls) {
@@ -83,8 +83,17 @@ for (line_index in  lines_with_rel_urls) {
   testthat::expect_equal(2, ncol(matches))
   rel_url <- matches[1, 2]
   abs_url <- get_abs_url(base_url = base_url, rel_url = rel_url)
+  all_abs_urls <- c(all_abs_urls, abs_url) # SLOW
   new_line <- stringr::str_replace(line, pattern = stringr::fixed(rel_url), replacement = abs_url)
   text[line_index] <- new_line
+}
+
+all_abs_urls <- unique(all_abs_urls)
+for (abs_url in all_abs_urls) {
+  # Check all absolate URLS
+  if (!RCurl::url.exists(abs_url)) {
+    message("Warning: abs_url '", abs_url, "' does not exist. base_url: '", base_url, '"')
+  }
 }
 
 readr::write_lines(text, file_name)
