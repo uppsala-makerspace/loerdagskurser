@@ -61,19 +61,8 @@ testthat::expect_equal(
 )
 
 
-
-
-# testthat::expect_equal(
-#   get_abs_url(
-#     base_url = "https://github.com/uppsala-makerspace/loerdagskurser/blob/main/docs/ditt_foersta_besoek/README.md"
-#     rel_url = "../ditt_foersta_besoek/README.md"
-#   ),
-#   "https://github.com/uppsala-makerspace/loerdagskurser/blob/main/docs/ditt_foersta_besoek/README.md"
-# )
-
+# Create all absolute URLs, while keeping track of those generated
 all_abs_urls <- c()
-
-
 text <- readr::read_lines(file_name)
 lines_with_rel_urls <- stringr::str_which(text, pattern = "\\[.*\\]\\(.*.md\\)")
 for (line_index in  lines_with_rel_urls) {
@@ -88,6 +77,7 @@ for (line_index in  lines_with_rel_urls) {
   text[line_index] <- new_line
 }
 
+# Check those generated absolute URLs
 all_abs_urls <- unique(all_abs_urls)
 for (abs_url in all_abs_urls) {
   # Check all absolate URLS
