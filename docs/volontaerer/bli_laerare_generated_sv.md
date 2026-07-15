@@ -1,5 +1,5 @@
 
-# Bli lärare
+# Hur bli man lärare hos Lördagskurserna?
 
 ## Hur kan jag blir lärare?
 

@@ -1,5 +1,5 @@
 
-# Become a course coordinator
+# How to become a coordinator at the Saturday courses?
 
 ## How can I become a course coordinator?
 

@@ -1,4 +1,4 @@
-# The courses
+# Saturday courses overview
 
 
 These are the courses we teach at the Saturday courses:

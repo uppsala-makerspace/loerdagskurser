@@ -1,5 +1,5 @@
 
-# Volunteers
+# How volunteering works at the Saturday courses
 
 ## Why is there a page about volunteers?
 

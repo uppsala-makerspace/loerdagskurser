@@ -1,5 +1,5 @@
 
-# Bli kursledare
+# Hur bli man kursledare hos Lördagskurserna?
 
 ## Hur kan jag blir kursledare?
 
