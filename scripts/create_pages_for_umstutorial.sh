@@ -30,8 +30,8 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${base_url}
 sed -i 's/^# .*$/# Saturday courses overview/g' ${generated_en}
 sed -i 's/^# .*$/# Kurser hos Lördagskurser/g' ${generated_sv}
 # Add an LK logo, with a link to the homepage, then an empty line
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/))' ${generated_en}
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/))' ${generated_sv}
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/)' ${generated_en}
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/)' ${generated_sv}
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
@@ -46,8 +46,8 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} https://uppsala-mak
 sed -i 's/^# .*$/# How volunteering works at the Saturday courses/g' ${generated_en}
 sed -i 's/^# .*$/# Hur volontärer skapar Lördagskurserna/g' ${generated_sv}
 # Add an LK logo, with a link to the homepage, then an empty line
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/))' ${generated_en}
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/))' ${generated_sv}
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/)' ${generated_en}
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/)' ${generated_sv}
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
@@ -62,8 +62,8 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} https://uppsala-mak
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} https://uppsala-makerspace.github.io/loerdagskurser/bli_entreevaerd/
 sed -i 's/^# .*$/# How to become a reception desk host at the Saturday courses?/g' ${generated_en}
 sed -i 's/^# .*$/# Hur bli man entrévärd hos Lördagskurserna?/g' ${generated_sv}
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/))' ${generated_en}
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/))' ${generated_sv}
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/)' ${generated_en}
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/)' ${generated_sv}
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
@@ -78,8 +78,8 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} https://uppsala-mak
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/
 sed -i 's/^# .*$/# How to become a course leader at the Saturday courses?/g' ${generated_en}
 sed -i 's/^# .*$/# Hur bli man kursledare hos Lördagskurserna?/g' ${generated_sv}
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare/))' ${generated_en}
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare/))' ${generated_sv}
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare/)' ${generated_en}
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare/)' ${generated_sv}
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
@@ -94,8 +94,8 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} https://uppsala-mak
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/
 sed -i 's/^# .*$/# How to become a teacher at the Saturday courses?/g' ${generated_en}
 sed -i 's/^# .*$/# Hur bli man lärare hos Lördagskurserna?/g' ${generated_sv}
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare/))' ${generated_en}
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare/))' ${generated_sv}
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare/)' ${generated_en}
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare/)' ${generated_sv}
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
