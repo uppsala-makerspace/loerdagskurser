@@ -1,6 +1,8 @@
 
 # How to become a course leader at the Saturday courses?
 
+[![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare/)
+
 ## How can I become a course leader?
 
 

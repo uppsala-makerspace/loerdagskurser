@@ -1,6 +1,8 @@
 
 # Hur bli man lärare hos Lördagskurserna?
 
+[![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare/)
+
 ## Hur kan jag blir lärare?
 
 

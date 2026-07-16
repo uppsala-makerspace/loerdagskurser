@@ -1,6 +1,8 @@
 
 # Hur bli man entrévärd hos Lördagskurserna?
 
+[![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/)
+
 ## Hur kan jag blir entrévärd?
 
 
