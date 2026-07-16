@@ -37,7 +37,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          install.packages("remotes")
+          install.packages(c("remotes", "testthat"))
           remotes::install_github("richelbilderbeek/splimata")
         shell: Rscript {0}
 
