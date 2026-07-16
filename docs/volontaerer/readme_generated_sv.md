@@ -15,26 +15,26 @@ Och dem kunde behöver lite hjälp till :+1:
 Den här är den nuvarande uppgifterna:
 
 - Värd: välkomnar våra deltagare och tar hand om administrationen.
-  Du kan [bli entrévärd](bli_entreevaerd.md).
+  Du kan [bli entrévärd](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd).
 - Lärare: hjälper till med undervisningen.
-  Du kan [bli lärare](bli_laerare.md).
+  Du kan [bli lärare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare).
 - Kursledare: leder en kurs.
-  Du kan [bli kursledare](bli_kursledare.md).
+  Du kan [bli kursledare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare).
 - Samordare: säkerställer att alla kurser kan löpa smidigt
   och är slutansvarig.
-  Du kan [bli samordnare](bli_samordnare.md).
+  Du kan [bli samordnare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare).
 - Vad du än vill göra :-)
-  [Kontakta oss](../kontakta_oss.md)!
+  [Kontakta oss](https://uppsala-makerspace.github.io/loerdagskurser/kontakta_oss)!
 
 ## Hur blir man volontär?
 
 
 Det beror på vad du vill göra:
 
-- Värd: [bli entrévärd](bli_entreevaerd.md).
-- Lärare: [bli lärare](bli_laerare.md).
-- Kursledare: [bli kursledare](bli_kursledare.md).
-- Samordare: [bli samordnare](bli_samordnare.md).
+- Värd: [bli entrévärd](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd).
+- Lärare: [bli lärare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare).
+- Kursledare: [bli kursledare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare).
+- Samordare: [bli samordnare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare).
 
 ## Hur viktigt är det att kunna prata Svenska?
 
@@ -76,9 +76,9 @@ Här är några riktlinjer för volontärer.
   är det vanligt att du blir tillfrågad om din åsikt
   i olika frågor, som till exempel hur man kan förbättra kurserna
 - När du börjar undervisa regelbundet, kommer du att bli ombedd att visar
-  ett **[Registerutdrag](../registerutdrag/README.md)**.
+  ett **[Registerutdrag](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag/)**.
   Du hittar informationen
-  [på 'Registerutdrag' sida](../registerutdrag/README.md).
+  [på 'Registerutdrag' sida](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag/).
 
 ## Vem är nuvarande volontärerna?
 
