@@ -1,4 +1,4 @@
-# Kurser hos Lördagskurser
+# Kurserna
 
 
 Dessa är kurserna vi lär ut under Lördagskurserna:
@@ -13,7 +13,7 @@ Kurs                                                                            
 
 Varje tillfälle du deltar vid får du välja en av kurserna för det tillfället.
 
-Se [ditt första besök](https://uppsala-makerspace.github.io/loerdagskurser/ditt_foersta_besoek/) hur ditt första besök kommer ske!
+Se [ditt första besök](../ditt_foersta_besoek/README.md) hur ditt första besök kommer ske!
 
 Om du är ännu mer avancerad, kan du också göra:
 

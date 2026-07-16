@@ -13,7 +13,7 @@ Course                                                                          
 
 Each time you come in, you get to pick a course to follow that day.
 
-See [your first visit](https://uppsala-makerspace.github.io/loerdagskurser/ditt_foersta_besoek/) to find out how your first visit will go!
+See [your first visit](../ditt_foersta_besoek/README.md) to find out how your first visit will go!
 
 When you are even more advanced, you can also do:
 

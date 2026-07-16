@@ -1,6 +1,8 @@
 
 # How volunteering works at the Saturday courses
 
+![[Lördagskurserna logo](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/)](loerdagskurser_logo_64_x_60.png)
+
 ## Why is there a page about volunteers?
 
 
@@ -13,25 +15,25 @@ And they could use a little help too :+1:
 These are the current tasks:
 
 - Host: welcomes our participants and takes care of the administration.
-  You can [become a host](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd).
+  You can [become a host](bli_entreevaerd.md).
 - Teacher: helps teach.
-  You can [become a teacher](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare).
+  You can [become a teacher](bli_laerare.md).
 - Course leader: leads a course.
-  You can [become a course leader](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare).
+  You can [become a course leader](bli_kursledare.md).
 - Coordinator: ensures all courses can run smoothly and is end responsible.
-  You can [become a coordinator](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare).
+  You can [become a coordinator](bli_samordnare.md).
 - Whatever you want to do more :-)
-  [Contact us](https://uppsala-makerspace.github.io/loerdagskurser/kontakta_oss)!
+  [Contact us](../kontakta_oss.md)!
 
 ## How to become a volunteer?
 
 
 That depends on what you want to do:
 
-- Host: [become a host](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd).
-- Teacher: [become a teacher](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare).
-- Course leader: [become a course leader](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare).
-- Coordinator: [become a coordinator](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare).
+- Host: [become a host](bli_entreevaerd.md).
+- Teacher: [become a teacher](bli_laerare.md).
+- Course leader: [become a course leader](bli_kursledare.md).
+- Coordinator: [become a coordinator](bli_samordnare.md).
 
 ## How important is it to be able to speak Swedish?
 
@@ -74,9 +76,9 @@ These are some guidelines for volunteers.
   such as on how to improve the courses
 - When you start teaching at a regular basis,
   you will be asked to provide
-  a **['Registerutdrag'](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag/)**.
+  a **['Registerutdrag'](../registerutdrag/README.md)**.
   You can find the details at
-  [the 'Registerutdrag' page](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag/).
+  [the 'Registerutdrag' page](../registerutdrag/README.md).
 
 ## Who are the current volunteers?
 
