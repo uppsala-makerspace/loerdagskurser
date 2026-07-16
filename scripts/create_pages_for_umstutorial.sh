@@ -19,13 +19,17 @@ if [[ "$PWD" =~ scripts$ ]]; then
 fi
 
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/kurserna/README.md", output_file_prefix = "docs/kurserna/generated")'
-sed -i '/^---$/,/^---$/d' docs/kurserna/generated_en.md
-sed -i '/^---$/,/^---$/d' docs/kurserna/generated_sv.md
-Rscript scripts/replace_rel_url_by_abs_url.R docs/kurserna/generated_en.md https://uppsala-makerspace.github.io/loerdagskurser/kurserna/
-Rscript scripts/replace_rel_url_by_abs_url.R docs/kurserna/generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/kurserna/
-sed -i 's/^# .*$/# Saturday courses overview/g' docs/kurserna/generated_en.md
-sed -i 's/^# .*$/# Kurser hos Lördagskurser/g' docs/kurserna/generated_sv.md
-
+base_url="https://uppsala-makerspace.github.io/loerdagskurser/kurserna/"
+generated_en="docs/kurserna/generated_en.md"
+generated_sv="docs/kurserna/generated_sv.md"
+sed -i '/^---$/,/^---$/d' ${generated_en}
+sed -i '/^---$/,/^---$/d' ${generated_sv}
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${base_url}
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${base_url}
+sed -i 's/^# .*$/# Saturday courses overview/g' ${generated_en}
+sed -i 's/^# .*$/# Kurser hos Lördagskurser/g' ${generated_en}
+# Add an LK logo, with a link to the homepage 
+# sed '/^# .*$/ a ![](../)' sedtest.txt
 
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/plats/README.md", output_file_prefix = "docs/plats/generated")'
 sed -i '/^---$/,/^---$/d' docs/plats/generated_en.md

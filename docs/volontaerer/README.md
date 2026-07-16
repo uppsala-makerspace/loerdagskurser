@@ -7,6 +7,8 @@ tags:
 
 # 🇸🇪 Volontärer 🇬🇧 Volunteers
 
+![[Lördagskurserna logo](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/)](loerdagskurser_logo.png)
+
 ## 🇸🇪 Varför finns det en sida om volontärer? 🇬🇧 Why is there a page about volunteers?
 
 === "🇸🇪"
