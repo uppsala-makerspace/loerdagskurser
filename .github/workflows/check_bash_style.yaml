@@ -2,10 +2,13 @@ name: Check bash style
 
 on:
   push:
+    paths:
+      - .github/workflows/check_bash_style.yaml
+      - '**.sh'
   pull_request:
-  schedule:
-  - cron: "0 0 16 * *"
-
+    paths:
+      - .github/workflows/check_bash_style.yaml
+      - '**.sh'
 
 jobs:
   check_bash_style:
