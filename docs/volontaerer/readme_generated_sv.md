@@ -1,6 +1,8 @@
 
 # Hur volontärer skapar Lördagskurserna
 
+![[Lördagskurserna logo](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/)](loerdagskurser_logo_64_x_60.png)
+
 ## Varför finns det en sida om volontärer?
 
 
@@ -13,26 +15,26 @@ Och dem kunde behöver lite hjälp till :+1:
 Den här är den nuvarande uppgifterna:
 
 - Värd: välkomnar våra deltagare och tar hand om administrationen.
-  Du kan [bli entrévärd](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd).
+  Du kan [bli entrévärd](bli_entreevaerd.md).
 - Lärare: hjälper till med undervisningen.
-  Du kan [bli lärare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare).
+  Du kan [bli lärare](bli_laerare.md).
 - Kursledare: leder en kurs.
-  Du kan [bli kursledare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare).
+  Du kan [bli kursledare](bli_kursledare.md).
 - Samordare: säkerställer att alla kurser kan löpa smidigt
   och är slutansvarig.
-  Du kan [bli samordnare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare).
+  Du kan [bli samordnare](bli_samordnare.md).
 - Vad du än vill göra :-)
-  [Kontakta oss](https://uppsala-makerspace.github.io/loerdagskurser/kontakta_oss)!
+  [Kontakta oss](../kontakta_oss.md)!
 
 ## Hur blir man volontär?
 
 
 Det beror på vad du vill göra:
 
-- Värd: [bli entrévärd](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd).
-- Lärare: [bli lärare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare).
-- Kursledare: [bli kursledare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare).
-- Samordare: [bli samordnare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare).
+- Värd: [bli entrévärd](bli_entreevaerd.md).
+- Lärare: [bli lärare](bli_laerare.md).
+- Kursledare: [bli kursledare](bli_kursledare.md).
+- Samordare: [bli samordnare](bli_samordnare.md).
 
 ## Hur viktigt är det att kunna prata Svenska?
 
@@ -74,9 +76,9 @@ Här är några riktlinjer för volontärer.
   är det vanligt att du blir tillfrågad om din åsikt
   i olika frågor, som till exempel hur man kan förbättra kurserna
 - När du börjar undervisa regelbundet, kommer du att bli ombedd att visar
-  ett **[Registerutdrag](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag/)**.
+  ett **[Registerutdrag](../registerutdrag/README.md)**.
   Du hittar informationen
-  [på 'Registerutdrag' sida](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag/).
+  [på 'Registerutdrag' sida](../registerutdrag/README.md).
 
 ## Vem är nuvarande volontärerna?
 
