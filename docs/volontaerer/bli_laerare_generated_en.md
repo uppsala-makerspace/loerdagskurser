@@ -1,6 +1,8 @@
 
 # How to become a teacher at the Saturday courses?
 
+[![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare/))
+
 ## How can I become a teacher?
 
 

@@ -1,6 +1,8 @@
 
 # How to become a reception desk host at the Saturday courses?
 
+[![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/))
+
 ## How can I become a host?
 
 

@@ -7,8 +7,6 @@ tags:
 
 # 🇸🇪 Bli samordnare 🇬🇧 Become a course coordinator
 
-[![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare/)
-
 ## 🇸🇪 Hur kan jag blir samordnare? 🇬🇧 How can I become a course coordinator?
 
 === "🇸🇪"
