@@ -7,6 +7,8 @@ tags:
 
 # 🇸🇪 Bli kursledare 🇬🇧 Become a course leader
 
+[![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare/)
+
 ## 🇸🇪 Hur kan jag blir kursledare? 🇬🇧 How can I become a course leader?
 
 === "🇸🇪"

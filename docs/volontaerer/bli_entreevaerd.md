@@ -8,6 +8,8 @@ tags:
 
 # 🇸🇪 Bli entrévärd 🇬🇧 Become a host
 
+[![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/)
+
 ## 🇸🇪 Hur kan jag blir entrévärd? 🇬🇧 How can I become a host?
 
 === "🇸🇪"
