@@ -2,8 +2,14 @@ name: Create website
 
 on:
   push:
-    branches:
-      - main
+    paths:
+      - .github/workflows/create_website.yaml
+      - 'docs/**'
+  pull_request:
+    paths:
+      - .github/workflows/create_website.yaml
+      - 'docs/**'
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
