@@ -1,7 +1,7 @@
 
 # Hur bli man kursledare hos Lördagskurserna?
 
-[![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare/)
+[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare/)
 
 ## Hur kan jag blir kursledare?
 

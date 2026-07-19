@@ -1,6 +1,6 @@
 # Saturday courses overview
 
-[![Lördagskurserna logo](loerdagskurser_logo_64_x_60.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/)
+[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/)
 
 
 These are the courses we teach at the Saturday courses:
