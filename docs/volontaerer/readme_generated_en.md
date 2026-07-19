@@ -1,7 +1,7 @@
 
 # How volunteering works at the Saturday courses
 
-[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/)
+[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer)
 
 ## Why is there a page about volunteers?
 
@@ -76,9 +76,9 @@ These are some guidelines for volunteers.
   such as on how to improve the courses
 - When you start teaching at a regular basis,
   you will be asked to provide
-  a **['Registerutdrag'](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag/)**.
+  a **['Registerutdrag'](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag)**.
   You can find the details at
-  [the 'Registerutdrag' page](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag/).
+  [the 'Registerutdrag' page](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag).
 
 ## Who are the current volunteers?
 

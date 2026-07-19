@@ -1,7 +1,7 @@
 
 # Hur volontärer skapar Lördagskurserna
 
-[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/)
+[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer)
 
 ## Varför finns det en sida om volontärer?
 
@@ -76,9 +76,9 @@ Här är några riktlinjer för volontärer.
   är det vanligt att du blir tillfrågad om din åsikt
   i olika frågor, som till exempel hur man kan förbättra kurserna
 - När du börjar undervisa regelbundet, kommer du att bli ombedd att visar
-  ett **[Registerutdrag](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag/)**.
+  ett **[Registerutdrag](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag)**.
   Du hittar informationen
-  [på 'Registerutdrag' sida](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag/).
+  [på 'Registerutdrag' sida](https://uppsala-makerspace.github.io/loerdagskurser/registerutdrag).
 
 ## Vem är nuvarande volontärerna?
 
