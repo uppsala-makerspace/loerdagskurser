@@ -38,10 +38,8 @@ if (1 == 2) {
 testthat::expect_equal(2, length(args))
 
 file_name <- args[1]
-# message("file_name: ", file_name)
 testthat::expect_true(file.exists(file_name))
 base_url <- args[2]
-# message("base_url: ", base_url)
 testthat::expect_silent(httr2::url_build(httr2::url_parse(base_url)))
 
 #' @param base_url URL of the Markdown file with the relative URL
@@ -109,9 +107,6 @@ testthat::expect_equal(
   "https://uppsala-makerspace.github.io/loerdagskurser/kontakta_oss"
 )
 
-
-# Create all absolute URLs, while keeping track of those generated
-all_abs_urls <- c()
 text <- readr::read_lines(file_name)
 lines_with_rel_urls <- stringr::str_which(text, pattern = "\\[.*\\]\\(.*.md\\)")
 for (line_index in  lines_with_rel_urls) {
@@ -124,7 +119,7 @@ for (line_index in  lines_with_rel_urls) {
 
   if (!RCurl::url.exists(abs_url)) {
     stop(
-      "Warning: abs_url '", abs_url, "' does not exist.\n",
+      "ERROR: abs_url '", abs_url, "' does not exist.\n",
       "\n",
       "file_name: ", file_name,"\n",
       "base_url: ", base_url, "\n",
@@ -132,10 +127,8 @@ for (line_index in  lines_with_rel_urls) {
       "abs_url: ", abs_url
     )
   }
-  all_abs_urls <- c(all_abs_urls, abs_url) # SLOW
   new_line <- stringr::str_replace(line, pattern = stringr::fixed(rel_url), replacement = abs_url)
   text[line_index] <- new_line
 }
-
 
 readr::write_lines(text, file_name)

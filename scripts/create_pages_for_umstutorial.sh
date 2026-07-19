@@ -35,7 +35,7 @@ mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendere
 abs_url="${mkdocs_page_url}" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
@@ -56,7 +56,7 @@ mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendere
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 abs_url="${mkdocs_home_url}/om_arduinokursen" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
@@ -77,7 +77,7 @@ mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendere
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 abs_url="${mkdocs_home_url}/om_blenderkursen" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
@@ -98,7 +98,7 @@ mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendere
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 abs_url="${mkdocs_home_url}/om_matlagningkursen" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
@@ -119,7 +119,7 @@ mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendere
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 abs_url="${mkdocs_home_url}/om_openscadkursen" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
@@ -140,7 +140,7 @@ mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendere
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 abs_url="${mkdocs_home_url}/om_programmeringskursen" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
@@ -163,7 +163,7 @@ local_folder_prefix_output_file="${local_folder_rel_path}/readme_generated"
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 mkdocs_page_url="${mkdocs_home_url}/volontaerer" # The page to link to; the rendered version of the source page
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} || exit 42
@@ -184,7 +184,7 @@ generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 mkdocs_page_url="${mkdocs_home_url}/volontaerer/bli_entreevaerd" # The page to link to; the rendered version of the source page
 abs_url="${mkdocs_home_url}/bli_entreevaerd" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 # We need to use a fake base URL, as the R script assumes that all base URLs are a README.md in their own folder
@@ -207,7 +207,7 @@ generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 mkdocs_page_url="${mkdocs_home_url}/volontaerer/bli_kursledare" # The page to link to; the rendered version of the source page
 abs_url="${mkdocs_home_url}/bli_kursledare" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 # We need to use a fake base URL, as the R script assumes that all base URLs are a README.md in their own folder
@@ -229,7 +229,7 @@ generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 mkdocs_page_url="${mkdocs_home_url}/volontaerer/bli_laerare" # The page to link to; the rendered version of the source page
 abs_url="${mkdocs_home_url}/bli_laerare" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 # We need to use a fake base URL, as the R script assumes that all base URLs are a README.md in their own folder
@@ -251,7 +251,7 @@ generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 mkdocs_page_url="${mkdocs_home_url}/volontaerer/bli_bli_samordnare" # The page to link to; the rendered version of the source page
 abs_url="${mkdocs_home_url}/bli_bli_samordnare" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 # We need to use a fake base URL, as the R script assumes that all base URLs are a README.md in their own folder
