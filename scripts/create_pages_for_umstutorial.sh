@@ -18,9 +18,12 @@ if [[ "$PWD" =~ scripts$ ]]; then
     exit 42
 fi
 
+# This will be the same for all generated pages
+mkdocs_home_url="https://uppsala-makerspace.github.io/loerdagskurser"
+
 # Kurserna
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/kurserna/README.md", output_file_prefix = "docs/kurserna/generated")'
-base_url="https://uppsala-makerspace.github.io/loerdagskurser/kurserna/"
+base_url="${mkdocs_home_url}/kurserna/"
 generated_en="docs/kurserna/generated_en.md"
 generated_sv="docs/kurserna/generated_sv.md"
 sed -i '/^---$/,/^---$/d' ${generated_en}
@@ -38,6 +41,7 @@ sed -i '/^# .*$/G' ${generated_sv}
 # Volunteers, general
 generated_en="docs/volontaerer/readme_generated_en.md"
 generated_sv="docs/volontaerer/readme_generated_sv.md"
+base_url="${mkdocs_home_url}/volontaerer/"
 Rscript -e 'splimata::split_tabs(input_file_name = "docs/volontaerer/README.md", output_file_prefix = "docs/volontaerer/readme_generated")'
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
