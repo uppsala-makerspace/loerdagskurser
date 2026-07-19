@@ -47,7 +47,7 @@ fi
 # Volunteers, general
 local_folder_rel_path="docs/volontaerer"
 local_folder_input_file="${local_folder_rel_path}/README.md"
-local_folder_prefix_output_file="${local_folder_rel_path}/generated.md"
+local_folder_prefix_output_file="${local_folder_rel_path}/readme_generated"
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 mkdocs_page_url="${mkdocs_home_url}/volontaerer" # The page to link to; the rendered version of the source page
