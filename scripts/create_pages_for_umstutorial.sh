@@ -42,37 +42,36 @@ if [[ "this" == "seiufgwpuehf" ]]; then
   sed -i '/^# .*$/G' ${generated_en}
   sed -i '/^# .*$/G' ${generated_sv}
 
+  # Volunteers, general
+  local_folder_rel_path="docs/volontaerer"
+  local_folder_input_file="${local_folder_rel_path}/README.md"
+  local_folder_prefix_output_file="${local_folder_rel_path}/readme_generated"
+  generated_en="${local_folder_prefix_output_file}_en.md"
+  generated_sv="${local_folder_prefix_output_file}_sv.md"
+  mkdocs_page_url="${mkdocs_home_url}/volontaerer" # The page to link to; the rendered version of the source page
+  Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")"
+  sed -i '/^---$/,/^---$/d' ${generated_en}
+  sed -i '/^---$/,/^---$/d' ${generated_sv}
+  Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} || exit 42
+  Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
+  sed -i 's/^# .*$/# How volunteering works at the Saturday courses/g' ${generated_en}
+  sed -i 's/^# .*$/# Hur volontärer skapar Lördagskurserna/g' ${generated_sv}
+  # Add an LK logo, with a link to the homepage, then an empty line
+  sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
+  sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
+  sed -i '/^# .*$/G' ${generated_en}
+  sed -i '/^# .*$/G' ${generated_sv}
 fi
 
-# Volunteers, general
+# Volunteers, host
 local_folder_rel_path="docs/volontaerer"
-local_folder_input_file="${local_folder_rel_path}/README.md"
-local_folder_prefix_output_file="${local_folder_rel_path}/readme_generated"
+local_folder_input_file="${local_folder_rel_path}/bli_entreevaerd.md"
+local_folder_prefix_output_file="${local_folder_rel_path}/bli_entreevaerd_generated"
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
-mkdocs_page_url="${mkdocs_home_url}/volontaerer" # The page to link to; the rendered version of the source page
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")"
-sed -i '/^---$/,/^---$/d' ${generated_en}
-sed -i '/^---$/,/^---$/d' ${generated_sv}
-Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} || exit 42
-Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
-sed -i 's/^# .*$/# How volunteering works at the Saturday courses/g' ${generated_en}
-sed -i 's/^# .*$/# Hur volontärer skapar Lördagskurserna/g' ${generated_sv}
-# Add an LK logo, with a link to the homepage, then an empty line
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
-
-exit 42
-
-# Volunteers, host
-generated_en="docs/volontaerer/bli_entreevaerd_generated_en.md"
-generated_sv="docs/volontaerer/bli_entreevaerd_generated_sv.md"
 mkdocs_page_url="${mkdocs_home_url}/volontaerer/bli_entreevaerd" # The page to link to; the rendered version of the source page
 abs_url="${mkdocs_home_url}/bli_entreevaerd" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
-
-Rscript -e 'splimata::split_tabs(input_file_name = "docs/volontaerer/bli_entreevaerd.md", output_file_prefix = "docs/volontaerer/bli_entreevaerd_generated")'
+Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")"
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 # We need to use a fake base URL, as the R script assumes that all base URLs are a README.md in their own folder
