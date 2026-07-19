@@ -1,7 +1,6 @@
-# Kurser hos Lördagskurser
+# About the Blender course
 
 [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
 
 
-Text på svenska
-
+Text in English

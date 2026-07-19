@@ -69,6 +69,48 @@ sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
+# Kurserna, Blender
+local_folder_rel_path="docs/kurserna"
+local_folder_input_file="${local_folder_rel_path}/om_blenderkursen.md"
+local_folder_prefix_output_file="${local_folder_rel_path}/om_blenderkursen_generated"
+mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
+generated_en="${local_folder_prefix_output_file}_en.md"
+generated_sv="${local_folder_prefix_output_file}_sv.md"
+abs_url="${mkdocs_home_url}/om_blenderkursen" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
+Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+sed -i '/^---$/,/^---$/d' ${generated_en}
+sed -i '/^---$/,/^---$/d' ${generated_sv}
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${abs_url} || exit 42
+sed -i 's/^# .*$/# About the Blender course/g' ${generated_en}
+sed -i 's/^# .*$/# Om Blenderkursen/g' ${generated_sv}
+# Add an LK logo, with a link to the homepage, then an empty line
+sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
+sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
+sed -i '/^# .*$/G' ${generated_en}
+sed -i '/^# .*$/G' ${generated_sv}
+
+# Kurserna, matlagning
+local_folder_rel_path="docs/kurserna"
+local_folder_input_file="${local_folder_rel_path}/om_matlagningskursen.md"
+local_folder_prefix_output_file="${local_folder_rel_path}/om_matlagningkursen_generated"
+mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
+generated_en="${local_folder_prefix_output_file}_en.md"
+generated_sv="${local_folder_prefix_output_file}_sv.md"
+abs_url="${mkdocs_home_url}/om_matlagningkursen" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
+Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+sed -i '/^---$/,/^---$/d' ${generated_en}
+sed -i '/^---$/,/^---$/d' ${generated_sv}
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${abs_url} || exit 42
+sed -i 's/^# .*$/# About the programming course/g' ${generated_en}
+sed -i 's/^# .*$/# Om programmeringskursen/g' ${generated_sv}
+# Add an LK logo, with a link to the homepage, then an empty line
+sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
+sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
+sed -i '/^# .*$/G' ${generated_en}
+sed -i '/^# .*$/G' ${generated_sv}
+
 # Kurserna, OpenSCAD
 local_folder_rel_path="docs/kurserna"
 local_folder_input_file="${local_folder_rel_path}/om_openscadkursen.md"
@@ -84,6 +126,27 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${abs_url} || exit 42
 sed -i 's/^# .*$/# Saturday courses overview/g' ${generated_en}
 sed -i 's/^# .*$/# Kurser hos Lördagskurser/g' ${generated_sv}
+# Add an LK logo, with a link to the homepage, then an empty line
+sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
+sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
+sed -i '/^# .*$/G' ${generated_en}
+sed -i '/^# .*$/G' ${generated_sv}
+
+# Kurserna, Programmering
+local_folder_rel_path="docs/kurserna"
+local_folder_input_file="${local_folder_rel_path}/om_programmeringskursen.md"
+local_folder_prefix_output_file="${local_folder_rel_path}/om_programmeringskursen_generated"
+mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
+generated_en="${local_folder_prefix_output_file}_en.md"
+generated_sv="${local_folder_prefix_output_file}_sv.md"
+abs_url="${mkdocs_home_url}/om_programmeringskursen" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
+Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+sed -i '/^---$/,/^---$/d' ${generated_en}
+sed -i '/^---$/,/^---$/d' ${generated_sv}
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${abs_url} || exit 42
+sed -i 's/^# .*$/# About the programming course/g' ${generated_en}
+sed -i 's/^# .*$/# Om programmeringskursen/g' ${generated_sv}
 # Add an LK logo, with a link to the homepage, then an empty line
 sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
 sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
