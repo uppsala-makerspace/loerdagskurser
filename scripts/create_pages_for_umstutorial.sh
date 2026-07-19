@@ -21,32 +21,37 @@ fi
 # This will be the same for all generated pages
 mkdocs_home_url="https://uppsala-makerspace.github.io/loerdagskurser"
 
-# Kurserna
-local_folder_rel_path="docs/kurserna"
-local_folder_input_file="${local_folder_rel_path}/README.md"
-mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
-generated_en="${local_folder_rel_path}/generated_en.md"
-generated_sv="${local_folder_rel_path}/generated_sv.md"
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_rel_path}/generated\")"
-sed -i '/^---$/,/^---$/d' ${generated_en}
-sed -i '/^---$/,/^---$/d' ${generated_sv}
-Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url}
-Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url}
-sed -i 's/^# .*$/# Saturday courses overview/g' ${generated_en}
-sed -i 's/^# .*$/# Kurser hos Lördagskurser/g' ${generated_sv}
-# Add an LK logo, with a link to the homepage, then an empty line
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/)' ${generated_en}
-sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/)' ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
+if [[ "this" == "seiufgwpuehf" ]]; then
 
-exit 42
+  # Kurserna
+  local_folder_rel_path="docs/kurserna"
+  local_folder_input_file="${local_folder_rel_path}/README.md"
+  mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
+  generated_en="${local_folder_rel_path}/generated_en.md"
+  generated_sv="${local_folder_rel_path}/generated_sv.md"
+  Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_rel_path}/generated\")"
+  sed -i '/^---$/,/^---$/d' ${generated_en}
+  sed -i '/^---$/,/^---$/d' ${generated_sv}
+  Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url}
+  Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url}
+  sed -i 's/^# .*$/# Saturday courses overview/g' ${generated_en}
+  sed -i 's/^# .*$/# Kurser hos Lördagskurser/g' ${generated_sv}
+  # Add an LK logo, with a link to the homepage, then an empty line
+  sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/)' ${generated_en}
+  sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/)' ${generated_sv}
+  sed -i '/^# .*$/G' ${generated_en}
+  sed -i '/^# .*$/G' ${generated_sv}
+
+fi
 
 # Volunteers, general
-generated_en="docs/volontaerer/readme_generated_en.md"
-generated_sv="docs/volontaerer/readme_generated_sv.md"
+local_folder_rel_path="docs/volontaerer"
+local_folder_input_file="${local_folder_rel_path}/README.md"
+local_folder_prefix_output_file="${local_folder_rel_path}/generated.md"
+generated_en="${local_folder_prefix_output_file}_en.md"
+generated_sv="${local_folder_prefix_output_file}_sv.md"
 mkdocs_page_url="${mkdocs_home_url}/volontaerer" # The page to link to; the rendered version of the source page
-Rscript -e 'splimata::split_tabs(input_file_name = "docs/volontaerer/README.md", output_file_prefix = "docs/volontaerer/readme_generated")'
+Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")"
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} || exit 42
@@ -58,6 +63,8 @@ sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
+
+exit 42
 
 # Volunteers, host
 generated_en="docs/volontaerer/bli_entreevaerd_generated_en.md"
@@ -77,6 +84,8 @@ sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
+
+exit 42
 
 # Volunteers, course leader
 generated_en="docs/volontaerer/bli_kursledare_generated_en.md"
