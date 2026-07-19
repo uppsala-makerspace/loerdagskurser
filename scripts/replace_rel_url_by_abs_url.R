@@ -18,36 +18,63 @@ if (1 == 2) {
   )
   args <- c(
     "docs/volontaerer/bli_entreevaerd_generated_en.md",
-    "https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/"
+    "https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/"
   )
-  #Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_entreevaerd_generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/
+  args <- c(
+    "docs/volontaerer/bli_entreevaerd_generated_en.md",
+    "https://uppsala-makerspace.github.io/loerdagskurser/volontaerer"
+  )
 
+  # file_name: docs/volontaerer/readme_generated_en.md
+  # base_url: https://uppsala-makerspace.github.io/loerdagskurser/volontaerer
+  # rel_url: bli_entreevaerd.md
+
+  # file_name:docs/volontaerer/readme_generated_en.md
+  # base_url:https://uppsala-makerspace.github.io/loerdagskurser/volontaerer
+
+  #Rscript scripts/replace_rel_url_by_abs_url.R docs/volontaerer/bli_entreevaerd_generated_sv.md https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd/
 }
 
 testthat::expect_equal(2, length(args))
 
 file_name <- args[1]
-message("file_name:", file_name)
+message("file_name: ", file_name)
 testthat::expect_true(file.exists(file_name))
 base_url <- args[2]
-message("base_url:", base_url)
+message("base_url: ", base_url)
 testthat::expect_silent(httr2::url_build(httr2::url_parse(base_url)))
 
 #' @param base_url URL of the Markdown file with the relative URL
 #' @param rel_url relative URL
-#' @return a URL without a trailing backslah
+#' @return a URL without a trailing backslash
 get_abs_url <- function(
   base_url,
   rel_url
 ) {
   # Expects a trailing backslash
-  base_url <- stringr::str_replace(base_url, "[:graph:]$", "/")
-  abs_url_with_readme <- httr2::url_build(httr2::url_parse(rel_url, base_url = base_url))
-  abs_url_with_md <- stringr::str_replace(abs_url_with_readme, pattern = "README.md", "")
-  abs_url <- stringr::str_replace(abs_url_with_md, pattern = "\\.md", "")
+  if (stringr::str_detect(base_url, "[:alnum:]$")) {
+    base_url <- paste0(base_url, "/")
+  }
+  testthat::expect_true(stringr::str_detect(base_url, "/$"))
+
+  abs_url_with_readme <- httr2::url_build(
+    httr2::url_parse(rel_url, base_url = base_url)
+  )
+  abs_url_with_md <- stringr::str_replace(
+    abs_url_with_readme, pattern = "README.md", ""
+  )
+  abs_url <- stringr::str_replace(
+    abs_url_with_md,
+    pattern = "\\.md", ""
+  )
 
   # Remove a trailing backslash
   abs_url <- stringr::str_replace(abs_url, "/$", "")
+  testthat::expect_false(stringr::str_detect(abs_url, "/$"))
+
+  # This would be a replacement gone wroung
+  testthat::expect_false(stringr::str_detect(abs_url, "/volontaere/"))
+
   abs_url
 }
 
@@ -69,7 +96,14 @@ testthat::expect_equal(
 # Fake base URL
 testthat::expect_equal(
   get_abs_url(
-    base_url = "https://uppsala-makerspace.github.io/loerdagskurser/bli_entreevaerd/",
+    base_url = "https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/",
+    rel_url = "../kontakta_oss.md"
+  ),
+  "https://uppsala-makerspace.github.io/loerdagskurser/kontakta_oss"
+)
+testthat::expect_equal(
+  get_abs_url(
+    base_url = "https://uppsala-makerspace.github.io/loerdagskurser/volontaerer",
     rel_url = "../kontakta_oss.md"
   ),
   "https://uppsala-makerspace.github.io/loerdagskurser/kontakta_oss"
@@ -87,19 +121,21 @@ for (line_index in  lines_with_rel_urls) {
   testthat::expect_equal(2, ncol(matches))
   rel_url <- matches[1, 2]
   abs_url <- get_abs_url(base_url = base_url, rel_url = rel_url)
+
+  if (!RCurl::url.exists(abs_url)) {
+    stop(
+      "Warning: abs_url '", abs_url, "' does not exist.\n",
+      "\n",
+      "file_name: ", file_name,"\n",
+      "base_url: ", base_url, "\n",
+      "rel_url: ", rel_url, "\n",
+      "abs_url: ", abs_url
+    )
+  }
   all_abs_urls <- c(all_abs_urls, abs_url) # SLOW
-  message("base_url (", base_url, ") and rel_url (", rel_url, ") results in abs_url: ", abs_url)
   new_line <- stringr::str_replace(line, pattern = stringr::fixed(rel_url), replacement = abs_url)
   text[line_index] <- new_line
 }
 
-# Check those generated absolute URLs
-all_abs_urls <- unique(all_abs_urls)
-for (abs_url in all_abs_urls) {
-  # Check all absolate URLS
-  if (!RCurl::url.exists(abs_url)) {
-    message("Warning: abs_url '", abs_url, "' does not exist. base_url: '", base_url, '"')
-  }
-}
 
 readr::write_lines(text, file_name)
