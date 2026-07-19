@@ -38,10 +38,10 @@ if (1 == 2) {
 testthat::expect_equal(2, length(args))
 
 file_name <- args[1]
-message("file_name: ", file_name)
+# message("file_name: ", file_name)
 testthat::expect_true(file.exists(file_name))
 base_url <- args[2]
-message("base_url: ", base_url)
+# message("base_url: ", base_url)
 testthat::expect_silent(httr2::url_build(httr2::url_parse(base_url)))
 
 #' @param base_url URL of the Markdown file with the relative URL
