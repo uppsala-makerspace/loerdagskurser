@@ -1,7 +1,7 @@
 
 # Hur bli man samordnare hos Lördagskurserna?
 
-[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_bli_samordnare)
+[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare)
 
 ## Hur kan jag blir samordnare?
 

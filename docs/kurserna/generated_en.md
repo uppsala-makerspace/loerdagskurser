@@ -11,7 +11,7 @@ Course                                                                          
 ![Arduino logo](arduino_community_logo_65x32.png) **[Arduino](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_arduinokursen)**          |10:15-12:00|A programmable printed circuit board to build electronical machines with| [Arduino för ungdomar](https://richelbilderbeek.github.io/arduino_foer_ungdomar/)
 ![Blender logo](blender_community_badge_white_39_x_32.png) **[Blender](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_blenderkursen)** |10:15-12:00|A program to create 3D models for, among others, 3D printing            | [Grundkurs i Blender](https://github.com/richelbilderbeek/grundkurs_i_blender)
 ![Processing logo](processing4_logo_36_x_32.png) **[Programming](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_programmeringskursen)**|12:15-14:00|Create games with, among others, the programming language Processing    | [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar)
-![OpenSCAD logo](openscad_logo_32_x_32.png) **[OpenSCAD](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_openscadkursen)**              |13.15-15.00|A program to create 3D models for, among others, 3D printing            | [OpenSCAD kurs](https://uppsala-makerspace.github.io/openscad_kurs/boecker/)
+![OpenSCAD logo](openscad_logo_32_x_32.png) **[OpenSCAD](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_openscad_kursen)**             |13.15-15.00|A program to create 3D models for, among others, 3D printing            | [OpenSCAD kurs](https://uppsala-makerspace.github.io/openscad_kurs/boecker/)
 
 Each time you come in, you get to pick a course to follow that day.
 

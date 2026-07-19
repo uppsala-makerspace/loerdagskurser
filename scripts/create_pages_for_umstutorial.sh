@@ -249,8 +249,8 @@ local_folder_input_file="${local_folder_rel_path}/bli_samordnare.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/bli_samordnare_generated"
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
-mkdocs_page_url="${mkdocs_home_url}/volontaerer/bli_bli_samordnare" # The page to link to; the rendered version of the source page
-abs_url="${mkdocs_home_url}/bli_bli_samordnare" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
+mkdocs_page_url="${mkdocs_home_url}/volontaerer/bli_samordnare" # The page to link to; the rendered version of the source page
+abs_url="${mkdocs_home_url}/bli_samordnare" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
 Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}

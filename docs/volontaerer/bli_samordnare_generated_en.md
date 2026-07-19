@@ -1,7 +1,7 @@
 
 # How to become a coordinator at the Saturday courses?
 
-[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_bli_samordnare)
+[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare)
 
 ## How can I become a course coordinator?
 
