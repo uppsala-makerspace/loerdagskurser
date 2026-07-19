@@ -23,10 +23,11 @@ mkdocs_home_url="https://uppsala-makerspace.github.io/loerdagskurser"
 
 # Kurserna
 local_folder_rel_path="docs/kurserna"
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_rel_path}/README.md\", output_file_prefix = \"${local_folder_rel_path}/generated\")"
+local_folder_input_file="${local_folder_rel_path}/README.md"
 mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
-generated_en="docs/kurserna/generated_en.md"
-generated_sv="docs/kurserna/generated_sv.md"
+generated_en="${local_folder_rel_path}/generated_en.md"
+generated_sv="${local_folder_rel_path}/generated_sv.md"
+Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_rel_path}/generated\")"
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url}
