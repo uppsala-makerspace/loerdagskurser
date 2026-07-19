@@ -29,13 +29,35 @@ local_folder_rel_path="docs/kurserna"
 local_folder_input_file="${local_folder_rel_path}/README.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/generated"
 mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
-generated_en="${local_folder_rel_path}/generated_en.md"
-generated_sv="${local_folder_rel_path}/generated_sv.md"
+abs_url="${mkdocs_page_url}" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
+generated_en="${local_folder_prefix_output_file}_en.md"
+generated_sv="${local_folder_prefix_output_file}_sv.md"
 Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
-Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url}
-Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url}
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${abs_url} || exit 42
+sed -i 's/^# .*$/# Saturday courses overview/g' ${generated_en}
+sed -i 's/^# .*$/# Kurser hos Lördagskurser/g' ${generated_sv}
+# Add an LK logo, with a link to the homepage, then an empty line
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/)' ${generated_en}
+sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/)' ${generated_sv}
+sed -i '/^# .*$/G' ${generated_en}
+sed -i '/^# .*$/G' ${generated_sv}
+
+# Kurserna, Arduino
+local_folder_rel_path="docs/kurserna"
+local_folder_input_file="${local_folder_rel_path}/om_arduinokursen.md"
+local_folder_prefix_output_file="${local_folder_rel_path}/om_arduinokursen_generated"
+mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
+generated_en="${local_folder_prefix_output_file}_en.md"
+generated_sv="${local_folder_prefix_output_file}_sv.md"
+abs_url="${mkdocs_home_url}/om_arduinokursen" # relative to absolute URLs assumes all mkdocs_page_urls are in their own folder
+Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
+sed -i '/^---$/,/^---$/d' ${generated_en}
+sed -i '/^---$/,/^---$/d' ${generated_sv}
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${abs_url} || exit 42
+Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${abs_url} || exit 42
 sed -i 's/^# .*$/# Saturday courses overview/g' ${generated_en}
 sed -i 's/^# .*$/# Kurser hos Lördagskurser/g' ${generated_sv}
 # Add an LK logo, with a link to the homepage, then an empty line
