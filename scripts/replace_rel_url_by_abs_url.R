@@ -27,19 +27,27 @@ if (1 == 2) {
 testthat::expect_equal(2, length(args))
 
 file_name <- args[1]
+message("file_name:", file_name)
 testthat::expect_true(file.exists(file_name))
 base_url <- args[2]
+message("base_url:", base_url)
 testthat::expect_silent(httr2::url_build(httr2::url_parse(base_url)))
 
 #' @param base_url URL of the Markdown file with the relative URL
 #' @param rel_url relative URL
+#' @return a URL without a trailing backslah
 get_abs_url <- function(
   base_url,
   rel_url
 ) {
+  # Expects a trailing backslash
+  base_url <- stringr::str_replace(base_url, "[:graph:]$", "/")
   abs_url_with_readme <- httr2::url_build(httr2::url_parse(rel_url, base_url = base_url))
   abs_url_with_md <- stringr::str_replace(abs_url_with_readme, pattern = "README.md", "")
   abs_url <- stringr::str_replace(abs_url_with_md, pattern = "\\.md", "")
+
+  # Remove a trailing backslash
+  abs_url <- stringr::str_replace(abs_url, "/$", "")
   abs_url
 }
 
@@ -48,7 +56,14 @@ testthat::expect_equal(
     base_url = "https://uppsala-makerspace.github.io/loerdagskurser/kurserna/",
     rel_url = "../ditt_foersta_besoek/README.md"
   ),
-  "https://uppsala-makerspace.github.io/loerdagskurser/ditt_foersta_besoek/"
+  "https://uppsala-makerspace.github.io/loerdagskurser/ditt_foersta_besoek"
+)
+testthat::expect_equal(
+  get_abs_url(
+    base_url = "https://uppsala-makerspace.github.io/loerdagskurser/kurserna",
+    rel_url = "../ditt_foersta_besoek/README.md"
+  ),
+  "https://uppsala-makerspace.github.io/loerdagskurser/ditt_foersta_besoek"
 )
 
 # Fake base URL
@@ -73,6 +88,7 @@ for (line_index in  lines_with_rel_urls) {
   rel_url <- matches[1, 2]
   abs_url <- get_abs_url(base_url = base_url, rel_url = rel_url)
   all_abs_urls <- c(all_abs_urls, abs_url) # SLOW
+  message("base_url (", base_url, ") and rel_url (", rel_url, ") results in abs_url: ", abs_url)
   new_line <- stringr::str_replace(line, pattern = stringr::fixed(rel_url), replacement = abs_url)
   text[line_index] <- new_line
 }
