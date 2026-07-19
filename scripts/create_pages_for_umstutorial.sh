@@ -22,7 +22,8 @@ fi
 mkdocs_home_url="https://uppsala-makerspace.github.io/loerdagskurser"
 
 # Kurserna
-Rscript -e 'splimata::split_tabs(input_file_name = "docs/kurserna/README.md", output_file_prefix = "docs/kurserna/generated")'
+local_folder_rel_path="docs/kurserna"
+Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_rel_path}/README.md\", output_file_prefix = \"${local_folder_rel_path}/generated\")"
 mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
 generated_en="docs/kurserna/generated_en.md"
 generated_sv="docs/kurserna/generated_sv.md"
@@ -37,6 +38,8 @@ sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/)' ${generated_sv}
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
+
+exit 42
 
 # Volunteers, general
 generated_en="docs/volontaerer/readme_generated_en.md"
