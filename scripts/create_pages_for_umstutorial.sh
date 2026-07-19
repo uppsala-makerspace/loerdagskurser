@@ -21,13 +21,17 @@ fi
 # This will be the same for all generated pages
 mkdocs_home_url="https://uppsala-makerspace.github.io/loerdagskurser"
 
+################################################################################
 # Kurserna
+################################################################################
+# Kurserna, general
 local_folder_rel_path="docs/kurserna"
 local_folder_input_file="${local_folder_rel_path}/README.md"
+local_folder_prefix_output_file="${local_folder_rel_path}/generated"
 mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
 generated_en="${local_folder_rel_path}/generated_en.md"
 generated_sv="${local_folder_rel_path}/generated_sv.md"
-Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_rel_path}/generated\")" || exit 42
+Rscript -e "splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
 sed -i '/^---$/,/^---$/d' ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url}
@@ -40,6 +44,11 @@ sed -i '/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
+exit 42
+
+################################################################################
+# Volunteers
+################################################################################
 # Volunteers, general
 local_folder_rel_path="docs/volontaerer"
 local_folder_input_file="${local_folder_rel_path}/README.md"
