@@ -17,12 +17,12 @@
 
 === "🇸🇪"
 
-    ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](blender_example.jpg)
+    ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](3d_print_presentation.jpg)
 
     > En [Lördagskurserna slutpresentation med en 3D skriving](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
 
 === "🇬🇧"
 
-    ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](blender_example.jpg)
+    ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](3d_print_presentation.jpg)
 
     > A [Saturday courses student presentation with a 3D print](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
