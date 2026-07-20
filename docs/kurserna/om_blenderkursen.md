@@ -3,6 +3,7 @@
 === "🇸🇪"
 
     Under den här kursen lär vi oss at skapa 3D-modeller i Blender.
+    Vi kan använda modellerna för 3D-utskriftskursen eller för att skapa filmer.
 
     Kursen använder kursmaterialet
     [Grundkurs i Blender](https://github.com/richelbilderbeek/grundkurs_i_blender)
@@ -10,7 +11,7 @@
 === "🇬🇧"
 
     During this course we will learn how to create 3D models in Blender.
-    We can use the models for [the 3D printing course](om_3d_skrivningskurs.md)
+    We can use the models for the 3D printing course
     or for creating movies
 
     The course uses the (Swedish-only!) course material

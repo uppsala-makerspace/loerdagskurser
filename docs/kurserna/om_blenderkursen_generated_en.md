@@ -1,8 +1,10 @@
 # About the Blender course
 
+[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
+
 
 During this course we will learn how to create 3D models in Blender.
-We can use the models for [the 3D printing course](om_3d_skrivningskurs.md)
+We can use the models for the 3D printing course
 or for creating movies
 
 The course uses the (Swedish-only!) course material

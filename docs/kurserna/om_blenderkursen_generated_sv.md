@@ -1,7 +1,10 @@
 # Om Blenderkursen
 
+[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
+
 
 Under den här kursen lär vi oss at skapa 3D-modeller i Blender.
+Vi kan använda modellerna för 3D-utskriftskursen eller för att skapa filmer.
 
 Kursen använder kursmaterialet
 [Grundkurs i Blender](https://github.com/richelbilderbeek/grundkurs_i_blender)
