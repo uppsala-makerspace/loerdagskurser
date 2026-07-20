@@ -1,31 +1,29 @@
-# Kurser hos Lördagskurser
-
-[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
+# Kurserna
 
 
 Dessa är kurserna vi lär ut under Lördagskurserna:
 
 Kurs                                                                                            |Tid        |Vad                                                                    |Bok
 ------------------------------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------
-![Cooking logo](cooking_logo_28_x_32.png) **[Matlagning](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_matlagningskursen)**             |9.00-10.00 |Att skapa och äta frukost                                              | .
-![Arduino logo](arduino_community_logo_65x32.png) **[Arduino](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_arduinokursen)**            |10.15-12.00|Ett kretskort som programmeras för att bygga maskiner                  | [Arduino för ungdomar](https://richelbilderbeek.github.io/arduino_foer_ungdomar/)
-![Blender logo](blender_community_badge_white_39_x_32.png) **[Blender](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_blenderkursen)**   |10.15-12.00|Ett 3D ritnings program för, t.ex. 3D skrivning                        | [Grundkurs i Blender](https://github.com/richelbilderbeek/grundkurs_i_blender)
-![Processing logo](processing4_logo_36_x_32.png) **[Programmering](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_programmeringskursen)**|12.15-14.00|Skapa datorspel, med bland annat, programmerspråket Processing         | [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar)
-![OpenSCAD logo](openscad_logo_32_x_32.png) **[OpenSCAD](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_openscad_kursen)**               |13.15-15.00|Ett 3D ritnings program för, t.ex. 3D skrivning                        | [OpenSCAD kurs](https://uppsala-makerspace.github.io/openscad_kurs/boecker/)
+![Cooking logo](cooking_logo_28_x_32.png) **[Matlagning](om_matlagningskursen.md)**             |9.00-10.00 |Att skapa och äta frukost                                              | .
+![Arduino logo](arduino_community_logo_65x32.png) **[Arduino](om_arduinokursen.md)**            |10.15-12.00|Ett kretskort som programmeras för att bygga maskiner                  | [Arduino för ungdomar](https://richelbilderbeek.github.io/arduino_foer_ungdomar/)
+![Blender logo](blender_community_badge_white_39_x_32.png) **[Blender](om_blenderkursen.md)**   |10.15-12.00|Ett 3D ritnings program för, t.ex. 3D skrivning                        | [Grundkurs i Blender](https://github.com/richelbilderbeek/grundkurs_i_blender)
+![Processing logo](processing4_logo_36_x_32.png) **[Programmering](om_programmeringskursen.md)**|12.15-14.00|Skapa datorspel, med bland annat, programmerspråket Processing         | [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar)
+![OpenSCAD logo](openscad_logo_32_x_32.png) **[OpenSCAD](om_openscad_kursen.md)**               |13.15-15.00|Ett 3D ritnings program för, t.ex. 3D skrivning                        | [OpenSCAD kurs](https://uppsala-makerspace.github.io/openscad_kurs/boecker/)
 
 Varje tillfälle du deltar vid får du välja en av kurserna för det tillfället.
 
-Se [ditt första besök](https://uppsala-makerspace.github.io/loerdagskurser/ditt_foersta_besoek) hur ditt första besök kommer ske!
+Se [ditt första besök](../ditt_foersta_besoek/README.md) hur ditt första besök kommer ske!
 
 Om du är ännu mer avancerad, kan du också göra:
 
-Kurs                                                                            |Bok
---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------
-![3D printing course logo](3d_skrivningskurs_logo_32_x_32.png) **3D skrivning** | [3D skrivningskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
-![git logo](git_logo_32_x_32.png) **git**                                       | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
-![Laser cutter logo](warning_laser_28_x_28.png) **laserskärare**                | [laserskärarekurs](https://uppsala-makerspace.github.io/laser_cutter_guide/)
-![Soldering logo](loedningskurs_logo_32_x_32.png) **lödning**                   | [lödningskurs](https://uppsala-makerspace.github.io/loedningskurs/)
-![Vinyl cutter logo](t_shirt_33_x_32.png) **vinylskärare**                      | [vinylskärarekurs](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+Kurs                                                                                                         |Bok
+-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------
+![3D printing course logo](3d_skrivningskurs_logo_32_x_32.png) **[3D skrivning](om_3d_skrivningskursen.md)** | [3D skrivningskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+![git logo](git_logo_32_x_32.png) **[git](om_gitkursen.md)**                                                 | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+![Laser cutter logo](warning_laser_28_x_28.png) **[laserskärare](om_laserskaerarekursen.md)**                | [laserskärarekurs](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+![Soldering logo](loedningskurs_logo_32_x_32.png) **[lödning](om_loedningskursen.md)**                       | [lödningskurs](https://uppsala-makerspace.github.io/loedningskurs/)
+![Vinyl cutter logo](t_shirt_33_x_32.png) **[vinylskärare](om_vinylskaerarekursen.md)**                      | [vinylskärarekurs](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
 Här är ett översikt av när vilken kurs är:
 
