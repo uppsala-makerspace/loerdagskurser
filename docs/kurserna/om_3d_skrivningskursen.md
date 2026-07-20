@@ -15,7 +15,6 @@
     [3D printing course](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
 
 
-
 === "🇸🇪"
 
     ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](blender_example.jpg)

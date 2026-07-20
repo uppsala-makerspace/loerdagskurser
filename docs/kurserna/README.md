@@ -18,13 +18,13 @@
 
     Om du är ännu mer avancerad, kan du också göra:
 
-    Kurs                                                                            |Bok
-    --------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------
-    ![3D printing course logo](3d_skrivningskurs_logo_32_x_32.png) **3D skrivning** | [3D skrivningskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
-    ![git logo](git_logo_32_x_32.png) **git**                                       | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
-    ![Laser cutter logo](warning_laser_28_x_28.png) **laserskärare**                | [laserskärarekurs](https://uppsala-makerspace.github.io/laser_cutter_guide/)
-    ![Soldering logo](loedningskurs_logo_32_x_32.png) **lödning**                   | [lödningskurs](https://uppsala-makerspace.github.io/loedningskurs/)
-    ![Vinyl cutter logo](t_shirt_33_x_32.png) **vinylskärare**                      | [vinylskärarekurs](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+    Kurs                                                                                                         |Bok
+    -------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------
+    ![3D printing course logo](3d_skrivningskurs_logo_32_x_32.png) **[3D skrivning](om_3d_skrivningskursen.md)** | [3D skrivningskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+    ![git logo](git_logo_32_x_32.png) **[git](om_gitkursen.md)**                                                 | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+    ![Laser cutter logo](warning_laser_28_x_28.png) **[laserskärare](om_laserskaerarekursen.md)**                | [laserskärarekurs](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+    ![Soldering logo](loedningskurs_logo_32_x_32.png) **[lödning](om_loedningskursen.md)**                       | [lödningskurs](https://uppsala-makerspace.github.io/loedningskurs/)
+    ![Vinyl cutter logo](t_shirt_33_x_32.png) **[vinylskärare](om_vinylskaerarekursen.md)**                      | [vinylskärarekurs](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
     Här är ett översikt av när vilken kurs är:
 
@@ -55,13 +55,13 @@
 
     When you are even more advanced, you can also do:
 
-    Course                                                                         |Book
-    -------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------
-    ![3D printing course logo](3d_skrivningskurs_logo_32_x_32.png) **3D printing** | [3D printing course](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
-    ![git logo](git_logo_32_x_32.png) **git**                                      | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
-    ![Laser cutter logo](warning_laser_28_x_28.png) **laser cutter**               | [laser cutter course](https://uppsala-makerspace.github.io/laser_cutter_guide/)
-    ![Soldering logo](loedningskurs_logo_32_x_32.png) **soldering**                | [soldering course](https://uppsala-makerspace.github.io/loedningskurs/)
-    ![Vinyl cutter logo](t_shirt_33_x_32.png) **vinyl cutter**                     | [vinyl cutter course](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+    Course                                                                                                      |Book
+    ------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------
+    ![3D printing course logo](3d_skrivningskurs_logo_32_x_32.png) **[3D printing](om_3d_skrivningskursen.md)** | [3D printing course](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+    ![git logo](git_logo_32_x_32.png) **[git](om_gitkursen.md)**                                                | [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+    ![Laser cutter logo](warning_laser_28_x_28.png) **[laser cutter](om_laserskaerarekursen.md)**               | [laser cutter course](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+    ![Soldering logo](loedningskurs_logo_32_x_32.png) **[soldering](om_loedningskursen.md)**                    | [soldering course](https://uppsala-makerspace.github.io/loedningskurs/)
+    ![Vinyl cutter logo](t_shirt_33_x_32.png) **[vinyl cutter](om_vinylskaerarekursen.md)**                     | [vinyl cutter course](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
     Here is an overview when which course takes place:
 
