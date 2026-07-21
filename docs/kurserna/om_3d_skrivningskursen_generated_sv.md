@@ -15,7 +15,7 @@ några lektioner av en vanligt [kurs](https://uppsala-makerspace.github.io/loerd
 ![Merkurius](3d_printer.jpg)
 
 
-> En av den 3D skrivarna som blir använd. 
+> En av den 3D skrivarna som blir använd.
 
 Man börjar med att lära sig att använda 3D skrivaren själv.
 Efter detta blir det mer hur att 3D skriva och 3D modellera smart.
