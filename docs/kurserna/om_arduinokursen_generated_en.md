@@ -8,21 +8,22 @@ of [the Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/).
 
 In the Arduino course one learns how to use an Arduino.
 
+![En Arduino](arduino.jpg)
+
+
+> An Arduino
+
 Arduino is a circuit board that is programmed to build electronic
 machines (e.g. robots).
 During the course you will learn to program while
 developing your understanding of how electronics work.
+Later in the course, you will do [the soldering course](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_loedningskursen)
+to create your own, real, machines.
 
 The course uses the (Swedish-only!) course material
 [Arduino för ungdomar](https://richelbilderbeek.github.io/arduino_foer_ungdomar/).
 
-  ![En Arduino](arduino.jpg)
-
-=== "🇬🇧"
-
-An Arduino
-
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](arduino_presentation.jpg)
 
 
-A [Saturday courses student presentation with Arduino](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
+> A [Saturday courses student presentation with Arduino](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
