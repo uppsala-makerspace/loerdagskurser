@@ -6,13 +6,21 @@
     av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
     Under 3D skrivningskursen lär man sig att skriva ut i 3D.
+    Kursen är en självstudiekurs
+    och krävs att du kan tar hand om dig själv.
+    Du kan tar hand om dig själv om du är eller vuxen eller har klarat av
+    några lektioner av en vanligt [kurs](README.md).
 
 === "🇬🇧"
 
-    The 3D printing course is one of [the courses](README.md)
+    The 3D printing course is one of the [the courses](README.md)
     of [the Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/).
 
     During the 3D printing course you learn how to print in 3D.
+    The course is a self-study course
+    and requires that you can take care of yourself.
+    You can take care of yourself if you are either an adult or have completed
+    a few lessons of a regular [course](README.md).
 
 ![Merkurius](3d_printer.jpg)
 
@@ -35,7 +43,6 @@
     [3D printing course](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
 
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](3d_print_presentation.jpg)
-
 
 === "🇸🇪"
 

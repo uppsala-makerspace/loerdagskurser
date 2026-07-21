@@ -1,4 +1,4 @@
-# Om Arduinokursen
+# Om 3D skrivningskursen
 
 [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_3d_skrivningskursen)
 
@@ -7,6 +7,10 @@
 av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
 Under 3D skrivningskursen lär man sig att skriva ut i 3D.
+Kursen är en självstudiekurs
+och krävs att du kan tar hand om dig själv.
+Du kan tar hand om dig själv om du är eller vuxen eller har klarat av
+några lektioner av en vanligt [kurs](https://uppsala-makerspace.github.io/loerdagskurser/kurserna).
 
 ![Merkurius](3d_printer.jpg)
 
@@ -19,7 +23,6 @@ Efter detta blir det mer hur att 3D skriva och 3D modellera smart.
 [3D skrivningskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
 
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](3d_print_presentation.jpg)
-
 
 
 > En [Lördagskurserna slutpresentation med en 3D skriving](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
