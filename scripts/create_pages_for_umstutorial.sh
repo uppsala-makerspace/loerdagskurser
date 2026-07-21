@@ -21,13 +21,15 @@ fi
 # This will be the same for all generated pages
 mkdocs_home_url="https://uppsala-makerspace.github.io/loerdagskurser"
 
-################################################################################
-# Kurserna
-################################################################################
+echo "========================================================================"
+echo "= Courses"
+echo "========================================================================"
 
 # if [[ "this" == "nonsense" ]]; then # My favorite debug statement :-)
 
-# Kurserna, general
+echo "------------------------------------------------------------------------"
+echo "- Courses, general"
+echo "------------------------------------------------------------------------" 
 local_folder_rel_path="docs/kurserna"
 local_folder_input_file="${local_folder_rel_path}/README.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/generated"
@@ -49,7 +51,9 @@ sed -i '/^# .*$/G' ${generated_sv}
 
 
 
-# Kurserna, Arduino
+echo "------------------------------------------------------------------------"
+echo "- # Courses, Arduino"
+echo "------------------------------------------------------------------------" 
 local_folder_rel_path="docs/kurserna"
 local_folder_input_file="${local_folder_rel_path}/om_arduinokursen.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/om_arduinokursen_generated"
@@ -69,13 +73,13 @@ sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
-exit 42
-
-# Kurserna, Blender
+echo "------------------------------------------------------------------------"
+echo "- Courses, Blender"
+echo "------------------------------------------------------------------------" 
 local_folder_rel_path="docs/kurserna"
 local_folder_input_file="${local_folder_rel_path}/om_blenderkursen.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/om_blenderkursen_generated"
-mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
+mkdocs_page_url="${mkdocs_home_url}/kurserna/om_blenderkursen" # The page to link to; the rendered version of the source page
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
@@ -91,11 +95,14 @@ sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
-# Kurserna, matlagning
+
+echo "------------------------------------------------------------------------"
+echo "- Courses, cooking"
+echo "------------------------------------------------------------------------" 
 local_folder_rel_path="docs/kurserna"
 local_folder_input_file="${local_folder_rel_path}/om_matlagningskursen.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/om_matlagningskursen_generated"
-mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
+mkdocs_page_url="${mkdocs_home_url}/kurserna/om_matlagningskursen" # The page to link to; the rendered version of the source page
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
@@ -111,11 +118,13 @@ sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
-# Kurserna, OpenSCAD
+echo "------------------------------------------------------------------------"
+echo "- Courses, OpenSCAD"
+echo "------------------------------------------------------------------------" 
 local_folder_rel_path="docs/kurserna"
 local_folder_input_file="${local_folder_rel_path}/om_openscad_kursen.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/om_openscad_kursen_generated"
-mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
+mkdocs_page_url="${mkdocs_home_url}/kurserna/om_openscad_kursen" # The page to link to; the rendered version of the source page
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
@@ -131,11 +140,13 @@ sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
-# Kurserna, Programmering
+echo "------------------------------------------------------------------------"
+echo "- Courses, programming"
+echo "------------------------------------------------------------------------" 
 local_folder_rel_path="docs/kurserna"
 local_folder_input_file="${local_folder_rel_path}/om_programmeringskursen.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/om_programmeringskursen_generated"
-mkdocs_page_url="${mkdocs_home_url}/kurserna" # The page to link to; the rendered version of the source page
+mkdocs_page_url="${mkdocs_home_url}/kurserna/om_programmeringskursen" # The page to link to; the rendered version of the source page
 generated_en="${local_folder_prefix_output_file}_en.md"
 generated_sv="${local_folder_prefix_output_file}_sv.md"
 Rscript -e "ignored_output <- splimata::split_tabs(input_file_name = \"${local_folder_input_file}\", output_file_prefix = \"${local_folder_prefix_output_file}\")" || exit 42
@@ -151,10 +162,12 @@ sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
-################################################################################
-# Volunteers
-################################################################################
-# Volunteers, general
+echo "========================================================================"
+echo "= Volunteers"
+echo "========================================================================"
+echo "------------------------------------------------------------------------"
+echo "- Volunteers, general"
+echo "------------------------------------------------------------------------" 
 local_folder_rel_path="docs/volontaerer"
 local_folder_input_file="${local_folder_rel_path}/README.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/readme_generated"
@@ -174,7 +187,9 @@ sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
-# Volunteers, host
+echo "------------------------------------------------------------------------"
+echo "- Volunteers, host"
+echo "------------------------------------------------------------------------"
 local_folder_rel_path="docs/volontaerer"
 local_folder_input_file="${local_folder_rel_path}/bli_entreevaerd.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/bli_entreevaerd_generated"
@@ -195,8 +210,9 @@ sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
 
-
-# Volunteers, course leader
+echo "------------------------------------------------------------------------"
+echo "- Volunteers, course leader"
+echo "------------------------------------------------------------------------"
 local_folder_rel_path="docs/volontaerer"
 local_folder_input_file="${local_folder_rel_path}/bli_kursledare.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/bli_kursledare_generated"
@@ -216,8 +232,9 @@ sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
-
-# Volunteers, teacher
+echo "------------------------------------------------------------------------"
+echo "- Volunteers, teacher"
+echo "------------------------------------------------------------------------"
 local_folder_rel_path="docs/volontaerer"
 local_folder_input_file="${local_folder_rel_path}/bli_laerare.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/bli_laerare_generated"
@@ -237,8 +254,9 @@ sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](
 sed -i '/^# .*$/G' ${generated_en}
 sed -i '/^# .*$/G' ${generated_sv}
 
-
-# Volunteers, coordinator
+echo "------------------------------------------------------------------------"
+echo "- Volunteers, course coordinator"
+echo "------------------------------------------------------------------------"
 local_folder_rel_path="docs/volontaerer"
 local_folder_input_file="${local_folder_rel_path}/bli_samordnare.md"
 local_folder_prefix_output_file="${local_folder_rel_path}/bli_samordnare_generated"
