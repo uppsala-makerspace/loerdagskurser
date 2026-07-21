@@ -8,6 +8,24 @@ tags:
 
 # 🇸🇪 Bli entrévärd 🇬🇧 Become a host
 
+=== "🇸🇪"
+
+    [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/)
+    leds av [volontärer](README.md) i olika roller.
+    Entrévärd är en av den roller.
+
+    Uppgiften för en entrévärd är att välkomnar våra deltagare
+    och tar hand om administrationen kring deltagarna.
+
+=== "🇬🇧"
+
+    [The Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/)
+    is lead by [volunteers](README.md) in different roles.
+    Being a host is one of these roles.
+
+    The host has the task to welcome our participants and
+    taking care of the administration around our participants.
+
 ## 🇸🇪 Hur kan jag blir entrévärd? 🇬🇧 How can I become a host?
 
 === "🇸🇪"

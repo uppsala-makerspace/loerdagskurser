@@ -21,11 +21,12 @@ fi
 # This will be the same for all generated pages
 mkdocs_home_url="https://uppsala-makerspace.github.io/loerdagskurser"
 
+# if [[ "this" == "nonsense" ]]; then # My favorite debug statement :-)
+
 echo "========================================================================"
 echo "= Courses"
 echo "========================================================================"
 
-# if [[ "this" == "nonsense" ]]; then # My favorite debug statement :-)
 
 echo "------------------------------------------------------------------------"
 echo "- Courses, general"

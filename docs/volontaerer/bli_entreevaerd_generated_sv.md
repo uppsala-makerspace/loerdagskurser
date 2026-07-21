@@ -3,6 +3,14 @@
 
 [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd)
 
+
+[Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/)
+leds av [volontärer](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer) i olika roller.
+Entrévärd är en av den roller.
+
+Uppgiften för en entrévärd är att välkomnar våra deltagare
+och tar hand om administrationen kring deltagarna.
+
 ## Hur kan jag blir entrévärd?
 
 

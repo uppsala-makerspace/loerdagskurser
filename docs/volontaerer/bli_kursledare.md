@@ -7,6 +7,22 @@ tags:
 
 # 🇸🇪 Bli kursledare 🇬🇧 Become a course leader
 
+=== "🇸🇪"
+
+    [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/)
+    leds av [volontärer](README.md) i olika roller.
+    Kursledare är en av den roller.
+
+    Uppgiften för en kursledare är att leda en kurs.
+
+=== "🇬🇧"
+
+    [The Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/)
+    is lead by [volunteers](README.md) in different roles.
+    Being a course leader is one of these roles.
+
+    A course leader has the task to lead a course.
+
 ## 🇸🇪 Hur kan jag blir kursledare? 🇬🇧 How can I become a course leader?
 
 === "🇸🇪"

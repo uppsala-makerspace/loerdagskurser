@@ -3,6 +3,14 @@
 
 [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_samordnare)
 
+
+[Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/)
+leds av [volontärer](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer) i olika roller.
+Samordnare är en av den roller.
+
+Uppgiften för en samordnare är att säkerställer att alla kurser
+kan löpa smidigt och är slutansvarig.
+
 ## Hur kan jag blir samordnare?
 
 

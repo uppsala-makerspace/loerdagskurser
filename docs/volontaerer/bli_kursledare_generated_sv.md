@@ -3,6 +3,13 @@
 
 [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare)
 
+
+[Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/)
+leds av [volontärer](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer) i olika roller.
+Kursledare är en av den roller.
+
+Uppgiften för en kursledare är att leda en kurs.
+
 ## Hur kan jag blir kursledare?
 
 

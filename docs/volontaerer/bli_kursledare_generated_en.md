@@ -3,6 +3,13 @@
 
 [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare)
 
+
+[The Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/)
+is lead by [volunteers](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer) in different roles.
+Being a course leader is one of these roles.
+
+A course leader has the task to lead a course.
+
 ## How can I become a course leader?
 
 

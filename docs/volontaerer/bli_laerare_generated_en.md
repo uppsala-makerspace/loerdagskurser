@@ -3,6 +3,13 @@
 
 [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare)
 
+
+[The Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/)
+is lead by [volunteers](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer) in different roles.
+Being a teacher is one of these roles.
+
+The teach has the task to helps teach.
+
 ## How can I become a teacher?
 
 

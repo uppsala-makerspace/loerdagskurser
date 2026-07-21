@@ -7,6 +7,24 @@ tags:
 
 # 🇸🇪 Bli samordnare 🇬🇧 Become a course coordinator
 
+=== "🇸🇪"
+
+    [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/)
+    leds av [volontärer](README.md) i olika roller.
+    Samordnare är en av den roller.
+
+    Uppgiften för en samordnare är att säkerställer att alla kurser
+    kan löpa smidigt och är slutansvarig.
+
+=== "🇬🇧"
+
+    [The Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/)
+    is lead by [volunteers](README.md) in different roles.
+    Course coordinator is one of these roles.
+
+    The course coordinator has the task to ensure all courses can run smoothly
+    and is end responsible.
+
 ## 🇸🇪 Hur kan jag blir samordnare? 🇬🇧 How can I become a course coordinator?
 
 === "🇸🇪"

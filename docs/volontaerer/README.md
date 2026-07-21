@@ -25,9 +25,9 @@ tags:
 
     Den här är den nuvarande uppgifterna:
 
-    - Värd: välkomnar våra deltagare och tar hand om administrationen.
+    - Entrévärd: välkomnar våra deltagare och tar hand om administrationen.
       Du kan [bli entrévärd](bli_entreevaerd.md).
-    - Lärare: hjälper till med undervisningen.
+    - Lärare: hjälpar med undervisningen.
       Du kan [bli lärare](bli_laerare.md).
     - Kursledare: leder en kurs.
       Du kan [bli kursledare](bli_kursledare.md).

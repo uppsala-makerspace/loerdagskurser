@@ -14,9 +14,9 @@ Och dem kunde behöver lite hjälp till :+1:
 
 Den här är den nuvarande uppgifterna:
 
-- Värd: välkomnar våra deltagare och tar hand om administrationen.
+- Entrévärd: välkomnar våra deltagare och tar hand om administrationen.
   Du kan [bli entrévärd](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd).
-- Lärare: hjälper till med undervisningen.
+- Lärare: hjälpar med undervisningen.
   Du kan [bli lärare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare).
 - Kursledare: leder en kurs.
   Du kan [bli kursledare](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_kursledare).

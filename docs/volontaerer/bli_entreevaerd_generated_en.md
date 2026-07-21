@@ -3,6 +3,14 @@
 
 [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_entreevaerd)
 
+
+[The Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/)
+is lead by [volunteers](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer) in different roles.
+Being a host is one of these roles.
+
+The host has the task to welcome our participants and
+taking care of the administration around our participants.
+
 ## How can I become a host?
 
 

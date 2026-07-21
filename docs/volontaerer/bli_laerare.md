@@ -6,6 +6,22 @@ tags:
 
 # 🇸🇪 Bli lärare 🇬🇧 Become a teacher
 
+=== "🇸🇪"
+
+    [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/)
+    leds av [volontärer](README.md) i olika roller.
+    Lärare är en av den roller.
+
+    Uppgiften för en lärare är att hjälpa med undervisningen.
+
+=== "🇬🇧"
+
+    [The Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/)
+    is lead by [volunteers](README.md) in different roles.
+    Being a teacher is one of these roles.
+
+    The teach has the task to helps teach.
+
 ## 🇸🇪 Hur kan jag blir lärare? 🇬🇧 How can I become a teacher?
 
 === "🇸🇪"

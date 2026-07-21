@@ -3,6 +3,13 @@
 
 [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer/bli_laerare)
 
+
+[Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/)
+leds av [volontärer](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer) i olika roller.
+Lärare är en av den roller.
+
+Uppgiften för en lärare är att hjälpa med undervisningen.
+
 ## Hur kan jag blir lärare?
 
 
