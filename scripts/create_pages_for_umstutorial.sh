@@ -44,12 +44,6 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# Saturday courses overview/g' ${generated_en}
 sed -i 's/^# .*$/# Kurser hos Lördagskurser/g' ${generated_sv}
-# Add an LK logo, with a link to the homepage, then an empty line
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
-
 
 echo "------------------------------------------------------------------------"
 echo "- Courses, 3D printing"
@@ -67,11 +61,6 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# About the 3D printing course/g' ${generated_en}
 sed -i 's/^# .*$/# Om 3D skrivningskursen/g' ${generated_sv}
-# Add an LK logo, with a link to the homepage, then an empty line
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
 
 echo "------------------------------------------------------------------------"
 echo "- Courses, Arduino"
@@ -89,11 +78,6 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# About the Arduino course/g' ${generated_en}
 sed -i 's/^# .*$/# Om Arduinokursen/g' ${generated_sv}
-# Add an LK logo, with a link to the homepage, then an empty line
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
 
 echo "------------------------------------------------------------------------"
 echo "- Courses, Blender"
@@ -111,12 +95,6 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# About the Blender course/g' ${generated_en}
 sed -i 's/^# .*$/# Om Blenderkursen/g' ${generated_sv}
-# Add an LK logo, with a link to the homepage, then an empty line
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
-
 
 echo "------------------------------------------------------------------------"
 echo "- Courses, cooking"
@@ -134,11 +112,6 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# About the cooking course/g' ${generated_en}
 sed -i 's/^# .*$/# Om matlagningskursen/g' ${generated_sv}
-# Add an LK logo, with a link to the homepage, then an empty line
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
 
 echo "------------------------------------------------------------------------"
 echo "- Courses, OpenSCAD"
@@ -156,11 +129,6 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# About the OpenSCAD course/g' ${generated_en}
 sed -i 's/^# .*$/# Om OpenSCAD kursen/g' ${generated_sv}
-# Add an LK logo, with a link to the homepage, then an empty line
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
 
 echo "------------------------------------------------------------------------"
 echo "- Courses, programming"
@@ -178,11 +146,6 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# About the programming course/g' ${generated_en}
 sed -i 's/^# .*$/# Om programmeringskursen/g' ${generated_sv}
-# Add an LK logo, with a link to the homepage, then an empty line
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
 
 echo "========================================================================"
 echo "= Volunteers"
@@ -203,11 +166,6 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# How volunteering works at the Saturday courses/g' ${generated_en}
 sed -i 's/^# .*$/# Hur volontärer skapar Lördagskurserna/g' ${generated_sv}
-# Add an LK logo, with a link to the homepage, then an empty line
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
 
 echo "------------------------------------------------------------------------"
 echo "- Volunteers, host"
@@ -226,10 +184,6 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# How to become a reception desk host at the Saturday courses?/g' ${generated_en}
 sed -i 's/^# .*$/# Hur bli man entrévärd hos Lördagskurserna?/g' ${generated_sv}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
 
 
 echo "------------------------------------------------------------------------"
@@ -249,10 +203,6 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# How to become a course leader at the Saturday courses?/g' ${generated_en}
 sed -i 's/^# .*$/# Hur bli man kursledare hos Lördagskurserna?/g' ${generated_sv}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
 
 echo "------------------------------------------------------------------------"
 echo "- Volunteers, teacher"
@@ -271,10 +221,6 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# How to become a teacher at the Saturday courses?/g' ${generated_en}
 sed -i 's/^# .*$/# Hur bli man lärare hos Lördagskurserna?/g' ${generated_sv}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
 
 echo "------------------------------------------------------------------------"
 echo "- Volunteers, course coordinator"
@@ -293,7 +239,4 @@ Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} 
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# How to become a coordinator at the Saturday courses?/g' ${generated_en}
 sed -i 's/^# .*$/# Hur bli man samordnare hos Lördagskurserna?/g' ${generated_sv}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_en}
-sed -i "/^# .*$/ a [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](${mkdocs_page_url})" ${generated_sv}
-sed -i '/^# .*$/G' ${generated_en}
-sed -i '/^# .*$/G' ${generated_sv}
+
