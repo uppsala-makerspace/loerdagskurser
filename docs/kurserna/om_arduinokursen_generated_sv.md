@@ -21,10 +21,10 @@ Arduinokursen använder kursmaterialet
 
 === "🇸🇪"
 
-> En Arduino
+En Arduino
 
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](arduino_presentation.jpg)
 
 
-> En [Lördagskurserna slutpresentation som använder Arduino](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
+En [Lördagskurserna slutpresentation som använder Arduino](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
 

@@ -20,9 +20,9 @@ The course uses the (Swedish-only!) course material
 
 === "🇬🇧"
 
-> An Arduino
+An Arduino
 
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](arduino_presentation.jpg)
 
 
-> A [Saturday courses student presentation with Arduino](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
+A [Saturday courses student presentation with Arduino](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)

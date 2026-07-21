@@ -34,18 +34,18 @@
 
 === "🇸🇪"
 
-    > En [exampel film som är helt skapad i Blender](https://en.wikipedia.org/wiki/Plum%C3%ADferos)
+    En [exampel film som är helt skapad i Blender](https://en.wikipedia.org/wiki/Plum%C3%ADferos)
 
 === "🇬🇧"
 
-    > En [exampel film som är helt skapad i Blender](https://en.wikipedia.org/wiki/Plum%C3%ADferos)
+    En [exampel film som är helt skapad i Blender](https://en.wikipedia.org/wiki/Plum%C3%ADferos)
 
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](blender_presentation.jpg)
 
 === "🇸🇪"
 
-    > En [Lördagskurserna slutpresentation som använder Blender](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
+    En [Lördagskurserna slutpresentation som använder Blender](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
 
 === "🇬🇧"
 
-    > A [Saturday courses student presentation with Blender](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
+    A [Saturday courses student presentation with Blender](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)

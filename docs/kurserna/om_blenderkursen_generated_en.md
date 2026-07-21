@@ -20,9 +20,9 @@ The course uses the (Swedish-only!) course material
 ![Source: https://en.wikipedia.org/wiki/File:Birds_of_Paradise_2010_poster.jpg](birds_of_paradise_2010_poster.jpg)
 
 
-> En [exampel film som är helt skapad i Blender](https://en.wikipedia.org/wiki/Plum%C3%ADferos)
+En [exampel film som är helt skapad i Blender](https://en.wikipedia.org/wiki/Plum%C3%ADferos)
 
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](blender_presentation.jpg)
 
 
-> A [Saturday courses student presentation with Blender](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
+A [Saturday courses student presentation with Blender](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
