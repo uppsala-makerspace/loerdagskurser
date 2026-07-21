@@ -2,12 +2,17 @@
 
 === "🇸🇪"
 
+    Arduinokursen är en av den [kurser](README.md) var man lär sig
+    att använda en Arduino.
+
     Arduino är ett kretskort som programmeras för att bygga
     elektroniska maskiner (t.ex. robotar).
+
     Under kursen får du lära dig att programmera samtidigt som
     du utvecklar din förståelse för hur elektronik fungerar.
+    Senare under kursen, tar du också [lödningskursen](om_loedningskursen.md).
 
-    Kursen använder kursmaterialet
+    Arduinokursen använder kursmaterialet
     [Arduino för ungdomar](https://richelbilderbeek.github.io/arduino_foer_ungdomar/).
 
 
@@ -21,26 +26,22 @@
     The course uses the (Swedish-only!) course material
     [Arduino för ungdomar](https://richelbilderbeek.github.io/arduino_foer_ungdomar/).
 
-=== "🇸🇪"
+  ![En Arduino](arduino.jpg)
 
-    ![En Arduino](arduino.jpg)
+=== "🇸🇪"
 
     > En Arduino
 
 === "🇬🇧"
 
-    ![An arduino](arduino.jpg)
-
     > An Arduino
 
-=== "🇸🇪"
+![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](arduino_presentation.jpg)
 
-    ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](arduino_presentation.jpg)
+=== "🇸🇪"
 
     > En [Lördagskurserna slutpresentation som använder Arduino](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
 
 === "🇬🇧"
-
-    ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](arduino_presentation.jpg)
 
     > A [Saturday courses student presentation with Arduino](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
