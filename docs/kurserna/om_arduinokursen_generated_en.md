@@ -3,6 +3,11 @@
 [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_arduinokursen)
 
 
+The Arduino course is one of [the courses](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
+of [the Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/).
+
+In the Arduino course one learns how to use an Arduino.
+
 Arduino is a circuit board that is programmed to build electronic
 machines (e.g. robots).
 During the course you will learn to program while

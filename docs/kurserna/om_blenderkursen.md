@@ -2,13 +2,24 @@
 
 === "🇸🇪"
 
-    Under den här kursen lär vi oss at skapa 3D-modeller i Blender.
-    Vi kan använda modellerna för 3D-utskriftskursen eller för att skapa filmer.
+    Blenderkursen är en av den [kurser](README.md)
+    av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
-    Kursen använder kursmaterialet
+    Under Blenderkursen lär man sig att använda programmet Blender.
+
+    Blender är ett öppet programm för att skapa 3D modeller.
+    3D modellerna används för [3D-utskriftskursen](om_3d_skrivningskurs.md)
+    eller för att skapa filmer.
+
+    Blenderkursen använder kursmaterialet
     [Grundkurs i Blender](https://github.com/richelbilderbeek/grundkurs_i_blender)
 
 === "🇬🇧"
+
+    The Blender course is one of [the courses](README.md)
+    of [the Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/).
+
+    In the Blender course one learns how to use the program Blender.
 
     During this course we will learn how to create 3D models in Blender.
     We can use the models for the 3D printing course

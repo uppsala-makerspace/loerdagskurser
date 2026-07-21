@@ -1,13 +1,21 @@
-# 🇸🇪 Om 3D skrivningskurser 🇬🇧 About the 3D printer course
+# 🇸🇪 Om 3D skrivningskursen 🇬🇧 About the 3D printing course
 
 === "🇸🇪"
 
-    ...
+    3D skrivningskursen är en av den [kurser](README.md)
+    av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+
+    Under 3D skrivningskursen lär man sig att använda en 3D skrivare.
 
     Kursen använder kursmaterialet
     [3D skrivningskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
 
 === "🇬🇧"
+
+    The 3D printing course is one of [the courses](README.md)
+    of [the Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/).
+
+    In the 3D printing course one learns how to use a 3D printer.
 
     ...
 

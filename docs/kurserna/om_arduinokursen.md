@@ -2,8 +2,10 @@
 
 === "🇸🇪"
 
-    Arduinokursen är en av den [kurser](README.md) var man lär sig
-    att använda en Arduino.
+    Arduinokursen är en av den [kurser](README.md)
+    av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+
+    Under Arduinokursen lär man sig att använda en Arduino.
 
     Arduino är ett kretskort som programmeras för att bygga
     elektroniska maskiner (t.ex. robotar).
@@ -17,6 +19,11 @@
 
 
 === "🇬🇧"
+
+    The Arduino course is one of [the courses](README.md)
+    of [the Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/).
+
+    In the Arduino course one learns how to use an Arduino.
 
     Arduino is a circuit board that is programmed to build electronic
     machines (e.g. robots).

@@ -3,8 +3,10 @@
 [![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_arduinokursen)
 
 
-Arduinokursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) var man lär sig
-att använda en Arduino.
+Arduinokursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
+av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+
+Under Arduinokursen lär man sig att använda en Arduino.
 
 Arduino är ett kretskort som programmeras för att bygga
 elektroniska maskiner (t.ex. robotar).
