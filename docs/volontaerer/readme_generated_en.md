@@ -1,8 +1,6 @@
 
 # How volunteering works at the Saturday courses
 
-[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/volontaerer)
-
 ## Why is there a page about volunteers?
 
 

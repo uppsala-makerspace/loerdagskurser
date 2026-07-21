@@ -1,7 +1,5 @@
 # Kurser hos Lördagskurser
 
-[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
-
 
 Dessa är kurserna vi lär ut under Lördagskurserna:
 

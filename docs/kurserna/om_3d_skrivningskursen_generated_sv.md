@@ -1,7 +1,5 @@
 # Om 3D skrivningskursen
 
-[![Lördagskurserna logo](loerdagskurser_logo_5x_wider.png)](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_3d_skrivningskursen)
-
 
 3D skrivningskursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
 av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
