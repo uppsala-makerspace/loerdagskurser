@@ -5,8 +5,15 @@ The vinyl cutter course is one of [the courses](https://uppsala-makerspace.githu
 of [the Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/).
 
 In the vinyl cutter course one learns how to use the vinyl cutter.
+The course is a self-study course
+and requires that you can take care of yourself.
+You can take care of yourself if you are either an adult or have completed
+a few lessons of a regular [course](https://uppsala-makerspace.github.io/loerdagskurser/kurserna).
 
-...
+![Vår vinylskärare](vevor_vinyl_cutter_isometric.jpg)
+
+
+> Our vinyl cutter
 
 The course uses the course material of
 [Vevor vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
@@ -14,4 +21,5 @@ The course uses the course material of
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](vinylskaerare_example.jpg)
 
 
-A [Saturday courses student presentation with T-shirt that has a print on it created by the vinyl cutter](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
+> A [Saturday courses student presentation with T-shirt that has a print on it created by the vinyl cutter](https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/)
+
