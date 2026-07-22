@@ -13,10 +13,6 @@
     Du kan tar hand om dig själv om du är eller vuxen eller har klarat av
     några lektioner av en vanligt [kurs](README.md).
 
-    ...
-
-    Kursen använder (bara Engelska) kursmaterialet
-    [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
 
 === "🇬🇧"
 
@@ -31,16 +27,17 @@
     You can take care of yourself if you are either an adult or have completed
     a few lessons of a regular [course](README.md).
 
-    ...
-
-    The course uses the course material
-    [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
-
 ![git logo](git_logo.png)
 
 === "🇸🇪"
 
     > `git` logon
+
+    Du börjar med att lära dig hur du skapar en webbplats för din kod och hur
+    du arbetar med den. Följande övningar kräver samarbete.
+
+    Kursen använder (bara Engelska) kursmaterialet
+    [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
 
 === "🇬🇧"
 
@@ -48,3 +45,19 @@
 
     You start by learning how to create a website for your code
     and working with it. Later exercises require one to work together.
+
+    The course uses the course material
+    [git for youngsters](https://codeberg.org/richelbilderbeek/git_for_youngsters)
+
+![Nature Zen](nature_zen.png)
+
+=== "🇸🇪"
+
+    > [Nature Zen](https://github.com/richelbilderbeek/djog_unos_2018) är ett
+    > spel skapad av 13 utvecklare.
+
+=== "🇬🇧"
+
+    > [Nature Zen](https://github.com/richelbilderbeek/djog_unos_2018) is a
+    > game created by a team of 13 developers.
+

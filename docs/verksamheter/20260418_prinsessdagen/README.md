@@ -1,6 +1,6 @@
 # 2026-04-18: Prinsessdagen
 
-![Efterfarsdag](IMG_20221119_112002.jpg)
+![Efterfarsdag 2022-11-19](efterfarsdag_20221119.jpg)
 
 - Målet: att undervisa programmering till kvinnor
 - Vem: eleverna från Programmeringskursen och kvinnor
