@@ -4,14 +4,21 @@
 Matlagningskursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
 av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
-Under matlagningskursen lär man sig att laga mat.
+Under kursen lär man sig att laga enklare mat.
 
-![Prinsessdagen 20260418 bakelser](20260418_prinsessdagen_1.jpeg)
+![Pizza bakad under matlagningskurs](matlagningskurs_pizza_1.jpg)
 
 
-Kursen lär ut de första grunderna i matlagning,
-inklusive städning, diskning och dukning.
-Vi lagar enkla måltider (t.ex. nudlar, pannkakor etc.),
-varefter vi äter frukost tillsammans.
+> En pizza lagad under matlagningskursen
+
+Kursen lär ut de första grunderna i matlagning, inklusive städning,
+diskning och dukning.
+Vi lagar enklare måltider (t.ex. nudlar, pannkakor, potatismos, etc.),
+och sedan äter vi tillsammans.
+Kursen fokuserar både på kreativitet och självförtroende i köket!
 
 ![Prinsessdagen 20260418 bakelse](20260418_prinsessdagen_2.jpeg)
+
+
+> En prinsesstårta lagad under matlagningskursen
+

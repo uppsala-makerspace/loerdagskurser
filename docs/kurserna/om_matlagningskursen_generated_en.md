@@ -4,14 +4,20 @@
 The cooking course is one of [the courses](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
 of [the Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/).
 
-In the cooking course one learns how to cook.
+During the course you will learn to cook simple meals.
 
-![Prinsessdagen 20260418 bakelser](20260418_prinsessdagen_1.jpeg)
+![Pizza bakad under matlagningskurs](matlagningskurs_pizza_1.jpg)
 
 
-The course teaches the first basics of cooking, including
-cleaning, doing the dishes and preparing the table.
-We'll prepare simple meals (e.g. noodles, pancakes, etc.),
-after which we have breakfast together.
+> A pizza made at the cooking course
+
+The course teaches the first basics of cooking, including cleaning,
+washing dishes, and setting the table.
+We cook simple meals (e.g. noodles, pancakes, mashed potatoes, etc.),
+and then we eat together.
+The course focuses on both creativity and confidence in the kitchen!
 
 ![Prinsessdagen 20260418 bakelse](20260418_prinsessdagen_2.jpeg)
+
+
+> A princess cale made at the cooking course
