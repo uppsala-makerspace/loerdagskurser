@@ -3,8 +3,12 @@
 
 The OpenSCAD course is one of [the courses](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) of
 [the Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/),
+<<<<<<< HEAD
 which is also taught on other days
 ([veckoschemat av OpenSCAD kursen](https://uppsala-makerspace.github.io/openscad_kurs/veckoschemat/)).
+=======
+which is also taught on Wednesday evenings.
+>>>>>>> ee97e01893901a712f77a02e206dc1ed811b0cfa
 
 In the OpenSCAD course one learns how to use the program called OpenSCAD.
 
