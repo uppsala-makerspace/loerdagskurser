@@ -20,13 +20,6 @@
 
     > Programmeringskod i vårt första programmeringsspråk kallad 'Processing'
 
-=== "🇬🇧"
-
-    > Programming code in our first programming language called 'Processing'
-
-
-=== "🇸🇪"
-
     Att programmera är att berätta till en dator vad den måste göra,
     t.ex. att låta en användare spelar en datorspel.
 
@@ -37,6 +30,8 @@
     [Processing för ungdomar](https://github.com/richelbilderbeek/processing_foer_ungdomar)
 
 === "🇬🇧"
+
+    > Programming code in our first programming language called 'Processing'
 
     Programming is telling a computer what to do,
     for example, letting a user play a computer game.

@@ -11,8 +11,6 @@ Under programmeringskursen kursen lär man sig att programmera.
 
 > Programmeringskod i vårt första programmeringsspråk kallad 'Processing'
 
-=== "🇸🇪"
-
 Att programmera är att berätta till en dator vad den måste göra,
 t.ex. att låta en användare spelar en datorspel.
 

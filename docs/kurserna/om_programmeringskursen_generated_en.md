@@ -11,9 +11,6 @@ In the programming course one learns how to program.
 
 > Programming code in our first programming language called 'Processing'
 
-
-=== "🇬🇧"
-
 Programming is telling a computer what to do,
 for example, letting a user play a computer game.
 
