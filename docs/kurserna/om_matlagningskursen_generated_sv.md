@@ -1,8 +1,8 @@
 # Om matlagningskursen
 
 
-Matlagningskursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
-av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+Matlagningskursen är en av [kurserna](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) som utgör
+Lördagskurserna.
 
 Under kursen lär man sig att laga enklare mat.
 
