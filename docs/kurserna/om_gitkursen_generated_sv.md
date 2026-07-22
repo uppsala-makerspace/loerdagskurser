@@ -1,4 +1,4 @@
-# Om loedningskursen
+# Om gitkursen
 
 
 `git` kursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)

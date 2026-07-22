@@ -1,4 +1,4 @@
-# About the soldering course
+# About the laser cutter course
 
 
 The laser cutting course is one of [the courses](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)

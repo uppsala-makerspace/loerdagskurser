@@ -1,4 +1,4 @@
-# About the soldering course
+# About the git course
 
 
 The `git` course is one of [the courses](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
