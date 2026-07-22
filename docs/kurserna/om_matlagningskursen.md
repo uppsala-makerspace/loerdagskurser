@@ -2,8 +2,8 @@
 
 === "🇸🇪"
 
-    Matlagningskursen är en av den [kurser](README.md)
-    av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+    Matlagningskursen är en av [kurserna](README.md) som utgör
+    Lördagskurserna.
 
     Under kursen lär man sig att laga enklare mat.
 
