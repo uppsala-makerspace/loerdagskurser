@@ -17,7 +17,7 @@ Vi lagar enklare måltider (t.ex. nudlar, pannkakor, potatismos, etc.),
 och sedan äter vi tillsammans.
 Kursen fokuserar både på kreativitet och självförtroende i köket!
 
-![Prinsessdagen 20260418 bakelse](20260418_prinsessdagen_2.jpeg)
+![Prinsessdagen 20260418 bakelse](20260418_prinsessdagen_2.jpg)
 
 
 > En prinsesstårta lagad under matlagningskursen

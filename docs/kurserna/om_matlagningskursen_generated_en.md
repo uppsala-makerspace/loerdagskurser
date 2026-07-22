@@ -17,7 +17,7 @@ We cook simple meals (e.g. noodles, pancakes, mashed potatoes, etc.),
 and then we eat together.
 The course focuses on both creativity and confidence in the kitchen!
 
-![Prinsessdagen 20260418 bakelse](20260418_prinsessdagen_2.jpeg)
+![Prinsessdagen 20260418 bakelse](20260418_prinsessdagen_2.jpg)
 
 
 > A princess cale made at the cooking course
