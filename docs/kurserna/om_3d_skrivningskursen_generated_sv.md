@@ -1,8 +1,8 @@
 # Om 3D skrivningskursen
 
 
-3D skrivningskursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
-av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+3D skrivningskursen är en av [kurserna](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) som utgör
+[Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
 Under 3D skrivningskursen lär man sig att skriva ut i 3D.
 Kursen är en självstudiekurs

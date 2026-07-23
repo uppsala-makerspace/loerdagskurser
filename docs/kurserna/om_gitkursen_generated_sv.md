@@ -1,8 +1,8 @@
 # Om gitkursen
 
 
-`git` kursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
-av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+`git` kursen är en av [kurserna](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) som utgör
+[Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
 Under `git`-kursen lär man sig att använda `git`,
 ett versionshanteringsprogramm

@@ -1,8 +1,8 @@
 # Om Blenderkursen
 
 
-Blenderkursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
-av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+Blenderkursen är en av [kurserna](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) som utgör
+[Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
 Under Blenderkursen lär man sig att använda programmet Blender.
 

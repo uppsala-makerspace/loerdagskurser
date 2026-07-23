@@ -1,8 +1,8 @@
 # Om loedningskursen
 
 
-Lödningskursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
-av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+Lödningskursen är en av [kurserna](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) som utgör
+[Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
 Under Lödningskursen lär man sig att löda.
 Kursen är en del av [Arduinokursen](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_arduinokursen).

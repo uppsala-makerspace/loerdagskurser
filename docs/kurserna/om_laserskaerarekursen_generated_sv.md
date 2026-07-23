@@ -1,8 +1,8 @@
 # Om laserskärarekursen
 
 
-Laserskärarekursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
-av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+Laserskärarekursen är en av [kurserna](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) som utgör
+[Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
 Under laserskärarekursen lär man sig att använda en laserskärare.
 

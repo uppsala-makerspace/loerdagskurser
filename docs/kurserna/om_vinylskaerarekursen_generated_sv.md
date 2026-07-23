@@ -1,8 +1,8 @@
 # Om vinylskärarekursen
 
 
-Vinylskärarekursen är en av den [kurser](https://uppsala-makerspace.github.io/loerdagskurser/kurserna)
-av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+Vinylskärarekursen är en av [kurserna](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) som utgör
+[Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
 Under vinylskärarekursen lär man sig att använda vinylskäraren.
 Kursen är en självstudiekurs
