@@ -2,8 +2,8 @@
 
 === "🇸🇪"
 
-    Vinylskärarekursen är en av den [kurser](README.md)
-    av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+    Vinylskärarekursen är en av [kurserna](README.md) som utgör
+    [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
     Under vinylskärarekursen lär man sig att använda vinylskäraren.
     Kursen är en självstudiekurs

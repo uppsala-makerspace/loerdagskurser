@@ -2,8 +2,8 @@
 
 === "🇸🇪"
 
-    Blenderkursen är en av den [kurser](README.md)
-    av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+    Blenderkursen är en av [kurserna](README.md) som utgör
+    [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
     Under Blenderkursen lär man sig att använda programmet Blender.
 

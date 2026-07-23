@@ -2,8 +2,8 @@
 
 === "🇸🇪"
 
-    Arduinokursen är en av den [kurser](README.md)
-    av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+    Arduinokursen är en av [kurserna](README.md) som utgör
+    [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
     Under Arduinokursen lär man sig att använda en Arduino.
 

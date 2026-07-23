@@ -2,8 +2,8 @@
 
 === "🇸🇪"
 
-    Lödningskursen är en av den [kurser](README.md)
-    av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+    Lödningskursen är en av [kurserna](README.md) som utgör
+    [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
     Under Lödningskursen lär man sig att löda.
     Kursen är en del av [Arduinokursen](om_arduinokursen.md).

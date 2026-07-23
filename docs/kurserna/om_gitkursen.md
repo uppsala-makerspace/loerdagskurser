@@ -2,8 +2,8 @@
 
 === "🇸🇪"
 
-    `git` kursen är en av den [kurser](README.md)
-    av [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
+    `git` kursen är en av [kurserna](README.md) som utgör
+    [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
     Under `git`-kursen lär man sig att använda `git`,
     ett versionshanteringsprogramm
