@@ -1,4 +1,4 @@
-# Om loedningskursen
+# Om lödningskursen
 
 
 Lödningskursen är en av [kurserna](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) som utgör

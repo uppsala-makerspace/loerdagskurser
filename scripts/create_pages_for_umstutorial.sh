@@ -196,7 +196,7 @@ sed -i '/^---$/,/^---$/d' ${generated_sv}
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_en} ${mkdocs_page_url} || exit 42
 Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 sed -i 's/^# .*$/# About the soldering course/g' ${generated_en}
-sed -i 's/^# .*$/# Om loedningskursen/g' ${generated_sv}
+sed -i 's/^# .*$/# Om lödningskursen/g' ${generated_sv}
 
 echo "------------------------------------------------------------------------"
 echo "- Courses, vinly cutter"
