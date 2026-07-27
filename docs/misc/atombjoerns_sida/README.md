@@ -20,7 +20,10 @@ Det är ofta bråttom under Lördagskurserna :-) .
     - [Arduino bok 8](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_8.pdf)
     - [Arduino bok 9](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_9.pdf)
     - [Arduino bok 10](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_10.pdf)
+    - [Arduino bok 11](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_11.pdf)
     - [Arduino bok 12](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_12.pdf)
+    - [Arduino bok 13](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_13.pdf)
+    - [Arduino bok 14](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_14.pdf)
 - Blender:
     - [Blender bok 1](https://github.com/richelbilderbeek/grundkurs_i_blender/blob/master/blenderkurs.pdf)
 - OpenSCAD:
