@@ -2,7 +2,6 @@
 
 === "🇸🇪"
 
-
     Programmeringskursen är en av [kurserna](README.md) som utgör
     [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 

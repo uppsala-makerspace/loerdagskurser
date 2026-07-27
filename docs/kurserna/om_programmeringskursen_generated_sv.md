@@ -1,7 +1,6 @@
 # Om programmeringskursen
 
 
-
 Programmeringskursen är en av [kurserna](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) som utgör
 [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/).
 
