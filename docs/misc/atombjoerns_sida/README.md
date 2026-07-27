@@ -21,11 +21,14 @@ Det är ofta bråttom under Lördagskurserna :-) .
     - [Arduino bok 9](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_9.pdf)
     - [Arduino bok 10](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_10.pdf)
     - [Arduino bok 12](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_12.pdf)
-- [Blender bok](https://github.com/richelbilderbeek/grundkurs_i_blender/blob/master/blenderkurs.pdf)
+- Blender:
+    - [Blender bok 1](https://github.com/richelbilderbeek/grundkurs_i_blender/blob/master/blenderkurs.pdf)
 - OpenSCAD:
-    - [OpenSCAD lektionkort 1](https://raw.githubusercontent.com/uppsala-makerspace/openscad_kurs/refs/heads/main/docs/lesson_card/lektionskort_1.pdf)
+    - [OpenSCAD lektionkort 1](https://uppsala-makerspace.github.io/openscad_kurs/lesson_card/lektionskort_1.pdf)
     - [OpenSCAD bok 1](https://uppsala-makerspace.github.io/openscad_kurs/books/booklet_1.pdf)
-- Processing böcker
+- Processing:
+    - [Processing lektionskort 1](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/kapitel/lektionskort/lektionskort_1.pdf)
+    - [Processing lektionskort 2](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/kapitel/lektionskort/lektionskort_2.pdf)
     - [Processing bok 1](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/boecker/haefte_1.pdf)
     - [Processing bok 2](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/boecker/haefte_2.pdf)
     - [Processing bok 3](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/boecker/haefte_3.pdf)
