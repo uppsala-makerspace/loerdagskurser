@@ -11,6 +11,7 @@ In the OpenSCAD course one learns how to use the program called OpenSCAD.
 ![Minimal Pi Clock armatur](minimal_pi_clock_casing.png)
 
 
+
 During this course we will learn how to create 3D models in OpenSCAD.
 We can use the models for
 [the 3D printing course](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_3d_skrivningskursen).
