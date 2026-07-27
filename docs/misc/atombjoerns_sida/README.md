@@ -24,7 +24,7 @@ Det är ofta bråttom under Lördagskurserna :-) .
 - Blender:
     - [Blender bok 1](https://github.com/richelbilderbeek/grundkurs_i_blender/blob/master/blenderkurs.pdf)
 - OpenSCAD:
-    - [OpenSCAD lektionkort 1](https://uppsala-makerspace.github.io/openscad_kurs/lesson_card/lektionskort_1.pdf)
+    - [OpenSCAD lektionkort 1](https://uppsala-makerspace.github.io/openscad_kurs/lesson_card/lesson_card_1.pdf)
     - [OpenSCAD bok 1](https://uppsala-makerspace.github.io/openscad_kurs/books/booklet_1.pdf)
 - Processing:
     - [Processing lektionskort 1](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/kapitel/lektionskort/lektionskort_1.pdf)
