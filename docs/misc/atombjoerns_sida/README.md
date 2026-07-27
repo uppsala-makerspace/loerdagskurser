@@ -7,7 +7,9 @@ Det är ofta bråttom under Lördagskurserna :-) .
 ![Atombjörn](atombjoern.jpeg)
 
 - [Närvarolista](../../naervarolista/presence_list.pdf)
-- Arduino böcker
+- Arduino
+    - [Arduino lektionskort 1](https://richelbilderbeek.github.io/arduino_foer_ungdomar/lektionskort/lektionskort_1.pdf)
+    - [Arduino lektionskort 2](https://richelbilderbeek.github.io/arduino_foer_ungdomar/lektionskort/lektionskort_2.pdf)
     - [Arduino bok 1](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_1.pdf)
     - [Arduino bok 2](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_2.pdf)
     - [Arduino bok 3](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_3.pdf)
