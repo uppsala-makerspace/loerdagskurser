@@ -20,7 +20,6 @@
 
 ![Minimal Pi Clock armatur](minimal_pi_clock_casing.png)
 
-
 === "🇸🇪"
 
     OpenSCAD är ett öppet programm för att skapa 3D modeller.
