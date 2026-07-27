@@ -7,6 +7,10 @@ Det är ofta bråttom under Lördagskurserna :-) .
 ![Atombjörn](atombjoern.jpeg)
 
 - [Närvarolista](../../naervarolista/presence_list.pdf)
+- 3D skrivningskurs
+    - [3D skrivningskurs lektionskort 1](https://richelbilderbeek.github.io/arduino_foer_ungdomar/lektionskort/lektionskort_1.pdf)
+    - [3D skrivningskurs bok 1 på Svenska](https://uppsala-makerspace.github.io/3d_skrivningskurs/books/booklet_1_sv.pdf)
+    - [3D skrivningskurs bok 1 på Engelska](https://uppsala-makerspace.github.io/3d_skrivningskurs/books/booklet_1_en.pdf)
 - Arduino
     - [Arduino lektionskort 1](https://richelbilderbeek.github.io/arduino_foer_ungdomar/lektionskort/lektionskort_1.pdf)
     - [Arduino lektionskort 2](https://richelbilderbeek.github.io/arduino_foer_ungdomar/lektionskort/lektionskort_2.pdf)
@@ -26,6 +30,17 @@ Det är ofta bråttom under Lördagskurserna :-) .
     - [Arduino bok 14](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_14.pdf)
 - Blender:
     - [Blender bok 1](https://github.com/richelbilderbeek/grundkurs_i_blender/blob/master/blenderkurs.pdf)
+- git:
+    - [git lektionskort 1](https://codeberg.org/richelbilderbeek/git_for_youngsters/src/branch/master/chapters/lesson_card/lesson_card.pdf)
+    - [git bok 1](https://codeberg.org/richelbilderbeek/git_for_youngsters/src/branch/master/books/booklet_1.pdf)
+- Laserskärare
+    - [Laserskärare lektionskort 1](https://uppsala-makerspace.github.io/laser_cutter_guide/lesson_card/lesson_card_1.pdf)
+    - [Laserskärare bok 1](https://uppsala-makerspace.github.io/laser_cutter_guide/pdfs/theory_booklet.pdf)
+- Lödning:
+    - [Lödningskurs lektionskort 1](https://uppsala-makerspace.github.io/loedningskurs/lesson_card/lesson_card_1.pdf)
+    - [Lödningskurs bok 1](https://uppsala-makerspace.github.io/loedningskurs/books/booklet_1.pdf)
+- Matlagningskurs:
+    - Har ingen lektionkort eller bok
 - OpenSCAD:
     - [OpenSCAD lektionkort 1](https://uppsala-makerspace.github.io/openscad_kurs/lesson_card/lesson_card_1.pdf)
     - [OpenSCAD bok 1](https://uppsala-makerspace.github.io/openscad_kurs/books/booklet_1.pdf)
@@ -40,6 +55,9 @@ Det är ofta bråttom under Lördagskurserna :-) .
     - [Processing bok 6](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/boecker/haefte_6.pdf)
     - [Processing bok 7](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/boecker/haefte_7.pdf)
     - [Processing bok 8](https://github.com/richelbilderbeek/processing_foer_ungdomar/blob/main/boecker/haefte_8.pdf)
+- Vinylskärare
+    - [Vinylskärare lektionkort 1](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/lesson_card/lesson_card_1.pdf)
+    - [Vinylskärare bok 1](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/pdfs/theory_booklet.pdf)
 
 ## Hur att digitalisera närvarolista
 
