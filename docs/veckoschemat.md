@@ -26,7 +26,7 @@ Vecka| Dag      |Vad
 34   |2026-08-22| 1. Första lektion
 35   |2026-08-29| 2.
 36   |2026-09-05|.
-37   |2026-09-12|Kulturnatten
+37   |2026-09-12|[Kulturnatten](20260912_kulturnatten/README.md)
 38   |2026-09-19|.
 39   |2026-09-26|.
 40   |2026-10-03|. <!-- Ej Johanna -->
@@ -35,7 +35,7 @@ Vecka| Dag      |Vad
 43   |2026-10-24|Ej kurs, pga Höstlov
 44   |2026-10-31|Ej kurs, pga Alla Helgons dag
 45   |2026-11-07|.
-46   |2026-11-14|Mansdagen, pga [International Men's Day](https://internationalmensday.com/)
+46   |2026-11-14|[Mansdagen](20261114_mansdagen/README.md), pga [International Men's Day](https://internationalmensday.com/)
 47   |2026-11-21|<!-- Ej Johanna -->
 48   |2026-11-28|.
 49   |2026-12-05|?Ovningspresentation
