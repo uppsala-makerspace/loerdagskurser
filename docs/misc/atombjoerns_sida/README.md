@@ -40,7 +40,8 @@ Det är ofta bråttom under Lördagskurserna :-) .
     - [Lödningskurs lektionskort 1](https://uppsala-makerspace.github.io/loedningskurs/lesson_card/lesson_card_1.pdf)
     - [Lödningskurs bok 1](https://uppsala-makerspace.github.io/loedningskurs/books/booklet_1.pdf)
 - Matlagningskurs:
-    - Har ingen lektionkort eller bok
+    - [Matlagningskurs lektionkort 1, 2 och 3](https://github.com/richelbilderbeek/matlagningkurs/blob/main/lektionskort_foer_matlagningskursen.pdf)
+    - Matlagningskurs har ingen bok i nutiden
 - OpenSCAD:
     - [OpenSCAD lektionkort 1](https://uppsala-makerspace.github.io/openscad_kurs/lesson_card/lesson_card_1.pdf)
     - [OpenSCAD bok 1](https://uppsala-makerspace.github.io/openscad_kurs/books/booklet_1.pdf)
