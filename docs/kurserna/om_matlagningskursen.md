@@ -36,12 +36,19 @@
     and then we eat together.
     The course focuses on both creativity and confidence in the kitchen!
 
+
 ![Prinsessdagen 20260418 bakelse](20260418_prinsessdagen_2.jpg)
 
 === "🇸🇪"
 
     > En prinsesstårta lagad under matlagningskursen
 
+    [Lektionskorterna](https://github.com/richelbilderbeek/matlagningkurs/blob/main/lektionskort_foer_matlagningskursen.pdf)
+    ger en bra ide vad är undervisad under kursen.
+
 === "🇬🇧"
 
     > A princess cale made at the cooking course
+
+    The [lesson cards](https://github.com/richelbilderbeek/matlagningkurs/blob/main/lektionskort_foer_matlagningskursen.pdf)
+    give a good idea what is tought in the course.
