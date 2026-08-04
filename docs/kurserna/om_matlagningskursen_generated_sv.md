@@ -22,3 +22,6 @@ Kursen fokuserar både på kreativitet och självförtroende i köket!
 
 > En prinsesstårta lagad under matlagningskursen
 
+[Lektionskorterna](https://github.com/richelbilderbeek/matlagningkurs/blob/main/lektionskort_foer_matlagningskursen.pdf)
+ger en bra ide vad är undervisad under kursen.
+
