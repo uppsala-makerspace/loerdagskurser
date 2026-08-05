@@ -16,5 +16,5 @@ i moment har vi ingen volontär som kan undervisa laserskäraren
 > Vår laserskärare
 
 Kursen använder (bara Engelska) kursmaterialet
-[laser cutter manual](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+[laser cutter manual](https://richelbilderbeek.github.io/laser_cutter_guide/)
 

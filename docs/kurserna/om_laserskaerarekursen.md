@@ -29,11 +29,11 @@
     > Vår laserskärare
 
     Kursen använder (bara Engelska) kursmaterialet
-    [laser cutter manual](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+    [laser cutter manual](https://richelbilderbeek.github.io/laser_cutter_guide/)
 
 === "🇬🇧"
 
     > Our lasercutter
 
     The course uses the course material
-    [laser cutter manual](https://uppsala-makerspace.github.io/laser_cutter_guide/)
+    [laser cutter manual](https://richelbilderbeek.github.io/laser_cutter_guide/)
