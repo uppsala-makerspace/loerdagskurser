@@ -19,7 +19,7 @@ Om du är ännu mer avancerad, kan du också göra:
 
 Kurs                                                                                                         |Bok
 -------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------
-![3D printing course logo](3d_skrivningskurs_logo_32_x_32.png) **[3D skrivning](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_3d_skrivningskursen)** | [3D skrivningskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+![3D printing course logo](3d_skrivningskurs_logo_32_x_32.png) **[3D skrivning](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_3d_skrivningskursen)** | [3D skrivningskurs](https://richelbilderbeek.github.io/3d_skrivningskurs/)
 ![git logo](git_logo_32_x_32.png) **[git](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_gitkursen)**                                                 | [git for youngsters](https://richelbilderbeek.github.io/git_for_youngsters/)
 ![Laser cutter logo](warning_laser_28_x_28.png) **[laserskärare](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_laserskaerarekursen)**                | [laserskärarekurs](https://uppsala-makerspace.github.io/laser_cutter_guide/)
 ![Soldering logo](loedningskurs_logo_32_x_32.png) **[lödning](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_loedningskursen)**                       | [lödningskurs](https://uppsala-makerspace.github.io/loedningskurs/)

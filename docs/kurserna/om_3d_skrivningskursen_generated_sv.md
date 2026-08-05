@@ -18,7 +18,7 @@ några lektioner av en vanligt [kurs](https://uppsala-makerspace.github.io/loerd
 Man börjar med att lära sig att använda 3D skrivaren själv.
 Efter detta blir det mer hur att 3D skriva och 3D modellera smart.
 3D skrivningskursen använder kursmaterialet
-[3D skrivningskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+[3D skrivningskurs](https://richelbilderbeek.github.io/3d_skrivningskurs/)
 
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](3d_print_presentation.jpg)
 

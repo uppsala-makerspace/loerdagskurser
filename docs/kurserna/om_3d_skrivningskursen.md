@@ -31,7 +31,7 @@
     Man börjar med att lära sig att använda 3D skrivaren själv.
     Efter detta blir det mer hur att 3D skriva och 3D modellera smart.
     3D skrivningskursen använder kursmaterialet
-    [3D skrivningskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+    [3D skrivningskurs](https://richelbilderbeek.github.io/3d_skrivningskurs/)
 
 === "🇬🇧"
 
@@ -40,7 +40,7 @@
     You start by learning how to use the 3D printer itself.
     After this, it becomes more about how to 3D print and 3D model smart.
     The 3D printing course uses the course material
-    [3D printing course](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+    [3D printing course](https://richelbilderbeek.github.io/3d_skrivningskurs/)
 
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](3d_print_presentation.jpg)
 
@@ -60,4 +60,4 @@
     [Blender course](om_blenderkursen.md)
     and [OpenSCAD course](om_openscad_kursen.md).
     The course uses the (English and Swedish) course material
-    [3D printing course](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+    [3D printing course](https://richelbilderbeek.github.io/3d_skrivningskurs/)

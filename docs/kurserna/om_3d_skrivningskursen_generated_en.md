@@ -18,7 +18,7 @@ a few lessons of a regular [course](https://uppsala-makerspace.github.io/loerdag
 You start by learning how to use the 3D printer itself.
 After this, it becomes more about how to 3D print and 3D model smart.
 The 3D printing course uses the course material
-[3D printing course](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+[3D printing course](https://richelbilderbeek.github.io/3d_skrivningskurs/)
 
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](3d_print_presentation.jpg)
 
@@ -29,4 +29,4 @@ To learn how to 3D model, there is
 [Blender course](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_blenderkursen)
 and [OpenSCAD course](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_openscad_kursen).
 The course uses the (English and Swedish) course material
-[3D printing course](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+[3D printing course](https://richelbilderbeek.github.io/3d_skrivningskurs/)

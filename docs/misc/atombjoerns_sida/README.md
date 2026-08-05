@@ -9,8 +9,8 @@ Det är ofta bråttom under Lördagskurserna :-) .
 - [Närvarolista](../../naervarolista/presence_list.pdf)
 - 3D skrivningskurs
     - [3D skrivningskurs lektionskort 1](https://richelbilderbeek.github.io/arduino_foer_ungdomar/lektionskort/lektionskort_1.pdf)
-    - [3D skrivningskurs bok 1 på Svenska](https://uppsala-makerspace.github.io/3d_skrivningskurs/books/booklet_1_sv.pdf)
-    - [3D skrivningskurs bok 1 på Engelska](https://uppsala-makerspace.github.io/3d_skrivningskurs/books/booklet_1_en.pdf)
+    - [3D skrivningskurs bok 1 på Svenska](https://richelbilderbeek.github.io/3d_skrivningskurs/books/booklet_1_sv.pdf)
+    - [3D skrivningskurs bok 1 på Engelska](https://richelbilderbeek.github.io/3d_skrivningskurs/books/booklet_1_en.pdf)
 - Arduino
     - [Arduino lektionskort 1](https://richelbilderbeek.github.io/arduino_foer_ungdomar/lektionskort/lektionskort_1.pdf)
     - [Arduino lektionskort 2](https://richelbilderbeek.github.io/arduino_foer_ungdomar/lektionskort/lektionskort_2.pdf)
