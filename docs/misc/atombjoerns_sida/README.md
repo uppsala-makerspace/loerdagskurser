@@ -57,8 +57,8 @@ Det är ofta bråttom under Lördagskurserna :-) .
     - [Processing bok 7](https://richelbilderbeek.github.io/processing_foer_ungdomar/books/haefte_7.pdf)
     - [Processing bok 8](https://richelbilderbeek.github.io/processing_foer_ungdomar/books/haefte_8.pdf)
 - Vinylskärare
-    - [Vinylskärare lektionkort 1](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/lesson_card/lesson_card_1.pdf)
-    - [Vinylskärare bok 1](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/pdfs/theory_booklet.pdf)
+    - [Vinylskärare lektionkort 1](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/lesson_card/lesson_card_1.pdf)
+    - [Vinylskärare bok 1](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/pdfs/theory_booklet.pdf)
 
 ## Hur att digitalisera närvarolista
 

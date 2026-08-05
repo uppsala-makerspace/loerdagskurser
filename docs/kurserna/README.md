@@ -24,7 +24,7 @@
     ![git logo](git_logo_32_x_32.png) **[git](om_gitkursen.md)**                                                 | [git for youngsters](https://richelbilderbeek.github.io/git_for_youngsters/)
     ![Laser cutter logo](warning_laser_28_x_28.png) **[laserskärare](om_laserskaerarekursen.md)**                | [laserskärarekurs](https://richelbilderbeek.github.io/laser_cutter_guide/)
     ![Soldering logo](loedningskurs_logo_32_x_32.png) **[lödning](om_loedningskursen.md)**                       | [lödningskurs](https://richelbilderbeek.github.io/loedningskurs/)
-    ![Vinyl cutter logo](t_shirt_33_x_32.png) **[vinylskärare](om_vinylskaerarekursen.md)**                      | [vinylskärarekurs](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+    ![Vinyl cutter logo](t_shirt_33_x_32.png) **[vinylskärare](om_vinylskaerarekursen.md)**                      | [vinylskärarekurs](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
     Här är ett översikt av när vilken kurs är:
 
@@ -62,7 +62,7 @@
     ![git logo](git_logo_32_x_32.png) **[git](om_gitkursen.md)**                                                | [git for youngsters](https://richelbilderbeek.github.io/git_for_youngsters/)
     ![Laser cutter logo](warning_laser_28_x_28.png) **[laser cutter](om_laserskaerarekursen.md)**               | [laser cutter course](https://richelbilderbeek.github.io/laser_cutter_guide/)
     ![Soldering logo](loedningskurs_logo_32_x_32.png) **[soldering](om_loedningskursen.md)**                    | [soldering course](https://richelbilderbeek.github.io/loedningskurs/)
-    ![Vinyl cutter logo](t_shirt_33_x_32.png) **[vinyl cutter](om_vinylskaerarekursen.md)**                     | [vinyl cutter course](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+    ![Vinyl cutter logo](t_shirt_33_x_32.png) **[vinyl cutter](om_vinylskaerarekursen.md)**                     | [vinyl cutter course](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
     Here is an overview when which course takes place:
 

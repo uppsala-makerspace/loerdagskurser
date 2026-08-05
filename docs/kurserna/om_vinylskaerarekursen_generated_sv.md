@@ -16,7 +16,7 @@ några lektioner av en vanligt [kurs](https://uppsala-makerspace.github.io/loerd
 > Vår vinylskärare
 
 Kursen använder (bara Engelska) kursmaterialet
-[Vevor vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+[Vevor vinyl cutter to T-shirt manual](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
 ![https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20241207_slutpresentation/](vinylskaerare_example.jpg)
 

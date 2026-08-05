@@ -23,7 +23,7 @@ Kurs                                                                            
 ![git logo](git_logo_32_x_32.png) **[git](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_gitkursen)**                                                 | [git for youngsters](https://richelbilderbeek.github.io/git_for_youngsters/)
 ![Laser cutter logo](warning_laser_28_x_28.png) **[laserskärare](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_laserskaerarekursen)**                | [laserskärarekurs](https://richelbilderbeek.github.io/laser_cutter_guide/)
 ![Soldering logo](loedningskurs_logo_32_x_32.png) **[lödning](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_loedningskursen)**                       | [lödningskurs](https://richelbilderbeek.github.io/loedningskurs/)
-![Vinyl cutter logo](t_shirt_33_x_32.png) **[vinylskärare](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_vinylskaerarekursen)**                      | [vinylskärarekurs](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+![Vinyl cutter logo](t_shirt_33_x_32.png) **[vinylskärare](https://uppsala-makerspace.github.io/loerdagskurser/kurserna/om_vinylskaerarekursen)**                      | [vinylskärarekurs](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 
 Här är ett översikt av när vilken kurs är:
 
