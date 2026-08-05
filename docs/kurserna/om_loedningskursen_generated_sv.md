@@ -13,7 +13,7 @@ Kursen är en del av [Arduinokursen](https://uppsala-makerspace.github.io/loerda
 > Vårt lödningsbord
 
 Kursen använder kursmaterialet
-[lödningskurs](https://uppsala-makerspace.github.io/loedningskurs/)
+[lödningskurs](https://richelbilderbeek.github.io/loedningskurs/)
 
 ![https://richelbilderbeek.github.io/minimal_pi_clock/](minimal_pi_clock_20260629_3.jpg)
 

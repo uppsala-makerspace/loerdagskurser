@@ -13,7 +13,7 @@ The course is part of [the Arduino course](https://uppsala-makerspace.github.io/
 > Our soldering table
 
 The course uses the (only Swedish) course material
-[lödningskurs](https://uppsala-makerspace.github.io/loedningskurs/)
+[lödningskurs](https://richelbilderbeek.github.io/loedningskurs/)
 
 ![https://richelbilderbeek.github.io/minimal_pi_clock/](minimal_pi_clock_20260629_3.jpg)
 

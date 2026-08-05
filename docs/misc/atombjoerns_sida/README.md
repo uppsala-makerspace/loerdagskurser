@@ -37,8 +37,8 @@ Det är ofta bråttom under Lördagskurserna :-) .
     - [Laserskärare lektionskort 1](https://richelbilderbeek.github.io/laser_cutter_guide/lesson_card/lesson_card_1.pdf)
     - [Laserskärare bok 1](https://richelbilderbeek.github.io/laser_cutter_guide/pdfs/theory_booklet.pdf)
 - Lödning:
-    - [Lödningskurs lektionskort 1](https://uppsala-makerspace.github.io/loedningskurs/lesson_card/lesson_card_1.pdf)
-    - [Lödningskurs bok 1](https://uppsala-makerspace.github.io/loedningskurs/books/booklet_1.pdf)
+    - [Lödningskurs lektionskort 1](https://richelbilderbeek.github.io/loedningskurs/lesson_card/lesson_card_1.pdf)
+    - [Lödningskurs bok 1](https://richelbilderbeek.github.io/loedningskurs/books/booklet_1.pdf)
 - Matlagningskurs:
     - [Matlagningskurs lektionkort 1, 2 och 3](https://github.com/richelbilderbeek/matlagningkurs/blob/main/lektionskort_foer_matlagningskursen.pdf)
     - Matlagningskurs har ingen bok i nutiden
