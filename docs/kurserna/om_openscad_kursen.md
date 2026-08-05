@@ -5,7 +5,7 @@
     OpenSCAD kursen är en av [kurserna](README.md) som utgör
     [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/),
     som är också undervisat på andra dagar
-    ([veckoschemat av OpenSCAD kursen](https://uppsala-makerspace.github.io/openscad_kurs/veckoschemat/)).
+    ([veckoschemat av OpenSCAD kursen](https://richelbilderbeek.github.io/openscad_kurs/veckoschemat/)).
 
     Under OpenSCAD kursen lär man sig att använda OpenSCAD.
 
@@ -14,7 +14,7 @@
     The OpenSCAD course is one of [the courses](README.md) of
     [the Saturday courses](https://uppsala-makerspace.github.io/loerdagskurser/),
     which is also taught on other days
-    ([veckoschemat av OpenSCAD kursen](https://uppsala-makerspace.github.io/openscad_kurs/veckoschemat/)).
+    ([veckoschemat av OpenSCAD kursen](https://richelbilderbeek.github.io/openscad_kurs/veckoschemat/)).
 
     In the OpenSCAD course one learns how to use the program called OpenSCAD.
 
@@ -40,7 +40,7 @@
     med ytterligare svenskt kursmaterial för de som
     har svårt med engelska och/eller inte har haft 3D-geometri ännu.
     Detta ytterligare svenska kursmaterial finns på
-    [OpenSCAD-kursens webbplats](https://uppsala-makerspace.github.io/openscad_kurs/).
+    [OpenSCAD-kursens webbplats](https://richelbilderbeek.github.io/openscad_kurs/).
 
 === "🇬🇧"
 
@@ -48,4 +48,4 @@
     with some additional Swedish course material for those that
     struggle with English and/or have not had 3D geometry yet.
     This additional Swedish course material can be found at
-    [OpenSCAD kurs hemsidan](https://uppsala-makerspace.github.io/openscad_kurs/).
+    [OpenSCAD kurs hemsidan](https://richelbilderbeek.github.io/openscad_kurs/).

@@ -4,7 +4,7 @@
 OpenSCAD kursen är en av [kurserna](https://uppsala-makerspace.github.io/loerdagskurser/kurserna) som utgör
 [Lördagskurserna](https://uppsala-makerspace.github.io/loerdagskurser/),
 som är också undervisat på andra dagar
-([veckoschemat av OpenSCAD kursen](https://uppsala-makerspace.github.io/openscad_kurs/veckoschemat/)).
+([veckoschemat av OpenSCAD kursen](https://richelbilderbeek.github.io/openscad_kurs/veckoschemat/)).
 
 Under OpenSCAD kursen lär man sig att använda OpenSCAD.
 
@@ -22,5 +22,5 @@ Kursen använder boken 'Programmering med OpenSCAD',
 med ytterligare svenskt kursmaterial för de som
 har svårt med engelska och/eller inte har haft 3D-geometri ännu.
 Detta ytterligare svenska kursmaterial finns på
-[OpenSCAD-kursens webbplats](https://uppsala-makerspace.github.io/openscad_kurs/).
+[OpenSCAD-kursens webbplats](https://richelbilderbeek.github.io/openscad_kurs/).
 
