@@ -48,6 +48,7 @@ Det är ofta bråttom under Lördagskurserna :-) .
 - Processing:
     - [Processing lektionskort 1](https://richelbilderbeek.github.io/processing_foer_ungdomar/lesson_cards/lektionskort_1.pdf)
     - [Processing lektionskort 2](https://richelbilderbeek.github.io/processing_foer_ungdomar/lesson_cards/lektionskort_2.pdf)
+    - [Processing lektionskort 3](https://richelbilderbeek.github.io/processing_foer_ungdomar/lesson_cards/lektionskort_3.pdf)
     - [Processing bok 1](https://richelbilderbeek.github.io/processing_foer_ungdomar/books/haefte_1.pdf)
     - [Processing bok 2](https://richelbilderbeek.github.io/processing_foer_ungdomar/books/haefte_2.pdf)
     - [Processing bok 3](https://richelbilderbeek.github.io/processing_foer_ungdomar/books/haefte_3.pdf)
