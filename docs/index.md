@@ -40,7 +40,7 @@ tags:
 
     - [Courses](kurserna/README.md)
     - [Your first visit](ditt_foersta_besoek/README.md)
-    - [Place](place/README.md)
+    - [Place](plats/README.md)
     - [Weekly schedule](veckoschemat.md)
     - [Payment](betalning.md)
     - [Follow us](foelj_oss/README.md)
