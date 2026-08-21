@@ -7,6 +7,8 @@ Det är ofta bråttom under Lördagskurserna :-) .
 ![Atombjörn](atombjoern.jpeg)
 
 - [Närvarolista](../../naervarolista/presence_list.pdf)
+- [Närvarolista legenda](../../naervarolista/presence_list_legenda.pdf)
+- [Kurserna tidsoversiktet](../../kurserna/overview.pdf)
 - 3D skrivningskurs
     - [3D skrivningskurs lektionskort 1](https://richelbilderbeek.github.io/3d_skrivningskurs/lesson_card/lesson_card_1.pdf)
     - [3D skrivningskurs bok 1 på Svenska](https://richelbilderbeek.github.io/3d_skrivningskurs/books/booklet_1_sv.pdf)
