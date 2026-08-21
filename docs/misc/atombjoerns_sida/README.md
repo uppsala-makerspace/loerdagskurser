@@ -29,7 +29,8 @@ Det är ofta bråttom under Lördagskurserna :-) .
     - [Arduino bok 13](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_13.pdf)
     - [Arduino bok 14](https://richelbilderbeek.github.io/arduino_foer_ungdomar/boecker/haefte_14.pdf)
 - Blender:
-    - [Blender bok 1](https://github.com/richelbilderbeek/grundkurs_i_blender/blob/master/blenderkurs.pdf)
+    - [Blender bok 1](https://github.com/richelbilderbeek/grundkurs_i_blender/blob/master/blenderkurs_bok_1.pdf)
+    - [Blender bok 2](https://github.com/richelbilderbeek/grundkurs_i_blender/blob/master/blenderkurs_bok_2.pdf)
 - git:
     - [git lektionskort 1](https://richelbilderbeek.github.io/git_for_youngsters/lesson_cards/lesson_card.pdf)
     - [git bok 1](https://richelbilderbeek.github.io/git_for_youngsters/books/booklet_1.pdf)

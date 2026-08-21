@@ -10,7 +10,7 @@
 - Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket),
    (Svartbäcksgatan 17, 753 75 Uppsala) i rum Studion (ser bild nedåt)
 - Tiderna: 11.00-19.00 (men eleverna undervisa bara flera timmar :-) )
-- USB contact: ...?
+- USB contact: Elisabet Edin
 
 ![Uppsala Stadsbibliotek i rum Studion](usb_annotated.png)
 
