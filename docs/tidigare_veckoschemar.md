@@ -29,7 +29,7 @@ Vecka| Dag      |Vad
 18   |2026-05-02| Ej kurs, [Valborg](https://xn--rda-dagar-07a.se/2026/svenska-helgdagar-2026/valborgsmassoafton-2026/)
 19   |2026-05-09| 13.
 20   |2026-05-16| Ej kurs, pga Kristihimmel
-21   |2026-05-23| 14. Övning presentation, ?biomaking?
+21   |2026-05-23| 14. Övning presentation
 .    |2026-05-24| [Hackathon](verksamheter/20260524_hackathon/README.md)
 22   |2026-05-30| 15. [Slutpresentation](verksamheter/20260530_slutpresentation/README.md), no biomaking
 23   |2026-06-06| Ej kurs, pga en röda dag
