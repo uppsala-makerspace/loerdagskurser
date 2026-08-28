@@ -47,5 +47,8 @@ tags:
 - [2026-02-27: general flyer](20260227_general_flyer/README.md)
 - [2026-02-28: introduction to biomaking](20260228_intro_to_biomaking/README.md)
 - [2026-02-28: pdhs](20260228_pdhs/README.md)
-- ...
+- [2026-02-28: spring semester](20260228_spring_semester/README.md)
+- [2026-04-25: end of season](20260425_end_of_season/README.md)
+- [2026-07-03: general flyer](20260703_general_flyer/README.md)
 - [2026-08-03: start of season](20260803_start_of_season/README.md)
+- [2026-08-28: Kulturnatten](20260828_kulturnatten/README.md)
