@@ -3,8 +3,8 @@
 This week:
 
 - Advertise Kulturnatten
-  - Create flyer
-  - Draw table on UMS whiteboard
+    - Create flyer
+    - Draw table on UMS whiteboard
 - Buy food for cookin course
 
 Week after:
@@ -14,6 +14,6 @@ Week after:
 Week after:
 
 - New payment procedure
-  - Document on website
-  - Create flyer
+    - Document on website
+    - Create flyer
 
