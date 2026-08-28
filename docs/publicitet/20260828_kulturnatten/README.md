@@ -1,18 +1,17 @@
 ---
 tags:
-  - 2025-08-28
   - Kulturnatten
   - september
-  - 2025
+  - 2026
   - flyer
 ---
 
-# 2025-08-28 Kulturnatten
+# 2026-08-28 Kulturnatten
 
 Publicity material:
 
-- [20250828_kulturnatten.odg](20250828_kulturnatten.odg)
-- [20250828_kulturnatten.pdf](20250828_kulturnatten.pdf)
+- [20260828_kulturnatten.odg](20260828_kulturnatten.odg)
+- [20260828_kulturnatten.pdf](20260828_kulturnatten.pdf)
 
-[Information page about this event](../../verksamheter/20250913_kulturnatten/README.md).
+[Information page about this event](../../verksamheter/20260912_kulturnatten/README.md).
 
