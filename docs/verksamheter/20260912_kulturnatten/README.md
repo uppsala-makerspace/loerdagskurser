@@ -9,7 +9,7 @@
 - Vem: eleverna från Lördagskurna
 - Var: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket),
    (Svartbäcksgatan 17, 753 75 Uppsala) i rum Studion (ser bild nedåt)
-- Tiderna: 11.00-19.00 (men eleverna undervisa bara flera timmar :-) )
+- Tiderna: 11.00-**18.00** (men eleverna undervisa bara flera timmar :-) )
 - USB contact: Elisabet Edin
 
 ![Uppsala Stadsbibliotek i rum Studion](usb_annotated.png)
@@ -34,7 +34,6 @@ När        |Vem
 15:00-16:00|Richel, ...
 16:00-17:00|Richel, ...
 17:00-18:00|Richel, ...
-18:00-19:00|Richel, ...
 
 ### Hur länge skulle jag hjälpa med?
 
