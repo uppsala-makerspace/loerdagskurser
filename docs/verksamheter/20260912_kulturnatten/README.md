@@ -18,9 +18,26 @@
 
 ## Vanliga frågor
 
-### När är jag välkommen?
+### När är jag välkommen? Jag börjar klockan 10.00
 
-Någonsin mellan klockan ? och ?
+Om du börjar klockan 10.00, kan du blir slängt in i Stadsbiblioteket
+med den ingång på Klostergatan, nära korsningen med Svartbäcksgatan.
+Ring Richel eller numret han har gett dig.
+
+![Uppsala Stadsbibliotek Klostergatan ingång](skolgatan_entrance_realistic_annotated.png)
+
+![Uppsala Stadsbibliotek Klostergatan ingång](skolgatan_entrance_schematic_annotated.png)
+
+### När är jag välkommen? Jag börjar klockan 11.00 eller senare
+
+Om du börjar klockan 11.00 eller senare, kan du kommer i Stadsbiblioteket
+med den huvudingång på Svartbäcksgatan:
+
+![Uppsala Stadsbibliotek Klostergatan ingång](main_entrance_realistic_annotated.png)
+
+![Uppsala Stadsbibliotek Klostergatan ingång](main_entrance_schematic_annotated.png)
+
+### Vad är schemat?
 
 Schemat är här:
 
