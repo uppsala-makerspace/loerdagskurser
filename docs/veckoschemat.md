@@ -26,7 +26,7 @@ Vecka| Dag      |Vad
 34   |2026-08-22|1. Första lektion
 35   |2026-08-29|2.
 36   |2026-09-05|3.
-37   |2026-09-12|[Kulturnatten](verksamheter/20260912_kulturnatten/README.md): 11.00-19-00 @ Stadsbiblioteket
+37   |2026-09-12|[Kulturnatten](verksamheter/20260912_kulturnatten/README.md): 11.00-18:00 @ Stadsbiblioteket
 38   |2026-09-19|4.
 39   |2026-09-26|5.
 40   |2026-10-03|6. <!-- Ej Johanna -->
