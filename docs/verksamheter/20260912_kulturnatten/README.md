@@ -92,3 +92,15 @@ Kort svar: ingenting :-). Du får tar med dig dina egna grejer på egen risk.
 - Estimated number of minor volunteers: ...
 - Number of adult volunteers: ...
 
+T-shirt usage:
+
+Size|Before|After
+----|------|-----
+XS  |8     |.
+S   |12    |.
+M   |0     |.
+L   |1     |.
+XL  |2     |.
+XXL |1     |.
+XXXL|2     |.
+
