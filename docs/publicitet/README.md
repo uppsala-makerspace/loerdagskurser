@@ -52,3 +52,4 @@ tags:
 - [2026-07-03: general flyer](20260703_general_flyer/README.md)
 - [2026-08-03: start of season](20260803_start_of_season/README.md)
 - [2026-08-28: Kulturnatten](20260828_kulturnatten/README.md)
+- [2026-09-12: general flyer without cooking course](20260912_general_flyer_no_cooking_course/README.md)
