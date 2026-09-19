@@ -298,11 +298,11 @@ En undantag är att skapa T-shirts med vinylskäraren.
 
 ### Vad kostar kursen?
 
-Se [Betalning](betalning.md).
+Se [Betalning](betalning/README.md).
 
 ### Hur betalar jag kursen?
 
-Se [Betalning](betalning.md).
+Se [Betalning](betalning/README.md).
 
 ### Jag har inte råd med kursavgiften. Hur ska jag göra?
 
