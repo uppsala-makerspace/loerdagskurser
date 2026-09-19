@@ -3,7 +3,7 @@
 The cooking course requested not to be advertised.
 
 - [General flyer (pdf)](20260919_new_payment_system.pdf)
-- [General flyer (odg)](20260919_new_payment_system.odg)
+- [General flyer (odg)](20260919_new_payment_system.odt)
 
 ## English
 
