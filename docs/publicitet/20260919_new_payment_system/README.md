@@ -16,10 +16,7 @@ If you have already paid for this season (i.e. September 2026-December)
 you can stop reading. Thanks!
 
 
-
 The Lördagskurser have changed their payment system.
-
-
 
 
 In a webbrowser, go to [`https://app.uppsalamakerspace.se/`](https://app.uppsalamakerspace.se/)
