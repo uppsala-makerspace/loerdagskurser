@@ -85,12 +85,12 @@ Name                         |Role
 -----------------------------|---------------------------------------------
 Björn 'AtomBjörn' Pihlgren   |Host
 Björn 'Store Björn' Engström |Course leader of cooking and Blender courses
-Christoffer Ramqvist         |Teacher Processing course
-Janne Holmberg               |Teacher Processing course
+Christoffer Ramqvist         |Teacher Processing
 Johanna Söderström           |Teacher cooking course
 Mathias Palmer               |Reserve
 Pontus 'AtomKid' Pihlgren    |Reserve
 Richèl Bilderbeek            |Coordinator
+Rojita Jadhari               |?Teacher Arduino and Processing
 
 ## Who has been a volunteer in the past?
 
@@ -101,6 +101,7 @@ Bogdan Nicolae       |Teacher Processing course
 Christian            |All round teacher
 Dennis Leenheer      |Teacher Processing course
 Fredrik Eldh         |Teacher Processing course
+Janne Holmberg       |Teacher Processing course
 Leslie Solorzano     |Teacher Blender course
 Lily Lindstrand Hogan|Teacher Processing course
 Ludvig Ahnlund Groiss|Teacher Arduino course

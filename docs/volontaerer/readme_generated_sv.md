@@ -91,6 +91,7 @@ Johanna Söderström           |Lärare Matlagningskurs
 Mathias Palmer               |Infall
 Pontus 'AtomKid' Pihlgren    |Infall
 Richèl Bilderbeek            |Samordnare
+Rojita Jadhari               |?Lärare Arduino och Processing
 
 ## Vem har varit volontär tidigare?
 
@@ -101,6 +102,7 @@ Bogdan Nicolae       |Lärare Processing kurs
 Christian            |Allt-i-allo lärare
 Dennis Leenheer      |Lärare Processing kurs
 Fredrik Eldh         |Lärare Processing kurs
+Janne Holmberg       |Lärare Processing kurs
 Leslie Solorzano     |Lärare Blender kurs
 Lily Lindstrand Hogan|Lärare Processing kurs
 Ludvig Ahnlund Groiss|Lärare Arduino kurs
