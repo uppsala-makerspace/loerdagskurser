@@ -149,9 +149,10 @@
 
 === "🇸🇪"
 
-    Att göra :-)
+    Ser [den här dokument](cooking_course.pdf)
 
 === "🇬🇧"
 
-    To do :-)
+    This has not been translated to English,
+    [here is the document in Swedish](cooking_course.pdf)
 
