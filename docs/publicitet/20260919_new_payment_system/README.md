@@ -78,4 +78,4 @@ Vid frågor är du alltid välkommen att kontakta Richèl på `rjcbilderbeek@gma
 за адресою
 [`https://uppsala-makerspace.github.io/loerdagskurser/betalning`](https://uppsala-makerspace.github.io/loerdagskurser/betalning).
 
-Якщо у вас виникнуть запитання, сміливо звертайтеся до Рішеля за електронною адресою rjcbilderbeek@gmail.com
+Якщо у вас виникнуть запитання, сміливо звертайтеся до Рішеля за електронною адресою <rjcbilderbeek@gmail.com>
