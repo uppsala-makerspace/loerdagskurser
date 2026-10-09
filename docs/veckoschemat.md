@@ -35,7 +35,7 @@ Vecka| Dag      |Vad
 43   |2026-10-24|Ej kurs, pga Höstlov
 44   |2026-10-31|Ej kurs, pga Alla Helgons dag
 45   |2026-11-07|9.
-46   |2026-11-14|[Mansdagen](verksamheter/20261114_mansdagen/README.md), pga [International Men's Day](https://internationalmensday.com/)
+46   |2026-11-14|[Mansdagen](verksamheter/20261114_mansdagen/README.md), pga [International Men's Day](https://internationalmensday.com/). 14.15 [Föreläsning om raytracing](verksamheter/20261114_foerelaesning_raytracing/README.md)
 47   |2026-11-21|10.<!-- Ej Johanna -->
 48   |2026-11-28|11.
 49   |2026-12-05|Ovningspresentation
