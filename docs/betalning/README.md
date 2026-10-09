@@ -27,7 +27,7 @@ tags:
     som kan användas och/eller laddas ner på
     [`https://app.uppsalamakerspace.se/`](https://app.uppsalamakerspace.se/).
 
-    ???- question "Hur ser det ut?" 
+    ???- question "Hur ser det ut?"
 
         Så här ser Uppsala Makerspaces app ut
         när den används i en webbläsare:
@@ -46,19 +46,19 @@ tags:
     välj 'Terminsafgift - Lördagskurser'
     och besvara de enkla frågorna där.
 
-    ???- question "Hur ser det ut?" 
+    ???- question "Hur ser det ut?"
 
         Klicka på 'Webshop' i
         [Uppsala Makerspaces app](https://app.uppsalamakerspace.se/)
 
         ![Klicka på 'Webshop'](click_webshop_sv.png)
 
-        Klicka på 'Terminsafgift - Lördagskurser' i webbutiken. 
+        Klicka på 'Terminsafgift - Lördagskurser' i webbutiken.
 
         ![Klicka på 'Terminsafgift - Lördagskurser'](click_semester_fee_sv.png)
 
         Fyll i uppgifterna för betalning av terminsavgiften och klicka
-        på 'Betala'. 
+        på 'Betala'.
 
         ![Fyll i uppgifterna och klicka på 'Betala'](pay_semester_fee_filled_in_sv.png)
 
@@ -92,8 +92,8 @@ tags:
     [Uppsala Makerspace app](https://app.uppsalamakerspace.se/),
     after which you can buy a family membership.
     The app guides you through this simple process,
-    but if you need more instructions you can find these
-    [here](https://tutorial.uppsalamakerspace.se/en/app/newMembers/).
+    but if you need more instructions you can find
+    [more instructions here](https://tutorial.uppsalamakerspace.se/en/app/newMembers/).
 
     To pay the course fee,
     in the [Uppsala Makerspace app](https://app.uppsalamakerspace.se/),
