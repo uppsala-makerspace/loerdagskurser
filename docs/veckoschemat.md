@@ -42,7 +42,7 @@ Vecka| Dag      |Vad
 .    |2026-12-06|[Hackathon](verksamheter/20261206_hackathon/README.md)
 50   |2026-12-12|[Slutpresentation](verksamheter/20261212_slutpresentation/README.md)
 .    |2026-12-13|Ej kurs, volontärfest
-51   |2026-12-19|.
+51   |2026-12-19|Ej kurs, pga jul
 52   |2026-12-26|Ej kurs, pga jul
 
 === "🇸🇪"
