@@ -12,7 +12,7 @@ You are always welcome to fix my clumsiness in Swedish :-)
 
 This is the title and description:
 
-Matlagningkurs: att laga enkel mat. Fler info: https://uppsala-makerspace.github.io/loerdagskurser/kurserna/
+Matlagningkurs: att laga enkel mat. Fler info: <https://uppsala-makerspace.github.io/loerdagskurser/kurserna/>
 
 These are the dates and times:
 
@@ -26,7 +26,7 @@ Lördag 2026-12-05 9.00-10.00
 
 This is the title and description:
 
-Arduinokurs: att använder Arduino för att byga elektriska maskiner. Fler info: https://uppsala-makerspace.github.io/loerdagskurser/kurserna/
+Arduinokurs: att använder Arduino för att byga elektriska maskiner. Fler info: <https://uppsala-makerspace.github.io/loerdagskurser/kurserna/>
 
 These are the dates and times:
 
@@ -40,7 +40,7 @@ Lördag 2026-12-05 10.00-12.00
 
 This is the title and description:
 
-Blenderkurs: att använda Blender för att rita 3D modeller. Fler info: https://uppsala-makerspace.github.io/loerdagskurser/kurserna/
+Blenderkurs: att använda Blender för att rita 3D modeller. Fler info: <https://uppsala-makerspace.github.io/loerdagskurser/kurserna/>
 
 These are the dates and times:
 
@@ -54,7 +54,7 @@ Lördag 2026-12-05 10.00-12.00
 
 This is the title and description:
 
-Programmeringskurs: att programmera för att skapa, t.ex. datorspel. Fler info: https://uppsala-makerspace.github.io/loerdagskurser/kurserna/
+Programmeringskurs: att programmera för att skapa, t.ex. datorspel. Fler info: <https://uppsala-makerspace.github.io/loerdagskurser/kurserna/>
 
 These are the dates and times:
 
@@ -68,7 +68,7 @@ Lördag 2026-12-05 12.00-14.00
 
 This is the title and description:
 
-OpenSCAD: att använda OpenSCAD för att programmera 3D modeller. Fler info: https://uppsala-makerspace.github.io/loerdagskurser/kurserna/
+OpenSCAD: att använda OpenSCAD för att programmera 3D modeller. Fler info: <https://uppsala-makerspace.github.io/loerdagskurser/kurserna/>
 
 These are the dates and times:
 
@@ -82,7 +82,7 @@ Lördag 2026-12-05 13.00-15.00
 
 This is the title and description:
 
-Lördagskurserna vuxentimme: en timme under Lördagskurserna speciell för vuxna. Fler info: https://uppsala-makerspace.github.io/loerdagskurser/kurserna/
+Lördagskurserna vuxentimme: en timme under Lördagskurserna speciell för vuxna. Fler info: <https://uppsala-makerspace.github.io/loerdagskurser/kurserna/>
 
 These are the dates and times:
 
@@ -98,19 +98,19 @@ Special event 1:
 
 - Date and time: Söndag 2026-12-06 12.00-18.00
 - Title: Hackathon
-- Description: En dag för att göra våra slutpresentationer än bättre. Fler info: https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20261206_hackathon/
+- Description: En dag för att göra våra slutpresentationer än bättre. Fler info: <https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20261206_hackathon/>
 
 Special event 2:
 
 - Date and time: Lördag 2026-12-12 11.00-13.00
 - Title: Slutpresentation @ Stadsbiblioteket
-- Description: En dag för att visa sin kunskap hos Stadsbibliotek. Fler info: https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20261212_slutpresentation/
+- Description: En dag för att visa sin kunskap hos Stadsbibliotek. Fler info: <https://uppsala-makerspace.github.io/loerdagskurser/verksamheter/20261212_slutpresentation/>
 
 ## Holidays
 
 This is the title and description:
 
-Ej Lördagskurserna. Veckoschemat: https://uppsala-makerspace.github.io/loerdagskurser/veckoschemat/
+Ej Lördagskurserna. Veckoschemat: <https://uppsala-makerspace.github.io/loerdagskurser/veckoschemat/>
 
 Lördag 2026-10-24 9:00-15:00 Ej Lördagskurser, pga Höstlov
 Lördag 2026-10-31 9:00-15:00 Ej Lördagskurser, pga Alla Helgons dag
