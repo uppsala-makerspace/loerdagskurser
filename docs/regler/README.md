@@ -72,6 +72,47 @@
       and share experiences.
     - I respect that others sometimes need to concentrate and think before interrupting someone.
 
+## 🇸🇪 3D skriverna 🇬🇧 3D printers
+
+
+=== "🇸🇪"
+
+    Angående 3D-skrivarna:
+
+    - Du får använda 3D-skrivarna efter att ha genomfört den
+      (korta) 3D-utskriftskursen. Du kan gå kursen efter
+      att ha slutfört en lektion i en kurs i 3D-design.
+    - Vid din första utskrift måste du övervaka processen från början till slut.
+    - Vid din andra och efterföljande utskrifter måste du befinna dig
+      inom hörhåll. 
+      Du kan pausa utskriften. 
+      Om du lämnar platsen utan att pausa kan utskriften avbrytas
+      utan förvarning.
+    - Du får endast skriva ut föremål du själv har designat,
+      eller föremål som behövs för ett avancerat projekt, med undantag
+      för skarpa och/eller realistiska vapen. 
+      Du är välkommen att skriva ut saker utanför tiderna för
+      Lördagskurserna.
+
+=== "🇬🇧"
+
+    Regarding the 3D printers:
+
+    - You are allowed to use the 3D printers after having finished the
+      (short) 3D printing course. You can follow that course after
+      having completed one lesson of one 3D design course
+    - During your first print, you have to watch it from start to finish.
+    - During your second and later print, you have to be within
+      hearing distance.
+      You can pause the print.
+      If you are away without pausing, your print can be cancelled
+      without warning
+    - You are only allowed to print things you have designed yourself,
+      or things you need for an advanced project, with the exception
+      of sharp and/or realistic weapons.
+      You are welcome to print anything outside of the Lördagskurser
+      hours
+
 ## 🇸🇪 Elverkstad 🇬🇧 Electronics workshop
 
 - [rules_electronics.odt](rules_electronics.odt)
