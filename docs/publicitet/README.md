@@ -55,3 +55,5 @@ tags:
 - [2026-09-12: general flyer without cooking course](20260912_general_flyer_no_cooking_course/README.md)
 - [2026-09-19: new payment system](20260919_new_payment_system/README.md)
 - [2026-10-10: rest of the season](20261010_rest_of_season/README.md)
+- [2026-10-17: Mansdagen, hackathon, slutpresentation](20261017_mhs/README.md)
+
