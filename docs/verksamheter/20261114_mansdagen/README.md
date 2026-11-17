@@ -54,10 +54,9 @@ Om du undervisar alla: ja!
 
 ## Noterna
 
-Year|Number of learners|Number of men    |Number of donuts needed|Number of beers needed
-----|------------------|-----------------|-----------------------|----------------------
-2023|25                |11               |25                     |?
-2024|37                |12               |40                     |10
-2025|.                 |.                |.                      |.
-2026|.                 |.                |.                      |.
-
+- Eclaire hotdags var fina!
+- 20 rotöl var nog för båda kurser, men den kunde inte delas ut fritt
+- Påminn matlagningskurserna att det finns två grupper som vill har
+  deras hotdags
+- Klistermarkspapper för vinylskärare är inte lämpligt för att skapa
+  namnskyltar
