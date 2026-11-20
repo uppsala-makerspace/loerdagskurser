@@ -40,8 +40,8 @@ Vecka| Dag      |Vad
 48   |2026-11-28|11.
 49   |2026-12-05|Ovningspresentation
 .    |2026-12-06|[Hackathon](verksamheter/20261206_hackathon/README.md)
-50   |2026-12-12|[Slutpresentation](verksamheter/20261212_slutpresentation/README.md)
-.    |2026-12-13|Ej kurs, volontärfest
+50   |2026-12-12|[Slutpresentation](verksamheter/20261212_slutpresentation/README.md) och [Tack åt volontärerna](20261212_tack_aat_volontaererna/README.md)
+.    |2026-12-13|Ej kurs, pga Lucia
 51   |2026-12-19|Ej kurs, pga jul
 52   |2026-12-26|Ej kurs, pga jul
 
