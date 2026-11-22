@@ -175,7 +175,11 @@ tags:
     Mathias Palmer               |Infall
     Pontus 'AtomKid' Pihlgren    |Infall
     Richèl Bilderbeek            |Samordnare
-    Rojita Jadhari               |?Lärare Arduino och Processing
+    Rojita Jadhari               |Lärare Arduino
+    Leonid Rutkowski             |Lärare Processing
+    Herman Adsten                |Lärare Processing
+    Adam Watfa                   |Lärare Arduino
+    Gordii Shmadiuk              |Lärare Arduino och Lödnings
 
 === "🇬🇧"
 
@@ -188,7 +192,11 @@ tags:
     Mathias Palmer               |Reserve
     Pontus 'AtomKid' Pihlgren    |Reserve
     Richèl Bilderbeek            |Coordinator
-    Rojita Jadhari               |?Teacher Arduino and Processing
+    Rojita Jadhari               |Teacher Arduino
+    Leonid Rutkowski             |Teacher Processing
+    Herman Adsten                |Teacher Processing
+    Adam Watfa                   |Teacher Arduino
+    Gordii Shmadiuk              |Teacher Arduino and Soldering
 
 ## 🇸🇪 Vem har varit volontär tidigare? 🇬🇧 Who has been a volunteer in the past?
 
