@@ -91,7 +91,11 @@ Johanna Söderström           |Lärare Matlagningskurs
 Mathias Palmer               |Infall
 Pontus 'AtomKid' Pihlgren    |Infall
 Richèl Bilderbeek            |Samordnare
-Rojita Jadhari               |?Lärare Arduino och Processing
+Rojita Jadhari               |Lärare Arduino
+Leonid Rutkowski             |Lärare Processing
+Herman Adsten                |Lärare Processing
+Adam Watfa                   |Lärare Arduino
+Gordii Shmadiuk              |Lärare Arduino och Lödnings
 
 ## Vem har varit volontär tidigare?
 

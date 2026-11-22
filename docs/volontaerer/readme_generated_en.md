@@ -90,7 +90,11 @@ Johanna Söderström           |Teacher cooking course
 Mathias Palmer               |Reserve
 Pontus 'AtomKid' Pihlgren    |Reserve
 Richèl Bilderbeek            |Coordinator
-Rojita Jadhari               |?Teacher Arduino and Processing
+Rojita Jadhari               |Teacher Arduino
+Leonid Rutkowski             |Teacher Processing
+Herman Adsten                |Teacher Processing
+Adam Watfa                   |Teacher Arduino
+Gordii Shmadiuk              |Teacher Arduino and Soldering
 
 ## Who has been a volunteer in the past?
 
