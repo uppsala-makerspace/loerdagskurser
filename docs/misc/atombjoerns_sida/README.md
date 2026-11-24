@@ -42,6 +42,8 @@ Det är ofta bråttom under Lördagskurserna :-) .
 - Lödning:
     - [Lödningskurs lektionskort 1](https://richelbilderbeek.github.io/loedningskurs/lesson_card/lesson_card_1.pdf)
     - [Lödningskurs bok 1](https://richelbilderbeek.github.io/loedningskurs/books/booklet_1.pdf)
+    - [Lödningskurs bok 2](https://richelbilderbeek.github.io/loedningskurs/books/booklet_2.pdf)
+    - [Lödningskurs bok 3](https://richelbilderbeek.github.io/loedningskurs/books/booklet_3.pdf)
 - Matlagningskurs:
     - [Matlagningskurs lektionkort 1, 2 och 3](https://github.com/richelbilderbeek/matlagningkurs/blob/main/lektionskort_foer_matlagningskursen.pdf)
     - Matlagningskurs har ingen bok i nutiden
